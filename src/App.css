@@ -1,38 +1,124 @@
-.App {
+.centerBox{
+  background-color: #fff;
+}
+
+.selectCenter{
+  width: 400px;
+  min-height: 400px;
+  margin: 0 auto;
+  background-color: #7856a0;
+  padding: 20px;
+  clear: both;
+}
+
+.selectedCity{
+  padding: 10px 2px;
   text-align: center;
+  background-color: #64389a;
+  color: #fff;
+  clear: both;
+  margin-top: 10px;
+  font-size: 16px;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.clouldIcon{
+  clear: both;
+  width: 70px;
+  margin: 0 auto;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.imageAdj{
+  width: 70px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.padd{
+  padding: 10px 20px;
+}
+
+.temperature{
+  padding: 10px 2px;
+  text-align: center;
+  color: #fff;
+  clear: both;
+  font-size: 16px;
+  font-weight: 900;
+}
+
+.side{
+  float :left;
+}
+
+.nextthreeDay{
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.side {
+  flex: 33.33%;
+}
+
+.day{
+  text-align: center;
+  background-color: #64389a;
+  color: #fff;
+  padding: 10px;
+}
+
+.tempValue{
+  text-align: center;
+  color: #fff;
+  font-size: 14px;
+  padding: 10px;
+}
+
+.icon{
+  width: 50Px;
+  margin: 0 auto;
+}
+
+.centerImage{
+  width: 50Px;
+}
+
+.maintitle{
+  color: #fff;
+  font-weight: 700;
+  margin-bottom: 6px;
+}
+
+.centerloader{
+  padding: 10px;
+  display: flex;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  margin: 0 auto;
+  width:21%;
+  height: 260px;
 }
 
-.App-link {
-  color: #61dafb;
+.lds-dual-ring {
+  display: inline-block;
+  width: 80px;
+  height: 80px;
 }
-
-@keyframes App-logo-spin {
-  from {
+.lds-dual-ring:after {
+  content: " ";
+  display: block;
+  width: 64px;
+  height: 64px;
+  margin: 8px;
+  border-radius: 50%;
+  border: 6px solid #fff;
+  border-color: #fff transparent #fff transparent;
+  animation: lds-dual-ring 1.2s linear infinite;
+}
+@keyframes lds-dual-ring {
+  0% {
     transform: rotate(0deg);
   }
-  to {
+  100% {
     transform: rotate(360deg);
   }
 }

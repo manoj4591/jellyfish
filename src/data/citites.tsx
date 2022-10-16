@@ -1,0 +1,33755 @@
+export const cities = [{
+  id: 3038789,
+  label: "Abbeville",
+  lat: 50.099998,
+  lon: 1.83333,
+  nm: "Abbeville",
+  value: 3038789
+},  {
+  id: 3038756,
+  label: "Ablis",
+  lat: 48.5172,
+  lon: 1.83624,
+  nm: "Ablis",
+  value: 3038756
+},  {
+  id: 3038754,
+  label: "Ablon-sur-Seine",
+  lat: 48.727322,
+  lon: 2.42686,
+  nm: "Ablon-sur-Seine",
+  value: 3038754
+},  {
+  id: 3038735,
+  label: "Abrest",
+  lat: 46.099072,
+  lon: 3.448,
+  nm: "Abrest",
+  value: 3038735
+},  {
+  id: 3038731,
+  label: "Abscon",
+  lat: 50.333328,
+  lon: 3.3,
+  nm: "Abscon",
+  value: 3038731
+},  {
+  id: 3038715,
+  label: "Achenheim",
+  lat: 48.5807,
+  lon: 7.62803,
+  nm: "Achenheim",
+  value: 3038715
+},  {
+  id: 3038712,
+  label: "Acheres",
+  lat: 48.961159,
+  lon: 2.06882,
+  nm: "Acheres",
+  value: 3038712
+},  {
+  id: 3038703,
+  label: "Achicourt",
+  lat: 50.274288,
+  lon: 2.75779,
+  nm: "Achicourt",
+  value: 3038703
+},  {
+  id: 3038698,
+  label: "Acigne",
+  lat: 48.133331,
+  lon: -1.53704,
+  nm: "Acigne",
+  value: 3038698
+},  {
+  id: 3038653,
+  label: "Afa",
+  lat: 41.98362,
+  lon: 8.79469,
+  nm: "Afa",
+  value: 3038653
+},  {
+  id: 3038638,
+  label: "Agde",
+  lat: 43.310829,
+  lon: 3.47583,
+  nm: "Agde",
+  value: 3038638
+},  {
+  id: 3038634,
+  label: "Agen",
+  lat: 44.200001,
+  lon: 0.63333,
+  nm: "Agen",
+  value: 3038634
+},  {
+  id: 3038611,
+  label: "Agneaux",
+  lat: 49.119049,
+  lon: -1.1061,
+  nm: "Agneaux",
+  value: 3038611
+},  {
+  id: 3038604,
+  label: "Agnetz",
+  lat: 49.38118,
+  lon: 2.38621,
+  nm: "Agnetz",
+  value: 3038604
+},  {
+  id: 3038592,
+  label: "Agny",
+  lat: 50.25914,
+  lon: 2.76002,
+  nm: "Agny",
+  value: 3038592
+},  {
+  id: 3038555,
+  label: "Aiffres",
+  lat: 46.294491,
+  lon: -0.42101,
+  nm: "Aiffres",
+  value: 3038555
+},  {
+  id: 3038520,
+  label: "Aigrefeuille-sur-Maine",
+  lat: 47.07888,
+  lon: -1.40254,
+  nm: "Aigrefeuille-sur-Maine",
+  value: 3038520
+},  {
+  id: 3038505,
+  label: "Aigueblanche",
+  lat: 45.503132,
+  lon: 6.50806,
+  nm: "Aigueblanche",
+  value: 3038505
+},  {
+  id: 3038502,
+  label: "Aiguefonde",
+  lat: 43.493938,
+  lon: 2.31686,
+  nm: "Aiguefonde",
+  value: 3038502
+},  {
+  id: 3038498,
+  label: "Aigueperse",
+  lat: 46.022839,
+  lon: 3.20231,
+  nm: "Aigueperse",
+  value: 3038498
+},  {
+  id: 3038493,
+  label: "Aigues-Mortes",
+  lat: 43.56683,
+  lon: 4.19068,
+  nm: "Aigues-Mortes",
+  value: 3038493
+},  {
+  id: 3038488,
+  label: "Aigues-Vives",
+  lat: 43.7379,
+  lon: 4.18066,
+  nm: "Aigues-Vives",
+  value: 3038488
+},  {
+  id: 3038466,
+  label: "Aiguillon",
+  lat: 44.298931,
+  lon: 0.3402,
+  nm: "Aiguillon",
+  value: 3038466
+},  {
+  id: 3038429,
+  label: "Ailly-sur-Noye",
+  lat: 49.757069,
+  lon: 2.36367,
+  nm: "Ailly-sur-Noye",
+  value: 3038429
+},  {
+  id: 3038428,
+  label: "Ailly-sur-Somme",
+  lat: 49.92886,
+  lon: 2.19615,
+  nm: "Ailly-sur-Somme",
+  value: 3038428
+},  {
+  id: 3038427,
+  label: "Aimargues",
+  lat: 43.684479,
+  lon: 4.20999,
+  nm: "Aimargues",
+  value: 3038427
+},  {
+  id: 3038426,
+  label: "Aime",
+  lat: 45.555592,
+  lon: 6.65042,
+  nm: "Aime",
+  value: 3038426
+},  {
+  id: 3038400,
+  label: "Airaines",
+  lat: 49.968262,
+  lon: 1.94266,
+  nm: "Airaines",
+  value: 3038400
+},  {
+  id: 3038393,
+  label: "Aire-sur-la-Lys",
+  lat: 50.63871,
+  lon: 2.39876,
+  nm: "Aire-sur-la-Lys",
+  value: 3038393
+},  {
+  id: 3038384,
+  label: "Airvault",
+  lat: 46.825329,
+  lon: -0.13634,
+  nm: "Airvault",
+  value: 3038384
+},  {
+  id: 3038355,
+  label: "Aix-en-Othe",
+  lat: 48.223911,
+  lon: 3.73425,
+  nm: "Aix-en-Othe",
+  value: 3038355
+},  {
+  id: 3038354,
+  label: "Aix-en-Provence",
+  lat: 43.528301,
+  lon: 5.44973,
+  nm: "Aix-en-Provence",
+  value: 3038354
+},  {
+  id: 3038350,
+  label: "Aix-les-Bains",
+  lat: 45.68338,
+  lon: 5.92241,
+  nm: "Aix-les-Bains",
+  value: 3038350
+},  {
+  id: 3038349,
+  label: "Aix-Noulette",
+  lat: 50.425678,
+  lon: 2.70554,
+  nm: "Aix-Noulette",
+  value: 3038349
+},  {
+  id: 3038352,
+  label: "Aixe-sur-Vienne",
+  lat: 45.798618,
+  lon: 1.13884,
+  nm: "Aixe-sur-Vienne",
+  value: 3038352
+},  {
+  id: 3038341,
+  label: "Aizenay",
+  lat: 46.74004,
+  lon: -1.60834,
+  nm: "Aizenay",
+  value: 3038341
+},  {
+  id: 3038334,
+  label: "Ajaccio",
+  lat: 41.927231,
+  lon: 8.73462,
+  nm: "Ajaccio",
+  value: 3038334
+},  {
+  id: 3038305,
+  label: "Alata",
+  lat: 41.977489,
+  lon: 8.74232,
+  nm: "Alata",
+  value: 3038305
+},  {
+  id: 3038276,
+  label: "Albens",
+  lat: 45.78463,
+  lon: 5.94875,
+  nm: "Albens",
+  value: 3038276
+},  {
+  id: 3038271,
+  label: "Albert",
+  lat: 50.000912,
+  lon: 2.65096,
+  nm: "Albert",
+  value: 3038271
+},  {
+  id: 3038266,
+  label: "Albertville",
+  lat: 45.674519,
+  lon: 6.39061,
+  nm: "Albertville",
+  value: 3038266
+},  {
+  id: 3038261,
+  label: "Albi",
+  lat: 43.929798,
+  lon: 2.148,
+  nm: "Albi",
+  value: 3038261
+},  {
+  id: 3038257,
+  label: "Albias",
+  lat: 44.090488,
+  lon: 1.44821,
+  nm: "Albias",
+  value: 3038257
+},  {
+  id: 3038249,
+  label: "Albigny-sur-Saone",
+  lat: 45.866669,
+  lon: 4.83333,
+  nm: "Albigny-sur-Saone",
+  value: 3038249
+},  {
+  id: 3038236,
+  label: "Alby-sur-Cheran",
+  lat: 45.816669,
+  lon: 6.01667,
+  nm: "Alby-sur-Cheran",
+  value: 3038236
+},  {
+  id: 3038230,
+  label: "Alencon",
+  lat: 48.433331,
+  lon: 0.08333,
+  nm: "Alencon",
+  value: 3038230
+},  {
+  id: 3038226,
+  label: "Alenya",
+  lat: 42.638741,
+  lon: 2.98148,
+  nm: "Alenya",
+  value: 3038226
+},  {
+  id: 3038225,
+  label: "Aleria",
+  lat: 42.102402,
+  lon: 9.51575,
+  nm: "Aleria",
+  value: 3038225
+},  {
+  id: 3038224,
+  label: "Ales",
+  lat: 44.133331,
+  lon: 4.08333,
+  nm: "Ales",
+  value: 3038224
+},  {
+  id: 3038213,
+  label: "Alfortville",
+  lat: 48.805752,
+  lon: 2.4204,
+  nm: "Alfortville",
+  value: 3038213
+},  {
+  id: 3038204,
+  label: "Algrange",
+  lat: 49.358631,
+  lon: 6.04748,
+  nm: "Algrange",
+  value: 3038204
+},  {
+  id: 3038186,
+  label: "Alixan",
+  lat: 44.974758,
+  lon: 5.02641,
+  nm: "Alixan",
+  value: 3038186
+},  {
+  id: 3038176,
+  label: "Allaire",
+  lat: 47.63752,
+  lon: -2.16324,
+  nm: "Allaire",
+  value: 3038176
+},  {
+  id: 3038160,
+  label: "Allassac",
+  lat: 45.25816,
+  lon: 1.47532,
+  nm: "Allassac",
+  value: 3038160
+},  {
+  id: 3038159,
+  label: "Allauch",
+  lat: 43.335732,
+  lon: 5.48201,
+  nm: "Allauch",
+  value: 3038159
+},  {
+  id: 3038156,
+  label: "Alleins",
+  lat: 43.703869,
+  lon: 5.16203,
+  nm: "Alleins",
+  value: 3038156
+},  {
+  id: 3038142,
+  label: "Allennes-les-Marais",
+  lat: 50.53754,
+  lon: 2.95361,
+  nm: "Allennes-les-Marais",
+  value: 3038142
+},  {
+  id: 3038132,
+  label: "Allevard",
+  lat: 45.393372,
+  lon: 6.0713,
+  nm: "Allevard",
+  value: 3038132
+},  {
+  id: 3038128,
+  label: "Allex",
+  lat: 44.764542,
+  lon: 4.91757,
+  nm: "Allex",
+  value: 3038128
+},  {
+  id: 3038106,
+  label: "Allieres-et-Risset",
+  lat: 45.099339,
+  lon: 5.67924,
+  nm: "Allieres-et-Risset",
+  value: 3038106
+},  {
+  id: 3038099,
+  label: "Allinges",
+  lat: 46.336578,
+  lon: 6.46363,
+  nm: "Allinges",
+  value: 3038099
+},  {
+  id: 3038086,
+  label: "Allonnes",
+  lat: 47.9674,
+  lon: 0.15807,
+  nm: "Allonnes",
+  value: 3038086
+},  {
+  id: 3038087,
+  label: "Allonnes",
+  lat: 47.293381,
+  lon: 0.02458,
+  nm: "Allonnes",
+  value: 3038087
+},  {
+  id: 3038075,
+  label: "Allouagne",
+  lat: 50.53167,
+  lon: 2.51194,
+  nm: "Allouagne",
+  value: 3038075
+},  {
+  id: 3038029,
+  label: "Alsting",
+  lat: 49.181519,
+  lon: 6.99397,
+  nm: "Alsting",
+  value: 3038029
+},  {
+  id: 3038020,
+  label: "Althen-des-Paluds",
+  lat: 44.004051,
+  lon: 4.95861,
+  nm: "Althen-des-Paluds",
+  value: 3038020
+},  {
+  id: 3038012,
+  label: "Altkirch",
+  lat: 47.616669,
+  lon: 7.25,
+  nm: "Altkirch",
+  value: 3038012
+},  {
+  id: 3037971,
+  label: "Amancy",
+  lat: 46.07449,
+  lon: 6.32973,
+  nm: "Amancy",
+  value: 3037971
+},  {
+  id: 3037967,
+  label: "Amanvillers",
+  lat: 49.166908,
+  lon: 6.0422,
+  nm: "Amanvillers",
+  value: 3037967
+},  {
+  id: 3037956,
+  label: "Ambares-et-Lagrave",
+  lat: 44.916672,
+  lon: -0.48333,
+  nm: "Ambares-et-Lagrave",
+  value: 3037956
+},  {
+  id: 3037954,
+  label: "Ambazac",
+  lat: 45.959831,
+  lon: 1.40063,
+  nm: "Ambazac",
+  value: 3037954
+},  {
+  id: 3037943,
+  label: "Amberieu-en-Bugey",
+  lat: 45.958851,
+  lon: 5.3432,
+  nm: "Amberieu-en-Bugey",
+  value: 3037943
+},  {
+  id: 3037937,
+  label: "Ambert",
+  lat: 45.549999,
+  lon: 3.75,
+  nm: "Ambert",
+  value: 3037937
+},  {
+  id: 3037935,
+  label: "Ambes",
+  lat: 45.011269,
+  lon: -0.53219,
+  nm: "Ambes",
+  value: 3037935
+},  {
+  id: 3037915,
+  label: "Ambleteuse",
+  lat: 50.807289,
+  lon: 1.60388,
+  nm: "Ambleteuse",
+  value: 3037915
+},  {
+  id: 3037902,
+  label: "Amboise",
+  lat: 47.412491,
+  lon: 0.98266,
+  nm: "Amboise",
+  value: 3037902
+},  {
+  id: 3037886,
+  label: "Ambrieres-les-Vallees",
+  lat: 48.400002,
+  lon: -0.63333,
+  nm: "Ambrieres-les-Vallees",
+  value: 3037886
+},  {
+  id: 3037884,
+  label: "Ambronay",
+  lat: 46.004601,
+  lon: 5.36107,
+  nm: "Ambronay",
+  value: 3037884
+},  {
+  id: 3037860,
+  label: "Amfreville-la-Mi-Voie",
+  lat: 49.407551,
+  lon: 1.13871,
+  nm: "Amfreville-la-Mi-Voie",
+  value: 3037860
+},  {
+  id: 3037854,
+  label: "Amiens",
+  lat: 49.900002,
+  lon: 2.3,
+  nm: "Amiens",
+  value: 3037854
+},  {
+  id: 3037845,
+  label: "Amilly",
+  lat: 48.443329,
+  lon: 1.39349,
+  nm: "Amilly",
+  value: 3037845
+},  {
+  id: 3037846,
+  label: "Amilly",
+  lat: 47.972809,
+  lon: 2.77186,
+  nm: "Amilly",
+  value: 3037846
+},  {
+  id: 3037842,
+  label: "Ammerschwihr",
+  lat: 48.125481,
+  lon: 7.28282,
+  nm: "Ammerschwihr",
+  value: 3037842
+},  {
+  id: 3037838,
+  label: "Amneville",
+  lat: 49.2575,
+  lon: 6.14203,
+  nm: "Amneville",
+  value: 3037838
+},  {
+  id: 3037818,
+  label: "Amplepuis",
+  lat: 45.972599,
+  lon: 4.3316,
+  nm: "Amplepuis",
+  value: 3037818
+},  {
+  id: 3037813,
+  label: "Ampuis",
+  lat: 45.489059,
+  lon: 4.80879,
+  nm: "Ampuis",
+  value: 3037813
+},  {
+  id: 3037797,
+  label: "Ancenis",
+  lat: 47.366669,
+  lon: -1.16667,
+  nm: "Ancenis",
+  value: 3037797
+},  {
+  id: 3037794,
+  label: "Ancerville",
+  lat: 48.635738,
+  lon: 5.02091,
+  nm: "Ancerville",
+  value: 3037794
+},  {
+  id: 3037747,
+  label: "Andard",
+  lat: 47.456589,
+  lon: -0.39752,
+  nm: "Andard",
+  value: 3037747
+},  {
+  id: 3037726,
+  label: "Andernos-les-Bains",
+  lat: 44.74572,
+  lon: -1.10355,
+  nm: "Andernos-les-Bains",
+  value: 3037726
+},  {
+  id: 3037721,
+  label: "Andeville",
+  lat: 49.26078,
+  lon: 2.16427,
+  nm: "Andeville",
+  value: 3037721
+},  {
+  id: 3037713,
+  label: "Andilly",
+  lat: 49.00935,
+  lon: 2.3024,
+  nm: "Andilly",
+  value: 3037713
+},  {
+  id: 3037706,
+  label: "Andolsheim",
+  lat: 48.06179,
+  lon: 7.41637,
+  nm: "Andolsheim",
+  value: 3037706
+},  {
+  id: 3037701,
+  label: "Andouille",
+  lat: 48.176849,
+  lon: -0.78364,
+  nm: "Andouille",
+  value: 3037701
+},  {
+  id: 3037692,
+  label: "Andresy",
+  lat: 48.982342,
+  lon: 2.05687,
+  nm: "Andresy",
+  value: 3037692
+},  {
+  id: 3037691,
+  label: "Andreze",
+  lat: 47.171551,
+  lon: -0.95239,
+  nm: "Andreze",
+  value: 3037691
+},  {
+  id: 3037689,
+  label: "Andrezieux-Boutheon",
+  lat: 45.526249,
+  lon: 4.26021,
+  nm: "Andrezieux-Boutheon",
+  value: 3037689
+},  {
+  id: 3037682,
+  label: "Anduze",
+  lat: 44.054089,
+  lon: 3.98545,
+  nm: "Anduze",
+  value: 3037682
+},  {
+  id: 3037673,
+  label: "Anet",
+  lat: 48.856419,
+  lon: 1.43981,
+  nm: "Anet",
+  value: 3037673
+},  {
+  id: 3037656,
+  label: "Angers",
+  lat: 47.466671,
+  lon: -0.55,
+  nm: "Angers",
+  value: 3037656
+},  {
+  id: 3037654,
+  label: "Angerville",
+  lat: 48.313541,
+  lon: 1.99935,
+  nm: "Angerville",
+  value: 3037654
+},  {
+  id: 3037612,
+  label: "Anglet",
+  lat: 43.476639,
+  lon: -1.51346,
+  nm: "Anglet",
+  value: 3037612
+},  {
+  id: 3037598,
+  label: "Angouleme",
+  lat: 45.650002,
+  lon: 0.15,
+  nm: "Angouleme",
+  value: 3037598
+},  {
+  id: 3037596,
+  label: "Angoulins",
+  lat: 46.105259,
+  lon: -1.10713,
+  nm: "Angoulins",
+  value: 3037596
+},  {
+  id: 3037585,
+  label: "Angres",
+  lat: 50.40572,
+  lon: 2.76054,
+  nm: "Angres",
+  value: 3037585
+},  {
+  id: 3037572,
+  label: "Aniane",
+  lat: 43.684479,
+  lon: 3.58747,
+  nm: "Aniane",
+  value: 3037572
+},  {
+  id: 3037571,
+  label: "Aniche",
+  lat: 50.32996,
+  lon: 3.25346,
+  nm: "Aniche",
+  value: 3037571
+},  {
+  id: 3037564,
+  label: "Anizy-le-Chateau",
+  lat: 49.506779,
+  lon: 3.45119,
+  nm: "Anizy-le-Chateau",
+  value: 3037564
+},  {
+  id: 3037548,
+  label: "Annay",
+  lat: 50.463032,
+  lon: 2.88122,
+  nm: "Annay",
+  value: 3037548
+},  {
+  id: 3037543,
+  label: "Annecy",
+  lat: 45.900002,
+  lon: 6.11667,
+  nm: "Annecy",
+  value: 3037543
+},  {
+  id: 3037540,
+  label: "Annecy-le-Vieux",
+  lat: 45.91972,
+  lon: 6.14393,
+  nm: "Annecy-le-Vieux",
+  value: 3037540
+},  {
+  id: 3037538,
+  label: "Annemasse",
+  lat: 46.194389,
+  lon: 6.23775,
+  nm: "Annemasse",
+  value: 3037538
+},  {
+  id: 3037534,
+  label: "Annequin",
+  lat: 50.505249,
+  lon: 2.72019,
+  nm: "Annequin",
+  value: 3037534
+},  {
+  id: 3037531,
+  label: "Annet-sur-Marne",
+  lat: 48.926689,
+  lon: 2.71959,
+  nm: "Annet-sur-Marne",
+  value: 3037531
+},  {
+  id: 3037523,
+  label: "Anneyron",
+  lat: 45.272652,
+  lon: 4.88786,
+  nm: "Anneyron",
+  value: 3037523
+},  {
+  id: 3037521,
+  label: "Annezin",
+  lat: 50.531921,
+  lon: 2.61785,
+  nm: "Annezin",
+  value: 3037521
+},  {
+  id: 3037520,
+  label: "Annoeullin",
+  lat: 50.529251,
+  lon: 2.9318,
+  nm: "Annoeullin",
+  value: 3037520
+},  {
+  id: 3037514,
+  label: "Annonay",
+  lat: 45.2397,
+  lon: 4.67075,
+  nm: "Annonay",
+  value: 3037514
+},  {
+  id: 3037506,
+  label: "Anor",
+  lat: 49.98999,
+  lon: 4.10049,
+  nm: "Anor",
+  value: 3037506
+},  {
+  id: 3037502,
+  label: "Anould",
+  lat: 48.185261,
+  lon: 6.94597,
+  nm: "Anould",
+  value: 3037502
+},  {
+  id: 3037489,
+  label: "Anse",
+  lat: 45.930229,
+  lon: 4.71576,
+  nm: "Anse",
+  value: 3037489
+},  {
+  id: 3037456,
+  label: "Antibes",
+  lat: 43.562408,
+  lon: 7.12777,
+  nm: "Antibes",
+  value: 3037456
+},  {
+  id: 3037423,
+  label: "Antony",
+  lat: 48.75,
+  lon: 2.3,
+  nm: "Antony",
+  value: 3037423
+},  {
+  id: 3037397,
+  label: "Anzin",
+  lat: 50.372009,
+  lon: 3.50387,
+  nm: "Anzin",
+  value: 3037397
+},  {
+  id: 3037396,
+  label: "Anzin-Saint-Aubin",
+  lat: 50.313129,
+  lon: 2.74732,
+  nm: "Anzin-Saint-Aubin",
+  value: 3037396
+},  {
+  id: 3037393,
+  label: "Aoste",
+  lat: 45.586788,
+  lon: 5.61014,
+  nm: "Aoste",
+  value: 3037393
+},  {
+  id: 3037390,
+  label: "Aouste-sur-Sye",
+  lat: 44.716991,
+  lon: 5.05516,
+  nm: "Aouste-sur-Sye",
+  value: 3037390
+},  {
+  id: 3037370,
+  label: "Appoigny",
+  lat: 47.874668,
+  lon: 3.52524,
+  nm: "Appoigny",
+  value: 3037370
+},  {
+  id: 3037368,
+  label: "Apprieu",
+  lat: 45.39922,
+  lon: 5.49628,
+  nm: "Apprieu",
+  value: 3037368
+},  {
+  id: 3037352,
+  label: "Apt",
+  lat: 43.883331,
+  lon: 5.4,
+  nm: "Apt",
+  value: 3037352
+},  {
+  id: 3037331,
+  label: "Aramon",
+  lat: 43.891739,
+  lon: 4.68096,
+  nm: "Aramon",
+  value: 3037331
+},  {
+  id: 3037303,
+  label: "Arbent",
+  lat: 46.29221,
+  lon: 5.6789,
+  nm: "Arbent",
+  value: 3037303
+},  {
+  id: 3037287,
+  label: "Arbois",
+  lat: 46.903111,
+  lon: 5.77454,
+  nm: "Arbois",
+  value: 3037287
+},  {
+  id: 3037263,
+  label: "Arc-les-Gray",
+  lat: 47.457008,
+  lon: 5.58547,
+  nm: "Arc-les-Gray",
+  value: 3037263
+},  {
+  id: 3037158,
+  label: "Arc-sur-Tille",
+  lat: 47.343479,
+  lon: 5.18666,
+  nm: "Arc-sur-Tille",
+  value: 3037158
+},  {
+  id: 3037253,
+  label: "Arcachon",
+  lat: 44.650002,
+  lon: -1.16667,
+  nm: "Arcachon",
+  value: 3037253
+},  {
+  id: 3037245,
+  label: "Arcangues",
+  lat: 43.43124,
+  lon: -1.52237,
+  nm: "Arcangues",
+  value: 3037245
+},  {
+  id: 3037186,
+  label: "Arcis-sur-Aube",
+  lat: 48.533871,
+  lon: 4.14085,
+  nm: "Arcis-sur-Aube",
+  value: 3037186
+},  {
+  id: 3037168,
+  label: "Arconnay",
+  lat: 48.396778,
+  lon: 0.0862,
+  nm: "Arconnay",
+  value: 3037168
+},  {
+  id: 3037157,
+  label: "Arcueil",
+  lat: 48.799931,
+  lon: 2.33256,
+  nm: "Arcueil",
+  value: 3037157
+},  {
+  id: 3037133,
+  label: "Ardentes",
+  lat: 46.741909,
+  lon: 1.83428,
+  nm: "Ardentes",
+  value: 3037133
+},  {
+  id: 3037113,
+  label: "Ardres",
+  lat: 50.857861,
+  lon: 1.98168,
+  nm: "Ardres",
+  value: 3037113
+},  {
+  id: 3037095,
+  label: "Ares",
+  lat: 44.76667,
+  lon: -1.13333,
+  nm: "Ares",
+  value: 3037095
+},  {
+  id: 3037068,
+  label: "Argelers",
+  lat: 42.547138,
+  lon: 3.02253,
+  nm: "Argelers",
+  value: 3037068
+},  {
+  id: 3037070,
+  label: "Argeles-Gazost",
+  lat: 43.01667,
+  lon: -0.1,
+  nm: "Argeles-Gazost",
+  value: 3037070
+},  {
+  id: 3037059,
+  label: "Argences",
+  lat: 49.12635,
+  lon: -0.16644,
+  nm: "Argences",
+  value: 3037059
+},  {
+  id: 3037015,
+  label: "Argent-sur-Sauldre",
+  lat: 47.558472,
+  lon: 2.4441,
+  nm: "Argent-sur-Sauldre",
+  value: 3037015
+},  {
+  id: 3037051,
+  label: "Argentan",
+  lat: 48.75,
+  lon: -0.01667,
+  nm: "Argentan",
+  value: 3037051
+},  {
+  id: 3037049,
+  label: "Argentat",
+  lat: 45.09634,
+  lon: 1.93987,
+  nm: "Argentat",
+  value: 3037049
+},  {
+  id: 3037044,
+  label: "Argenteuil",
+  lat: 48.950001,
+  lon: 2.25,
+  nm: "Argenteuil",
+  value: 3037044
+},  {
+  id: 3037018,
+  label: "Argenton-sur-Creuse",
+  lat: 46.58997,
+  lon: 1.51981,
+  nm: "Argenton-sur-Creuse",
+  value: 3037018
+},  {
+  id: 3037017,
+  label: "Argentre",
+  lat: 48.083618,
+  lon: -0.6415,
+  nm: "Argentre",
+  value: 3037017
+},  {
+  id: 3037016,
+  label: "Argentre-du-Plessis",
+  lat: 48.056969,
+  lon: -1.14601,
+  nm: "Argentre-du-Plessis",
+  value: 3037016
+},  {
+  id: 3036938,
+  label: "Arles",
+  lat: 43.676811,
+  lon: 4.63031,
+  nm: "Arles",
+  value: 3036938
+},  {
+  id: 3036935,
+  label: "Arles",
+  lat: 42.456539,
+  lon: 2.63457,
+  nm: "Arles",
+  value: 3036935
+},  {
+  id: 3036932,
+  label: "Arleux",
+  lat: 50.280369,
+  lon: 3.10448,
+  nm: "Arleux",
+  value: 3036932
+},  {
+  id: 3036913,
+  label: "Armbouts-Cappel",
+  lat: 50.976822,
+  lon: 2.35352,
+  nm: "Armbouts-Cappel",
+  value: 3036913
+},  {
+  id: 3036903,
+  label: "Armentieres",
+  lat: 50.68568,
+  lon: 2.88214,
+  nm: "Armentieres",
+  value: 3036903
+},  {
+  id: 3036876,
+  label: "Arnage",
+  lat: 47.926159,
+  lon: 0.18782,
+  nm: "Arnage",
+  value: 3036876
+},  {
+  id: 3036870,
+  label: "Arnas",
+  lat: 46.023899,
+  lon: 4.70638,
+  nm: "Arnas",
+  value: 3036870
+},  {
+  id: 3036862,
+  label: "Arnay-le-Duc",
+  lat: 47.132019,
+  lon: 4.48595,
+  nm: "Arnay-le-Duc",
+  value: 3036862
+},  {
+  id: 3036843,
+  label: "Arnouville",
+  lat: 48.98333,
+  lon: 2.41667,
+  nm: "Arnouville",
+  value: 3036843
+},  {
+  id: 3036823,
+  label: "Arpajon",
+  lat: 48.588749,
+  lon: 2.24672,
+  nm: "Arpajon",
+  value: 3036823
+},  {
+  id: 3036822,
+  label: "Arpajon-sur-Cere",
+  lat: 44.902618,
+  lon: 2.45809,
+  nm: "Arpajon-sur-Cere",
+  value: 3036822
+},  {
+  id: 3036800,
+  label: "Arques",
+  lat: 50.733749,
+  lon: 2.30237,
+  nm: "Arques",
+  value: 3036800
+},  {
+  id: 3036797,
+  label: "Arques-la-Bataille",
+  lat: 49.881222,
+  lon: 1.12875,
+  nm: "Arques-la-Bataille",
+  value: 3036797
+},  {
+  id: 3036791,
+  label: "Arradon",
+  lat: 47.627102,
+  lon: -2.8215,
+  nm: "Arradon",
+  value: 3036791
+},  {
+  id: 3036784,
+  label: "Arras",
+  lat: 50.293011,
+  lon: 2.78186,
+  nm: "Arras",
+  value: 3036784
+},  {
+  id: 3036711,
+  label: "Ars-sur-Moselle",
+  lat: 49.078308,
+  lon: 6.07275,
+  nm: "Ars-sur-Moselle",
+  value: 3036711
+},  {
+  id: 3036724,
+  label: "Arsac",
+  lat: 44.99688,
+  lon: -0.68976,
+  nm: "Arsac",
+  value: 3036724
+},  {
+  id: 3036702,
+  label: "Artannes-sur-Indre",
+  lat: 47.274509,
+  lon: 0.60036,
+  nm: "Artannes-sur-Indre",
+  value: 3036702
+},  {
+  id: 3036687,
+  label: "Arthes",
+  lat: 43.957451,
+  lon: 2.2113,
+  nm: "Arthes",
+  value: 3036687
+},  {
+  id: 3036679,
+  label: "Arthon-en-Retz",
+  lat: 47.11586,
+  lon: -1.9426,
+  nm: "Arthon-en-Retz",
+  value: 3036679
+},  {
+  id: 3036655,
+  label: "Artigues-pres-Bordeaux",
+  lat: 44.849998,
+  lon: -0.51667,
+  nm: "Artigues-pres-Bordeaux",
+  value: 3036655
+},  {
+  id: 3036646,
+  label: "Artix",
+  lat: 43.400002,
+  lon: -0.55,
+  nm: "Artix",
+  value: 3036646
+},  {
+  id: 3036633,
+  label: "Arudy",
+  lat: 43.116669,
+  lon: -0.43333,
+  nm: "Arudy",
+  value: 3036633
+},  {
+  id: 3036628,
+  label: "Arvert",
+  lat: 45.744862,
+  lon: -1.12573,
+  nm: "Arvert",
+  value: 3036628
+},  {
+  id: 3036601,
+  label: "Arzon",
+  lat: 47.548519,
+  lon: -2.88988,
+  nm: "Arzon",
+  value: 3036601
+},  {
+  id: 3036596,
+  label: "Ascain",
+  lat: 43.345211,
+  lon: -1.62073,
+  nm: "Ascain",
+  value: 3036596
+},  {
+  id: 3036562,
+  label: "Asnieres-sur-Oise",
+  lat: 49.13369,
+  lon: 2.35551,
+  nm: "Asnieres-sur-Oise",
+  value: 3036562
+},  {
+  id: 3036572,
+  label: "Asnieres-sur-Seine",
+  lat: 48.916672,
+  lon: 2.28333,
+  nm: "Asnieres-sur-Seine",
+  value: 3036572
+},  {
+  id: 3036540,
+  label: "Aspremont",
+  lat: 43.785389,
+  lon: 7.24458,
+  nm: "Aspremont",
+  value: 3036540
+},  {
+  id: 3036495,
+  label: "Astaffort",
+  lat: 44.064259,
+  lon: 0.65141,
+  nm: "Astaffort",
+  value: 3036495
+},  {
+  id: 3036471,
+  label: "Athee-sur-Cher",
+  lat: 47.320229,
+  lon: 0.91659,
+  nm: "Athee-sur-Cher",
+  value: 3036471
+},  {
+  id: 3036464,
+  label: "Athies-sous-Laon",
+  lat: 49.573689,
+  lon: 3.68417,
+  nm: "Athies-sous-Laon",
+  value: 3036464
+},  {
+  id: 3036460,
+  label: "Athis-Mons",
+  lat: 48.705219,
+  lon: 2.39147,
+  nm: "Athis-Mons",
+  value: 3036460
+},  {
+  id: 3036451,
+  label: "Attiches",
+  lat: 50.522202,
+  lon: 3.06222,
+  nm: "Attiches",
+  value: 3036451
+},  {
+  id: 3036450,
+  label: "Attichy",
+  lat: 49.411209,
+  lon: 3.04949,
+  nm: "Attichy",
+  value: 3036450
+},  {
+  id: 3036449,
+  label: "Attignat",
+  lat: 46.288151,
+  lon: 5.16126,
+  nm: "Attignat",
+  value: 3036449
+},  {
+  id: 3036433,
+  label: "Aubagne",
+  lat: 43.292759,
+  lon: 5.57067,
+  nm: "Aubagne",
+  value: 3036433
+},  {
+  id: 3036430,
+  label: "Aubais",
+  lat: 43.754021,
+  lon: 4.14567,
+  nm: "Aubais",
+  value: 3036430
+},  {
+  id: 3036418,
+  label: "Aubenas",
+  lat: 44.62006,
+  lon: 4.38994,
+  nm: "Aubenas",
+  value: 3036418
+},  {
+  id: 3036406,
+  label: "Auberchicourt",
+  lat: 50.333328,
+  lon: 3.23333,
+  nm: "Auberchicourt",
+  value: 3036406
+},  {
+  id: 3036402,
+  label: "Aubergenville",
+  lat: 48.959961,
+  lon: 1.85467,
+  nm: "Aubergenville",
+  value: 3036402
+},  {
+  id: 3036386,
+  label: "Aubervilliers",
+  lat: 48.916672,
+  lon: 2.38333,
+  nm: "Aubervilliers",
+  value: 3036386
+},  {
+  id: 3036371,
+  label: "Aubevoye",
+  lat: 49.170971,
+  lon: 1.33537,
+  nm: "Aubevoye",
+  value: 3036371
+},  {
+  id: 3036364,
+  label: "Aubiere",
+  lat: 45.751572,
+  lon: 3.11251,
+  nm: "Aubiere",
+  value: 3036364
+},  {
+  id: 3036359,
+  label: "Aubignan",
+  lat: 44.099411,
+  lon: 5.02409,
+  nm: "Aubignan",
+  value: 3036359
+},  {
+  id: 3036352,
+  label: "Aubigne-Racan",
+  lat: 47.69091,
+  lon: 0.2687,
+  nm: "Aubigne-Racan",
+  value: 3036352
+},  {
+  id: 3036348,
+  label: "Aubigny",
+  lat: 46.596531,
+  lon: -1.45364,
+  nm: "Aubigny",
+  value: 3036348
+},  {
+  id: 3036326,
+  label: "Aubigny-sur-Nere",
+  lat: 47.48819,
+  lon: 2.43895,
+  nm: "Aubigny-sur-Nere",
+  value: 3036326
+},  {
+  id: 3036323,
+  label: "Aubin",
+  lat: 44.528091,
+  lon: 2.24439,
+  nm: "Aubin",
+  value: 3036323
+},  {
+  id: 3036314,
+  label: "Aubord",
+  lat: 43.75827,
+  lon: 4.31105,
+  nm: "Aubord",
+  value: 3036314
+},  {
+  id: 3036313,
+  label: "Auboue",
+  lat: 49.213089,
+  lon: 5.978,
+  nm: "Auboue",
+  value: 3036313
+},  {
+  id: 3036295,
+  label: "Aubusson",
+  lat: 45.950001,
+  lon: 2.16667,
+  nm: "Aubusson",
+  value: 3036295
+},  {
+  id: 3036289,
+  label: "Auby",
+  lat: 50.41457,
+  lon: 3.05396,
+  nm: "Auby",
+  value: 3036289
+},  {
+  id: 3036287,
+  label: "Aucamville",
+  lat: 43.6702,
+  lon: 1.42808,
+  nm: "Aucamville",
+  value: 3036287
+},  {
+  id: 3036281,
+  label: "Auch",
+  lat: 43.650002,
+  lon: 0.58333,
+  nm: "Auch",
+  value: 3036281
+},  {
+  id: 3036278,
+  label: "Auchel",
+  lat: 50.503448,
+  lon: 2.47346,
+  nm: "Auchel",
+  value: 3036278
+},  {
+  id: 3036270,
+  label: "Auchy-les-Mines",
+  lat: 50.513489,
+  lon: 2.78283,
+  nm: "Auchy-les-Mines",
+  value: 3036270
+},  {
+  id: 3036256,
+  label: "Audenge",
+  lat: 44.686859,
+  lon: -1.01345,
+  nm: "Audenge",
+  value: 3036256
+},  {
+  id: 3036247,
+  label: "Audierne",
+  lat: 48.016399,
+  lon: -4.53838,
+  nm: "Audierne",
+  value: 3036247
+},  {
+  id: 3036240,
+  label: "Audincourt",
+  lat: 47.483269,
+  lon: 6.85341,
+  nm: "Audincourt",
+  value: 3036240
+},  {
+  id: 3036229,
+  label: "Audruicq",
+  lat: 50.877949,
+  lon: 2.07975,
+  nm: "Audruicq",
+  value: 3036229
+},  {
+  id: 3036227,
+  label: "Audun-le-Roman",
+  lat: 49.368778,
+  lon: 5.89564,
+  nm: "Audun-le-Roman",
+  value: 3036227
+},  {
+  id: 3036226,
+  label: "Audun-le-Tiche",
+  lat: 49.472279,
+  lon: 5.95694,
+  nm: "Audun-le-Tiche",
+  value: 3036226
+},  {
+  id: 3036223,
+  label: "Auffargis",
+  lat: 48.700489,
+  lon: 1.88696,
+  nm: "Auffargis",
+  value: 3036223
+},  {
+  id: 3036184,
+  label: "Augny",
+  lat: 49.061111,
+  lon: 6.11835,
+  nm: "Augny",
+  value: 3036184
+},  {
+  id: 3036154,
+  label: "Aulnat",
+  lat: 45.79604,
+  lon: 3.16498,
+  nm: "Aulnat",
+  value: 3036154
+},  {
+  id: 3036145,
+  label: "Aulnay-sous-Bois",
+  lat: 48.938141,
+  lon: 2.49402,
+  nm: "Aulnay-sous-Bois",
+  value: 3036145
+},  {
+  id: 3036133,
+  label: "Aulnoy-lez-Valenciennes",
+  lat: 50.333328,
+  lon: 3.53333,
+  nm: "Aulnoy-lez-Valenciennes",
+  value: 3036133
+},  {
+  id: 3036132,
+  label: "Aulnoye-Aymeries",
+  lat: 50.201408,
+  lon: 3.83844,
+  nm: "Aulnoye-Aymeries",
+  value: 3036132
+},  {
+  id: 3036122,
+  label: "Ault",
+  lat: 50.104038,
+  lon: 1.45,
+  nm: "Ault",
+  value: 3036122
+},  {
+  id: 3036117,
+  label: "Aumale",
+  lat: 49.769852,
+  lon: 1.75587,
+  nm: "Aumale",
+  value: 3036117
+},  {
+  id: 3036107,
+  label: "Aumetz",
+  lat: 49.412941,
+  lon: 5.94916,
+  nm: "Aumetz",
+  value: 3036107
+},  {
+  id: 3036081,
+  label: "Aunay-sur-Odon",
+  lat: 49.020119,
+  lon: -0.63238,
+  nm: "Aunay-sur-Odon",
+  value: 3036081
+},  {
+  id: 3036079,
+  label: "Auneau",
+  lat: 48.463612,
+  lon: 1.77264,
+  nm: "Auneau",
+  value: 3036079
+},  {
+  id: 3036074,
+  label: "Auneuil",
+  lat: 49.370258,
+  lon: 1.99712,
+  nm: "Auneuil",
+  value: 3036074
+},  {
+  id: 3036067,
+  label: "Aups",
+  lat: 43.62904,
+  lon: 6.22553,
+  nm: "Aups",
+  value: 3036067
+},  {
+  id: 3036059,
+  label: "Auray",
+  lat: 47.67025,
+  lon: -2.99183,
+  nm: "Auray",
+  value: 3036059
+},  {
+  id: 3036054,
+  label: "Aurec-sur-Loire",
+  lat: 45.369068,
+  lon: 4.2049,
+  nm: "Aurec-sur-Loire",
+  value: 3036054
+},  {
+  id: 3036052,
+  label: "Aureilhan",
+  lat: 43.24337,
+  lon: 0.09581,
+  nm: "Aureilhan",
+  value: 3036052
+},  {
+  id: 3036022,
+  label: "Auribeau-sur-Siagne",
+  lat: 43.604408,
+  lon: 6.90779,
+  nm: "Auribeau-sur-Siagne",
+  value: 3036022
+},  {
+  id: 3036016,
+  label: "Aurillac",
+  lat: 44.916672,
+  lon: 2.45,
+  nm: "Aurillac",
+  value: 3036016
+},  {
+  id: 3036012,
+  label: "Auriol",
+  lat: 43.371609,
+  lon: 5.6341,
+  nm: "Auriol",
+  value: 3036012
+},  {
+  id: 3035991,
+  label: "Aussillon",
+  lat: 43.50293,
+  lon: 2.36792,
+  nm: "Aussillon",
+  value: 3035991
+},  {
+  id: 3035985,
+  label: "Aussonne",
+  lat: 43.681622,
+  lon: 1.31886,
+  nm: "Aussonne",
+  value: 3035985
+},  {
+  id: 3035970,
+  label: "Auterive",
+  lat: 43.351028,
+  lon: 1.47797,
+  nm: "Auterive",
+  value: 3035970
+},  {
+  id: 3035883,
+  label: "Autun",
+  lat: 46.950001,
+  lon: 4.3,
+  nm: "Autun",
+  value: 3035883
+},  {
+  id: 3035864,
+  label: "Auvers-sur-Oise",
+  lat: 49.071579,
+  lon: 2.16978,
+  nm: "Auvers-sur-Oise",
+  value: 3035864
+},  {
+  id: 3035843,
+  label: "Auxerre",
+  lat: 47.799999,
+  lon: 3.56667,
+  nm: "Auxerre",
+  value: 3035843
+},  {
+  id: 3035838,
+  label: "Auxi-le-Chateau",
+  lat: 50.23101,
+  lon: 2.11593,
+  nm: "Auxi-le-Chateau",
+  value: 3035838
+},  {
+  id: 3035828,
+  label: "Auxonne",
+  lat: 47.192551,
+  lon: 5.38726,
+  nm: "Auxonne",
+  value: 3035828
+},  {
+  id: 3035812,
+  label: "Auzat-la-Combelle",
+  lat: 45.450001,
+  lon: 3.31667,
+  nm: "Auzat-la-Combelle",
+  value: 3035812
+},  {
+  id: 3035802,
+  label: "Auzeville-Tolosane",
+  lat: 43.527779,
+  lon: 1.4824,
+  nm: "Auzeville-Tolosane",
+  value: 3035802
+},  {
+  id: 3035768,
+  label: "Avallon",
+  lat: 47.48333,
+  lon: 3.9,
+  nm: "Avallon",
+  value: 3035768
+},  {
+  id: 3035761,
+  label: "Avanne-Aveney",
+  lat: 47.200001,
+  lon: 5.96667,
+  nm: "Avanne-Aveney",
+  value: 3035761
+},  {
+  id: 3035743,
+  label: "Avelin",
+  lat: 50.53968,
+  lon: 3.08222,
+  nm: "Avelin",
+  value: 3035743
+},  {
+  id: 3035727,
+  label: "Avensan",
+  lat: 45.034439,
+  lon: -0.75568,
+  nm: "Avensan",
+  value: 3035727
+},  {
+  id: 3035719,
+  label: "Avermes",
+  lat: 46.586658,
+  lon: 3.30619,
+  nm: "Avermes",
+  value: 3035719
+},  {
+  id: 3035707,
+  label: "Avesnelles",
+  lat: 50.117821,
+  lon: 3.94674,
+  nm: "Avesnelles",
+  value: 3035707
+},  {
+  id: 3035702,
+  label: "Avesnes-le-Comte",
+  lat: 50.277672,
+  lon: 2.52957,
+  nm: "Avesnes-le-Comte",
+  value: 3035702
+},  {
+  id: 3035701,
+  label: "Avesnes-les-Aubert",
+  lat: 50.200001,
+  lon: 3.38333,
+  nm: "Avesnes-les-Aubert",
+  value: 3035701
+},  {
+  id: 3035696,
+  label: "Avessac",
+  lat: 47.65324,
+  lon: -1.98962,
+  nm: "Avessac",
+  value: 3035696
+},  {
+  id: 3035681,
+  label: "Avignon",
+  lat: 43.948341,
+  lon: 4.80892,
+  nm: "Avignon",
+  value: 3035681
+},  {
+  id: 3035667,
+  label: "Avion",
+  lat: 50.410381,
+  lon: 2.83053,
+  nm: "Avion",
+  value: 3035667
+},  {
+  id: 3035654,
+  label: "Avon",
+  lat: 48.402199,
+  lon: 2.72022,
+  nm: "Avon",
+  value: 3035654
+},  {
+  id: 3035649,
+  label: "Avord",
+  lat: 47.035141,
+  lon: 2.65295,
+  nm: "Avord",
+  value: 3035649
+},  {
+  id: 3035639,
+  label: "Avranches",
+  lat: 48.683331,
+  lon: -1.36667,
+  nm: "Avranches",
+  value: 3035639
+},  {
+  id: 3035612,
+  label: "Avrille",
+  lat: 47.5,
+  lon: -0.58333,
+  nm: "Avrille",
+  value: 3035612
+},  {
+  id: 3035594,
+  label: "Ay",
+  lat: 49.054569,
+  lon: 4.00343,
+  nm: "Ay",
+  value: 3035594
+},  {
+  id: 3035576,
+  label: "Ayguesvives",
+  lat: 43.436359,
+  lon: 1.59505,
+  nm: "Ayguesvives",
+  value: 3035576
+},  {
+  id: 3035563,
+  label: "Ayse",
+  lat: 46.083328,
+  lon: 6.43333,
+  nm: "Ayse",
+  value: 3035563
+},  {
+  id: 3035560,
+  label: "Aytre",
+  lat: 46.1357,
+  lon: -1.11452,
+  nm: "Aytre",
+  value: 3035560
+},  {
+  id: 3035548,
+  label: "Azay-le-Rideau",
+  lat: 47.26405,
+  lon: 0.47132,
+  nm: "Azay-le-Rideau",
+  value: 3035548
+},  {
+  id: 3035547,
+  label: "Azay-sur-Cher",
+  lat: 47.349659,
+  lon: 0.84562,
+  nm: "Azay-sur-Cher",
+  value: 3035547
+},  {
+  id: 3035542,
+  label: "Aze",
+  lat: 47.822201,
+  lon: -0.68333,
+  nm: "Aze",
+  value: 3035542
+},  {
+  id: 3035498,
+  label: "Baccarat",
+  lat: 48.450859,
+  lon: 6.73935,
+  nm: "Baccarat",
+  value: 3035498
+},  {
+  id: 3035492,
+  label: "Bachant",
+  lat: 50.215401,
+  lon: 3.86835,
+  nm: "Bachant",
+  value: 3035492
+},  {
+  id: 3035459,
+  label: "Baden",
+  lat: 47.61734,
+  lon: -2.91987,
+  nm: "Baden",
+  value: 3035459
+},  {
+  id: 3035441,
+  label: "Bagard",
+  lat: 44.071259,
+  lon: 4.05225,
+  nm: "Bagard",
+  value: 3035441
+},  {
+  id: 3035437,
+  label: "Bage-la-Ville",
+  lat: 46.31654,
+  lon: 4.94666,
+  nm: "Bage-la-Ville",
+  value: 3035437
+},  {
+  id: 3035432,
+  label: "Bages",
+  lat: 42.605881,
+  lon: 2.8935,
+  nm: "Bages",
+  value: 3035432
+},  {
+  id: 3035418,
+  label: "Bagneres-de-Bigorre",
+  lat: 43.066669,
+  lon: 0.15,
+  nm: "Bagneres-de-Bigorre",
+  value: 3035418
+},  {
+  id: 3035416,
+  label: "Bagneres-de-Luchon",
+  lat: 42.790791,
+  lon: 0.59315,
+  nm: "Bagneres-de-Luchon",
+  value: 3035416
+},  {
+  id: 3035409,
+  label: "Bagneux",
+  lat: 48.795639,
+  lon: 2.30796,
+  nm: "Bagneux",
+  value: 3035409
+},  {
+  id: 3035403,
+  label: "Bagnolet",
+  lat: 48.866669,
+  lon: 2.41667,
+  nm: "Bagnolet",
+  value: 3035403
+},  {
+  id: 3035396,
+  label: "Bagnols-sur-Ceze",
+  lat: 44.159901,
+  lon: 4.61776,
+  nm: "Bagnols-sur-Ceze",
+  value: 3035396
+},  {
+  id: 3035388,
+  label: "Baho",
+  lat: 42.700001,
+  lon: 2.82204,
+  nm: "Baho",
+  value: 3035388
+},  {
+  id: 3035370,
+  label: "Baillargues",
+  lat: 43.66267,
+  lon: 4.01681,
+  nm: "Baillargues",
+  value: 3035370
+},  {
+  id: 3035359,
+  label: "Bailleul",
+  lat: 50.73592,
+  lon: 2.73594,
+  nm: "Bailleul",
+  value: 3035359
+},  {
+  id: 3035351,
+  label: "Bailleul-sur-Therain",
+  lat: 49.385262,
+  lon: 2.22279,
+  nm: "Bailleul-sur-Therain",
+  value: 3035351
+},  {
+  id: 3035340,
+  label: "Bailly",
+  lat: 48.841679,
+  lon: 2.07672,
+  nm: "Bailly",
+  value: 3035340
+},  {
+  id: 3035329,
+  label: "Bailly-Romainvilliers",
+  lat: 48.84729,
+  lon: 2.82352,
+  nm: "Bailly-Romainvilliers",
+  value: 3035329
+},  {
+  id: 3035324,
+  label: "Bain-de-Bretagne",
+  lat: 47.844181,
+  lon: -1.68486,
+  nm: "Bain-de-Bretagne",
+  value: 3035324
+},  {
+  id: 3035316,
+  label: "Bains-sur-Oust",
+  lat: 47.703621,
+  lon: -2.07047,
+  nm: "Bains-sur-Oust",
+  value: 3035316
+},  {
+  id: 3035309,
+  label: "Bais",
+  lat: 48.00959,
+  lon: -1.28983,
+  nm: "Bais",
+  value: 3035309
+},  {
+  id: 3035304,
+  label: "Baisieux",
+  lat: 50.60841,
+  lon: 3.25251,
+  nm: "Baisieux",
+  value: 3035304
+},  {
+  id: 3035295,
+  label: "Baixas",
+  lat: 42.749691,
+  lon: 2.81002,
+  nm: "Baixas",
+  value: 3035295
+},  {
+  id: 3035279,
+  label: "Balan",
+  lat: 45.834301,
+  lon: 5.09834,
+  nm: "Balan",
+  value: 3035279
+},  {
+  id: 3035267,
+  label: "Balaruc-le-Vieux",
+  lat: 43.461399,
+  lon: 3.6853,
+  nm: "Balaruc-le-Vieux",
+  value: 3035267
+},  {
+  id: 3035268,
+  label: "Balaruc-les-Bains",
+  lat: 43.4417,
+  lon: 3.6778,
+  nm: "Balaruc-les-Bains",
+  value: 3035268
+},  {
+  id: 3035263,
+  label: "Balaze",
+  lat: 48.167969,
+  lon: -1.19157,
+  nm: "Balaze",
+  value: 3035263
+},  {
+  id: 3035260,
+  label: "Balbigny",
+  lat: 45.819279,
+  lon: 4.18756,
+  nm: "Balbigny",
+  value: 3035260
+},  {
+  id: 3035254,
+  label: "Baldersheim",
+  lat: 47.801579,
+  lon: 7.3802,
+  nm: "Baldersheim",
+  value: 3035254
+},  {
+  id: 3035230,
+  label: "Ballainvilliers",
+  lat: 48.674809,
+  lon: 2.30057,
+  nm: "Ballainvilliers",
+  value: 3035230
+},  {
+  id: 3035226,
+  label: "Ballan-Mire",
+  lat: 47.340569,
+  lon: 0.61466,
+  nm: "Ballan-Mire",
+  value: 3035226
+},  {
+  id: 3035228,
+  label: "Ballancourt-sur-Essonne",
+  lat: 48.525249,
+  lon: 2.38604,
+  nm: "Ballancourt-sur-Essonne",
+  value: 3035228
+},  {
+  id: 3035204,
+  label: "Balma",
+  lat: 43.611111,
+  lon: 1.49944,
+  nm: "Balma",
+  value: 3035204
+},  {
+  id: 3035156,
+  label: "Bandol",
+  lat: 43.137089,
+  lon: 5.7316,
+  nm: "Bandol",
+  value: 3035156
+},  {
+  id: 3035139,
+  label: "Bannalec",
+  lat: 47.932289,
+  lon: -3.69759,
+  nm: "Bannalec",
+  value: 3035139
+},  {
+  id: 3035092,
+  label: "Banyuls de la Marenda",
+  lat: 42.483749,
+  lon: 3.12897,
+  nm: "Banyuls de la Marenda",
+  value: 3035092
+},  {
+  id: 3035088,
+  label: "Bapaume",
+  lat: 50.10379,
+  lon: 2.84966,
+  nm: "Bapaume",
+  value: 3035088
+},  {
+  id: 3034911,
+  label: "Bar-le-Duc",
+  lat: 48.783329,
+  lon: 5.16667,
+  nm: "Bar-le-Duc",
+  value: 3034911
+},  {
+  id: 3034802,
+  label: "Bar-sur-Aube",
+  lat: 48.23333,
+  lon: 4.71667,
+  nm: "Bar-sur-Aube",
+  value: 3034802
+},  {
+  id: 3034800,
+  label: "Bar-sur-Seine",
+  lat: 48.112942,
+  lon: 4.37656,
+  nm: "Bar-sur-Seine",
+  value: 3034800
+},  {
+  id: 3035065,
+  label: "Baraqueville",
+  lat: 44.27655,
+  lon: 2.43184,
+  nm: "Baraqueville",
+  value: 3035065
+},  {
+  id: 3035044,
+  label: "Barbazan-Debat",
+  lat: 43.195801,
+  lon: 0.1206,
+  nm: "Barbazan-Debat",
+  value: 3035044
+},  {
+  id: 3035036,
+  label: "Barbentane",
+  lat: 43.89967,
+  lon: 4.74921,
+  nm: "Barbentane",
+  value: 3035036
+},  {
+  id: 3035033,
+  label: "Barberaz",
+  lat: 45.549999,
+  lon: 5.93333,
+  nm: "Barberaz",
+  value: 3035033
+},  {
+  id: 3035016,
+  label: "Barbezieux-Saint-Hilaire",
+  lat: 45.472649,
+  lon: -0.15218,
+  nm: "Barbezieux-Saint-Hilaire",
+  value: 3035016
+},  {
+  id: 3034998,
+  label: "Barby",
+  lat: 45.570831,
+  lon: 5.98273,
+  nm: "Barby",
+  value: 3034998
+},  {
+  id: 3034991,
+  label: "Barcelonnette",
+  lat: 44.383331,
+  lon: 6.65,
+  nm: "Barcelonnette",
+  value: 3034991
+},  {
+  id: 3034951,
+  label: "Barentin",
+  lat: 49.54533,
+  lon: 0.95515,
+  nm: "Barentin",
+  value: 3034951
+},  {
+  id: 3034918,
+  label: "Barjols",
+  lat: 43.557819,
+  lon: 6.00783,
+  nm: "Barjols",
+  value: 3034918
+},  {
+  id: 3034903,
+  label: "Barlin",
+  lat: 50.452381,
+  lon: 2.61955,
+  nm: "Barlin",
+  value: 3034903
+},  {
+  id: 3034887,
+  label: "Barneville-Plage",
+  lat: 49.367859,
+  lon: -1.76512,
+  nm: "Barneville-Plage",
+  value: 3034887
+},  {
+  id: 3034868,
+  label: "Barr",
+  lat: 48.407551,
+  lon: 7.44873,
+  nm: "Barr",
+  value: 3034868
+},  {
+  id: 3034807,
+  label: "Barsac",
+  lat: 44.607449,
+  lon: -0.31527,
+  nm: "Barsac",
+  value: 3034807
+},  {
+  id: 3034798,
+  label: "Bart",
+  lat: 47.488609,
+  lon: 6.7709,
+  nm: "Bart",
+  value: 3034798
+},  {
+  id: 3034797,
+  label: "Bartenheim",
+  lat: 47.633541,
+  lon: 7.47712,
+  nm: "Bartenheim",
+  value: 3034797
+},  {
+  id: 3034746,
+  label: "Bas-en-Basset",
+  lat: 45.306541,
+  lon: 4.10899,
+  nm: "Bas-en-Basset",
+  value: 3034746
+},  {
+  id: 3034699,
+  label: "Basse-Goulaine",
+  lat: 47.21167,
+  lon: -1.46748,
+  nm: "Basse-Goulaine",
+  value: 3034699
+},  {
+  id: 3034698,
+  label: "Basse-Ham",
+  lat: 49.387131,
+  lon: 6.24228,
+  nm: "Basse-Ham",
+  value: 3034698
+},  {
+  id: 3034691,
+  label: "Bassens",
+  lat: 44.90226,
+  lon: -0.51631,
+  nm: "Bassens",
+  value: 3034691
+},  {
+  id: 3034690,
+  label: "Bassens",
+  lat: 45.58503,
+  lon: 5.94349,
+  nm: "Bassens",
+  value: 3034690
+},  {
+  id: 3034649,
+  label: "Bassussarry",
+  lat: 43.442719,
+  lon: -1.51647,
+  nm: "Bassussarry",
+  value: 3034649
+},  {
+  id: 3034640,
+  label: "Bastia",
+  lat: 42.702782,
+  lon: 9.45,
+  nm: "Bastia",
+  value: 3034640
+},  {
+  id: 3034585,
+  label: "Batz-sur-Mer",
+  lat: 47.2775,
+  lon: -2.48027,
+  nm: "Batz-sur-Mer",
+  value: 3034585
+},  {
+  id: 3034582,
+  label: "Baud",
+  lat: 47.874741,
+  lon: -3.0176,
+  nm: "Baud",
+  value: 3034582
+},  {
+  id: 3034554,
+  label: "Bauge",
+  lat: 47.544472,
+  lon: -0.10653,
+  nm: "Bauge",
+  value: 3034554
+},  {
+  id: 3034535,
+  label: "Baume-les-Dames",
+  lat: 47.352951,
+  lon: 6.36117,
+  nm: "Baume-les-Dames",
+  value: 3034535
+},  {
+  id: 3034521,
+  label: "Bauvin",
+  lat: 50.517139,
+  lon: 2.89404,
+  nm: "Bauvin",
+  value: 3034521
+},  {
+  id: 3034515,
+  label: "Bavans",
+  lat: 47.485279,
+  lon: 6.73324,
+  nm: "Bavans",
+  value: 3034515
+},  {
+  id: 3034514,
+  label: "Bavay",
+  lat: 50.298279,
+  lon: 3.79372,
+  nm: "Bavay",
+  value: 3034514
+},  {
+  id: 3034506,
+  label: "Bavilliers",
+  lat: 47.622551,
+  lon: 6.8311,
+  nm: "Bavilliers",
+  value: 3034506
+},  {
+  id: 3034483,
+  label: "Bayeux",
+  lat: 49.277321,
+  lon: -0.7039,
+  nm: "Bayeux",
+  value: 3034483
+},  {
+  id: 3034475,
+  label: "Bayonne",
+  lat: 43.48333,
+  lon: -1.48333,
+  nm: "Bayonne",
+  value: 3034475
+},  {
+  id: 3034461,
+  label: "Bazancourt",
+  lat: 49.36562,
+  lon: 4.17051,
+  nm: "Bazancourt",
+  value: 3034461
+},  {
+  id: 3034458,
+  label: "Bazas",
+  lat: 44.432018,
+  lon: -0.21327,
+  nm: "Bazas",
+  value: 3034458
+},  {
+  id: 3034454,
+  label: "Bazeilles",
+  lat: 49.676498,
+  lon: 4.97752,
+  nm: "Bazeilles",
+  value: 3034454
+},  {
+  id: 3034442,
+  label: "Baziege",
+  lat: 43.45454,
+  lon: 1.61399,
+  nm: "Baziege",
+  value: 3034442
+},  {
+  id: 3034382,
+  label: "Beaucaire",
+  lat: 43.80806,
+  lon: 4.64417,
+  nm: "Beaucaire",
+  value: 3034382
+},  {
+  id: 3034369,
+  label: "Beauchamp",
+  lat: 49.01667,
+  lon: 2.2,
+  nm: "Beauchamp",
+  value: 3034369
+},  {
+  id: 3034343,
+  label: "Beaucourt",
+  lat: 47.489899,
+  lon: 6.92407,
+  nm: "Beaucourt",
+  value: 3034343
+},  {
+  id: 3034339,
+  label: "Beaucouze",
+  lat: 47.474442,
+  lon: -0.63016,
+  nm: "Beaucouze",
+  value: 3034339
+},  {
+  id: 3034316,
+  label: "Beaufort",
+  lat: 45.717758,
+  lon: 6.57391,
+  nm: "Beaufort",
+  value: 3034316
+},  {
+  id: 3034309,
+  label: "Beaufort-en-Vallee",
+  lat: 47.439651,
+  lon: -0.2189,
+  nm: "Beaufort-en-Vallee",
+  value: 3034309
+},  {
+  id: 3034297,
+  label: "Beaugency",
+  lat: 47.78019,
+  lon: 1.62705,
+  nm: "Beaugency",
+  value: 3034297
+},  {
+  id: 3034287,
+  label: "Beaujeu",
+  lat: 46.15176,
+  lon: 4.59243,
+  nm: "Beaujeu",
+  value: 3034287
+},  {
+  id: 3034238,
+  label: "Beaulieu-sur-Mer",
+  lat: 43.707581,
+  lon: 7.33289,
+  nm: "Beaulieu-sur-Mer",
+  value: 3034238
+},  {
+  id: 3034218,
+  label: "Beaumes-de-Venise",
+  lat: 44.119339,
+  lon: 5.02426,
+  nm: "Beaumes-de-Venise",
+  value: 3034218
+},  {
+  id: 3034198,
+  label: "Beaumont",
+  lat: 45.751228,
+  lon: 3.08355,
+  nm: "Beaumont",
+  value: 3034198
+},  {
+  id: 3034170,
+  label: "Beaumont-de-Lomagne",
+  lat: 43.882858,
+  lon: 0.98762,
+  nm: "Beaumont-de-Lomagne",
+  value: 3034170
+},  {
+  id: 3034159,
+  label: "Beaumont-en-Veron",
+  lat: 47.19397,
+  lon: 0.18436,
+  nm: "Beaumont-en-Veron",
+  value: 3034159
+},  {
+  id: 3034153,
+  label: "Beaumont-le-Roger",
+  lat: 49.078388,
+  lon: 0.78081,
+  nm: "Beaumont-le-Roger",
+  value: 3034153
+},  {
+  id: 3034149,
+  label: "Beaumont-les-Valence",
+  lat: 44.863281,
+  lon: 4.9457,
+  nm: "Beaumont-les-Valence",
+  value: 3034149
+},  {
+  id: 3034141,
+  label: "Beaumont-sur-Oise",
+  lat: 49.142319,
+  lon: 2.28705,
+  nm: "Beaumont-sur-Oise",
+  value: 3034141
+},  {
+  id: 3034140,
+  label: "Beaumont-sur-Sarthe",
+  lat: 48.227718,
+  lon: 0.13186,
+  nm: "Beaumont-sur-Sarthe",
+  value: 3034140
+},  {
+  id: 3034126,
+  label: "Beaune",
+  lat: 47.033329,
+  lon: 4.83333,
+  nm: "Beaune",
+  value: 3034126
+},  {
+  id: 3034122,
+  label: "Beaune-la-Rolande",
+  lat: 48.071239,
+  lon: 2.4314,
+  nm: "Beaune-la-Rolande",
+  value: 3034122
+},  {
+  id: 3034111,
+  label: "Beaupreau",
+  lat: 47.204639,
+  lon: -0.98703,
+  nm: "Beaupreau",
+  value: 3034111
+},  {
+  id: 3034103,
+  label: "Beaurains",
+  lat: 50.265991,
+  lon: 2.79467,
+  nm: "Beaurains",
+  value: 3034103
+},  {
+  id: 3034101,
+  label: "Beaurainville",
+  lat: 50.42432,
+  lon: 1.89938,
+  nm: "Beaurainville",
+  value: 3034101
+},  {
+  id: 3034064,
+  label: "Beaurepaire",
+  lat: 45.336739,
+  lon: 5.05525,
+  nm: "Beaurepaire",
+  value: 3034064
+},  {
+  id: 3034041,
+  label: "Beausoleil",
+  lat: 43.749039,
+  lon: 7.41702,
+  nm: "Beausoleil",
+  value: 3034041
+},  {
+  id: 3034024,
+  label: "Beautiran",
+  lat: 44.70393,
+  lon: -0.45202,
+  nm: "Beautiran",
+  value: 3034024
+},  {
+  id: 3034023,
+  label: "Beautor",
+  lat: 49.652142,
+  lon: 3.34475,
+  nm: "Beautor",
+  value: 3034023
+},  {
+  id: 3034006,
+  label: "Beauvais",
+  lat: 49.433331,
+  lon: 2.08333,
+  nm: "Beauvais",
+  value: 3034006
+},  {
+  id: 3034001,
+  label: "Beauval",
+  lat: 50.107891,
+  lon: 2.33269,
+  nm: "Beauval",
+  value: 3034001
+},  {
+  id: 3033968,
+  label: "Beauvoir-sur-Mer",
+  lat: 46.912739,
+  lon: -2.04156,
+  nm: "Beauvoir-sur-Mer",
+  value: 3033968
+},  {
+  id: 3033962,
+  label: "Beauvois-en-Cambresis",
+  lat: 50.137348,
+  lon: 3.3787,
+  nm: "Beauvois-en-Cambresis",
+  value: 3033962
+},  {
+  id: 3033959,
+  label: "Beauvoisin",
+  lat: 43.718349,
+  lon: 4.32338,
+  nm: "Beauvoisin",
+  value: 3033959
+},  {
+  id: 3033955,
+  label: "Beauzac",
+  lat: 45.26001,
+  lon: 4.09879,
+  nm: "Beauzac",
+  value: 3033955
+},  {
+  id: 3033953,
+  label: "Beauzelle",
+  lat: 43.66713,
+  lon: 1.37518,
+  nm: "Beauzelle",
+  value: 3033953
+},  {
+  id: 3033927,
+  label: "Becon-les-Granits",
+  lat: 47.501339,
+  lon: -0.8,
+  nm: "Becon-les-Granits",
+  value: 3033927
+},  {
+  id: 3033913,
+  label: "Bedarieux",
+  lat: 43.615528,
+  lon: 3.15714,
+  nm: "Bedarieux",
+  value: 3033913
+},  {
+  id: 3033912,
+  label: "Bedarrides",
+  lat: 44.040218,
+  lon: 4.89819,
+  nm: "Bedarrides",
+  value: 3033912
+},  {
+  id: 3033908,
+  label: "Bedee",
+  lat: 48.179531,
+  lon: -1.94476,
+  nm: "Bedee",
+  value: 3033908
+},  {
+  id: 3033900,
+  label: "Bedoin",
+  lat: 44.124321,
+  lon: 5.1804,
+  nm: "Bedoin",
+  value: 3033900
+},  {
+  id: 3033884,
+  label: "Begard",
+  lat: 48.627541,
+  lon: -3.30067,
+  nm: "Begard",
+  value: 3033884
+},  {
+  id: 3033881,
+  label: "Begles",
+  lat: 44.808449,
+  lon: -0.54809,
+  nm: "Begles",
+  value: 3033881
+},  {
+  id: 3033853,
+  label: "Behren-les-Forbach",
+  lat: 49.166401,
+  lon: 6.94336,
+  nm: "Behren-les-Forbach",
+  value: 3033853
+},  {
+  id: 3033811,
+  label: "Belbeuf",
+  lat: 49.387661,
+  lon: 1.14245,
+  nm: "Belbeuf",
+  value: 3033811
+},  {
+  id: 3033791,
+  label: "Belfort",
+  lat: 47.633331,
+  lon: 6.86667,
+  nm: "Belfort",
+  value: 3033791
+},  {
+  id: 3033775,
+  label: "Beligneux",
+  lat: 45.868221,
+  lon: 5.12683,
+  nm: "Beligneux",
+  value: 3033775
+},  {
+  id: 3033773,
+  label: "Belin-Beliet",
+  lat: 44.5,
+  lon: -0.78333,
+  nm: "Belin-Beliet",
+  value: 3033773
+},  {
+  id: 3033766,
+  label: "Bellac",
+  lat: 46.116669,
+  lon: 1.05,
+  nm: "Bellac",
+  value: 3033766
+},  {
+  id: 3033698,
+  label: "Bellegarde",
+  lat: 43.753288,
+  lon: 4.51654,
+  nm: "Bellegarde",
+  value: 3033698
+},  {
+  id: 3033685,
+  label: "Bellegarde-sur-Valserine",
+  lat: 46.107868,
+  lon: 5.82421,
+  nm: "Bellegarde-sur-Valserine",
+  value: 3033685
+},  {
+  id: 3033666,
+  label: "Bellerive-sur-Allier",
+  lat: 46.116329,
+  lon: 3.40338,
+  nm: "Bellerive-sur-Allier",
+  value: 3033666
+},  {
+  id: 3033657,
+  label: "Belleu",
+  lat: 49.359169,
+  lon: 3.33556,
+  nm: "Belleu",
+  value: 3033657
+},  {
+  id: 3033636,
+  label: "Belleville",
+  lat: 46.099998,
+  lon: 4.75,
+  nm: "Belleville",
+  value: 3033636
+},  {
+  id: 3033637,
+  label: "Belleville-sur-Meuse",
+  lat: 49.178631,
+  lon: 5.3719,
+  nm: "Belleville-sur-Meuse",
+  value: 3033637
+},  {
+  id: 3033635,
+  label: "Belleville-sur-Vie",
+  lat: 46.783691,
+  lon: -1.42905,
+  nm: "Belleville-sur-Vie",
+  value: 3033635
+},  {
+  id: 3033625,
+  label: "Belley",
+  lat: 45.76667,
+  lon: 5.68333,
+  nm: "Belley",
+  value: 3033625
+},  {
+  id: 3033619,
+  label: "Bellignat",
+  lat: 46.242371,
+  lon: 5.62843,
+  nm: "Bellignat",
+  value: 3033619
+},  {
+  id: 3033534,
+  label: "Belz",
+  lat: 47.67506,
+  lon: -3.168,
+  nm: "Belz",
+  value: 3033534
+},  {
+  id: 3033500,
+  label: "Benesse-Maremne",
+  lat: 43.63678,
+  lon: -1.35773,
+  nm: "Benesse-Maremne",
+  value: 3033500
+},  {
+  id: 3033495,
+  label: "Benet",
+  lat: 46.36972,
+  lon: -0.59333,
+  nm: "Benet",
+  value: 3033495
+},  {
+  id: 3033488,
+  label: "Benfeld",
+  lat: 48.370621,
+  lon: 7.5937,
+  nm: "Benfeld",
+  value: 3033488
+},  {
+  id: 3033470,
+  label: "Benodet",
+  lat: 47.875309,
+  lon: -4.1058,
+  nm: "Benodet",
+  value: 3033470
+},  {
+  id: 3033415,
+  label: "Berck",
+  lat: 50.400002,
+  lon: 1.6,
+  nm: "Berck",
+  value: 3033415
+},  {
+  id: 3033416,
+  label: "Berck-Plage",
+  lat: 50.40704,
+  lon: 1.56446,
+  nm: "Berck-Plage",
+  value: 3033416
+},  {
+  id: 3033391,
+  label: "Bergerac",
+  lat: 44.849998,
+  lon: 0.48333,
+  nm: "Bergerac",
+  value: 3033391
+},  {
+  id: 3033363,
+  label: "Bergues",
+  lat: 50.968819,
+  lon: 2.43242,
+  nm: "Bergues",
+  value: 3033363
+},  {
+  id: 3033355,
+  label: "Berlaimont",
+  lat: 50.20155,
+  lon: 3.81343,
+  nm: "Berlaimont",
+  value: 3033355
+},  {
+  id: 3033308,
+  label: "Bernay",
+  lat: 49.088879,
+  lon: 0.59858,
+  nm: "Bernay",
+  value: 3033308
+},  {
+  id: 3033294,
+  label: "Bernes-sur-Oise",
+  lat: 49.161282,
+  lon: 2.3,
+  nm: "Bernes-sur-Oise",
+  value: 3033294
+},  {
+  id: 3033272,
+  label: "Bernieres-sur-Mer",
+  lat: 49.33057,
+  lon: -0.42299,
+  nm: "Bernieres-sur-Mer",
+  value: 3033272
+},  {
+  id: 3033269,
+  label: "Bernin",
+  lat: 45.2714,
+  lon: 5.86516,
+  nm: "Bernin",
+  value: 3033269
+},  {
+  id: 3033268,
+  label: "Bernis",
+  lat: 43.769131,
+  lon: 4.28713,
+  nm: "Bernis",
+  value: 3033268
+},  {
+  id: 3033241,
+  label: "Berre-lEtang",
+  lat: 43.478088,
+  lon: 5.17044,
+  nm: "Berre-lEtang",
+  value: 3033241
+},  {
+  id: 3033222,
+  label: "Bersee",
+  lat: 50.479778,
+  lon: 3.14765,
+  nm: "Bersee",
+  value: 3033222
+},  {
+  id: 3033219,
+  label: "Berstett",
+  lat: 48.679001,
+  lon: 7.65721,
+  nm: "Berstett",
+  value: 3033219
+},  {
+  id: 3033163,
+  label: "Bertrange",
+  lat: 49.30769,
+  lon: 6.17893,
+  nm: "Bertrange",
+  value: 3033163
+},  {
+  id: 3033149,
+  label: "Bertry",
+  lat: 50.087181,
+  lon: 3.44298,
+  nm: "Bertry",
+  value: 3033149
+},  {
+  id: 3033123,
+  label: "Besancon",
+  lat: 47.248779,
+  lon: 6.01815,
+  nm: "Besancon",
+  value: 3033123
+},  {
+  id: 3033108,
+  label: "Besne",
+  lat: 47.400002,
+  lon: -2.08976,
+  nm: "Besne",
+  value: 3033108
+},  {
+  id: 3033099,
+  label: "Bessan",
+  lat: 43.361961,
+  lon: 3.42288,
+  nm: "Bessan",
+  value: 3033099
+},  {
+  id: 3033098,
+  label: "Bessancourt",
+  lat: 49.037651,
+  lon: 2.20936,
+  nm: "Bessancourt",
+  value: 3033098
+},  {
+  id: 3033066,
+  label: "Besse-sur-Braye",
+  lat: 47.833328,
+  lon: 0.75,
+  nm: "Besse-sur-Braye",
+  value: 3033066
+},  {
+  id: 3033065,
+  label: "Besse-sur-Issole",
+  lat: 43.349571,
+  lon: 6.17759,
+  nm: "Besse-sur-Issole",
+  value: 3033065
+},  {
+  id: 3033073,
+  label: "Besseges",
+  lat: 44.292301,
+  lon: 4.0966,
+  nm: "Besseges",
+  value: 3033073
+},  {
+  id: 3033071,
+  label: "Bessenay",
+  lat: 45.77721,
+  lon: 4.55376,
+  nm: "Bessenay",
+  value: 3033071
+},  {
+  id: 3033056,
+  label: "Bessieres",
+  lat: 43.798611,
+  lon: 1.60624,
+  nm: "Bessieres",
+  value: 3033056
+},  {
+  id: 3033052,
+  label: "Bessines-sur-Gartempe",
+  lat: 46.10799,
+  lon: 1.36865,
+  nm: "Bessines-sur-Gartempe",
+  value: 3033052
+},  {
+  id: 3033014,
+  label: "Betheny",
+  lat: 49.284981,
+  lon: 4.05495,
+  nm: "Betheny",
+  value: 3033014
+},  {
+  id: 3033010,
+  label: "Bethisy-Saint-Pierre",
+  lat: 49.304821,
+  lon: 2.79636,
+  nm: "Bethisy-Saint-Pierre",
+  value: 3033010
+},  {
+  id: 3033006,
+  label: "Bethoncourt",
+  lat: 47.535118,
+  lon: 6.80504,
+  nm: "Bethoncourt",
+  value: 3033006
+},  {
+  id: 3033002,
+  label: "Bethune",
+  lat: 50.533329,
+  lon: 2.63333,
+  nm: "Bethune",
+  value: 3033002
+},  {
+  id: 2989816,
+  label: "Betschdorf",
+  lat: 48.900002,
+  lon: 7.9,
+  nm: "Betschdorf",
+  value: 2989816
+},  {
+  id: 3032981,
+  label: "Bettancourt-la-Ferree",
+  lat: 48.648979,
+  lon: 4.96971,
+  nm: "Bettancourt-la-Ferree",
+  value: 3032981
+},  {
+  id: 3032965,
+  label: "Betton",
+  lat: 48.180481,
+  lon: -1.63829,
+  nm: "Betton",
+  value: 3032965
+},  {
+  id: 3032919,
+  label: "Beuville",
+  lat: 49.243641,
+  lon: -0.32585,
+  nm: "Beuville",
+  value: 3032919
+},  {
+  id: 3032915,
+  label: "Beuvrages",
+  lat: 50.38414,
+  lon: 3.4942,
+  nm: "Beuvrages",
+  value: 3032915
+},  {
+  id: 3032903,
+  label: "Beuvry",
+  lat: 50.516739,
+  lon: 2.68541,
+  nm: "Beuvry",
+  value: 3032903
+},  {
+  id: 3032896,
+  label: "Beuzeville",
+  lat: 49.34483,
+  lon: 0.34254,
+  nm: "Beuzeville",
+  value: 3032896
+},  {
+  id: 3032880,
+  label: "Beychac-et-Caillau",
+  lat: 44.877811,
+  lon: -0.40219,
+  nm: "Beychac-et-Caillau",
+  value: 3032880
+},  {
+  id: 3032872,
+  label: "Beynes",
+  lat: 48.856258,
+  lon: 1.87261,
+  nm: "Beynes",
+  value: 3032872
+},  {
+  id: 3032869,
+  label: "Beynost",
+  lat: 45.838089,
+  lon: 5.00608,
+  nm: "Beynost",
+  value: 3032869
+},  {
+  id: 3032833,
+  label: "Beziers",
+  lat: 43.347618,
+  lon: 3.21899,
+  nm: "Beziers",
+  value: 3032833
+},  {
+  id: 3032824,
+  label: "Bezons",
+  lat: 48.924259,
+  lon: 2.2128,
+  nm: "Bezons",
+  value: 3032824
+},  {
+  id: 3032823,
+  label: "Bezouce",
+  lat: 43.88229,
+  lon: 4.49072,
+  nm: "Bezouce",
+  value: 3032823
+},  {
+  id: 3032815,
+  label: "Biache-Saint-Vaast",
+  lat: 50.308689,
+  lon: 2.94777,
+  nm: "Biache-Saint-Vaast",
+  value: 3032815
+},  {
+  id: 3032797,
+  label: "Biarritz",
+  lat: 43.480122,
+  lon: -1.55558,
+  nm: "Biarritz",
+  value: 3032797
+},  {
+  id: 3032794,
+  label: "Biars-sur-Cere",
+  lat: 44.926289,
+  lon: 1.85403,
+  nm: "Biars-sur-Cere",
+  value: 3032794
+},  {
+  id: 3032791,
+  label: "Bias",
+  lat: 44.41655,
+  lon: 0.66977,
+  nm: "Bias",
+  value: 3032791
+},  {
+  id: 3032767,
+  label: "Bidart",
+  lat: 43.437599,
+  lon: -1.59127,
+  nm: "Bidart",
+  value: 3032767
+},  {
+  id: 3032737,
+  label: "Bienville",
+  lat: 48.575821,
+  lon: 5.04579,
+  nm: "Bienville",
+  value: 3032737
+},  {
+  id: 3032712,
+  label: "Biesheim",
+  lat: 48.04118,
+  lon: 7.54474,
+  nm: "Biesheim",
+  value: 3032712
+},  {
+  id: 3032695,
+  label: "Bievres",
+  lat: 48.757721,
+  lon: 2.21881,
+  nm: "Bievres",
+  value: 3032695
+},  {
+  id: 3032688,
+  label: "Biganos",
+  lat: 44.645039,
+  lon: -0.97367,
+  nm: "Biganos",
+  value: 3032688
+},  {
+  id: 3032685,
+  label: "Bignan",
+  lat: 47.879349,
+  lon: -2.77153,
+  nm: "Bignan",
+  value: 3032685
+},  {
+  id: 3032668,
+  label: "Biguglia",
+  lat: 42.625889,
+  lon: 9.43324,
+  nm: "Biguglia",
+  value: 3032668
+},  {
+  id: 3032662,
+  label: "Bihorel",
+  lat: 49.454681,
+  lon: 1.1223,
+  nm: "Bihorel",
+  value: 3032662
+},  {
+  id: 3032639,
+  label: "Billere",
+  lat: 43.299999,
+  lon: -0.4,
+  nm: "Billere",
+  value: 3032639
+},  {
+  id: 3032629,
+  label: "Billom",
+  lat: 45.72303,
+  lon: 3.34243,
+  nm: "Billom",
+  value: 3032629
+},  {
+  id: 3032622,
+  label: "Billy-Berclau",
+  lat: 50.51783,
+  lon: 2.86613,
+  nm: "Billy-Berclau",
+  value: 3032622
+},  {
+  id: 3032618,
+  label: "Billy-Montigny",
+  lat: 50.41711,
+  lon: 2.90286,
+  nm: "Billy-Montigny",
+  value: 3032618
+},  {
+  id: 3032600,
+  label: "Binic",
+  lat: 48.60416,
+  lon: -2.82692,
+  nm: "Binic",
+  value: 3032600
+},  {
+  id: 3032579,
+  label: "Biot",
+  lat: 43.627232,
+  lon: 7.09645,
+  nm: "Biot",
+  value: 3032579
+},  {
+  id: 3032556,
+  label: "Biscarrosse",
+  lat: 44.394539,
+  lon: -1.16721,
+  nm: "Biscarrosse",
+  value: 3032556
+},  {
+  id: 3032551,
+  label: "Bischheim",
+  lat: 48.616119,
+  lon: 7.75343,
+  nm: "Bischheim",
+  value: 3032551
+},  {
+  id: 3032549,
+  label: "Bischoffsheim",
+  lat: 48.48703,
+  lon: 7.48967,
+  nm: "Bischoffsheim",
+  value: 3032549
+},  {
+  id: 3032544,
+  label: "Bischwiller",
+  lat: 48.765881,
+  lon: 7.85831,
+  nm: "Bischwiller",
+  value: 3032544
+},  {
+  id: 3032518,
+  label: "Bitche",
+  lat: 49.050091,
+  lon: 7.42672,
+  nm: "Bitche",
+  value: 3032518
+},  {
+  id: 3032509,
+  label: "Bitschwiller-les-Thann",
+  lat: 47.828629,
+  lon: 7.08066,
+  nm: "Bitschwiller-les-Thann",
+  value: 3032509
+},  {
+  id: 3032505,
+  label: "Biviers",
+  lat: 45.23333,
+  lon: 5.8,
+  nm: "Biviers",
+  value: 3032505
+},  {
+  id: 3032496,
+  label: "Bizanos",
+  lat: 43.283329,
+  lon: -0.35,
+  nm: "Bizanos",
+  value: 3032496
+},  {
+  id: 3032469,
+  label: "Blagnac",
+  lat: 43.632759,
+  lon: 1.39399,
+  nm: "Blagnac",
+  value: 3032469
+},  {
+  id: 3032462,
+  label: "Blain",
+  lat: 47.476551,
+  lon: -1.76285,
+  nm: "Blain",
+  value: 3032462
+},  {
+  id: 3032452,
+  label: "Blainville-sur-Orne",
+  lat: 49.22913,
+  lon: -0.30061,
+  nm: "Blainville-sur-Orne",
+  value: 3032452
+},  {
+  id: 3032349,
+  label: "Blangy-sur-Bresle",
+  lat: 49.93211,
+  lon: 1.62514,
+  nm: "Blangy-sur-Bresle",
+  value: 3032349
+},  {
+  id: 3032340,
+  label: "Blanquefort",
+  lat: 44.912479,
+  lon: -0.63663,
+  nm: "Blanquefort",
+  value: 3032340
+},  {
+  id: 3032331,
+  label: "Blanzat",
+  lat: 45.831371,
+  lon: 3.08111,
+  nm: "Blanzat",
+  value: 3032331
+},  {
+  id: 3032326,
+  label: "Blanzy",
+  lat: 46.700119,
+  lon: 4.38833,
+  nm: "Blanzy",
+  value: 3032326
+},  {
+  id: 3032319,
+  label: "Blaringhem",
+  lat: 50.691101,
+  lon: 2.40321,
+  nm: "Blaringhem",
+  value: 3032319
+},  {
+  id: 2967108,
+  label: "Blaye",
+  lat: 45.133331,
+  lon: -0.66667,
+  nm: "Blaye",
+  value: 2967108
+},  {
+  id: 3032292,
+  label: "Blaye-les-Mines",
+  lat: 44.030731,
+  lon: 2.13166,
+  nm: "Blaye-les-Mines",
+  value: 3032292
+},  {
+  id: 3032279,
+  label: "Blendecques",
+  lat: 50.71843,
+  lon: 2.28601,
+  nm: "Blendecques",
+  value: 3032279
+},  {
+  id: 3032275,
+  label: "Blenod-les-Pont-a-Mousson",
+  lat: 48.884869,
+  lon: 6.04844,
+  nm: "Blenod-les-Pont-a-Mousson",
+  value: 3032275
+},  {
+  id: 3032267,
+  label: "Blere",
+  lat: 47.327381,
+  lon: 0.99186,
+  nm: "Blere",
+  value: 3032267
+},  {
+  id: 3032213,
+  label: "Blois",
+  lat: 47.583328,
+  lon: 1.33333,
+  nm: "Blois",
+  value: 3032213
+},  {
+  id: 3032194,
+  label: "Blotzheim",
+  lat: 47.602051,
+  lon: 7.4963,
+  nm: "Blotzheim",
+  value: 3032194
+},  {
+  id: 3032179,
+  label: "Bobigny",
+  lat: 48.900002,
+  lon: 2.45,
+  nm: "Bobigny",
+  value: 3032179
+},  {
+  id: 3032156,
+  label: "Boe",
+  lat: 44.160061,
+  lon: 0.62905,
+  nm: "Boe",
+  value: 3032156
+},  {
+  id: 3032151,
+  label: "Boen-sur-Lignon",
+  lat: 45.746181,
+  lon: 4.00959,
+  nm: "Boen-sur-Lignon",
+  value: 3032151
+},  {
+  id: 3032147,
+  label: "Boersch",
+  lat: 48.476559,
+  lon: 7.43998,
+  nm: "Boersch",
+  value: 3032147
+},  {
+  id: 3032146,
+  label: "Boeschepe",
+  lat: 50.799999,
+  lon: 2.7,
+  nm: "Boeschepe",
+  value: 3032146
+},  {
+  id: 3032127,
+  label: "Bohain-en-Vermandois",
+  lat: 49.987301,
+  lon: 3.453,
+  nm: "Bohain-en-Vermandois",
+  value: 3032127
+},  {
+  id: 3032125,
+  label: "Bohars",
+  lat: 48.42984,
+  lon: -4.51292,
+  nm: "Bohars",
+  value: 3032125
+},  {
+  id: 3032118,
+  label: "Boigny-sur-Bionne",
+  lat: 47.933331,
+  lon: 2.01667,
+  nm: "Boigny-sur-Bionne",
+  value: 3032118
+},  {
+  id: 3032070,
+  label: "Bois-Colombes",
+  lat: 48.919361,
+  lon: 2.27484,
+  nm: "Bois-Colombes",
+  value: 3032070
+},  {
+  id: 3032064,
+  label: "Bois-dArcy",
+  lat: 48.79966,
+  lon: 2.02325,
+  nm: "Bois-dArcy",
+  value: 3032064
+},  {
+  id: 3032025,
+  label: "Bois-Guillaume",
+  lat: 49.460201,
+  lon: 1.12219,
+  nm: "Bois-Guillaume",
+  value: 3032025
+},  {
+  id: 3032008,
+  label: "Bois-le-Roi",
+  lat: 48.47348,
+  lon: 2.70464,
+  nm: "Bois-le-Roi",
+  value: 3032008
+},  {
+  id: 3031941,
+  label: "Boisset-et-Gaujac",
+  lat: 44.047501,
+  lon: 4.00861,
+  nm: "Boisset-et-Gaujac",
+  value: 3031941
+},  {
+  id: 3031930,
+  label: "Boisseuil",
+  lat: 45.769772,
+  lon: 1.33333,
+  nm: "Boisseuil",
+  value: 3031930
+},  {
+  id: 3031917,
+  label: "Boissise-le-Roi",
+  lat: 48.524799,
+  lon: 2.56971,
+  nm: "Boissise-le-Roi",
+  value: 3031917
+},  {
+  id: 3031906,
+  label: "Boissy-le-Chatel",
+  lat: 48.820728,
+  lon: 3.13651,
+  nm: "Boissy-le-Chatel",
+  value: 3031906
+},  {
+  id: 3031898,
+  label: "Boissy-Saint-Leger",
+  lat: 48.751499,
+  lon: 2.51163,
+  nm: "Boissy-Saint-Leger",
+  value: 3031898
+},  {
+  id: 3031896,
+  label: "Boissy-sous-Saint-Yon",
+  lat: 48.553791,
+  lon: 2.21212,
+  nm: "Boissy-sous-Saint-Yon",
+  value: 3031896
+},  {
+  id: 3031871,
+  label: "Bolbec",
+  lat: 49.573212,
+  lon: 0.47339,
+  nm: "Bolbec",
+  value: 3031871
+},  {
+  id: 3031868,
+  label: "Bollene",
+  lat: 44.28476,
+  lon: 4.75303,
+  nm: "Bollene",
+  value: 3031868
+},  {
+  id: 3031864,
+  label: "Bollwiller",
+  lat: 47.858318,
+  lon: 7.26179,
+  nm: "Bollwiller",
+  value: 3031864
+},  {
+  id: 3031848,
+  label: "Bompas",
+  lat: 42.73333,
+  lon: 2.93333,
+  nm: "Bompas",
+  value: 3031848
+},  {
+  id: 3031813,
+  label: "Bon-Encontre",
+  lat: 44.185181,
+  lon: 0.66759,
+  nm: "Bon-Encontre",
+  value: 3031813
+},  {
+  id: 3031835,
+  label: "Bonchamp-les-Laval",
+  lat: 48.07357,
+  lon: -0.7,
+  nm: "Bonchamp-les-Laval",
+  value: 3031835
+},  {
+  id: 3031818,
+  label: "Bondoufle",
+  lat: 48.612942,
+  lon: 2.37775,
+  nm: "Bondoufle",
+  value: 3031818
+},  {
+  id: 3031817,
+  label: "Bondues",
+  lat: 50.701962,
+  lon: 3.09497,
+  nm: "Bondues",
+  value: 3031817
+},  {
+  id: 3031815,
+  label: "Bondy",
+  lat: 48.901798,
+  lon: 2.48931,
+  nm: "Bondy",
+  value: 3031815
+},  {
+  id: 3031801,
+  label: "Bonifacio",
+  lat: 41.387402,
+  lon: 9.15942,
+  nm: "Bonifacio",
+  value: 3031801
+},  {
+  id: 3031729,
+  label: "Bonne-sur-Menoge",
+  lat: 46.166,
+  lon: 6.32276,
+  nm: "Bonne-sur-Menoge",
+  value: 3031729
+},  {
+  id: 3031744,
+  label: "Bonnelles",
+  lat: 48.61816,
+  lon: 2.02922,
+  nm: "Bonnelles",
+  value: 3031744
+},  {
+  id: 3031723,
+  label: "Bonnetable",
+  lat: 48.179081,
+  lon: 0.4257,
+  nm: "Bonnetable",
+  value: 3031723
+},  {
+  id: 3031710,
+  label: "Bonneuil-Matours",
+  lat: 46.681549,
+  lon: 0.57063,
+  nm: "Bonneuil-Matours",
+  value: 3031710
+},  {
+  id: 3031709,
+  label: "Bonneuil-sur-Marne",
+  lat: 48.769501,
+  lon: 2.4793,
+  nm: "Bonneuil-sur-Marne",
+  value: 3031709
+},  {
+  id: 3031702,
+  label: "Bonneval",
+  lat: 48.183121,
+  lon: 1.38524,
+  nm: "Bonneval",
+  value: 3031702
+},  {
+  id: 3031679,
+  label: "Bonneville",
+  lat: 46.0802,
+  lon: 6.40726,
+  nm: "Bonneville",
+  value: 3031679
+},  {
+  id: 3031667,
+  label: "Bonnieres-sur-Seine",
+  lat: 49.035252,
+  lon: 1.5783,
+  nm: "Bonnieres-sur-Seine",
+  value: 3031667
+},  {
+  id: 3031656,
+  label: "Bonny-sur-Loire",
+  lat: 47.561722,
+  lon: 2.83933,
+  nm: "Bonny-sur-Loire",
+  value: 3031656
+},  {
+  id: 3031644,
+  label: "Bons-en-Chablais",
+  lat: 46.26667,
+  lon: 6.38333,
+  nm: "Bons-en-Chablais",
+  value: 3031644
+},  {
+  id: 3031639,
+  label: "Bonson",
+  lat: 45.524559,
+  lon: 4.21659,
+  nm: "Bonson",
+  value: 3031639
+},  {
+  id: 3031612,
+  label: "Boos",
+  lat: 49.388481,
+  lon: 1.20348,
+  nm: "Boos",
+  value: 3031612
+},  {
+  id: 3031605,
+  label: "Boran-sur-Oise",
+  lat: 49.167149,
+  lon: 2.35803,
+  nm: "Boran-sur-Oise",
+  value: 3031605
+},  {
+  id: 3031582,
+  label: "Bordeaux",
+  lat: 44.840439,
+  lon: -0.5805,
+  nm: "Bordeaux",
+  value: 3031582
+},  {
+  id: 3031567,
+  label: "Bordes",
+  lat: 43.23333,
+  lon: -0.28333,
+  nm: "Bordes",
+  value: 3031567
+},  {
+  id: 3031537,
+  label: "Borgo",
+  lat: 42.554878,
+  lon: 9.42636,
+  nm: "Borgo",
+  value: 3031537
+},  {
+  id: 3031532,
+  label: "Bormes-les-Mimosas",
+  lat: 43.140732,
+  lon: 6.33863,
+  nm: "Bormes-les-Mimosas",
+  value: 3031532
+},  {
+  id: 3031516,
+  label: "Bornel",
+  lat: 49.1982,
+  lon: 2.20912,
+  nm: "Bornel",
+  value: 3031516
+},  {
+  id: 3031501,
+  label: "Bort-les-Orgues",
+  lat: 45.400002,
+  lon: 2.5,
+  nm: "Bort-les-Orgues",
+  value: 3031501
+},  {
+  id: 3031462,
+  label: "Bosmie-lAiguille",
+  lat: 45.75,
+  lon: 1.2,
+  nm: "Bosmie-lAiguille",
+  value: 3031462
+},  {
+  id: 3031409,
+  label: "Bouafle",
+  lat: 48.96463,
+  lon: 1.9012,
+  nm: "Bouafle",
+  value: 3031409
+},  {
+  id: 3031403,
+  label: "Bouaye",
+  lat: 47.142632,
+  lon: -1.69306,
+  nm: "Bouaye",
+  value: 3031403
+},  {
+  id: 3031387,
+  label: "Bouc-Bel-Air",
+  lat: 43.452171,
+  lon: 5.413,
+  nm: "Bouc-Bel-Air",
+  value: 3031387
+},  {
+  id: 3031389,
+  label: "Boucau",
+  lat: 43.527699,
+  lon: -1.46556,
+  nm: "Boucau",
+  value: 3031389
+},  {
+  id: 3031380,
+  label: "Bouchain",
+  lat: 50.285191,
+  lon: 3.31491,
+  nm: "Bouchain",
+  value: 3031380
+},  {
+  id: 3031368,
+  label: "Bouchemaine",
+  lat: 47.42234,
+  lon: -0.60888,
+  nm: "Bouchemaine",
+  value: 3031368
+},  {
+  id: 3031294,
+  label: "Bouffemont",
+  lat: 49.04377,
+  lon: 2.29796,
+  nm: "Bouffemont",
+  value: 3031294
+},  {
+  id: 3031277,
+  label: "Bougival",
+  lat: 48.862228,
+  lon: 2.14148,
+  nm: "Bougival",
+  value: 3031277
+},  {
+  id: 3031268,
+  label: "Bouguenais",
+  lat: 47.17762,
+  lon: -1.62143,
+  nm: "Bouguenais",
+  value: 3031268
+},  {
+  id: 3031240,
+  label: "Bouillargues",
+  lat: 43.797329,
+  lon: 4.42853,
+  nm: "Bouillargues",
+  value: 3031240
+},  {
+  id: 3031222,
+  label: "Bouin",
+  lat: 46.973141,
+  lon: -1.9983,
+  nm: "Bouin",
+  value: 3031222
+},  {
+  id: 3031205,
+  label: "Boujan-sur-Libron",
+  lat: 43.369961,
+  lon: 3.24759,
+  nm: "Boujan-sur-Libron",
+  value: 3031205
+},  {
+  id: 3031182,
+  label: "Boulay-Moselle",
+  lat: 49.183331,
+  lon: 6.5,
+  nm: "Boulay-Moselle",
+  value: 3031182
+},  {
+  id: 3031180,
+  label: "Boulazac",
+  lat: 45.116669,
+  lon: 0.75,
+  nm: "Boulazac",
+  value: 3031180
+},  {
+  id: 3031164,
+  label: "Bouliac",
+  lat: 44.817242,
+  lon: -0.50248,
+  nm: "Bouliac",
+  value: 3031164
+},  {
+  id: 3031161,
+  label: "Boulieu-les-Annonay",
+  lat: 45.27084,
+  lon: 4.66718,
+  nm: "Boulieu-les-Annonay",
+  value: 3031161
+},  {
+  id: 3031158,
+  label: "Bouligny",
+  lat: 49.291889,
+  lon: 5.74248,
+  nm: "Bouligny",
+  value: 3031158
+},  {
+  id: 3031144,
+  label: "Bouloc",
+  lat: 43.781631,
+  lon: 1.40522,
+  nm: "Bouloc",
+  value: 3031144
+},  {
+  id: 3031137,
+  label: "Boulogne-Billancourt",
+  lat: 48.833328,
+  lon: 2.25,
+  nm: "Boulogne-Billancourt",
+  value: 3031137
+},  {
+  id: 3031133,
+  label: "Boulogne-sur-Mer",
+  lat: 50.716671,
+  lon: 1.61667,
+  nm: "Boulogne-sur-Mer",
+  value: 3031133
+},  {
+  id: 3031129,
+  label: "Bouloire",
+  lat: 47.97385,
+  lon: 0.55009,
+  nm: "Bouloire",
+  value: 3031129
+},  {
+  id: 3031098,
+  label: "Bouray-sur-Juine",
+  lat: 48.51981,
+  lon: 2.30001,
+  nm: "Bouray-sur-Juine",
+  value: 3031098
+},  {
+  id: 3031090,
+  label: "Bourbon-Lancy",
+  lat: 46.622139,
+  lon: 3.76953,
+  nm: "Bourbon-Lancy",
+  value: 3031090
+},  {
+  id: 3031086,
+  label: "Bourbonne-les-Bains",
+  lat: 47.953049,
+  lon: 5.74801,
+  nm: "Bourbonne-les-Bains",
+  value: 3031086
+},  {
+  id: 3031085,
+  label: "Bourbourg",
+  lat: 50.94783,
+  lon: 2.19576,
+  nm: "Bourbourg",
+  value: 3031085
+},  {
+  id: 3031081,
+  label: "Bourbriac",
+  lat: 48.473839,
+  lon: -3.18758,
+  nm: "Bourbriac",
+  value: 3031081
+},  {
+  id: 3031080,
+  label: "Bourcefranc-le-Chapus",
+  lat: 45.849998,
+  lon: -1.15,
+  nm: "Bourcefranc-le-Chapus",
+  value: 3031080
+},  {
+  id: 3030947,
+  label: "Bourg",
+  lat: 45.040619,
+  lon: -0.55893,
+  nm: "Bourg",
+  value: 3030947
+},  {
+  id: 3031035,
+  label: "Bourg-Achard",
+  lat: 49.353222,
+  lon: 0.81623,
+  nm: "Bourg-Achard",
+  value: 3031035
+},  {
+  id: 3031030,
+  label: "Bourg-Argental",
+  lat: 45.295898,
+  lon: 4.56037,
+  nm: "Bourg-Argental",
+  value: 3031030
+},  {
+  id: 3031027,
+  label: "Bourg-Blanc",
+  lat: 48.498669,
+  lon: -4.50406,
+  nm: "Bourg-Blanc",
+  value: 3031027
+},  {
+  id: 3031020,
+  label: "Bourg-de-Peage",
+  lat: 45.028252,
+  lon: 5.07162,
+  nm: "Bourg-de-Peage",
+  value: 3031020
+},  {
+  id: 3031017,
+  label: "Bourg-de-Thizy",
+  lat: 46.03371,
+  lon: 4.29904,
+  nm: "Bourg-de-Thizy",
+  value: 3031017
+},  {
+  id: 3031019,
+  label: "Bourg-des-Comptes",
+  lat: 47.92934,
+  lon: -1.74534,
+  nm: "Bourg-des-Comptes",
+  value: 3031019
+},  {
+  id: 3031009,
+  label: "Bourg-en-Bresse",
+  lat: 46.205742,
+  lon: 5.2258,
+  nm: "Bourg-en-Bresse",
+  value: 3031009
+},  {
+  id: 3030990,
+  label: "Bourg-la-Reine",
+  lat: 48.778881,
+  lon: 2.31781,
+  nm: "Bourg-la-Reine",
+  value: 3030990
+},  {
+  id: 3030985,
+  label: "Bourg-les-Valence",
+  lat: 44.956009,
+  lon: 4.91023,
+  nm: "Bourg-les-Valence",
+  value: 3030985
+},  {
+  id: 3030953,
+  label: "Bourg-Saint-Andeol",
+  lat: 44.37566,
+  lon: 4.64273,
+  nm: "Bourg-Saint-Andeol",
+  value: 3030953
+},  {
+  id: 3030949,
+  label: "Bourg-Saint-Maurice",
+  lat: 45.617161,
+  lon: 6.76902,
+  nm: "Bourg-Saint-Maurice",
+  value: 3030949
+},  {
+  id: 3031032,
+  label: "Bourganeuf",
+  lat: 45.952679,
+  lon: 1.7552,
+  nm: "Bourganeuf",
+  value: 3031032
+},  {
+  id: 3031029,
+  label: "Bourgbarre",
+  lat: 47.995152,
+  lon: -1.61419,
+  nm: "Bourgbarre",
+  value: 3031029
+},  {
+  id: 3031005,
+  label: "Bourges",
+  lat: 47.083328,
+  lon: 2.4,
+  nm: "Bourges",
+  value: 3031005
+},  {
+  id: 3030970,
+  label: "Bourgneuf-en-Retz",
+  lat: 47.041222,
+  lon: -1.9502,
+  nm: "Bourgneuf-en-Retz",
+  value: 3030970
+},  {
+  id: 3030960,
+  label: "Bourgoin",
+  lat: 45.583328,
+  lon: 5.28333,
+  nm: "Bourgoin",
+  value: 3030960
+},  {
+  id: 6615539,
+  label: "Bourgoin-Jallieu",
+  lat: 45.586109,
+  lon: 5.27361,
+  nm: "Bourgoin-Jallieu",
+  value: 6615539
+},  {
+  id: 3030946,
+  label: "Bourgtheroulde-Infreville",
+  lat: 49.299999,
+  lon: 0.88333,
+  nm: "Bourgtheroulde-Infreville",
+  value: 3030946
+},  {
+  id: 3030944,
+  label: "Bourgueil",
+  lat: 47.283329,
+  lon: 0.16612,
+  nm: "Bourgueil",
+  value: 3030944
+},  {
+  id: 3030902,
+  label: "Bournezeau",
+  lat: 46.637138,
+  lon: -1.17107,
+  nm: "Bournezeau",
+  value: 3030902
+},  {
+  id: 3030891,
+  label: "Bourogne",
+  lat: 47.56287,
+  lon: 6.91613,
+  nm: "Bourogne",
+  value: 3030891
+},  {
+  id: 3030876,
+  label: "Bourron-Marlotte",
+  lat: 48.340511,
+  lon: 2.70041,
+  nm: "Bourron-Marlotte",
+  value: 3030876
+},  {
+  id: 3030847,
+  label: "Bousbecque",
+  lat: 50.771229,
+  lon: 3.08459,
+  nm: "Bousbecque",
+  value: 3030847
+},  {
+  id: 3030822,
+  label: "Boussay",
+  lat: 47.044762,
+  lon: -1.18476,
+  nm: "Boussay",
+  value: 3030822
+},  {
+  id: 3030819,
+  label: "Bousse",
+  lat: 49.279251,
+  lon: 6.19525,
+  nm: "Bousse",
+  value: 3030819
+},  {
+  id: 3030799,
+  label: "Boussois",
+  lat: 50.28907,
+  lon: 4.04117,
+  nm: "Boussois",
+  value: 3030799
+},  {
+  id: 3030787,
+  label: "Boussy-Saint-Antoine",
+  lat: 48.69101,
+  lon: 2.5306,
+  nm: "Boussy-Saint-Antoine",
+  value: 3030787
+},  {
+  id: 3030755,
+  label: "Boutigny-sur-Essonne",
+  lat: 48.433331,
+  lon: 2.38333,
+  nm: "Boutigny-sur-Essonne",
+  value: 3030755
+},  {
+  id: 3030727,
+  label: "Bouvigny-Boyeffles",
+  lat: 50.421459,
+  lon: 2.67209,
+  nm: "Bouvigny-Boyeffles",
+  value: 3030727
+},  {
+  id: 3030718,
+  label: "Bouvron",
+  lat: 47.417259,
+  lon: -1.84679,
+  nm: "Bouvron",
+  value: 3030718
+},  {
+  id: 3030713,
+  label: "Bouxieres-aux-Dames",
+  lat: 48.751942,
+  lon: 6.16918,
+  nm: "Bouxieres-aux-Dames",
+  value: 3030713
+},  {
+  id: 3030708,
+  label: "Bouxwiller",
+  lat: 48.824951,
+  lon: 7.48117,
+  nm: "Bouxwiller",
+  value: 3030708
+},  {
+  id: 3030668,
+  label: "Bouzonville",
+  lat: 49.291882,
+  lon: 6.53386,
+  nm: "Bouzonville",
+  value: 3030668
+},  {
+  id: 3030659,
+  label: "Boves",
+  lat: 49.846451,
+  lon: 2.39605,
+  nm: "Boves",
+  value: 3030659
+},  {
+  id: 3030656,
+  label: "Boyard-Ville",
+  lat: 45.967171,
+  lon: -1.24289,
+  nm: "Boyard-Ville",
+  value: 3030656
+},  {
+  id: 3030641,
+  label: "Bozel",
+  lat: 45.442879,
+  lon: 6.64896,
+  nm: "Bozel",
+  value: 3030641
+},  {
+  id: 3030640,
+  label: "Bozouls",
+  lat: 44.470501,
+  lon: 2.72432,
+  nm: "Bozouls",
+  value: 3030640
+},  {
+  id: 3030604,
+  label: "Braine",
+  lat: 49.342609,
+  lon: 3.53262,
+  nm: "Braine",
+  value: 3030604
+},  {
+  id: 3030603,
+  label: "Brains",
+  lat: 47.168499,
+  lon: -1.7229,
+  nm: "Brains",
+  value: 3030603
+},  {
+  id: 3030589,
+  label: "Bram",
+  lat: 43.243759,
+  lon: 2.11341,
+  nm: "Bram",
+  value: 3030589
+},  {
+  id: 3030553,
+  label: "Branges",
+  lat: 46.644409,
+  lon: 5.18465,
+  nm: "Branges",
+  value: 3030553
+},  {
+  id: 3030534,
+  label: "Brantome",
+  lat: 45.360909,
+  lon: 0.65398,
+  nm: "Brantome",
+  value: 3030534
+},  {
+  id: 3030517,
+  label: "Brassac-les-Mines",
+  lat: 45.411049,
+  lon: 3.32915,
+  nm: "Brassac-les-Mines",
+  value: 3030517
+},  {
+  id: 3030485,
+  label: "Brax",
+  lat: 43.617931,
+  lon: 1.23957,
+  nm: "Brax",
+  value: 3030485
+},  {
+  id: 3030473,
+  label: "Bray-Dunes",
+  lat: 51.077862,
+  lon: 2.51673,
+  nm: "Bray-Dunes",
+  value: 3030473
+},  {
+  id: 3030460,
+  label: "Bray-sur-Seine",
+  lat: 48.413712,
+  lon: 3.23852,
+  nm: "Bray-sur-Seine",
+  value: 3030460
+},  {
+  id: 3030457,
+  label: "Brazey-en-Plaine",
+  lat: 47.13784,
+  lon: 5.21538,
+  nm: "Brazey-en-Plaine",
+  value: 3030457
+},  {
+  id: 3030456,
+  label: "Breal-sous-Montfort",
+  lat: 48.048759,
+  lon: -1.86438,
+  nm: "Breal-sous-Montfort",
+  value: 3030456
+},  {
+  id: 3030446,
+  label: "Brebieres",
+  lat: 50.333328,
+  lon: 3.01667,
+  nm: "Brebieres",
+  value: 3030446
+},  {
+  id: 3030442,
+  label: "Brecey",
+  lat: 48.724129,
+  lon: -1.16647,
+  nm: "Brecey",
+  value: 3030442
+},  {
+  id: 3030440,
+  label: "Brech",
+  lat: 47.72134,
+  lon: -2.99862,
+  nm: "Brech",
+  value: 3030440
+},  {
+  id: 3030405,
+  label: "Brehal",
+  lat: 48.899151,
+  lon: -1.51225,
+  nm: "Brehal",
+  value: 3030405
+},  {
+  id: 3030387,
+  label: "Breil-sur-Roya",
+  lat: 43.943409,
+  lon: 7.51474,
+  nm: "Breil-sur-Roya",
+  value: 3030387
+},  {
+  id: 3030340,
+  label: "Brenouille",
+  lat: 49.305511,
+  lon: 2.54437,
+  nm: "Brenouille",
+  value: 3030340
+},  {
+  id: 3030323,
+  label: "Bresles",
+  lat: 49.410439,
+  lon: 2.25024,
+  nm: "Bresles",
+  value: 3030323
+},  {
+  id: 3030308,
+  label: "Bressols",
+  lat: 43.96796,
+  lon: 1.33839,
+  nm: "Bressols",
+  value: 3030308
+},  {
+  id: 3030303,
+  label: "Bressuire",
+  lat: 46.849998,
+  lon: -0.48333,
+  nm: "Bressuire",
+  value: 3030303
+},  {
+  id: 3030300,
+  label: "Brest",
+  lat: 48.400002,
+  lon: -4.48333,
+  nm: "Brest",
+  value: 3030300
+},  {
+  id: 3030283,
+  label: "Breteil",
+  lat: 48.14534,
+  lon: -1.89886,
+  nm: "Breteil",
+  value: 3030283
+},  {
+  id: 3030275,
+  label: "Breteuil",
+  lat: 48.833328,
+  lon: 0.91667,
+  nm: "Breteuil",
+  value: 3030275
+},  {
+  id: 3030276,
+  label: "Breteuil",
+  lat: 49.633572,
+  lon: 2.29509,
+  nm: "Breteuil",
+  value: 3030276
+},  {
+  id: 3030264,
+  label: "Bretignolles-sur-Mer",
+  lat: 46.633331,
+  lon: -1.86667,
+  nm: "Bretignolles-sur-Mer",
+  value: 3030264
+},  {
+  id: 3030257,
+  label: "Bretigny-sur-Orge",
+  lat: 48.611351,
+  lon: 2.30593,
+  nm: "Bretigny-sur-Orge",
+  value: 3030257
+},  {
+  id: 3030233,
+  label: "Bretteville-sur-Odon",
+  lat: 49.166271,
+  lon: -0.41662,
+  nm: "Bretteville-sur-Odon",
+  value: 3030233
+},  {
+  id: 3030205,
+  label: "Breuil-le-Sec",
+  lat: 49.371349,
+  lon: 2.45084,
+  nm: "Breuil-le-Sec",
+  value: 3030205
+},  {
+  id: 3030202,
+  label: "Breuil-le-Vert",
+  lat: 49.361759,
+  lon: 2.43633,
+  nm: "Breuil-le-Vert",
+  value: 3030202
+},  {
+  id: 3030203,
+  label: "Breuillet",
+  lat: 48.570641,
+  lon: 2.17424,
+  nm: "Breuillet",
+  value: 3030203
+},  {
+  id: 3030204,
+  label: "Breuillet",
+  lat: 45.691441,
+  lon: -1.05175,
+  nm: "Breuillet",
+  value: 3030204
+},  {
+  id: 3030171,
+  label: "Breviandes",
+  lat: 48.256931,
+  lon: 4.09531,
+  nm: "Breviandes",
+  value: 3030171
+},  {
+  id: 3030142,
+  label: "Briancon",
+  lat: 44.900002,
+  lon: 6.65,
+  nm: "Briancon",
+  value: 3030142
+},  {
+  id: 3030132,
+  label: "Briare",
+  lat: 47.63343,
+  lon: 2.7438,
+  nm: "Briare",
+  value: 3030132
+},  {
+  id: 3030120,
+  label: "Bricquebec",
+  lat: 49.470081,
+  lon: -1.63254,
+  nm: "Bricquebec",
+  value: 3030120
+},  {
+  id: 3030108,
+  label: "Brie",
+  lat: 45.738041,
+  lon: 0.24106,
+  nm: "Brie",
+  value: 3030108
+},  {
+  id: 3030101,
+  label: "Brie-Comte-Robert",
+  lat: 48.683331,
+  lon: 2.61667,
+  nm: "Brie-Comte-Robert",
+  value: 3030101
+},  {
+  id: 3030100,
+  label: "Brie-et-Angonnes",
+  lat: 45.12418,
+  lon: 5.78374,
+  nm: "Brie-et-Angonnes",
+  value: 3030100
+},  {
+  id: 3030102,
+  label: "Briec",
+  lat: 48.101669,
+  lon: -3.99833,
+  nm: "Briec",
+  value: 3030102
+},  {
+  id: 3030093,
+  label: "Brienne-le-Chateau",
+  lat: 48.393188,
+  lon: 4.52637,
+  nm: "Brienne-le-Chateau",
+  value: 3030093
+},  {
+  id: 3030090,
+  label: "Brienon-sur-Armancon",
+  lat: 47.990101,
+  lon: 3.61628,
+  nm: "Brienon-sur-Armancon",
+  value: 3030090
+},  {
+  id: 3030071,
+  label: "Briey",
+  lat: 49.25,
+  lon: 5.93333,
+  nm: "Briey",
+  value: 3030071
+},  {
+  id: 3030063,
+  label: "Brignais",
+  lat: 45.67358,
+  lon: 4.75484,
+  nm: "Brignais",
+  value: 3030063
+},  {
+  id: 3030057,
+  label: "Brignoles",
+  lat: 43.400002,
+  lon: 6.06667,
+  nm: "Brignoles",
+  value: 3030057
+},  {
+  id: 3030044,
+  label: "Briis-sous-Forges",
+  lat: 48.623989,
+  lon: 2.12112,
+  nm: "Briis-sous-Forges",
+  value: 3030044
+},  {
+  id: 3030029,
+  label: "Brindas",
+  lat: 45.721809,
+  lon: 4.68973,
+  nm: "Brindas",
+  value: 3030029
+},  {
+  id: 3030020,
+  label: "Briollay",
+  lat: 47.564781,
+  lon: -0.50681,
+  nm: "Briollay",
+  value: 3030020
+},  {
+  id: 3030007,
+  label: "Brionne",
+  lat: 49.19553,
+  lon: 0.7151,
+  nm: "Brionne",
+  value: 3030007
+},  {
+  id: 3029995,
+  label: "Brioude",
+  lat: 45.299999,
+  lon: 3.4,
+  nm: "Brioude",
+  value: 3029995
+},  {
+  id: 3029987,
+  label: "Briscous",
+  lat: 43.459579,
+  lon: -1.33353,
+  nm: "Briscous",
+  value: 3029987
+},  {
+  id: 3029986,
+  label: "Brison-Saint-Innocent",
+  lat: 45.721859,
+  lon: 5.89011,
+  nm: "Brison-Saint-Innocent",
+  value: 3029986
+},  {
+  id: 3029984,
+  label: "Brissac-Quince",
+  lat: 47.355751,
+  lon: -0.44924,
+  nm: "Brissac-Quince",
+  value: 3029984
+},  {
+  id: 3029974,
+  label: "Brive-la-Gaillarde",
+  lat: 45.150002,
+  lon: 1.53333,
+  nm: "Brive-la-Gaillarde",
+  value: 3029974
+},  {
+  id: 3029970,
+  label: "Brives-Charensac",
+  lat: 45.047798,
+  lon: 3.92878,
+  nm: "Brives-Charensac",
+  value: 3029970
+},  {
+  id: 3029967,
+  label: "Brix",
+  lat: 49.54512,
+  lon: -1.58012,
+  nm: "Brix",
+  value: 3029967
+},  {
+  id: 3029931,
+  label: "Bron",
+  lat: 45.73333,
+  lon: 4.91667,
+  nm: "Bron",
+  value: 3029931
+},  {
+  id: 3029925,
+  label: "Broons",
+  lat: 48.317478,
+  lon: -2.25952,
+  nm: "Broons",
+  value: 3029925
+},  {
+  id: 3029898,
+  label: "Brou",
+  lat: 48.21719,
+  lon: 1.16539,
+  nm: "Brou",
+  value: 3029898
+},  {
+  id: 3029855,
+  label: "Brou-sur-Chantereine",
+  lat: 48.883331,
+  lon: 2.63333,
+  nm: "Brou-sur-Chantereine",
+  value: 3029855
+},  {
+  id: 3029825,
+  label: "Bruay-la-Buissiere",
+  lat: 50.48333,
+  lon: 2.55,
+  nm: "Bruay-la-Buissiere",
+  value: 3029825
+},  {
+  id: 3029824,
+  label: "Bruay-sur-lEscaut",
+  lat: 50.399181,
+  lon: 3.5438,
+  nm: "Bruay-sur-lEscaut",
+  value: 3029824
+},  {
+  id: 3029799,
+  label: "Bruges",
+  lat: 44.87981,
+  lon: -0.61219,
+  nm: "Bruges",
+  value: 3029799
+},  {
+  id: 3029793,
+  label: "Bruguieres",
+  lat: 43.7272,
+  lon: 1.40762,
+  nm: "Bruguieres",
+  value: 3029793
+},  {
+  id: 3029771,
+  label: "Brumath",
+  lat: 48.730141,
+  lon: 7.7121,
+  nm: "Brumath",
+  value: 3029771
+},  {
+  id: 3029748,
+  label: "Brunoy",
+  lat: 48.694199,
+  lon: 2.49223,
+  nm: "Brunoy",
+  value: 3029748
+},  {
+  id: 3029746,
+  label: "Brunstatt",
+  lat: 47.720039,
+  lon: 7.31784,
+  nm: "Brunstatt",
+  value: 3029746
+},  {
+  id: 3029725,
+  label: "Bruyeres",
+  lat: 48.207088,
+  lon: 6.71845,
+  nm: "Bruyeres",
+  value: 3029725
+},  {
+  id: 3029717,
+  label: "Bruyeres-le-Chatel",
+  lat: 48.58868,
+  lon: 2.18991,
+  nm: "Bruyeres-le-Chatel",
+  value: 3029717
+},  {
+  id: 3029715,
+  label: "Bruyeres-sur-Oise",
+  lat: 49.157558,
+  lon: 2.32577,
+  nm: "Bruyeres-sur-Oise",
+  value: 3029715
+},  {
+  id: 3029713,
+  label: "Bruz",
+  lat: 48.0242,
+  lon: -1.74591,
+  nm: "Bruz",
+  value: 3029713
+},  {
+  id: 3029706,
+  label: "Bry-sur-Marne",
+  lat: 48.838112,
+  lon: 2.52488,
+  nm: "Bry-sur-Marne",
+  value: 3029706
+},  {
+  id: 3029697,
+  label: "Bubry",
+  lat: 47.96336,
+  lon: -3.17108,
+  nm: "Bubry",
+  value: 3029697
+},  {
+  id: 3029695,
+  label: "Buc",
+  lat: 48.776272,
+  lon: 2.12577,
+  nm: "Buc",
+  value: 3029695
+},  {
+  id: 3029684,
+  label: "Buchelay",
+  lat: 48.979259,
+  lon: 1.67026,
+  nm: "Buchelay",
+  value: 3029684
+},  {
+  id: 3029670,
+  label: "Bucy-le-Long",
+  lat: 49.39072,
+  lon: 3.39582,
+  nm: "Bucy-le-Long",
+  value: 3029670
+},  {
+  id: 3029620,
+  label: "Buhl",
+  lat: 47.928059,
+  lon: 7.18719,
+  nm: "Buhl",
+  value: 3029620
+},  {
+  id: 3029603,
+  label: "Buis-les-Baronnies",
+  lat: 44.273731,
+  lon: 5.2722,
+  nm: "Buis-les-Baronnies",
+  value: 3029603
+},  {
+  id: 3029572,
+  label: "Bullion",
+  lat: 48.622849,
+  lon: 1.99024,
+  nm: "Bullion",
+  value: 3029572
+},  {
+  id: 3029570,
+  label: "Bully",
+  lat: 45.852051,
+  lon: 4.58195,
+  nm: "Bully",
+  value: 3029570
+},  {
+  id: 3029566,
+  label: "Bully-les-Mines",
+  lat: 50.443802,
+  lon: 2.72703,
+  nm: "Bully-les-Mines",
+  value: 3029566
+},  {
+  id: 3029548,
+  label: "Burbure",
+  lat: 50.536629,
+  lon: 2.46897,
+  nm: "Burbure",
+  value: 3029548
+},  {
+  id: 3029522,
+  label: "Bures-sur-Yvette",
+  lat: 48.69981,
+  lon: 2.17064,
+  nm: "Bures-sur-Yvette",
+  value: 3029522
+},  {
+  id: 3029503,
+  label: "Burlats",
+  lat: 43.63633,
+  lon: 2.31879,
+  nm: "Burlats",
+  value: 3029503
+},  {
+  id: 3029483,
+  label: "Bury",
+  lat: 49.313068,
+  lon: 2.34401,
+  nm: "Bury",
+  value: 3029483
+},  {
+  id: 3029477,
+  label: "Busigny",
+  lat: 50.034241,
+  lon: 3.46713,
+  nm: "Busigny",
+  value: 3029477
+},  {
+  id: 3029392,
+  label: "Bussy-Saint-Georges",
+  lat: 48.840988,
+  lon: 2.70165,
+  nm: "Bussy-Saint-Georges",
+  value: 3029392
+},  {
+  id: 3029377,
+  label: "Butry-sur-Oise",
+  lat: 49.08836,
+  lon: 2.19916,
+  nm: "Butry-sur-Oise",
+  value: 3029377
+},  {
+  id: 3029365,
+  label: "Buxerolles",
+  lat: 46.616669,
+  lon: 0.48333,
+  nm: "Buxerolles",
+  value: 3029365
+},  {
+  id: 3029350,
+  label: "Buxy",
+  lat: 46.713692,
+  lon: 4.70427,
+  nm: "Buxy",
+  value: 3029350
+},  {
+  id: 3029345,
+  label: "Buzancais",
+  lat: 46.888771,
+  lon: 1.4195,
+  nm: "Buzancais",
+  value: 3029345
+},  {
+  id: 3029312,
+  label: "Cabannes",
+  lat: 43.860149,
+  lon: 4.95192,
+  nm: "Cabannes",
+  value: 3029312
+},  {
+  id: 3029302,
+  label: "Cabestany",
+  lat: 42.68132,
+  lon: 2.94122,
+  nm: "Cabestany",
+  value: 3029302
+},  {
+  id: 3029297,
+  label: "Cabourg",
+  lat: 49.2911,
+  lon: -0.1133,
+  nm: "Cabourg",
+  value: 3029297
+},  {
+  id: 3029283,
+  label: "Cabries",
+  lat: 43.441269,
+  lon: 5.37884,
+  nm: "Cabries",
+  value: 3029283
+},  {
+  id: 3029276,
+  label: "Cachan",
+  lat: 48.796322,
+  lon: 2.33661,
+  nm: "Cachan",
+  value: 3029276
+},  {
+  id: 3029265,
+  label: "Cadaujac",
+  lat: 44.754372,
+  lon: -0.53128,
+  nm: "Cadaujac",
+  value: 3029265
+},  {
+  id: 3029256,
+  label: "Cadenet",
+  lat: 43.734451,
+  lon: 5.37499,
+  nm: "Cadenet",
+  value: 3029256
+},  {
+  id: 3029254,
+  label: "Caderousse",
+  lat: 44.10252,
+  lon: 4.75679,
+  nm: "Caderousse",
+  value: 3029254
+},  {
+  id: 3029253,
+  label: "Cadillac",
+  lat: 44.636311,
+  lon: -0.31702,
+  nm: "Cadillac",
+  value: 3029253
+},  {
+  id: 3029248,
+  label: "Cadolive",
+  lat: 43.396938,
+  lon: 5.54526,
+  nm: "Cadolive",
+  value: 3029248
+},  {
+  id: 3029241,
+  label: "Caen",
+  lat: 49.185848,
+  lon: -0.35912,
+  nm: "Caen",
+  value: 3029241
+},  {
+  id: 3029229,
+  label: "Cagnac-les-Mines",
+  lat: 43.984451,
+  lon: 2.14227,
+  nm: "Cagnac-les-Mines",
+  value: 3029229
+},  {
+  id: 3029227,
+  label: "Cagnes-sur-Mer",
+  lat: 43.6646,
+  lon: 7.15339,
+  nm: "Cagnes-sur-Mer",
+  value: 3029227
+},  {
+  id: 3029213,
+  label: "Cahors",
+  lat: 44.4491,
+  lon: 1.43663,
+  nm: "Cahors",
+  value: 3029213
+},  {
+  id: 3029186,
+  label: "Cailloux-sur-Fontaines",
+  lat: 45.851471,
+  lon: 4.87585,
+  nm: "Cailloux-sur-Fontaines",
+  value: 3029186
+},  {
+  id: 3029174,
+  label: "Caissargues",
+  lat: 43.79509,
+  lon: 4.37955,
+  nm: "Caissargues",
+  value: 3029174
+},  {
+  id: 3029162,
+  label: "Calais",
+  lat: 50.958099,
+  lon: 1.85205,
+  nm: "Calais",
+  value: 3029162
+},  {
+  id: 3029126,
+  label: "Callac",
+  lat: 48.40292,
+  lon: -3.428,
+  nm: "Callac",
+  value: 3029126
+},  {
+  id: 3029118,
+  label: "Callian",
+  lat: 43.6231,
+  lon: 6.7519,
+  nm: "Callian",
+  value: 3029118
+},  {
+  id: 3029099,
+  label: "Calonne-Ricouart",
+  lat: 50.485039,
+  lon: 2.47335,
+  nm: "Calonne-Ricouart",
+  value: 3029099
+},  {
+  id: 3029096,
+  label: "Caluire-et-Cuire",
+  lat: 45.790409,
+  lon: 4.84112,
+  nm: "Caluire-et-Cuire",
+  value: 3029096
+},  {
+  id: 3029090,
+  label: "Calvi",
+  lat: 42.56604,
+  lon: 8.75713,
+  nm: "Calvi",
+  value: 3029090
+},  {
+  id: 3029080,
+  label: "Calvisson",
+  lat: 43.786961,
+  lon: 4.19626,
+  nm: "Calvisson",
+  value: 3029080
+},  {
+  id: 3029069,
+  label: "Camaret-sur-Aigues",
+  lat: 44.164051,
+  lon: 4.87424,
+  nm: "Camaret-sur-Aigues",
+  value: 3029069
+},  {
+  id: 3029068,
+  label: "Camaret-sur-Mer",
+  lat: 48.274971,
+  lon: -4.59615,
+  nm: "Camaret-sur-Mer",
+  value: 3029068
+},  {
+  id: 3029044,
+  label: "Camblanes-et-Meynac",
+  lat: 44.765511,
+  lon: -0.48653,
+  nm: "Camblanes-et-Meynac",
+  value: 3029044
+},  {
+  id: 3029041,
+  label: "Cambo-les-Bains",
+  lat: 43.358501,
+  lon: -1.40105,
+  nm: "Cambo-les-Bains",
+  value: 3029041
+},  {
+  id: 3029030,
+  label: "Cambrai",
+  lat: 50.166672,
+  lon: 3.23333,
+  nm: "Cambrai",
+  value: 3029030
+},  {
+  id: 3029023,
+  label: "Cambronne-les-Ribecourt",
+  lat: 49.507111,
+  lon: 2.89797,
+  nm: "Cambronne-les-Ribecourt",
+  value: 3029023
+},  {
+  id: 3029012,
+  label: "Camiers",
+  lat: 50.571529,
+  lon: 1.61325,
+  nm: "Camiers",
+  value: 3029012
+},  {
+  id: 3029003,
+  label: "Camon",
+  lat: 49.887642,
+  lon: 2.34486,
+  nm: "Camon",
+  value: 3029003
+},  {
+  id: 3029002,
+  label: "Camors",
+  lat: 47.847389,
+  lon: -2.99981,
+  nm: "Camors",
+  value: 3029002
+},  {
+  id: 3028966,
+  label: "Campbon",
+  lat: 47.413101,
+  lon: -1.96857,
+  nm: "Campbon",
+  value: 3028966
+},  {
+  id: 3028868,
+  label: "Cancale",
+  lat: 48.67601,
+  lon: -1.85231,
+  nm: "Cancale",
+  value: 3028868
+},  {
+  id: 3028851,
+  label: "Cande",
+  lat: 47.561581,
+  lon: -1.03619,
+  nm: "Cande",
+  value: 3028851
+},  {
+  id: 3028838,
+  label: "Canejan",
+  lat: 44.76667,
+  lon: -0.63333,
+  nm: "Canejan",
+  value: 3028838
+},  {
+  id: 3028832,
+  label: "Canet-en-Roussillon",
+  lat: 42.700001,
+  lon: 3.01667,
+  nm: "Canet-en-Roussillon",
+  value: 3028832
+},  {
+  id: 3028808,
+  label: "Cannes",
+  lat: 43.55135,
+  lon: 7.01275,
+  nm: "Cannes",
+  value: 3028808
+},  {
+  id: 3028806,
+  label: "Cannes-Ecluse",
+  lat: 48.363029,
+  lon: 2.98748,
+  nm: "Cannes-Ecluse",
+  value: 3028806
+},  {
+  id: 3028797,
+  label: "Canohes",
+  lat: 42.65461,
+  lon: 2.83633,
+  nm: "Canohes",
+  value: 3028797
+},  {
+  id: 3028796,
+  label: "Canon",
+  lat: 49.073799,
+  lon: -0.09219,
+  nm: "Canon",
+  value: 3028796
+},  {
+  id: 3028779,
+  label: "Canteleu",
+  lat: 49.440651,
+  lon: 1.02459,
+  nm: "Canteleu",
+  value: 3028779
+},  {
+  id: 3028773,
+  label: "Cantenay-Epinard",
+  lat: 47.53503,
+  lon: -0.56899,
+  nm: "Cantenay-Epinard",
+  value: 3028773
+},  {
+  id: 3028754,
+  label: "Cany-Barville",
+  lat: 49.788849,
+  lon: 0.63704,
+  nm: "Cany-Barville",
+  value: 3028754
+},  {
+  id: 3028745,
+  label: "Capbreton",
+  lat: 43.642159,
+  lon: -1.42816,
+  nm: "Capbreton",
+  value: 3028745
+},  {
+  id: 3028720,
+  label: "Capestang",
+  lat: 43.327911,
+  lon: 3.04447,
+  nm: "Capestang",
+  value: 3028720
+},  {
+  id: 3028691,
+  label: "Cappelle-en-Pevele",
+  lat: 50.510109,
+  lon: 3.17133,
+  nm: "Cappelle-en-Pevele",
+  value: 3028691
+},  {
+  id: 3028690,
+  label: "Cappelle-la-Grande",
+  lat: 50.99979,
+  lon: 2.35848,
+  nm: "Cappelle-la-Grande",
+  value: 3028690
+},  {
+  id: 3028674,
+  label: "Caraman",
+  lat: 43.532711,
+  lon: 1.76002,
+  nm: "Caraman",
+  value: 3028674
+},  {
+  id: 3028667,
+  label: "Carantec",
+  lat: 48.66811,
+  lon: -3.91545,
+  nm: "Carantec",
+  value: 3028667
+},  {
+  id: 3028653,
+  label: "Carbon-Blanc",
+  lat: 44.89642,
+  lon: -0.50107,
+  nm: "Carbon-Blanc",
+  value: 3028653
+},  {
+  id: 3028652,
+  label: "Carbonne",
+  lat: 43.298569,
+  lon: 1.2252,
+  nm: "Carbonne",
+  value: 3028652
+},  {
+  id: 3028641,
+  label: "Carcassonne",
+  lat: 43.216671,
+  lon: 2.35,
+  nm: "Carcassonne",
+  value: 3028641
+},  {
+  id: 3028637,
+  label: "Carces",
+  lat: 43.476318,
+  lon: 6.18308,
+  nm: "Carces",
+  value: 3028637
+},  {
+  id: 3028610,
+  label: "Carentan",
+  lat: 49.30312,
+  lon: -1.24806,
+  nm: "Carentan",
+  value: 3028610
+},  {
+  id: 3028608,
+  label: "Carentoir",
+  lat: 47.816669,
+  lon: -2.13333,
+  nm: "Carentoir",
+  value: 3028608
+},  {
+  id: 3028603,
+  label: "Carhaix-Plouguer",
+  lat: 48.27594,
+  lon: -3.57326,
+  nm: "Carhaix-Plouguer",
+  value: 3028603
+},  {
+  id: 3028600,
+  label: "Carignan",
+  lat: 49.631592,
+  lon: 5.16796,
+  nm: "Carignan",
+  value: 3028600
+},  {
+  id: 3028601,
+  label: "Carignan-de-Bordeaux",
+  lat: 44.799999,
+  lon: -0.48333,
+  nm: "Carignan-de-Bordeaux",
+  value: 3028601
+},  {
+  id: 3028590,
+  label: "Carling",
+  lat: 49.16761,
+  lon: 6.71596,
+  nm: "Carling",
+  value: 3028590
+},  {
+  id: 3028580,
+  label: "Carmaux",
+  lat: 44.050991,
+  lon: 2.15795,
+  nm: "Carmaux",
+  value: 3028580
+},  {
+  id: 3028575,
+  label: "Carnac",
+  lat: 47.583511,
+  lon: -3.07884,
+  nm: "Carnac",
+  value: 3028575
+},  {
+  id: 3028558,
+  label: "Carnoules",
+  lat: 43.301929,
+  lon: 6.18804,
+  nm: "Carnoules",
+  value: 3028558
+},  {
+  id: 6615537,
+  label: "Carnoux-en-Provence",
+  lat: 43.25639,
+  lon: 5.56444,
+  nm: "Carnoux-en-Provence",
+  value: 6615537
+},  {
+  id: 3028551,
+  label: "Caromb",
+  lat: 44.11076,
+  lon: 5.1058,
+  nm: "Caromb",
+  value: 3028551
+},  {
+  id: 3028542,
+  label: "Carpentras",
+  lat: 44.049999,
+  lon: 5.05,
+  nm: "Carpentras",
+  value: 3028542
+},  {
+  id: 3028537,
+  label: "Carpiquet",
+  lat: 49.185219,
+  lon: -0.44623,
+  nm: "Carpiquet",
+  value: 3028537
+},  {
+  id: 3028535,
+  label: "Carquefou",
+  lat: 47.298222,
+  lon: -1.49024,
+  nm: "Carquefou",
+  value: 3028535
+},  {
+  id: 3028534,
+  label: "Carqueiranne",
+  lat: 43.09531,
+  lon: 6.07297,
+  nm: "Carqueiranne",
+  value: 3028534
+},  {
+  id: 3028521,
+  label: "Carrieres-sous-Poissy",
+  lat: 48.94952,
+  lon: 2.04068,
+  nm: "Carrieres-sous-Poissy",
+  value: 3028521
+},  {
+  id: 3028520,
+  label: "Carrieres-sur-Seine",
+  lat: 48.906872,
+  lon: 2.1792,
+  nm: "Carrieres-sur-Seine",
+  value: 3028520
+},  {
+  id: 3028513,
+  label: "Carros",
+  lat: 43.78941,
+  lon: 7.18395,
+  nm: "Carros",
+  value: 3028513
+},  {
+  id: 3028510,
+  label: "Carry-le-Rouet",
+  lat: 43.33139,
+  lon: 5.15237,
+  nm: "Carry-le-Rouet",
+  value: 3028510
+},  {
+  id: 3028486,
+  label: "Carvin",
+  lat: 50.492352,
+  lon: 2.95815,
+  nm: "Carvin",
+  value: 3028486
+},  {
+  id: 3028440,
+  label: "Cassel",
+  lat: 50.80109,
+  lon: 2.48527,
+  nm: "Cassel",
+  value: 3028440
+},  {
+  id: 3028437,
+  label: "Casseneuil",
+  lat: 44.4431,
+  lon: 0.62095,
+  nm: "Casseneuil",
+  value: 3028437
+},  {
+  id: 3028431,
+  label: "Cassis",
+  lat: 43.21241,
+  lon: 5.5451,
+  nm: "Cassis",
+  value: 3028431
+},  {
+  id: 3028409,
+  label: "Castanet-Tolosan",
+  lat: 43.515911,
+  lon: 1.49864,
+  nm: "Castanet-Tolosan",
+  value: 3028409
+},  {
+  id: 3028388,
+  label: "Castelginest",
+  lat: 43.693821,
+  lon: 1.4344,
+  nm: "Castelginest",
+  value: 3028388
+},  {
+  id: 3028387,
+  label: "Casteljaloux",
+  lat: 44.317619,
+  lon: 0.08605,
+  nm: "Casteljaloux",
+  value: 3028387
+},  {
+  id: 6615509,
+  label: "Castelmaurou",
+  lat: 43.67778,
+  lon: 1.53222,
+  nm: "Castelmaurou",
+  value: 6615509
+},  {
+  id: 3028343,
+  label: "Castelnau-de-Medoc",
+  lat: 45.029339,
+  lon: -0.79828,
+  nm: "Castelnau-de-Medoc",
+  value: 3028343
+},  {
+  id: 3028340,
+  label: "Castelnau-dEstretefonds",
+  lat: 43.783669,
+  lon: 1.35904,
+  nm: "Castelnau-dEstretefonds",
+  value: 3028340
+},  {
+  id: 3028337,
+  label: "Castelnau-le-Lez",
+  lat: 43.633331,
+  lon: 3.9,
+  nm: "Castelnau-le-Lez",
+  value: 3028337
+},  {
+  id: 3028351,
+  label: "Castelnaudary",
+  lat: 43.318291,
+  lon: 1.95449,
+  nm: "Castelnaudary",
+  value: 3028351
+},  {
+  id: 3028322,
+  label: "Castelsarrasin",
+  lat: 44.033329,
+  lon: 1.1,
+  nm: "Castelsarrasin",
+  value: 3028322
+},  {
+  id: 3028296,
+  label: "Castets",
+  lat: 43.882332,
+  lon: -1.14572,
+  nm: "Castets",
+  value: 3028296
+},  {
+  id: 3028263,
+  label: "Castres",
+  lat: 43.599998,
+  lon: 2.25,
+  nm: "Castres",
+  value: 3028263
+},  {
+  id: 3028258,
+  label: "Castries",
+  lat: 43.679722,
+  lon: 3.98222,
+  nm: "Castries",
+  value: 3028258
+},  {
+  id: 3028236,
+  label: "Cattenom",
+  lat: 49.407551,
+  lon: 6.24426,
+  nm: "Cattenom",
+  value: 3028236
+},  {
+  id: 3028219,
+  label: "Cauchy-a-la-Tour",
+  lat: 50.503941,
+  lon: 2.44606,
+  nm: "Cauchy-a-la-Tour",
+  value: 3028219
+},  {
+  id: 3028217,
+  label: "Caudan",
+  lat: 47.808769,
+  lon: -3.3425,
+  nm: "Caudan",
+  value: 3028217
+},  {
+  id: 3028215,
+  label: "Caudebec-en-Caux",
+  lat: 49.525768,
+  lon: 0.72561,
+  nm: "Caudebec-en-Caux",
+  value: 3028215
+},  {
+  id: 3028214,
+  label: "Caudebec-les-Elbeuf",
+  lat: 49.280819,
+  lon: 1.02195,
+  nm: "Caudebec-les-Elbeuf",
+  value: 3028214
+},  {
+  id: 3028205,
+  label: "Caudry",
+  lat: 50.124901,
+  lon: 3.41186,
+  nm: "Caudry",
+  value: 3028205
+},  {
+  id: 3028204,
+  label: "Cauffry",
+  lat: 49.319778,
+  lon: 2.44581,
+  nm: "Cauffry",
+  value: 3028204
+},  {
+  id: 3028198,
+  label: "Caulnes",
+  lat: 48.28804,
+  lon: -2.15518,
+  nm: "Caulnes",
+  value: 3028198
+},  {
+  id: 3028185,
+  label: "Caumont-sur-Durance",
+  lat: 43.893559,
+  lon: 4.94745,
+  nm: "Caumont-sur-Durance",
+  value: 3028185
+},  {
+  id: 3028162,
+  label: "Caussade",
+  lat: 44.160801,
+  lon: 1.53913,
+  nm: "Caussade",
+  value: 3028162
+},  {
+  id: 3028143,
+  label: "Caux",
+  lat: 43.50621,
+  lon: 3.3671,
+  nm: "Caux",
+  value: 3028143
+},  {
+  id: 3028133,
+  label: "Cavaillon",
+  lat: 43.916672,
+  lon: 5.28333,
+  nm: "Cavaillon",
+  value: 3028133
+},  {
+  id: 3028134,
+  label: "Cavaillon",
+  lat: 43.831249,
+  lon: 5.03586,
+  nm: "Cavaillon",
+  value: 3028134
+},  {
+  id: 3028129,
+  label: "Cavalaire-sur-Mer",
+  lat: 43.17403,
+  lon: 6.52715,
+  nm: "Cavalaire-sur-Mer",
+  value: 3028129
+},  {
+  id: 3028110,
+  label: "Caveirac",
+  lat: 43.824371,
+  lon: 4.26664,
+  nm: "Caveirac",
+  value: 3028110
+},  {
+  id: 3028097,
+  label: "Cayenne",
+  lat: 49.558578,
+  lon: 1.62803,
+  nm: "Cayenne",
+  value: 3028097
+},  {
+  id: 3028095,
+  label: "Cayeux-sur-Mer",
+  lat: 50.181999,
+  lon: 1.494,
+  nm: "Cayeux-sur-Mer",
+  value: 3028095
+},  {
+  id: 3028050,
+  label: "Cazeres",
+  lat: 43.2071,
+  lon: 1.08633,
+  nm: "Cazeres",
+  value: 3028050
+},  {
+  id: 3028039,
+  label: "Cazouls-les-Beziers",
+  lat: 43.392181,
+  lon: 3.101,
+  nm: "Cazouls-les-Beziers",
+  value: 3028039
+},  {
+  id: 3028028,
+  label: "Cebazat",
+  lat: 45.834049,
+  lon: 3.10048,
+  nm: "Cebazat",
+  value: 3028028
+},  {
+  id: 3027989,
+  label: "Celles-sur-Belle",
+  lat: 46.26223,
+  lon: -0.21274,
+  nm: "Celles-sur-Belle",
+  value: 3027989
+},  {
+  id: 3027988,
+  label: "Celles-sur-Durolle",
+  lat: 45.857868,
+  lon: 3.63534,
+  nm: "Celles-sur-Durolle",
+  value: 3027988
+},  {
+  id: 3027984,
+  label: "Cellettes",
+  lat: 47.52758,
+  lon: 1.38102,
+  nm: "Cellettes",
+  value: 3027984
+},  {
+  id: 3027961,
+  label: "Cendras",
+  lat: 44.150002,
+  lon: 4.06667,
+  nm: "Cendras",
+  value: 3027961
+},  {
+  id: 3027950,
+  label: "Cenon",
+  lat: 44.8559,
+  lon: -0.51839,
+  nm: "Cenon",
+  value: 3027950
+},  {
+  id: 3027923,
+  label: "Cepoy",
+  lat: 48.047951,
+  lon: 2.73782,
+  nm: "Cepoy",
+  value: 3027923
+},  {
+  id: 3027918,
+  label: "Cerans-Foulletourte",
+  lat: 47.826511,
+  lon: 0.07724,
+  nm: "Cerans-Foulletourte",
+  value: 3027918
+},  {
+  id: 3027900,
+  label: "Cercy-la-Tour",
+  lat: 46.86203,
+  lon: 3.64652,
+  nm: "Cercy-la-Tour",
+  value: 3027900
+},  {
+  id: 3027888,
+  label: "Ceret",
+  lat: 42.485329,
+  lon: 2.74804,
+  nm: "Ceret",
+  value: 3027888
+},  {
+  id: 3027883,
+  label: "Cergy",
+  lat: 49.036449,
+  lon: 2.07613,
+  nm: "Cergy",
+  value: 3027883
+},  {
+  id: 3027866,
+  label: "Cerizay",
+  lat: 46.821541,
+  lon: -0.66726,
+  nm: "Cerizay",
+  value: 3027866
+},  {
+  id: 3027836,
+  label: "Cerny",
+  lat: 48.477959,
+  lon: 2.32814,
+  nm: "Cerny",
+  value: 3027836
+},  {
+  id: 3027824,
+  label: "Cers",
+  lat: 43.323521,
+  lon: 3.3045,
+  nm: "Cers",
+  value: 3027824
+},  {
+  id: 3027783,
+  label: "Cessenon-sur-Orb",
+  lat: 43.450111,
+  lon: 3.05154,
+  nm: "Cessenon-sur-Orb",
+  value: 3027783
+},  {
+  id: 3027770,
+  label: "Cessieu",
+  lat: 45.565762,
+  lon: 5.37704,
+  nm: "Cessieu",
+  value: 3027770
+},  {
+  id: 3027768,
+  label: "Cesson",
+  lat: 48.562038,
+  lon: 2.60816,
+  nm: "Cesson",
+  value: 3027768
+},  {
+  id: 3027767,
+  label: "Cesson-Sevigne",
+  lat: 48.121201,
+  lon: -1.603,
+  nm: "Cesson-Sevigne",
+  value: 3027767
+},  {
+  id: 3027765,
+  label: "Cessy",
+  lat: 46.31662,
+  lon: 6.06915,
+  nm: "Cessy",
+  value: 3027765
+},  {
+  id: 3027763,
+  label: "Cestas",
+  lat: 44.74345,
+  lon: -0.67905,
+  nm: "Cestas",
+  value: 3027763
+},  {
+  id: 3027758,
+  label: "Ceton",
+  lat: 48.226318,
+  lon: 0.74968,
+  nm: "Ceton",
+  value: 3027758
+},  {
+  id: 3027746,
+  label: "Ceyrat",
+  lat: 45.731758,
+  lon: 3.06335,
+  nm: "Ceyrat",
+  value: 3027746
+},  {
+  id: 3027745,
+  label: "Ceyreste",
+  lat: 43.213299,
+  lon: 5.63111,
+  nm: "Ceyreste",
+  value: 3027745
+},  {
+  id: 3027740,
+  label: "Ceyzeriat",
+  lat: 46.180099,
+  lon: 5.31972,
+  nm: "Ceyzeriat",
+  value: 3027740
+},  {
+  id: 3027705,
+  label: "Chabeuil",
+  lat: 44.899632,
+  lon: 5.01884,
+  nm: "Chabeuil",
+  value: 3027705
+},  {
+  id: 3027699,
+  label: "Chablis",
+  lat: 47.813862,
+  lon: 3.79835,
+  nm: "Chablis",
+  value: 3027699
+},  {
+  id: 3027673,
+  label: "Chabris",
+  lat: 47.253429,
+  lon: 1.65181,
+  nm: "Chabris",
+  value: 3027673
+},  {
+  id: 3027653,
+  label: "Chadrac",
+  lat: 45.06181,
+  lon: 3.90261,
+  nm: "Chadrac",
+  value: 3027653
+},  {
+  id: 3027642,
+  label: "Chagny",
+  lat: 46.909531,
+  lon: 4.7519,
+  nm: "Chagny",
+  value: 3027642
+},  {
+  id: 3027625,
+  label: "Chailles",
+  lat: 47.541599,
+  lon: 1.3122,
+  nm: "Chailles",
+  value: 3027625
+},  {
+  id: 3027609,
+  label: "Chailly-en-Biere",
+  lat: 48.46701,
+  lon: 2.60785,
+  nm: "Chailly-en-Biere",
+  value: 3027609
+},  {
+  id: 3027598,
+  label: "Chaingy",
+  lat: 47.883259,
+  lon: 1.77058,
+  nm: "Chaingy",
+  value: 3027598
+},  {
+  id: 3027576,
+  label: "Chalais",
+  lat: 45.27338,
+  lon: 0.0388,
+  nm: "Chalais",
+  value: 3027576
+},  {
+  id: 3027531,
+  label: "Chalette-sur-Loing",
+  lat: 48.013371,
+  lon: 2.73587,
+  nm: "Chalette-sur-Loing",
+  value: 3027531
+},  {
+  id: 3027521,
+  label: "Chaligny",
+  lat: 48.624062,
+  lon: 6.08333,
+  nm: "Chaligny",
+  value: 3027521
+},  {
+  id: 3027519,
+  label: "Chalindrey",
+  lat: 47.803082,
+  lon: 5.42797,
+  nm: "Chalindrey",
+  value: 3027519
+},  {
+  id: 3027513,
+  label: "Challans",
+  lat: 46.843632,
+  lon: -1.8749,
+  nm: "Challans",
+  value: 3027513
+},  {
+  id: 3027507,
+  label: "Challes-les-Eaux",
+  lat: 45.551949,
+  lon: 5.98171,
+  nm: "Challes-les-Eaux",
+  value: 3027507
+},  {
+  id: 3027484,
+  label: "Chalon-sur-Saone",
+  lat: 46.783329,
+  lon: 4.85,
+  nm: "Chalon-sur-Saone",
+  value: 3027484
+},  {
+  id: 3027491,
+  label: "Chalonnes-sur-Loire",
+  lat: 47.351601,
+  lon: -0.7631,
+  nm: "Chalonnes-sur-Loire",
+  value: 3027491
+},  {
+  id: 3027487,
+  label: "Chalons-en-Champagne",
+  lat: 48.95393,
+  lon: 4.36724,
+  nm: "Chalons-en-Champagne",
+  value: 3027487
+},  {
+  id: 3027453,
+  label: "Chamalieres",
+  lat: 45.775589,
+  lon: 3.0631,
+  nm: "Chamalieres",
+  value: 3027453
+},  {
+  id: 3027422,
+  label: "Chambery",
+  lat: 45.566669,
+  lon: 5.93333,
+  nm: "Chambery",
+  value: 3027422
+},  {
+  id: 3027397,
+  label: "Chambly",
+  lat: 49.166672,
+  lon: 2.25,
+  nm: "Chambly",
+  value: 3027397
+},  {
+  id: 3027351,
+  label: "Chambourcy",
+  lat: 48.906551,
+  lon: 2.041,
+  nm: "Chambourcy",
+  value: 3027351
+},  {
+  id: 3027343,
+  label: "Chambray-les-Tours",
+  lat: 47.335369,
+  lon: 0.70286,
+  nm: "Chambray-les-Tours",
+  value: 3027343
+},  {
+  id: 3027301,
+  label: "Chamonix-Mont-Blanc",
+  lat: 45.923752,
+  lon: 6.86933,
+  nm: "Chamonix-Mont-Blanc",
+  value: 3027301
+},  {
+  id: 3027011,
+  label: "Champ-sur-Drac",
+  lat: 45.069118,
+  lon: 5.73225,
+  nm: "Champ-sur-Drac",
+  value: 3027011
+},  {
+  id: 3027260,
+  label: "Champagne",
+  lat: 48.021851,
+  lon: 0.33096,
+  nm: "Champagne",
+  value: 3027260
+},  {
+  id: 3027243,
+  label: "Champagne-sur-Oise",
+  lat: 49.140518,
+  lon: 2.24233,
+  nm: "Champagne-sur-Oise",
+  value: 3027243
+},  {
+  id: 3027242,
+  label: "Champagne-sur-Seine",
+  lat: 48.397942,
+  lon: 2.79785,
+  nm: "Champagne-sur-Seine",
+  value: 3027242
+},  {
+  id: 3027237,
+  label: "Champagney",
+  lat: 47.70504,
+  lon: 6.68173,
+  nm: "Champagney",
+  value: 3027237
+},  {
+  id: 3027235,
+  label: "Champagnole",
+  lat: 46.744518,
+  lon: 5.91354,
+  nm: "Champagnole",
+  value: 3027235
+},  {
+  id: 3027207,
+  label: "Champcevinel",
+  lat: 45.216301,
+  lon: 0.72796,
+  nm: "Champcevinel",
+  value: 3027207
+},  {
+  id: 3027200,
+  label: "Champcueil",
+  lat: 48.515942,
+  lon: 2.44674,
+  nm: "Champcueil",
+  value: 3027200
+},  {
+  id: 3027147,
+  label: "Champforgeuil",
+  lat: 46.818569,
+  lon: 4.83357,
+  nm: "Champforgeuil",
+  value: 3027147
+},  {
+  id: 3027134,
+  label: "Champhol",
+  lat: 48.468128,
+  lon: 1.50281,
+  nm: "Champhol",
+  value: 3027134
+},  {
+  id: 3027126,
+  label: "Champigneulles",
+  lat: 48.7342,
+  lon: 6.16417,
+  nm: "Champigneulles",
+  value: 3027126
+},  {
+  id: 3027103,
+  label: "Champigny",
+  lat: 48.316669,
+  lon: 3.13333,
+  nm: "Champigny",
+  value: 3027103
+},  {
+  id: 3027105,
+  label: "Champigny-sur-Marne",
+  lat: 48.816422,
+  lon: 2.49366,
+  nm: "Champigny-sur-Marne",
+  value: 3027105
+},  {
+  id: 3027098,
+  label: "Champlan",
+  lat: 48.708229,
+  lon: 2.27975,
+  nm: "Champlan",
+  value: 3027098
+},  {
+  id: 3027064,
+  label: "Champniers",
+  lat: 45.716671,
+  lon: 0.2,
+  nm: "Champniers",
+  value: 3027064
+},  {
+  id: 3027014,
+  label: "Champs-sur-Marne",
+  lat: 48.849998,
+  lon: 2.6,
+  nm: "Champs-sur-Marne",
+  value: 3027014
+},  {
+  id: 3026983,
+  label: "Chanas",
+  lat: 45.31881,
+  lon: 4.81849,
+  nm: "Chanas",
+  value: 3026983
+},  {
+  id: 3026971,
+  label: "Chanceaux-sur-Choisille",
+  lat: 47.471451,
+  lon: 0.70539,
+  nm: "Chanceaux-sur-Choisille",
+  value: 3026971
+},  {
+  id: 3026969,
+  label: "Chancelade",
+  lat: 45.200489,
+  lon: 0.67261,
+  nm: "Chancelade",
+  value: 3026969
+},  {
+  id: 3026940,
+  label: "Change",
+  lat: 48.099178,
+  lon: -0.79292,
+  nm: "Change",
+  value: 3026940
+},  {
+  id: 3026941,
+  label: "Change",
+  lat: 47.984989,
+  lon: 0.28328,
+  nm: "Change",
+  value: 3026941
+},  {
+  id: 3026925,
+  label: "Chaniers",
+  lat: 45.718578,
+  lon: -0.55779,
+  nm: "Chaniers",
+  value: 3026925
+},  {
+  id: 3026867,
+  label: "Chanteloup-en-Brie",
+  lat: 48.854778,
+  lon: 2.73929,
+  nm: "Chanteloup-en-Brie",
+  value: 3026867
+},  {
+  id: 3026862,
+  label: "Chanteloup-les-Vignes",
+  lat: 48.976139,
+  lon: 2.03261,
+  nm: "Chanteloup-les-Vignes",
+  value: 3026862
+},  {
+  id: 3026842,
+  label: "Chantepie",
+  lat: 48.088848,
+  lon: -1.61524,
+  nm: "Chantepie",
+  value: 3026842
+},  {
+  id: 3026827,
+  label: "Chantilly",
+  lat: 49.194611,
+  lon: 2.47124,
+  nm: "Chantilly",
+  value: 3026827
+},  {
+  id: 3026823,
+  label: "Chantonnay",
+  lat: 46.687019,
+  lon: -1.05024,
+  nm: "Chantonnay",
+  value: 3026823
+},  {
+  id: 3026822,
+  label: "Chantraine",
+  lat: 48.171581,
+  lon: 6.43538,
+  nm: "Chantraine",
+  value: 3026822
+},  {
+  id: 3026797,
+  label: "Chapareillan",
+  lat: 45.46513,
+  lon: 5.99171,
+  nm: "Chapareillan",
+  value: 3026797
+},  {
+  id: 3026758,
+  label: "Chaponnay",
+  lat: 45.63097,
+  lon: 4.94299,
+  nm: "Chaponnay",
+  value: 3026758
+},  {
+  id: 3026757,
+  label: "Chaponost",
+  lat: 45.705921,
+  lon: 4.74441,
+  nm: "Chaponost",
+  value: 3026757
+},  {
+  id: 3026700,
+  label: "Charbonnieres-les-Bains",
+  lat: 45.784199,
+  lon: 4.7463,
+  nm: "Charbonnieres-les-Bains",
+  value: 3026700
+},  {
+  id: 3026637,
+  label: "Charenton-le-Pont",
+  lat: 48.82209,
+  lon: 2.41217,
+  nm: "Charenton-le-Pont",
+  value: 3026637
+},  {
+  id: 3026615,
+  label: "Charleval",
+  lat: 49.372898,
+  lon: 1.38369,
+  nm: "Charleval",
+  value: 3026615
+},  {
+  id: 3026616,
+  label: "Charleval",
+  lat: 43.718639,
+  lon: 5.24546,
+  nm: "Charleval",
+  value: 3026616
+},  {
+  id: 3026613,
+  label: "Charleville-Mezieres",
+  lat: 49.76667,
+  lon: 4.71667,
+  nm: "Charleville-Mezieres",
+  value: 3026613
+},  {
+  id: 3026610,
+  label: "Charlieu",
+  lat: 46.160141,
+  lon: 4.17406,
+  nm: "Charlieu",
+  value: 3026610
+},  {
+  id: 3026606,
+  label: "Charly",
+  lat: 45.65255,
+  lon: 4.7961,
+  nm: "Charly",
+  value: 3026606
+},  {
+  id: 3026603,
+  label: "Charly-sur-Marne",
+  lat: 48.977489,
+  lon: 3.28464,
+  nm: "Charly-sur-Marne",
+  value: 3026603
+},  {
+  id: 3026588,
+  label: "Charmes",
+  lat: 48.3722,
+  lon: 6.29117,
+  nm: "Charmes",
+  value: 3026588
+},  {
+  id: 3026574,
+  label: "Charmes-sur-Rhone",
+  lat: 44.86393,
+  lon: 4.84039,
+  nm: "Charmes-sur-Rhone",
+  value: 3026574
+},  {
+  id: 3026534,
+  label: "Charnay-les-Macon",
+  lat: 46.30751,
+  lon: 4.78479,
+  nm: "Charnay-les-Macon",
+  value: 3026534
+},  {
+  id: 3026515,
+  label: "Charolles",
+  lat: 46.433331,
+  lon: 4.28333,
+  nm: "Charolles",
+  value: 3026515
+},  {
+  id: 3026500,
+  label: "Charquemont",
+  lat: 47.214169,
+  lon: 6.8198,
+  nm: "Charquemont",
+  value: 3026500
+},  {
+  id: 3026467,
+  label: "Chartres",
+  lat: 48.44685,
+  lon: 1.48925,
+  nm: "Chartres",
+  value: 3026467
+},  {
+  id: 3026465,
+  label: "Chartres-de-Bretagne",
+  lat: 48.039242,
+  lon: -1.70533,
+  nm: "Chartres-de-Bretagne",
+  value: 3026465
+},  {
+  id: 3026464,
+  label: "Chartrettes",
+  lat: 48.488079,
+  lon: 2.70083,
+  nm: "Chartrettes",
+  value: 3026464
+},  {
+  id: 3026451,
+  label: "Charvieu-Chavagneux",
+  lat: 45.75,
+  lon: 5.15,
+  nm: "Charvieu-Chavagneux",
+  value: 3026451
+},  {
+  id: 3026384,
+  label: "Chasse-sur-Rhone",
+  lat: 45.583389,
+  lon: 4.79823,
+  nm: "Chasse-sur-Rhone",
+  value: 3026384
+},  {
+  id: 3026400,
+  label: "Chasselay",
+  lat: 45.87524,
+  lon: 4.7734,
+  nm: "Chasselay",
+  value: 3026400
+},  {
+  id: 3026391,
+  label: "Chasseneuil-du-Poitou",
+  lat: 46.651119,
+  lon: 0.3733,
+  nm: "Chasseneuil-du-Poitou",
+  value: 3026391
+},  {
+  id: 3026394,
+  label: "Chasseneuil-sur-Bonnieure",
+  lat: 45.816669,
+  lon: 0.45,
+  nm: "Chasseneuil-sur-Bonnieure",
+  value: 3026394
+},  {
+  id: 3026374,
+  label: "Chassieu",
+  lat: 45.745838,
+  lon: 4.97088,
+  nm: "Chassieu",
+  value: 3026374
+},  {
+  id: 3026298,
+  label: "Chateau-Chinon(Ville)",
+  lat: 47.066669,
+  lon: 3.93333,
+  nm: "Chateau-Chinon(Ville)",
+  value: 3026298
+},  {
+  id: 3026291,
+  label: "Chateau-dOlonne",
+  lat: 46.503819,
+  lon: -1.74096,
+  nm: "Chateau-dOlonne",
+  value: 3026291
+},  {
+  id: 3026286,
+  label: "Chateau-du-Loir",
+  lat: 47.69492,
+  lon: 0.41851,
+  nm: "Chateau-du-Loir",
+  value: 3026286
+},  {
+  id: 3026273,
+  label: "Chateau-Gontier",
+  lat: 47.833328,
+  lon: -0.7,
+  nm: "Chateau-Gontier",
+  value: 3026273
+},  {
+  id: 3026268,
+  label: "Chateau-Landon",
+  lat: 48.147209,
+  lon: 2.69754,
+  nm: "Chateau-Landon",
+  value: 3026268
+},  {
+  id: 3026208,
+  label: "Chateau-Renault",
+  lat: 47.591881,
+  lon: 0.91143,
+  nm: "Chateau-Renault",
+  value: 3026208
+},  {
+  id: 3026200,
+  label: "Chateau-Salins",
+  lat: 48.818851,
+  lon: 6.51455,
+  nm: "Chateau-Salins",
+  value: 3026200
+},  {
+  id: 3026194,
+  label: "Chateau-Thierry",
+  lat: 49.049999,
+  lon: 3.4,
+  nm: "Chateau-Thierry",
+  value: 3026194
+},  {
+  id: 3026310,
+  label: "Chateaubernard",
+  lat: 45.666672,
+  lon: -0.33333,
+  nm: "Chateaubernard",
+  value: 3026310
+},  {
+  id: 3026306,
+  label: "Chateaubourg",
+  lat: 48.111191,
+  lon: -1.40019,
+  nm: "Chateaubourg",
+  value: 3026306
+},  {
+  id: 3026303,
+  label: "Chateaubriant",
+  lat: 47.716671,
+  lon: -1.38333,
+  nm: "Chateaubriant",
+  value: 3026303
+},  {
+  id: 3026285,
+  label: "Chateaudun",
+  lat: 48.083328,
+  lon: 1.33333,
+  nm: "Chateaudun",
+  value: 3026285
+},  {
+  id: 3026276,
+  label: "Chateaugay",
+  lat: 45.851341,
+  lon: 3.08972,
+  nm: "Chateaugay",
+  value: 3026276
+},  {
+  id: 3026275,
+  label: "Chateaugiron",
+  lat: 48.046291,
+  lon: -1.50438,
+  nm: "Chateaugiron",
+  value: 3026275
+},  {
+  id: 3026262,
+  label: "Chateaulin",
+  lat: 48.200001,
+  lon: -4.08333,
+  nm: "Chateaulin",
+  value: 3026262
+},  {
+  id: 3026258,
+  label: "Chateaumeillant",
+  lat: 46.562191,
+  lon: 2.19515,
+  nm: "Chateaumeillant",
+  value: 3026258
+},  {
+  id: 3026242,
+  label: "Chateauneuf-de-Gadagne",
+  lat: 43.92683,
+  lon: 4.94453,
+  nm: "Chateauneuf-de-Gadagne",
+  value: 3026242
+},  {
+  id: 3026241,
+  label: "Chateauneuf-de-Galaure",
+  lat: 45.230961,
+  lon: 4.9568,
+  nm: "Chateauneuf-de-Galaure",
+  value: 3026241
+},  {
+  id: 3026234,
+  label: "Chateauneuf-du-Faou",
+  lat: 48.18755,
+  lon: -3.81789,
+  nm: "Chateauneuf-du-Faou",
+  value: 3026234
+},  {
+  id: 3026233,
+  label: "Chateauneuf-du-Pape",
+  lat: 44.056381,
+  lon: 4.83244,
+  nm: "Chateauneuf-du-Pape",
+  value: 3026233
+},  {
+  id: 3026232,
+  label: "Chateauneuf-du-Rhone",
+  lat: 44.487789,
+  lon: 4.71759,
+  nm: "Chateauneuf-du-Rhone",
+  value: 3026232
+},  {
+  id: 3026231,
+  label: "Chateauneuf-en-Thymerais",
+  lat: 48.58112,
+  lon: 1.24085,
+  nm: "Chateauneuf-en-Thymerais",
+  value: 3026231
+},  {
+  id: 3026256,
+  label: "Chateauneuf-Grasse",
+  lat: 43.666672,
+  lon: 6.98333,
+  nm: "Chateauneuf-Grasse",
+  value: 3026256
+},  {
+  id: 3026229,
+  label: "Chateauneuf-le-Rouge",
+  lat: 43.489361,
+  lon: 5.56921,
+  nm: "Chateauneuf-le-Rouge",
+  value: 3026229
+},  {
+  id: 3026227,
+  label: "Chateauneuf-les-Martigues",
+  lat: 43.383331,
+  lon: 5.16667,
+  nm: "Chateauneuf-les-Martigues",
+  value: 3026227
+},  {
+  id: 3026224,
+  label: "Chateauneuf-sur-Charente",
+  lat: 45.599998,
+  lon: -0.05,
+  nm: "Chateauneuf-sur-Charente",
+  value: 3026224
+},  {
+  id: 3026236,
+  label: "Chateauneuf-sur-Isere",
+  lat: 45.01667,
+  lon: 4.93333,
+  nm: "Chateauneuf-sur-Isere",
+  value: 3026236
+},  {
+  id: 3026222,
+  label: "Chateauneuf-sur-Loire",
+  lat: 47.865749,
+  lon: 2.21904,
+  nm: "Chateauneuf-sur-Loire",
+  value: 3026222
+},  {
+  id: 3026221,
+  label: "Chateauneuf-sur-Sarthe",
+  lat: 47.68145,
+  lon: -0.48652,
+  nm: "Chateauneuf-sur-Sarthe",
+  value: 3026221
+},  {
+  id: 3026217,
+  label: "Chateauponsac",
+  lat: 46.135361,
+  lon: 1.27623,
+  nm: "Chateauponsac",
+  value: 3026217
+},  {
+  id: 3026211,
+  label: "Chateaurenard",
+  lat: 43.881691,
+  lon: 4.85493,
+  nm: "Chateaurenard",
+  value: 3026211
+},  {
+  id: 3026204,
+  label: "Chateauroux",
+  lat: 46.816669,
+  lon: 1.7,
+  nm: "Chateauroux",
+  value: 3026204
+},  {
+  id: 3026145,
+  label: "Chatel-Guyon",
+  lat: 45.916672,
+  lon: 3.06667,
+  nm: "Chatel-Guyon",
+  value: 3026145
+},  {
+  id: 3026131,
+  label: "Chatel-Saint-Germain",
+  lat: 49.122898,
+  lon: 6.08001,
+  nm: "Chatel-Saint-Germain",
+  value: 3026131
+},  {
+  id: 3026172,
+  label: "Chatelaillon-Plage",
+  lat: 46.071899,
+  lon: -1.08926,
+  nm: "Chatelaillon-Plage",
+  value: 3026172
+},  {
+  id: 3026141,
+  label: "Chatellerault",
+  lat: 46.799999,
+  lon: 0.53333,
+  nm: "Chatellerault",
+  value: 3026141
+},  {
+  id: 3026108,
+  label: "Chatenay-Malabry",
+  lat: 48.765072,
+  lon: 2.26655,
+  nm: "Chatenay-Malabry",
+  value: 3026108
+},  {
+  id: 3026099,
+  label: "Chatenois",
+  lat: 48.30286,
+  lon: 5.83125,
+  nm: "Chatenois",
+  value: 3026099
+},  {
+  id: 3026100,
+  label: "Chatenois",
+  lat: 48.271881,
+  lon: 7.39927,
+  nm: "Chatenois",
+  value: 3026100
+},  {
+  id: 3026098,
+  label: "Chatenois-les-Forges",
+  lat: 47.559799,
+  lon: 6.84894,
+  nm: "Chatenois-les-Forges",
+  value: 3026098
+},  {
+  id: 3026094,
+  label: "Chatenoy-le-Royal",
+  lat: 46.79797,
+  lon: 4.8119,
+  nm: "Chatenoy-le-Royal",
+  value: 3026094
+},  {
+  id: 3026083,
+  label: "Chatillon",
+  lat: 48.802399,
+  lon: 2.29346,
+  nm: "Chatillon",
+  value: 3026083
+},  {
+  id: 3026075,
+  label: "Chatillon",
+  lat: 45.883331,
+  lon: 4.61667,
+  nm: "Chatillon",
+  value: 3026075
+},  {
+  id: 3026089,
+  label: "Chatillon",
+  lat: 45.800911,
+  lon: 5.84352,
+  nm: "Chatillon",
+  value: 3026089
+},  {
+  id: 3026076,
+  label: "Chatillon-Coligny",
+  lat: 47.822659,
+  lon: 2.84563,
+  nm: "Chatillon-Coligny",
+  value: 3026076
+},  {
+  id: 3026074,
+  label: "Chatillon-en-Michaille",
+  lat: 46.1432,
+  lon: 5.7995,
+  nm: "Chatillon-en-Michaille",
+  value: 3026074
+},  {
+  id: 3026065,
+  label: "Chatillon-le-Duc",
+  lat: 47.304859,
+  lon: 6.00792,
+  nm: "Chatillon-le-Duc",
+  value: 3026065
+},  {
+  id: 3026057,
+  label: "Chatillon-sur-Chalaronne",
+  lat: 46.12019,
+  lon: 4.95817,
+  nm: "Chatillon-sur-Chalaronne",
+  value: 3026057
+},  {
+  id: 3026053,
+  label: "Chatillon-sur-Indre",
+  lat: 46.98735,
+  lon: 1.17218,
+  nm: "Chatillon-sur-Indre",
+  value: 3026053
+},  {
+  id: 3026047,
+  label: "Chatillon-sur-Seiche",
+  lat: 48.034481,
+  lon: -1.67114,
+  nm: "Chatillon-sur-Seiche",
+  value: 3026047
+},  {
+  id: 3026046,
+  label: "Chatillon-sur-Seine",
+  lat: 47.858509,
+  lon: 4.57375,
+  nm: "Chatillon-sur-Seine",
+  value: 3026046
+},  {
+  id: 3026044,
+  label: "Chatillon-sur-Thouet",
+  lat: 46.661758,
+  lon: -0.23489,
+  nm: "Chatillon-sur-Thouet",
+  value: 3026044
+},  {
+  id: 3026033,
+  label: "Chatou",
+  lat: 48.889801,
+  lon: 2.15863,
+  nm: "Chatou",
+  value: 3026033
+},  {
+  id: 3026013,
+  label: "Chatte",
+  lat: 45.143101,
+  lon: 5.28441,
+  nm: "Chatte",
+  value: 3026013
+},  {
+  id: 3026008,
+  label: "Chatuzange-le-Goubet",
+  lat: 45.001381,
+  lon: 5.087,
+  nm: "Chatuzange-le-Goubet",
+  value: 3026008
+},  {
+  id: 3026005,
+  label: "Chauche",
+  lat: 46.829632,
+  lon: -1.27178,
+  nm: "Chauche",
+  value: 3026005
+},  {
+  id: 3025965,
+  label: "Chauffailles",
+  lat: 46.20726,
+  lon: 4.33932,
+  nm: "Chauffailles",
+  value: 3025965
+},  {
+  id: 3025942,
+  label: "Chaulnes",
+  lat: 49.81699,
+  lon: 2.80064,
+  nm: "Chaulnes",
+  value: 3025942
+},  {
+  id: 3025910,
+  label: "Chaumes-en-Brie",
+  lat: 48.66853,
+  lon: 2.84015,
+  nm: "Chaumes-en-Brie",
+  value: 3025910
+},  {
+  id: 3025892,
+  label: "Chaumont",
+  lat: 48.116669,
+  lon: 5.13333,
+  nm: "Chaumont",
+  value: 3025892
+},  {
+  id: 3025881,
+  label: "Chaumont-en-Vexin",
+  lat: 49.265949,
+  lon: 1.88597,
+  nm: "Chaumont-en-Vexin",
+  value: 3025881
+},  {
+  id: 3025882,
+  label: "Chaumontel",
+  lat: 49.124699,
+  lon: 2.43237,
+  nm: "Chaumontel",
+  value: 3025882
+},  {
+  id: 3025860,
+  label: "Chauny",
+  lat: 49.615139,
+  lon: 3.21857,
+  nm: "Chauny",
+  value: 3025860
+},  {
+  id: 3025854,
+  label: "Chauray",
+  lat: 46.35997,
+  lon: -0.37859,
+  nm: "Chauray",
+  value: 3025854
+},  {
+  id: 3025809,
+  label: "Chauvigny",
+  lat: 46.567471,
+  lon: 0.64928,
+  nm: "Chauvigny",
+  value: 3025809
+},  {
+  id: 3025774,
+  label: "Chavagne",
+  lat: 48.054379,
+  lon: -1.78571,
+  nm: "Chavagne",
+  value: 3025774
+},  {
+  id: 3025772,
+  label: "Chavagnes-en-Paillers",
+  lat: 46.89167,
+  lon: -1.25214,
+  nm: "Chavagnes-en-Paillers",
+  value: 3025772
+},  {
+  id: 3025760,
+  label: "Chavanay",
+  lat: 45.414371,
+  lon: 4.73157,
+  nm: "Chavanay",
+  value: 3025760
+},  {
+  id: 3025745,
+  label: "Chavanod",
+  lat: 45.889641,
+  lon: 6.04235,
+  nm: "Chavanod",
+  value: 3025745
+},  {
+  id: 3025741,
+  label: "Chavanoz",
+  lat: 45.776428,
+  lon: 5.17032,
+  nm: "Chavanoz",
+  value: 3025741
+},  {
+  id: 3025715,
+  label: "Chaville",
+  lat: 48.805649,
+  lon: 2.18864,
+  nm: "Chaville",
+  value: 3025715
+},  {
+  id: 3025668,
+  label: "Chazelles-sur-Lyon",
+  lat: 45.638062,
+  lon: 4.3913,
+  nm: "Chazelles-sur-Lyon",
+  value: 3025668
+},  {
+  id: 3025650,
+  label: "Checy",
+  lat: 47.89402,
+  lon: 2.02304,
+  nm: "Checy",
+  value: 3025650
+},  {
+  id: 3025646,
+  label: "Chef-Boutonne",
+  lat: 46.108589,
+  lon: -0.07083,
+  nm: "Chef-Boutonne",
+  value: 3025646
+},  {
+  id: 3025622,
+  label: "Chelles",
+  lat: 48.881088,
+  lon: 2.59295,
+  nm: "Chelles",
+  value: 3025622
+},  {
+  id: 3025602,
+  label: "Chemille",
+  lat: 47.21476,
+  lon: -0.72488,
+  nm: "Chemille",
+  value: 3025602
+},  {
+  id: 3025509,
+  label: "Chennevieres-sur-Marne",
+  lat: 48.79702,
+  lon: 2.54046,
+  nm: "Chennevieres-sur-Marne",
+  value: 3025509
+},  {
+  id: 3025496,
+  label: "Chenove",
+  lat: 47.293228,
+  lon: 5.00457,
+  nm: "Chenove",
+  value: 3025496
+},  {
+  id: 3025491,
+  label: "Cheny",
+  lat: 47.95166,
+  lon: 3.5334,
+  nm: "Cheny",
+  value: 3025491
+},  {
+  id: 3025466,
+  label: "Cherbourg-Octeville",
+  lat: 49.639839,
+  lon: -1.61636,
+  nm: "Cherbourg-Octeville",
+  value: 3025466
+},  {
+  id: 3025458,
+  label: "Chereng",
+  lat: 50.61058,
+  lon: 3.20666,
+  nm: "Chereng",
+  value: 3025458
+},  {
+  id: 3025397,
+  label: "Chessy",
+  lat: 48.883331,
+  lon: 2.76667,
+  nm: "Chessy",
+  value: 3025397
+},  {
+  id: 3025375,
+  label: "Cheval-Blanc",
+  lat: 43.801891,
+  lon: 5.06229,
+  nm: "Cheval-Blanc",
+  value: 3025375
+},  {
+  id: 3025324,
+  label: "Chevigny-Saint-Sauveur",
+  lat: 47.29908,
+  lon: 5.13367,
+  nm: "Chevigny-Saint-Sauveur",
+  value: 3025324
+},  {
+  id: 3025315,
+  label: "Chevilly",
+  lat: 48.029732,
+  lon: 1.87402,
+  nm: "Chevilly",
+  value: 3025315
+},  {
+  id: 3025314,
+  label: "Chevilly-Larue",
+  lat: 48.764759,
+  lon: 2.3503,
+  nm: "Chevilly-Larue",
+  value: 3025314
+},  {
+  id: 3025294,
+  label: "Chevreuse",
+  lat: 48.706619,
+  lon: 2.03329,
+  nm: "Chevreuse",
+  value: 3025294
+},  {
+  id: 3025270,
+  label: "Chevry-Cossigny",
+  lat: 48.724651,
+  lon: 2.66106,
+  nm: "Chevry-Cossigny",
+  value: 3025270
+},  {
+  id: 3025144,
+  label: "Chilly-Mazarin",
+  lat: 48.71489,
+  lon: 2.31638,
+  nm: "Chilly-Mazarin",
+  value: 3025144
+},  {
+  id: 3025132,
+  label: "Chinon",
+  lat: 47.166672,
+  lon: 0.25,
+  nm: "Chinon",
+  value: 3025132
+},  {
+  id: 3025108,
+  label: "Chirens",
+  lat: 45.4128,
+  lon: 5.55707,
+  nm: "Chirens",
+  value: 3025108
+},  {
+  id: 3025071,
+  label: "Chocques",
+  lat: 50.54084,
+  lon: 2.57194,
+  nm: "Chocques",
+  value: 3025071
+},  {
+  id: 3025058,
+  label: "Choisy-au-Bac",
+  lat: 49.437771,
+  lon: 2.87739,
+  nm: "Choisy-au-Bac",
+  value: 3025058
+},  {
+  id: 3025055,
+  label: "Choisy-le-Roi",
+  lat: 48.768459,
+  lon: 2.41874,
+  nm: "Choisy-le-Roi",
+  value: 3025055
+},  {
+  id: 3025053,
+  label: "Cholet",
+  lat: 47.066669,
+  lon: -0.88333,
+  nm: "Cholet",
+  value: 3025053
+},  {
+  id: 3025045,
+  label: "Chomerac",
+  lat: 44.70752,
+  lon: 4.66164,
+  nm: "Chomerac",
+  value: 3025045
+},  {
+  id: 3025033,
+  label: "Chorges",
+  lat: 44.5471,
+  lon: 6.27752,
+  nm: "Chorges",
+  value: 3025033
+},  {
+  id: 3025007,
+  label: "Chouze-sur-Loire",
+  lat: 47.236729,
+  lon: 0.12364,
+  nm: "Chouze-sur-Loire",
+  value: 3025007
+},  {
+  id: 3024991,
+  label: "Chuzelles",
+  lat: 45.584839,
+  lon: 4.87795,
+  nm: "Chuzelles",
+  value: 3024991
+},  {
+  id: 3024979,
+  label: "Ciboure",
+  lat: 43.382858,
+  lon: -1.676,
+  nm: "Ciboure",
+  value: 3024979
+},  {
+  id: 3024937,
+  label: "Cinq-Mars-la-Pile",
+  lat: 47.346378,
+  lon: 0.45873,
+  nm: "Cinq-Mars-la-Pile",
+  value: 3024937
+},  {
+  id: 3024932,
+  label: "Cintegabelle",
+  lat: 43.31316,
+  lon: 1.53333,
+  nm: "Cintegabelle",
+  value: 3024932
+},  {
+  id: 3024906,
+  label: "Cires-les-Mello",
+  lat: 49.272419,
+  lon: 2.3584,
+  nm: "Cires-les-Mello",
+  value: 3024906
+},  {
+  id: 3024891,
+  label: "Ciry-le-Noble",
+  lat: 46.606071,
+  lon: 4.29869,
+  nm: "Ciry-le-Noble",
+  value: 3024891
+},  {
+  id: 3024886,
+  label: "Cisse",
+  lat: 46.645828,
+  lon: 0.2287,
+  nm: "Cisse",
+  value: 3024886
+},  {
+  id: 3024846,
+  label: "Civray",
+  lat: 46.147099,
+  lon: 0.29509,
+  nm: "Civray",
+  value: 3024846
+},  {
+  id: 3024817,
+  label: "Claira",
+  lat: 42.760361,
+  lon: 2.95572,
+  nm: "Claira",
+  value: 3024817
+},  {
+  id: 3024816,
+  label: "Clairac",
+  lat: 44.360111,
+  lon: 0.37893,
+  nm: "Clairac",
+  value: 3024816
+},  {
+  id: 3024801,
+  label: "Clairoix",
+  lat: 49.442638,
+  lon: 2.84628,
+  nm: "Clairoix",
+  value: 3024801
+},  {
+  id: 3024788,
+  label: "Claix",
+  lat: 45.12254,
+  lon: 5.67481,
+  nm: "Claix",
+  value: 3024788
+},  {
+  id: 3024783,
+  label: "Clamart",
+  lat: 48.80299,
+  lon: 2.26692,
+  nm: "Clamart",
+  value: 3024783
+},  {
+  id: 3024782,
+  label: "Clamecy",
+  lat: 47.450001,
+  lon: 3.51667,
+  nm: "Clamecy",
+  value: 3024782
+},  {
+  id: 3024759,
+  label: "Clapiers",
+  lat: 43.658329,
+  lon: 3.88917,
+  nm: "Clapiers",
+  value: 3024759
+},  {
+  id: 3024746,
+  label: "Clarensac",
+  lat: 43.825359,
+  lon: 4.22047,
+  nm: "Clarensac",
+  value: 3024746
+},  {
+  id: 3024701,
+  label: "Claye-Souilly",
+  lat: 48.94492,
+  lon: 2.68566,
+  nm: "Claye-Souilly",
+  value: 3024701
+},  {
+  id: 3024691,
+  label: "Cleder",
+  lat: 48.662998,
+  lon: -4.102,
+  nm: "Cleder",
+  value: 3024691
+},  {
+  id: 3024682,
+  label: "Cleguer",
+  lat: 47.854069,
+  lon: -3.38219,
+  nm: "Cleguer",
+  value: 3024682
+},  {
+  id: 3024681,
+  label: "Cleguerec",
+  lat: 48.125778,
+  lon: -3.07162,
+  nm: "Cleguerec",
+  value: 3024681
+},  {
+  id: 3024669,
+  label: "Cleon",
+  lat: 49.312351,
+  lon: 1.0295,
+  nm: "Cleon",
+  value: 3024669
+},  {
+  id: 3024651,
+  label: "Clerieux",
+  lat: 45.077221,
+  lon: 4.95937,
+  nm: "Clerieux",
+  value: 3024651
+},  {
+  id: 3024643,
+  label: "Clermont",
+  lat: 49.383331,
+  lon: 2.4,
+  nm: "Clermont",
+  value: 3024643
+},  {
+  id: 3024635,
+  label: "Clermont-Ferrand",
+  lat: 45.779659,
+  lon: 3.08628,
+  nm: "Clermont-Ferrand",
+  value: 3024635
+},  {
+  id: 3024616,
+  label: "Clery-Saint-Andre",
+  lat: 47.822182,
+  lon: 1.75091,
+  nm: "Clery-Saint-Andre",
+  value: 3024616
+},  {
+  id: 3024597,
+  label: "Clichy",
+  lat: 48.900181,
+  lon: 2.30952,
+  nm: "Clichy",
+  value: 3024597
+},  {
+  id: 3024596,
+  label: "Clichy-sous-Bois",
+  lat: 48.910198,
+  lon: 2.55324,
+  nm: "Clichy-sous-Bois",
+  value: 3024596
+},  {
+  id: 3024578,
+  label: "Clisson",
+  lat: 47.087139,
+  lon: -1.28286,
+  nm: "Clisson",
+  value: 3024578
+},  {
+  id: 3024573,
+  label: "Clohars-Carnoet",
+  lat: 47.796059,
+  lon: -3.58502,
+  nm: "Clohars-Carnoet",
+  value: 3024573
+},  {
+  id: 3024572,
+  label: "Clohars-Fouesnant",
+  lat: 47.896568,
+  lon: -4.06396,
+  nm: "Clohars-Fouesnant",
+  value: 3024572
+},  {
+  id: 3024552,
+  label: "Clouange",
+  lat: 49.262402,
+  lon: 6.09723,
+  nm: "Clouange",
+  value: 3024552
+},  {
+  id: 3024543,
+  label: "Cloyes-sur-le-Loir",
+  lat: 47.997261,
+  lon: 1.23711,
+  nm: "Cloyes-sur-le-Loir",
+  value: 3024543
+},  {
+  id: 3024534,
+  label: "Cluny",
+  lat: 46.433182,
+  lon: 4.65845,
+  nm: "Cluny",
+  value: 3024534
+},  {
+  id: 3024532,
+  label: "Cluses",
+  lat: 46.062511,
+  lon: 6.57497,
+  nm: "Cluses",
+  value: 3024532
+},  {
+  id: 3024525,
+  label: "Coarraze",
+  lat: 43.166672,
+  lon: -0.23333,
+  nm: "Coarraze",
+  value: 3024525
+},  {
+  id: 3024479,
+  label: "Cocheren",
+  lat: 49.146042,
+  lon: 6.8558,
+  nm: "Cocheren",
+  value: 3024479
+},  {
+  id: 3024463,
+  label: "Codognan",
+  lat: 43.730339,
+  lon: 4.2212,
+  nm: "Codognan",
+  value: 3024463
+},  {
+  id: 3024447,
+  label: "Coex",
+  lat: 46.698078,
+  lon: -1.75956,
+  nm: "Coex",
+  value: 3024447
+},  {
+  id: 3024440,
+  label: "Cognac",
+  lat: 45.700001,
+  lon: -0.33333,
+  nm: "Cognac",
+  value: 3024440
+},  {
+  id: 3024426,
+  label: "Cognin",
+  lat: 45.56377,
+  lon: 5.89435,
+  nm: "Cognin",
+  value: 3024426
+},  {
+  id: 3024421,
+  label: "Cogolin",
+  lat: 43.252209,
+  lon: 6.53002,
+  nm: "Cogolin",
+  value: 3024421
+},  {
+  id: 3024406,
+  label: "Coignieres",
+  lat: 48.750099,
+  lon: 1.92082,
+  nm: "Coignieres",
+  value: 3024406
+},  {
+  id: 3024358,
+  label: "Colayrac-Saint-Cirq",
+  lat: 44.220951,
+  lon: 0.55061,
+  nm: "Colayrac-Saint-Cirq",
+  value: 3024358
+},  {
+  id: 3024328,
+  label: "Collegien",
+  lat: 48.835709,
+  lon: 2.67365,
+  nm: "Collegien",
+  value: 3024328
+},  {
+  id: 3024322,
+  label: "Colleville-Montgomery",
+  lat: 49.27528,
+  lon: -0.30052,
+  nm: "Colleville-Montgomery",
+  value: 3024322
+},  {
+  id: 3024314,
+  label: "Collioure",
+  lat: 42.52462,
+  lon: 3.08235,
+  nm: "Collioure",
+  value: 3024314
+},  {
+  id: 3024302,
+  label: "Collonges-sous-Saleve",
+  lat: 46.141602,
+  lon: 6.15372,
+  nm: "Collonges-sous-Saleve",
+  value: 3024302
+},  {
+  id: 3024297,
+  label: "Colmar",
+  lat: 48.083328,
+  lon: 7.36667,
+  nm: "Colmar",
+  value: 3024297
+},  {
+  id: 3024276,
+  label: "Colomars",
+  lat: 43.754059,
+  lon: 7.2198,
+  nm: "Colomars",
+  value: 3024276
+},  {
+  id: 3024267,
+  label: "Colombelles",
+  lat: 49.204899,
+  lon: -0.29571,
+  nm: "Colombelles",
+  value: 3024267
+},  {
+  id: 3024266,
+  label: "Colombes",
+  lat: 48.918819,
+  lon: 2.25404,
+  nm: "Colombes",
+  value: 3024266
+},  {
+  id: 3024239,
+  label: "Colombiers",
+  lat: 43.31424,
+  lon: 3.13947,
+  nm: "Colombiers",
+  value: 3024239
+},  {
+  id: 3024223,
+  label: "Colomiers",
+  lat: 43.612469,
+  lon: 1.33278,
+  nm: "Colomiers",
+  value: 3024223
+},  {
+  id: 3024210,
+  label: "Colpo",
+  lat: 47.81778,
+  lon: -2.81002,
+  nm: "Colpo",
+  value: 3024210
+},  {
+  id: 3024142,
+  label: "Combloux",
+  lat: 45.89669,
+  lon: 6.63444,
+  nm: "Combloux",
+  value: 3024142
+},  {
+  id: 3024137,
+  label: "Combourg",
+  lat: 48.41267,
+  lon: -1.74424,
+  nm: "Combourg",
+  value: 3024137
+},  {
+  id: 3024126,
+  label: "Combree",
+  lat: 47.70446,
+  lon: -1.03003,
+  nm: "Combree",
+  value: 3024126
+},  {
+  id: 3024112,
+  label: "Combrit",
+  lat: 47.887341,
+  lon: -4.15817,
+  nm: "Combrit",
+  value: 3024112
+},  {
+  id: 3024111,
+  label: "Combronde",
+  lat: 45.98138,
+  lon: 3.08768,
+  nm: "Combronde",
+  value: 3024111
+},  {
+  id: 3024107,
+  label: "Combs-la-Ville",
+  lat: 48.66497,
+  lon: 2.56957,
+  nm: "Combs-la-Ville",
+  value: 3024107
+},  {
+  id: 3024102,
+  label: "Comines",
+  lat: 50.761501,
+  lon: 3.01063,
+  nm: "Comines",
+  value: 3024102
+},  {
+  id: 3024094,
+  label: "Commelle-Vernay",
+  lat: 45.994389,
+  lon: 4.06635,
+  nm: "Commelle-Vernay",
+  value: 3024094
+},  {
+  id: 3024090,
+  label: "Commentry",
+  lat: 46.29211,
+  lon: 2.7416,
+  nm: "Commentry",
+  value: 3024090
+},  {
+  id: 3024088,
+  label: "Commequiers",
+  lat: 46.76049,
+  lon: -1.83901,
+  nm: "Commequiers",
+  value: 3024088
+},  {
+  id: 3024086,
+  label: "Commercy",
+  lat: 48.76128,
+  lon: 5.59067,
+  nm: "Commercy",
+  value: 3024086
+},  {
+  id: 3024074,
+  label: "Communay",
+  lat: 45.606709,
+  lon: 4.83988,
+  nm: "Communay",
+  value: 3024074
+},  {
+  id: 3024066,
+  label: "Compiegne",
+  lat: 49.417938,
+  lon: 2.82606,
+  nm: "Compiegne",
+  value: 3024066
+},  {
+  id: 3024035,
+  label: "Concarneau",
+  lat: 47.875019,
+  lon: -3.92245,
+  nm: "Concarneau",
+  value: 3024035
+},  {
+  id: 3024026,
+  label: "Conches-en-Ouche",
+  lat: 48.95768,
+  lon: 0.94052,
+  nm: "Conches-en-Ouche",
+  value: 3024026
+},  {
+  id: 3023977,
+  label: "Condat-sur-Vienne",
+  lat: 45.78648,
+  lon: 1.28454,
+  nm: "Condat-sur-Vienne",
+  value: 3023977
+},  {
+  id: 3023955,
+  label: "Conde-sur-lEscaut",
+  lat: 50.454361,
+  lon: 3.58884,
+  nm: "Conde-sur-lEscaut",
+  value: 3023955
+},  {
+  id: 3023953,
+  label: "Conde-sur-Noireau",
+  lat: 48.848808,
+  lon: -0.55214,
+  nm: "Conde-sur-Noireau",
+  value: 3023953
+},  {
+  id: 3023951,
+  label: "Conde-sur-Sarthe",
+  lat: 48.431969,
+  lon: 0.03398,
+  nm: "Conde-sur-Sarthe",
+  value: 3023951
+},  {
+  id: 3023947,
+  label: "Conde-sur-Vire",
+  lat: 49.049999,
+  lon: -1.03333,
+  nm: "Conde-sur-Vire",
+  value: 3023947
+},  {
+  id: 3023946,
+  label: "Condette",
+  lat: 50.658169,
+  lon: 1.63386,
+  nm: "Condette",
+  value: 3023946
+},  {
+  id: 3023943,
+  label: "Condom",
+  lat: 43.95816,
+  lon: 0.37199,
+  nm: "Condom",
+  value: 3023943
+},  {
+  id: 3023937,
+  label: "Condrieu",
+  lat: 45.46344,
+  lon: 4.76848,
+  nm: "Condrieu",
+  value: 3023937
+},  {
+  id: 3023925,
+  label: "Conflans-en-Jarnisy",
+  lat: 49.167679,
+  lon: 5.84863,
+  nm: "Conflans-en-Jarnisy",
+  value: 3023925
+},  {
+  id: 3023924,
+  label: "Conflans-Sainte-Honorine",
+  lat: 49.001579,
+  lon: 2.09694,
+  nm: "Conflans-Sainte-Honorine",
+  value: 3023924
+},  {
+  id: 3023919,
+  label: "Confolens",
+  lat: 46.01667,
+  lon: 0.66667,
+  nm: "Confolens",
+  value: 3023919
+},  {
+  id: 3023908,
+  label: "Congis-sur-Therouanne",
+  lat: 49,
+  lon: 2.98333,
+  nm: "Congis-sur-Therouanne",
+  value: 3023908
+},  {
+  id: 3023880,
+  label: "Connerre",
+  lat: 48.05698,
+  lon: 0.49344,
+  nm: "Connerre",
+  value: 3023880
+},  {
+  id: 3023873,
+  label: "Conques-sur-Orbiel",
+  lat: 43.26667,
+  lon: 2.41667,
+  nm: "Conques-sur-Orbiel",
+  value: 3023873
+},  {
+  id: 3023842,
+  label: "Contes",
+  lat: 43.812778,
+  lon: 7.31444,
+  nm: "Contes",
+  value: 3023842
+},  {
+  id: 3023812,
+  label: "Contres",
+  lat: 47.417542,
+  lon: 1.42849,
+  nm: "Contres",
+  value: 3023812
+},  {
+  id: 3023808,
+  label: "Contrexeville",
+  lat: 48.184238,
+  lon: 5.89572,
+  nm: "Contrexeville",
+  value: 3023808
+},  {
+  id: 3023787,
+  label: "Coquelles",
+  lat: 50.934608,
+  lon: 1.7988,
+  nm: "Coquelles",
+  value: 3023787
+},  {
+  id: 3023771,
+  label: "Corbas",
+  lat: 45.6679,
+  lon: 4.89627,
+  nm: "Corbas",
+  value: 3023771
+},  {
+  id: 3023767,
+  label: "Corbehem",
+  lat: 50.331409,
+  lon: 3.04995,
+  nm: "Corbehem",
+  value: 3023767
+},  {
+  id: 3023763,
+  label: "Corbeil-Essonnes",
+  lat: 48.60603,
+  lon: 2.48757,
+  nm: "Corbeil-Essonnes",
+  value: 3023763
+},  {
+  id: 3023759,
+  label: "Corbelin",
+  lat: 45.608681,
+  lon: 5.54448,
+  nm: "Corbelin",
+  value: 3023759
+},  {
+  id: 3023742,
+  label: "Corbie",
+  lat: 49.906719,
+  lon: 2.50682,
+  nm: "Corbie",
+  value: 3023742
+},  {
+  id: 3023697,
+  label: "Cordemais",
+  lat: 47.291069,
+  lon: -1.87869,
+  nm: "Cordemais",
+  value: 3023697
+},  {
+  id: 3023672,
+  label: "Corenc",
+  lat: 45.214211,
+  lon: 5.77152,
+  nm: "Corenc",
+  value: 3023672
+},  {
+  id: 3023645,
+  label: "Cormeilles-en-Parisis",
+  lat: 48.971111,
+  lon: 2.20491,
+  nm: "Cormeilles-en-Parisis",
+  value: 3023645
+},  {
+  id: 3023643,
+  label: "Cormelles-le-Royal",
+  lat: 49.15398,
+  lon: -0.33062,
+  nm: "Cormelles-le-Royal",
+  value: 3023643
+},  {
+  id: 3023628,
+  label: "Cormontreuil",
+  lat: 49.216671,
+  lon: 4.05,
+  nm: "Cormontreuil",
+  value: 3023628
+},  {
+  id: 3023617,
+  label: "Cornas",
+  lat: 44.964981,
+  lon: 4.84806,
+  nm: "Cornas",
+  value: 3023617
+},  {
+  id: 3023611,
+  label: "Corne",
+  lat: 47.470901,
+  lon: -0.34992,
+  nm: "Corne",
+  value: 3023611
+},  {
+  id: 3023606,
+  label: "Cornebarrieu",
+  lat: 43.648949,
+  lon: 1.32407,
+  nm: "Cornebarrieu",
+  value: 3023606
+},  {
+  id: 3023573,
+  label: "Cornimont",
+  lat: 47.95998,
+  lon: 6.83038,
+  nm: "Cornimont",
+  value: 3023573
+},  {
+  id: 3023545,
+  label: "Corps-Nuds",
+  lat: 47.979149,
+  lon: -1.58409,
+  nm: "Corps-Nuds",
+  value: 3023545
+},  {
+  id: 3023543,
+  label: "Corquilleroy",
+  lat: 48.042122,
+  lon: 2.70382,
+  nm: "Corquilleroy",
+  value: 3023543
+},  {
+  id: 3023512,
+  label: "Corsept",
+  lat: 47.277031,
+  lon: -2.05904,
+  nm: "Corsept",
+  value: 3023512
+},  {
+  id: 3023506,
+  label: "Corte",
+  lat: 42.299999,
+  lon: 9.15,
+  nm: "Corte",
+  value: 3023506
+},  {
+  id: 3023484,
+  label: "Cosnac",
+  lat: 45.135159,
+  lon: 1.58575,
+  nm: "Cosnac",
+  value: 3023484
+},  {
+  id: 3023476,
+  label: "Cosne-Cours-sur-Loire",
+  lat: 47.411011,
+  lon: 2.92528,
+  nm: "Cosne-Cours-sur-Loire",
+  value: 3023476
+},  {
+  id: 3023477,
+  label: "Cosnes-et-Romain",
+  lat: 49.519428,
+  lon: 5.71765,
+  nm: "Cosnes-et-Romain",
+  value: 3023477
+},  {
+  id: 3023466,
+  label: "Cosse-le-Vivien",
+  lat: 47.94598,
+  lon: -0.91185,
+  nm: "Cosse-le-Vivien",
+  value: 3023466
+},  {
+  id: 3023410,
+  label: "Cotignac",
+  lat: 43.528412,
+  lon: 6.15,
+  nm: "Cotignac",
+  value: 3023410
+},  {
+  id: 3023381,
+  label: "Coublevie",
+  lat: 45.356239,
+  lon: 5.61759,
+  nm: "Coublevie",
+  value: 3023381
+},  {
+  id: 3023379,
+  label: "Coubon",
+  lat: 44.997311,
+  lon: 3.91783,
+  nm: "Coubon",
+  value: 3023379
+},  {
+  id: 3023375,
+  label: "Coubron",
+  lat: 48.916672,
+  lon: 2.58333,
+  nm: "Coubron",
+  value: 3023375
+},  {
+  id: 3023356,
+  label: "Coudekerque-Branche",
+  lat: 51.022881,
+  lon: 2.39359,
+  nm: "Coudekerque-Branche",
+  value: 3023356
+},  {
+  id: 3023344,
+  label: "Coudoux",
+  lat: 43.557999,
+  lon: 5.24889,
+  nm: "Coudoux",
+  value: 3023344
+},  {
+  id: 3023324,
+  label: "Coueron",
+  lat: 47.21508,
+  lon: -1.72171,
+  nm: "Coueron",
+  value: 3023324
+},  {
+  id: 3023315,
+  label: "Couffe",
+  lat: 47.391201,
+  lon: -1.29321,
+  nm: "Couffe",
+  value: 3023315
+},  {
+  id: 3023309,
+  label: "Coufouleux",
+  lat: 43.817131,
+  lon: 1.73078,
+  nm: "Coufouleux",
+  value: 3023309
+},  {
+  id: 3023301,
+  label: "Couhe",
+  lat: 46.29911,
+  lon: 0.18174,
+  nm: "Couhe",
+  value: 3023301
+},  {
+  id: 3023296,
+  label: "Couilly-Pont-aux-Dames",
+  lat: 48.884731,
+  lon: 2.85677,
+  nm: "Couilly-Pont-aux-Dames",
+  value: 3023296
+},  {
+  id: 3023291,
+  label: "Coulaines",
+  lat: 48.02409,
+  lon: 0.20411,
+  nm: "Coulaines",
+  value: 3023291
+},  {
+  id: 3023281,
+  label: "Coulanges-les-Nevers",
+  lat: 47.005089,
+  lon: 3.18756,
+  nm: "Coulanges-les-Nevers",
+  value: 3023281
+},  {
+  id: 3023260,
+  label: "Coullons",
+  lat: 47.62104,
+  lon: 2.49258,
+  nm: "Coullons",
+  value: 3023260
+},  {
+  id: 3023254,
+  label: "Coulogne",
+  lat: 50.924629,
+  lon: 1.88137,
+  nm: "Coulogne",
+  value: 3023254
+},  {
+  id: 3023240,
+  label: "Coulommiers",
+  lat: 48.81451,
+  lon: 3.08498,
+  nm: "Coulommiers",
+  value: 3023240
+},  {
+  id: 3023238,
+  label: "Coulon",
+  lat: 46.32328,
+  lon: -0.5856,
+  nm: "Coulon",
+  value: 3023238
+},  {
+  id: 3023214,
+  label: "Coulounieix-Chamiers",
+  lat: 45.152889,
+  lon: 0.68852,
+  nm: "Coulounieix-Chamiers",
+  value: 3023214
+},  {
+  id: 3023175,
+  label: "Coupvray",
+  lat: 48.892891,
+  lon: 2.7967,
+  nm: "Coupvray",
+  value: 3023175
+},  {
+  id: 3023063,
+  label: "Cour-Cheverny",
+  lat: 47.51033,
+  lon: 1.45583,
+  nm: "Cour-Cheverny",
+  value: 3023063
+},  {
+  id: 3023141,
+  label: "Courbevoie",
+  lat: 48.896721,
+  lon: 2.25666,
+  nm: "Courbevoie",
+  value: 3023141
+},  {
+  id: 3023107,
+  label: "Courcelles-Chaussy",
+  lat: 49.10862,
+  lon: 6.40391,
+  nm: "Courcelles-Chaussy",
+  value: 3023107
+},  {
+  id: 3023097,
+  label: "Courcelles-les-Lens",
+  lat: 50.416672,
+  lon: 3.01667,
+  nm: "Courcelles-les-Lens",
+  value: 3023097
+},  {
+  id: 3023066,
+  label: "Courchelettes",
+  lat: 50.340439,
+  lon: 3.05938,
+  nm: "Courchelettes",
+  value: 3023066
+},  {
+  id: 3023056,
+  label: "Courcouronnes",
+  lat: 48.614288,
+  lon: 2.40762,
+  nm: "Courcouronnes",
+  value: 3023056
+},  {
+  id: 3023044,
+  label: "Courdimanche",
+  lat: 49.03513,
+  lon: 2.00096,
+  nm: "Courdimanche",
+  value: 3023044
+},  {
+  id: 3023014,
+  label: "Courlay",
+  lat: 46.779411,
+  lon: -0.56607,
+  nm: "Courlay",
+  value: 3023014
+},  {
+  id: 3022988,
+  label: "Cournon-dAuvergne",
+  lat: 45.735432,
+  lon: 3.19608,
+  nm: "Cournon-dAuvergne",
+  value: 3022988
+},  {
+  id: 3022987,
+  label: "Cournonsec",
+  lat: 43.549438,
+  lon: 3.70556,
+  nm: "Cournonsec",
+  value: 3022987
+},  {
+  id: 3022986,
+  label: "Cournonterral",
+  lat: 43.558891,
+  lon: 3.72,
+  nm: "Cournonterral",
+  value: 3022986
+},  {
+  id: 3022977,
+  label: "Courpiere",
+  lat: 45.756889,
+  lon: 3.54216,
+  nm: "Courpiere",
+  value: 3022977
+},  {
+  id: 3022969,
+  label: "Courrieres",
+  lat: 50.457008,
+  lon: 2.94724,
+  nm: "Courrieres",
+  value: 3022969
+},  {
+  id: 3022964,
+  label: "Cours-la-Ville",
+  lat: 46.099998,
+  lon: 4.31667,
+  nm: "Cours-la-Ville",
+  value: 3022964
+},  {
+  id: 3022956,
+  label: "Coursan",
+  lat: 43.2337,
+  lon: 3.05712,
+  nm: "Coursan",
+  value: 3022956
+},  {
+  id: 3022947,
+  label: "Courseulles-sur-Mer",
+  lat: 49.330269,
+  lon: -0.45612,
+  nm: "Courseulles-sur-Mer",
+  value: 3022947
+},  {
+  id: 3022911,
+  label: "Courtenay",
+  lat: 48.039009,
+  lon: 3.05851,
+  nm: "Courtenay",
+  value: 3022911
+},  {
+  id: 3022897,
+  label: "Courthezon",
+  lat: 44.087311,
+  lon: 4.88382,
+  nm: "Courthezon",
+  value: 3022897
+},  {
+  id: 3022882,
+  label: "Courtisols",
+  lat: 48.986698,
+  lon: 4.517,
+  nm: "Courtisols",
+  value: 3022882
+},  {
+  id: 3022868,
+  label: "Courtry",
+  lat: 48.91906,
+  lon: 2.60431,
+  nm: "Courtry",
+  value: 3022868
+},  {
+  id: 3022862,
+  label: "Courville-sur-Eure",
+  lat: 48.449001,
+  lon: 1.24085,
+  nm: "Courville-sur-Eure",
+  value: 3022862
+},  {
+  id: 3022826,
+  label: "Coutances",
+  lat: 49.049999,
+  lon: -1.43333,
+  nm: "Coutances",
+  value: 3022826
+},  {
+  id: 3022804,
+  label: "Coutiches",
+  lat: 50.4552,
+  lon: 3.20384,
+  nm: "Coutiches",
+  value: 3022804
+},  {
+  id: 3022799,
+  label: "Coutras",
+  lat: 45.033329,
+  lon: -0.13333,
+  nm: "Coutras",
+  value: 3022799
+},  {
+  id: 3022751,
+  label: "Couzeix",
+  lat: 45.870468,
+  lon: 1.23828,
+  nm: "Couzeix",
+  value: 3022751
+},  {
+  id: 3022739,
+  label: "Coye-la-Foret",
+  lat: 49.14233,
+  lon: 2.47038,
+  nm: "Coye-la-Foret",
+  value: 3022739
+},  {
+  id: 3022733,
+  label: "Cozes",
+  lat: 45.583752,
+  lon: -0.83178,
+  nm: "Cozes",
+  value: 3022733
+},  {
+  id: 3022726,
+  label: "Crach",
+  lat: 47.617001,
+  lon: -3.0017,
+  nm: "Crach",
+  value: 3022726
+},  {
+  id: 3022700,
+  label: "Cran-Gevrier",
+  lat: 45.900002,
+  lon: 6.1,
+  nm: "Cran-Gevrier",
+  value: 3022700
+},  {
+  id: 3022692,
+  label: "Cranves-Sales",
+  lat: 46.187462,
+  lon: 6.29108,
+  nm: "Cranves-Sales",
+  value: 3022692
+},  {
+  id: 3022690,
+  label: "Craon",
+  lat: 47.846882,
+  lon: -0.94929,
+  nm: "Craon",
+  value: 3022690
+},  {
+  id: 3022683,
+  label: "Craponne",
+  lat: 45.746841,
+  lon: 4.72661,
+  nm: "Craponne",
+  value: 3022683
+},  {
+  id: 3022679,
+  label: "Craponne-sur-Arzon",
+  lat: 45.331348,
+  lon: 3.84802,
+  nm: "Craponne-sur-Arzon",
+  value: 3022679
+},  {
+  id: 3022665,
+  label: "Cravanche",
+  lat: 47.656441,
+  lon: 6.83647,
+  nm: "Cravanche",
+  value: 3022665
+},  {
+  id: 3022641,
+  label: "Creances",
+  lat: 49.198738,
+  lon: -1.56938,
+  nm: "Creances",
+  value: 3022641
+},  {
+  id: 3022633,
+  label: "Creches-sur-Saone",
+  lat: 46.244751,
+  lon: 4.78678,
+  nm: "Creches-sur-Saone",
+  value: 3022633
+},  {
+  id: 3022613,
+  label: "Cregy-les-Meaux",
+  lat: 48.976479,
+  lon: 2.87483,
+  nm: "Cregy-les-Meaux",
+  value: 3022613
+},  {
+  id: 3022612,
+  label: "Crehange",
+  lat: 49.049519,
+  lon: 6.58012,
+  nm: "Crehange",
+  value: 3022612
+},  {
+  id: 3022610,
+  label: "Creil",
+  lat: 49.256721,
+  lon: 2.48477,
+  nm: "Creil",
+  value: 3022610
+},  {
+  id: 3022600,
+  label: "Cremieu",
+  lat: 45.728989,
+  lon: 5.24839,
+  nm: "Cremieu",
+  value: 3022600
+},  {
+  id: 3022585,
+  label: "Creon",
+  lat: 44.77457,
+  lon: -0.348,
+  nm: "Creon",
+  value: 3022585
+},  {
+  id: 3022569,
+  label: "Crepy-en-Valois",
+  lat: 49.233589,
+  lon: 2.88807,
+  nm: "Crepy-en-Valois",
+  value: 3022569
+},  {
+  id: 3022559,
+  label: "Crespin",
+  lat: 50.421101,
+  lon: 3.66137,
+  nm: "Crespin",
+  value: 3022559
+},  {
+  id: 3022540,
+  label: "Crest",
+  lat: 44.728359,
+  lon: 5.02722,
+  nm: "Crest",
+  value: 3022540
+},  {
+  id: 3022530,
+  label: "Creteil",
+  lat: 48.783329,
+  lon: 2.46667,
+  nm: "Creteil",
+  value: 3022530
+},  {
+  id: 3022513,
+  label: "Creutzwald",
+  lat: 49.200001,
+  lon: 6.68333,
+  nm: "Creutzwald",
+  value: 3022513
+},  {
+  id: 3022509,
+  label: "Creuzier-le-Vieux",
+  lat: 46.162529,
+  lon: 3.43311,
+  nm: "Creuzier-le-Vieux",
+  value: 3022509
+},  {
+  id: 3022498,
+  label: "Crevecoeur-le-Grand",
+  lat: 49.599998,
+  lon: 2.08333,
+  nm: "Crevecoeur-le-Grand",
+  value: 3022498
+},  {
+  id: 3022480,
+  label: "Creysse",
+  lat: 44.85474,
+  lon: 0.56583,
+  nm: "Creysse",
+  value: 3022480
+},  {
+  id: 3022461,
+  label: "Criel-sur-Mer",
+  lat: 50.015079,
+  lon: 1.31459,
+  nm: "Criel-sur-Mer",
+  value: 3022461
+},  {
+  id: 3022433,
+  label: "Crissey",
+  lat: 46.816521,
+  lon: 4.88185,
+  nm: "Crissey",
+  value: 3022433
+},  {
+  id: 3022382,
+  label: "Croissy-Beaubourg",
+  lat: 48.8283,
+  lon: 2.66964,
+  nm: "Croissy-Beaubourg",
+  value: 3022382
+},  {
+  id: 3022380,
+  label: "Croissy-sur-Seine",
+  lat: 48.87925,
+  lon: 2.13836,
+  nm: "Croissy-sur-Seine",
+  value: 3022380
+},  {
+  id: 3022376,
+  label: "Croix",
+  lat: 50.678459,
+  lon: 3.1493,
+  nm: "Croix",
+  value: 3022376
+},  {
+  id: 3022331,
+  label: "Crolles",
+  lat: 45.281979,
+  lon: 5.87824,
+  nm: "Crolles",
+  value: 3022331
+},  {
+  id: 3022301,
+  label: "Crosne",
+  lat: 48.719219,
+  lon: 2.45728,
+  nm: "Crosne",
+  value: 3022301
+},  {
+  id: 3022300,
+  label: "Crossac",
+  lat: 47.411201,
+  lon: -2.16952,
+  nm: "Crossac",
+  value: 3022300
+},  {
+  id: 3022271,
+  label: "Crouy",
+  lat: 49.40274,
+  lon: 3.35834,
+  nm: "Crouy",
+  value: 3022271
+},  {
+  id: 3022242,
+  label: "Crozon",
+  lat: 48.246429,
+  lon: -4.48993,
+  nm: "Crozon",
+  value: 3022242
+},  {
+  id: 3022238,
+  label: "Cruas",
+  lat: 44.655441,
+  lon: 4.76144,
+  nm: "Cruas",
+  value: 3022238
+},  {
+  id: 3022217,
+  label: "Cruseilles",
+  lat: 46.033329,
+  lon: 6.11667,
+  nm: "Cruseilles",
+  value: 3022217
+},  {
+  id: 3022177,
+  label: "Cubzac-les-Ponts",
+  lat: 44.971191,
+  lon: -0.44976,
+  nm: "Cubzac-les-Ponts",
+  value: 3022177
+},  {
+  id: 3022167,
+  label: "Cucq",
+  lat: 50.477329,
+  lon: 1.62018,
+  nm: "Cucq",
+  value: 3022167
+},  {
+  id: 3022164,
+  label: "Cucuron",
+  lat: 43.773209,
+  lon: 5.439,
+  nm: "Cucuron",
+  value: 3022164
+},  {
+  id: 3022158,
+  label: "Cuers",
+  lat: 43.237309,
+  lon: 6.07107,
+  nm: "Cuers",
+  value: 3022158
+},  {
+  id: 3022153,
+  label: "Cugand",
+  lat: 47.063179,
+  lon: -1.2527,
+  nm: "Cugand",
+  value: 3022153
+},  {
+  id: 3022152,
+  label: "Cuges-les-Pins",
+  lat: 43.275848,
+  lon: 5.69944,
+  nm: "Cuges-les-Pins",
+  value: 3022152
+},  {
+  id: 3022151,
+  label: "Cugnaux",
+  lat: 43.53635,
+  lon: 1.34428,
+  nm: "Cugnaux",
+  value: 3022151
+},  {
+  id: 3022133,
+  label: "Cuincy",
+  lat: 50.37933,
+  lon: 3.05301,
+  nm: "Cuincy",
+  value: 3022133
+},  {
+  id: 3022123,
+  label: "Cuise-la-Motte",
+  lat: 49.386421,
+  lon: 3.00588,
+  nm: "Cuise-la-Motte",
+  value: 3022123
+},  {
+  id: 3022119,
+  label: "Cuisiat",
+  lat: 46.300209,
+  lon: 5.3881,
+  nm: "Cuisiat",
+  value: 3022119
+},  {
+  id: 3022093,
+  label: "Culoz",
+  lat: 45.84964,
+  lon: 5.78081,
+  nm: "Culoz",
+  value: 3022093
+},  {
+  id: 3021993,
+  label: "Cusset",
+  lat: 46.13002,
+  lon: 3.45963,
+  nm: "Cusset",
+  value: 3021993
+},  {
+  id: 3021980,
+  label: "Custines",
+  lat: 48.793629,
+  lon: 6.14835,
+  nm: "Custines",
+  value: 3021980
+},  {
+  id: 3021935,
+  label: "Cysoing",
+  lat: 50.569389,
+  lon: 3.21627,
+  nm: "Cysoing",
+  value: 3021935
+},  {
+  id: 3021933,
+  label: "Dabo",
+  lat: 48.653709,
+  lon: 7.23636,
+  nm: "Dabo",
+  value: 3021933
+},  {
+  id: 3021930,
+  label: "Dadonville",
+  lat: 48.157761,
+  lon: 2.2715,
+  nm: "Dadonville",
+  value: 3021930
+},  {
+  id: 3021927,
+  label: "Dagneux",
+  lat: 45.851398,
+  lon: 5.0778,
+  nm: "Dagneux",
+  value: 3021927
+},  {
+  id: 3021911,
+  label: "Dainville",
+  lat: 50.280979,
+  lon: 2.72603,
+  nm: "Dainville",
+  value: 3021911
+},  {
+  id: 3021888,
+  label: "Dambach-la-Ville",
+  lat: 48.323792,
+  lon: 7.42547,
+  nm: "Dambach-la-Ville",
+  value: 3021888
+},  {
+  id: 3021872,
+  label: "Damelevieres",
+  lat: 48.557362,
+  lon: 6.38611,
+  nm: "Damelevieres",
+  value: 3021872
+},  {
+  id: 3021859,
+  label: "Damigny",
+  lat: 48.450001,
+  lon: 0.06667,
+  nm: "Damigny",
+  value: 3021859
+},  {
+  id: 3021852,
+  label: "Dammarie-les-Lys",
+  lat: 48.51667,
+  lon: 2.65,
+  nm: "Dammarie-les-Lys",
+  value: 3021852
+},  {
+  id: 3021848,
+  label: "Dammartin-en-Goele",
+  lat: 49.05423,
+  lon: 2.67777,
+  nm: "Dammartin-en-Goele",
+  value: 3021848
+},  {
+  id: 3021841,
+  label: "Damparis",
+  lat: 47.075562,
+  lon: 5.41398,
+  nm: "Damparis",
+  value: 3021841
+},  {
+  id: 3021806,
+  label: "Dampmart",
+  lat: 48.888538,
+  lon: 2.74095,
+  nm: "Dampmart",
+  value: 3021806
+},  {
+  id: 3021795,
+  label: "Damville",
+  lat: 48.869301,
+  lon: 1.07458,
+  nm: "Damville",
+  value: 3021795
+},  {
+  id: 3021778,
+  label: "Dange-Saint-Romain",
+  lat: 46.933331,
+  lon: 0.6,
+  nm: "Dange-Saint-Romain",
+  value: 3021778
+},  {
+  id: 3021767,
+  label: "Danjoutin",
+  lat: 47.615601,
+  lon: 6.86638,
+  nm: "Danjoutin",
+  value: 3021767
+},  {
+  id: 3021762,
+  label: "Dannemarie",
+  lat: 47.63031,
+  lon: 7.12237,
+  nm: "Dannemarie",
+  value: 3021762
+},  {
+  id: 3021729,
+  label: "Dardilly",
+  lat: 45.805061,
+  lon: 4.75342,
+  nm: "Dardilly",
+  value: 3021729
+},  {
+  id: 3021717,
+  label: "Darnetal",
+  lat: 49.445332,
+  lon: 1.15144,
+  nm: "Darnetal",
+  value: 3021717
+},  {
+  id: 3021676,
+  label: "Davezieux",
+  lat: 45.25732,
+  lon: 4.70875,
+  nm: "Davezieux",
+  value: 3021676
+},  {
+  id: 3021670,
+  label: "Dax",
+  lat: 43.71032,
+  lon: -1.05366,
+  nm: "Dax",
+  value: 3021670
+},  {
+  id: 3021668,
+  label: "Deauville",
+  lat: 49.356998,
+  lon: 0.06995,
+  nm: "Deauville",
+  value: 3021668
+},  {
+  id: 3021664,
+  label: "Decazeville",
+  lat: 44.560452,
+  lon: 2.25091,
+  nm: "Decazeville",
+  value: 3021664
+},  {
+  id: 3021663,
+  label: "Dechy",
+  lat: 50.349998,
+  lon: 3.11667,
+  nm: "Dechy",
+  value: 3021663
+},  {
+  id: 3021662,
+  label: "Decines-Charpieu",
+  lat: 45.76899,
+  lon: 4.97277,
+  nm: "Decines-Charpieu",
+  value: 3021662
+},  {
+  id: 3021661,
+  label: "Decize",
+  lat: 46.828522,
+  lon: 3.46192,
+  nm: "Decize",
+  value: 3021661
+},  {
+  id: 3021629,
+  label: "Delle",
+  lat: 47.510479,
+  lon: 6.99963,
+  nm: "Delle",
+  value: 3021629
+},  {
+  id: 3021609,
+  label: "Demouville",
+  lat: 49.180012,
+  lon: -0.26947,
+  nm: "Demouville",
+  value: 3021609
+},  {
+  id: 3021605,
+  label: "Denain",
+  lat: 50.3293,
+  lon: 3.3943,
+  nm: "Denain",
+  value: 3021605
+},  {
+  id: 3021570,
+  label: "Deols",
+  lat: 46.829342,
+  lon: 1.70428,
+  nm: "Deols",
+  value: 3021570
+},  {
+  id: 3021552,
+  label: "Derval",
+  lat: 47.66724,
+  lon: -1.6699,
+  nm: "Derval",
+  value: 3021552
+},  {
+  id: 3021543,
+  label: "Desertines",
+  lat: 46.355209,
+  lon: 2.62074,
+  nm: "Desertines",
+  value: 3021543
+},  {
+  id: 3021524,
+  label: "Desvres",
+  lat: 50.668839,
+  lon: 1.83478,
+  nm: "Desvres",
+  value: 3021524
+},  {
+  id: 3021518,
+  label: "Dettwiller",
+  lat: 48.75415,
+  lon: 7.46633,
+  nm: "Dettwiller",
+  value: 3021518
+},  {
+  id: 3021516,
+  label: "Deuil-la-Barre",
+  lat: 48.976742,
+  lon: 2.32722,
+  nm: "Deuil-la-Barre",
+  value: 3021516
+},  {
+  id: 3021484,
+  label: "Deville-les-Rouen",
+  lat: 49.469421,
+  lon: 1.05214,
+  nm: "Deville-les-Rouen",
+  value: 3021484
+},  {
+  id: 3021435,
+  label: "Die",
+  lat: 44.75,
+  lon: 5.36667,
+  nm: "Die",
+  value: 3021435
+},  {
+  id: 3021419,
+  label: "Diemoz",
+  lat: 45.58651,
+  lon: 5.09397,
+  nm: "Diemoz",
+  value: 3021419
+},  {
+  id: 3021411,
+  label: "Dieppe",
+  lat: 49.933331,
+  lon: 1.08333,
+  nm: "Dieppe",
+  value: 3021411
+},  {
+  id: 3021397,
+  label: "Dieulefit",
+  lat: 44.523411,
+  lon: 5.06425,
+  nm: "Dieulefit",
+  value: 3021397
+},  {
+  id: 3021394,
+  label: "Dieulouard",
+  lat: 48.8414,
+  lon: 6.06808,
+  nm: "Dieulouard",
+  value: 3021394
+},  {
+  id: 3021392,
+  label: "Dieuze",
+  lat: 48.81263,
+  lon: 6.7178,
+  nm: "Dieuze",
+  value: 3021392
+},  {
+  id: 3021382,
+  label: "Digne-les-Bains",
+  lat: 44.092522,
+  lon: 6.23199,
+  nm: "Digne-les-Bains",
+  value: 3021382
+},  {
+  id: 3021377,
+  label: "Digoin",
+  lat: 46.481239,
+  lon: 3.97946,
+  nm: "Digoin",
+  value: 3021377
+},  {
+  id: 3021372,
+  label: "Dijon",
+  lat: 47.316669,
+  lon: 5.01667,
+  nm: "Dijon",
+  value: 3021372
+},  {
+  id: 3021356,
+  label: "Dinan",
+  lat: 48.450001,
+  lon: -2.03333,
+  nm: "Dinan",
+  value: 3021356
+},  {
+  id: 3021351,
+  label: "Dinard",
+  lat: 48.631432,
+  lon: -2.06144,
+  nm: "Dinard",
+  value: 3021351
+},  {
+  id: 3021349,
+  label: "Dineault",
+  lat: 48.219219,
+  lon: -4.16411,
+  nm: "Dineault",
+  value: 3021349
+},  {
+  id: 3021328,
+  label: "Dirinon",
+  lat: 48.397751,
+  lon: -4.27016,
+  nm: "Dirinon",
+  value: 3021328
+},  {
+  id: 3021319,
+  label: "Dissay",
+  lat: 46.700069,
+  lon: 0.43311,
+  nm: "Dissay",
+  value: 3021319
+},  {
+  id: 3021301,
+  label: "Dives-sur-Mer",
+  lat: 49.281761,
+  lon: -0.10125,
+  nm: "Dives-sur-Mer",
+  value: 3021301
+},  {
+  id: 3021298,
+  label: "Divion",
+  lat: 50.471691,
+  lon: 2.50546,
+  nm: "Divion",
+  value: 3021298
+},  {
+  id: 3021296,
+  label: "Divonne-les-Bains",
+  lat: 46.359379,
+  lon: 6.13574,
+  nm: "Divonne-les-Bains",
+  value: 3021296
+},  {
+  id: 3021264,
+  label: "Dol-de-Bretagne",
+  lat: 48.547649,
+  lon: -1.75018,
+  nm: "Dol-de-Bretagne",
+  value: 3021264
+},  {
+  id: 3021263,
+  label: "Dole",
+  lat: 47.099998,
+  lon: 5.5,
+  nm: "Dole",
+  value: 3021263
+},  {
+  id: 3021247,
+  label: "Dolomieu",
+  lat: 45.613281,
+  lon: 5.50016,
+  nm: "Dolomieu",
+  value: 3021247
+},  {
+  id: 3021244,
+  label: "Dolus-dOleron",
+  lat: 45.916672,
+  lon: -1.26667,
+  nm: "Dolus-dOleron",
+  value: 3021244
+},  {
+  id: 3021233,
+  label: "Domancy",
+  lat: 45.914181,
+  lon: 6.6474,
+  nm: "Domancy",
+  value: 3021233
+},  {
+  id: 3021221,
+  label: "Dombasle-sur-Meurthe",
+  lat: 48.625198,
+  lon: 6.34967,
+  nm: "Dombasle-sur-Meurthe",
+  value: 3021221
+},  {
+  id: 3021210,
+  label: "Domene",
+  lat: 45.203449,
+  lon: 5.83905,
+  nm: "Domene",
+  value: 3021210
+},  {
+  id: 3021209,
+  label: "Domerat",
+  lat: 46.360641,
+  lon: 2.53426,
+  nm: "Domerat",
+  value: 3021209
+},  {
+  id: 3021193,
+  label: "Domfront",
+  lat: 48.592079,
+  lon: -0.64588,
+  nm: "Domfront",
+  value: 3021193
+},  {
+  id: 3021150,
+  label: "Domont",
+  lat: 49.027821,
+  lon: 2.32638,
+  nm: "Domont",
+  value: 3021150
+},  {
+  id: 3021133,
+  label: "Dompierre-sur-Besbre",
+  lat: 46.519619,
+  lon: 3.69905,
+  nm: "Dompierre-sur-Besbre",
+  value: 3021133
+},  {
+  id: 3021128,
+  label: "Dompierre-sur-Mer",
+  lat: 46.188171,
+  lon: -1.06351,
+  nm: "Dompierre-sur-Mer",
+  value: 3021128
+},  {
+  id: 3021124,
+  label: "Dompierre-sur-Yon",
+  lat: 46.738571,
+  lon: -1.38463,
+  nm: "Dompierre-sur-Yon",
+  value: 3021124
+},  {
+  id: 3021100,
+  label: "Donchery",
+  lat: 49.695839,
+  lon: 4.87417,
+  nm: "Donchery",
+  value: 3021100
+},  {
+  id: 3021093,
+  label: "Donges",
+  lat: 47.318241,
+  lon: -2.07538,
+  nm: "Donges",
+  value: 3021093
+},  {
+  id: 3021080,
+  label: "Donnemarie-Dontilly",
+  lat: 48.477188,
+  lon: 3.13162,
+  nm: "Donnemarie-Dontilly",
+  value: 3021080
+},  {
+  id: 3021077,
+  label: "Donnery",
+  lat: 47.91486,
+  lon: 2.10299,
+  nm: "Donnery",
+  value: 3021077
+},  {
+  id: 3021067,
+  label: "Donville-les-Bains",
+  lat: 48.846081,
+  lon: -1.58315,
+  nm: "Donville-les-Bains",
+  value: 3021067
+},  {
+  id: 3021062,
+  label: "Donzenac",
+  lat: 45.227951,
+  lon: 1.52375,
+  nm: "Donzenac",
+  value: 3021062
+},  {
+  id: 3021061,
+  label: "Donzere",
+  lat: 44.440891,
+  lon: 4.71179,
+  nm: "Donzere",
+  value: 3021061
+},  {
+  id: 3021045,
+  label: "Dordives",
+  lat: 48.142529,
+  lon: 2.76775,
+  nm: "Dordives",
+  value: 3021045
+},  {
+  id: 3021035,
+  label: "Dorlisheim",
+  lat: 48.524849,
+  lon: 7.48624,
+  nm: "Dorlisheim",
+  value: 3021035
+},  {
+  id: 3021034,
+  label: "Dormans",
+  lat: 49.073921,
+  lon: 3.63819,
+  nm: "Dormans",
+  value: 3021034
+},  {
+  id: 3021013,
+  label: "Dortan",
+  lat: 46.319729,
+  lon: 5.66028,
+  nm: "Dortan",
+  value: 3021013
+},  {
+  id: 3021000,
+  label: "Douai",
+  lat: 50.366669,
+  lon: 3.06667,
+  nm: "Douai",
+  value: 3021000
+},  {
+  id: 3020996,
+  label: "Douarnenez",
+  lat: 48.095421,
+  lon: -4.32904,
+  nm: "Douarnenez",
+  value: 3020996
+},  {
+  id: 3020991,
+  label: "Doubs",
+  lat: 46.927879,
+  lon: 6.35104,
+  nm: "Doubs",
+  value: 3020991
+},  {
+  id: 3020980,
+  label: "Douchy-les-Mines",
+  lat: 50.3008,
+  lon: 3.3927,
+  nm: "Douchy-les-Mines",
+  value: 3020980
+},  {
+  id: 3020971,
+  label: "Doudeville",
+  lat: 49.722679,
+  lon: 0.78479,
+  nm: "Doudeville",
+  value: 3020971
+},  {
+  id: 3020964,
+  label: "Doue-la-Fontaine",
+  lat: 47.193722,
+  lon: -0.27492,
+  nm: "Doue-la-Fontaine",
+  value: 3020964
+},  {
+  id: 3020944,
+  label: "Doullens",
+  lat: 50.157242,
+  lon: 2.34019,
+  nm: "Doullens",
+  value: 3020944
+},  {
+  id: 3020925,
+  label: "Dourdan",
+  lat: 48.527721,
+  lon: 2.01113,
+  nm: "Dourdan",
+  value: 3020925
+},  {
+  id: 3020917,
+  label: "Dourges",
+  lat: 50.436359,
+  lon: 2.98589,
+  nm: "Dourges",
+  value: 3020917
+},  {
+  id: 3020900,
+  label: "Doussard",
+  lat: 45.775558,
+  lon: 6.21941,
+  nm: "Doussard",
+  value: 3020900
+},  {
+  id: 3020894,
+  label: "Douvaine",
+  lat: 46.305439,
+  lon: 6.30375,
+  nm: "Douvaine",
+  value: 3020894
+},  {
+  id: 3020887,
+  label: "Douvres-la-Delivrande",
+  lat: 49.29472,
+  lon: -0.38039,
+  nm: "Douvres-la-Delivrande",
+  value: 3020887
+},  {
+  id: 3020886,
+  label: "Douvrin",
+  lat: 50.509159,
+  lon: 2.83053,
+  nm: "Douvrin",
+  value: 3020886
+},  {
+  id: 3020850,
+  label: "Draguignan",
+  lat: 43.533329,
+  lon: 6.46667,
+  nm: "Draguignan",
+  value: 3020850
+},  {
+  id: 3020839,
+  label: "Drancy",
+  lat: 48.925781,
+  lon: 2.44533,
+  nm: "Drancy",
+  value: 3020839
+},  {
+  id: 3020834,
+  label: "Drap",
+  lat: 43.756142,
+  lon: 7.3206,
+  nm: "Drap",
+  value: 3020834
+},  {
+  id: 3020832,
+  label: "Draveil",
+  lat: 48.684662,
+  lon: 2.41418,
+  nm: "Draveil",
+  value: 3020832
+},  {
+  id: 3020825,
+  label: "Dremil-Lafage",
+  lat: 43.596241,
+  lon: 1.60117,
+  nm: "Dremil-Lafage",
+  value: 3020825
+},  {
+  id: 3020818,
+  label: "Dreslincourt",
+  lat: 49.528091,
+  lon: 2.92699,
+  nm: "Dreslincourt",
+  value: 3020818
+},  {
+  id: 3020810,
+  label: "Dreux",
+  lat: 48.73333,
+  lon: 1.36667,
+  nm: "Dreux",
+  value: 3020810
+},  {
+  id: 3020792,
+  label: "Drocourt",
+  lat: 50.390018,
+  lon: 2.92425,
+  nm: "Drocourt",
+  value: 3020792
+},  {
+  id: 3020737,
+  label: "Drumettaz-Clarafond",
+  lat: 45.66037,
+  lon: 5.92146,
+  nm: "Drumettaz-Clarafond",
+  value: 3020737
+},  {
+  id: 3020736,
+  label: "Drusenheim",
+  lat: 48.764278,
+  lon: 7.95053,
+  nm: "Drusenheim",
+  value: 3020736
+},  {
+  id: 3020722,
+  label: "Ducey",
+  lat: 48.61842,
+  lon: -1.29052,
+  nm: "Ducey",
+  value: 3020722
+},  {
+  id: 3020720,
+  label: "Duclair",
+  lat: 49.483849,
+  lon: 0.87617,
+  nm: "Duclair",
+  value: 3020720
+},  {
+  id: 3020712,
+  label: "Dugny",
+  lat: 48.953709,
+  lon: 2.41734,
+  nm: "Dugny",
+  value: 3020712
+},  {
+  id: 3020678,
+  label: "Dun-sur-Auron",
+  lat: 46.884899,
+  lon: 2.57345,
+  nm: "Dun-sur-Auron",
+  value: 3020678
+},  {
+  id: 3020688,
+  label: "Dunieres",
+  lat: 45.215981,
+  lon: 4.34579,
+  nm: "Dunieres",
+  value: 3020688
+},  {
+  id: 3020686,
+  label: "Dunkerque",
+  lat: 51.049999,
+  lon: 2.36667,
+  nm: "Dunkerque",
+  value: 3020686
+},  {
+  id: 3020621,
+  label: "Durtal",
+  lat: 47.67247,
+  lon: -0.23393,
+  nm: "Durtal",
+  value: 3020621
+},  {
+  id: 3020620,
+  label: "Durtol",
+  lat: 45.796219,
+  lon: 3.05264,
+  nm: "Durtol",
+  value: 3020620
+},  {
+  id: 3020614,
+  label: "Duttlenheim",
+  lat: 48.525532,
+  lon: 7.56572,
+  nm: "Duttlenheim",
+  value: 3020614
+},  {
+  id: 3020601,
+  label: "Eaubonne",
+  lat: 48.99712,
+  lon: 2.28249,
+  nm: "Eaubonne",
+  value: 3020601
+},  {
+  id: 3020593,
+  label: "Eaunes",
+  lat: 43.420792,
+  lon: 1.35397,
+  nm: "Eaunes",
+  value: 3020593
+},  {
+  id: 3020584,
+  label: "Eauze",
+  lat: 43.86055,
+  lon: 0.10199,
+  nm: "Eauze",
+  value: 3020584
+},  {
+  id: 3020576,
+  label: "Ebersheim",
+  lat: 48.304379,
+  lon: 7.49903,
+  nm: "Ebersheim",
+  value: 3020576
+},  {
+  id: 3020565,
+  label: "Ecaillon",
+  lat: 50.350342,
+  lon: 3.21664,
+  nm: "Ecaillon",
+  value: 3020565
+},  {
+  id: 3020510,
+  label: "Echenoz-la-Meline",
+  lat: 47.600861,
+  lon: 6.13544,
+  nm: "Echenoz-la-Meline",
+  value: 3020510
+},  {
+  id: 3020500,
+  label: "Echillais",
+  lat: 45.900719,
+  lon: -0.95211,
+  nm: "Echillais",
+  value: 3020500
+},  {
+  id: 3020497,
+  label: "Echire",
+  lat: 46.387482,
+  lon: -0.41511,
+  nm: "Echire",
+  value: 3020497
+},  {
+  id: 3020495,
+  label: "Echirolles",
+  lat: 45.143902,
+  lon: 5.72883,
+  nm: "Echirolles",
+  value: 3020495
+},  {
+  id: 3020489,
+  label: "Eckbolsheim",
+  lat: 48.58075,
+  lon: 7.68768,
+  nm: "Eckbolsheim",
+  value: 3020489
+},  {
+  id: 3020462,
+  label: "Ecommoy",
+  lat: 47.825649,
+  lon: 0.27422,
+  nm: "Ecommoy",
+  value: 3020462
+},  {
+  id: 3020440,
+  label: "Ecouen",
+  lat: 49.020618,
+  lon: 2.38309,
+  nm: "Ecouen",
+  value: 3020440
+},  {
+  id: 3020439,
+  label: "Ecouflant",
+  lat: 47.53101,
+  lon: -0.5278,
+  nm: "Ecouflant",
+  value: 3020439
+},  {
+  id: 3020426,
+  label: "Ecquevilly",
+  lat: 48.95192,
+  lon: 1.92338,
+  nm: "Ecquevilly",
+  value: 3020426
+},  {
+  id: 3020411,
+  label: "Ecrouves",
+  lat: 48.679371,
+  lon: 5.84433,
+  nm: "Ecrouves",
+  value: 3020411
+},  {
+  id: 3020401,
+  label: "Ecuelles",
+  lat: 48.356361,
+  lon: 2.82336,
+  nm: "Ecuelles",
+  value: 3020401
+},  {
+  id: 3020392,
+  label: "Ecully",
+  lat: 45.77726,
+  lon: 4.77481,
+  nm: "Ecully",
+  value: 3020392
+},  {
+  id: 3020374,
+  label: "Edern",
+  lat: 48.099998,
+  lon: -3.98333,
+  nm: "Edern",
+  value: 3020374
+},  {
+  id: 3020358,
+  label: "Egletons",
+  lat: 45.403358,
+  lon: 2.05073,
+  nm: "Egletons",
+  value: 3020358
+},  {
+  id: 3020346,
+  label: "Egly",
+  lat: 48.578281,
+  lon: 2.22416,
+  nm: "Egly",
+  value: 3020346
+},  {
+  id: 3020335,
+  label: "Egreville",
+  lat: 48.17606,
+  lon: 2.87278,
+  nm: "Egreville",
+  value: 3020335
+},  {
+  id: 3020330,
+  label: "Eguilles",
+  lat: 43.568668,
+  lon: 5.35575,
+  nm: "Eguilles",
+  value: 3020330
+},  {
+  id: 3005102,
+  label: "el Volo",
+  lat: 42.524239,
+  lon: 2.83336,
+  nm: "el Volo",
+  value: 3005102
+},  {
+  id: 3020310,
+  label: "Elancourt",
+  lat: 48.784199,
+  lon: 1.9552,
+  nm: "Elancourt",
+  value: 3020310
+},  {
+  id: 3020307,
+  label: "Elbeuf",
+  lat: 49.28669,
+  lon: 1.00288,
+  nm: "Elbeuf",
+  value: 3020307
+},  {
+  id: 3020300,
+  label: "Eleu-dit-Leauwette",
+  lat: 50.423401,
+  lon: 2.81134,
+  nm: "Eleu-dit-Leauwette",
+  value: 3020300
+},  {
+  id: 3020283,
+  label: "Elliant",
+  lat: 47.994171,
+  lon: -3.88966,
+  nm: "Elliant",
+  value: 3020283
+},  {
+  id: 3020281,
+  label: "Elne",
+  lat: 42.600311,
+  lon: 2.97146,
+  nm: "Elne",
+  value: 3020281
+},  {
+  id: 3020275,
+  label: "Eloyes",
+  lat: 48.097931,
+  lon: 6.60653,
+  nm: "Eloyes",
+  value: 3020275
+},  {
+  id: 3037875,
+  label: "els Banys dArles",
+  lat: 42.472889,
+  lon: 2.66916,
+  nm: "els Banys dArles",
+  value: 3037875
+},  {
+  id: 3020271,
+  label: "Elven",
+  lat: 47.7323,
+  lon: -2.58956,
+  nm: "Elven",
+  value: 3020271
+},  {
+  id: 3020251,
+  label: "Embrun",
+  lat: 44.563869,
+  lon: 6.49526,
+  nm: "Embrun",
+  value: 3020251
+},  {
+  id: 3020247,
+  label: "Emerainville",
+  lat: 48.812759,
+  lon: 2.62139,
+  nm: "Emerainville",
+  value: 3020247
+},  {
+  id: 3020236,
+  label: "Emmerin",
+  lat: 50.594749,
+  lon: 3.00124,
+  nm: "Emmerin",
+  value: 3020236
+},  {
+  id: 3020188,
+  label: "Enghien-les-Bains",
+  lat: 48.966671,
+  lon: 2.31667,
+  nm: "Enghien-les-Bains",
+  value: 3020188
+},  {
+  id: 3020169,
+  label: "Ennery",
+  lat: 49.07505,
+  lon: 2.10599,
+  nm: "Ennery",
+  value: 3020169
+},  {
+  id: 3020165,
+  label: "Ennevelin",
+  lat: 50.54121,
+  lon: 3.12972,
+  nm: "Ennevelin",
+  value: 3020165
+},  {
+  id: 3020164,
+  label: "Ennezat",
+  lat: 45.897678,
+  lon: 3.22217,
+  nm: "Ennezat",
+  value: 3020164
+},  {
+  id: 3020152,
+  label: "Ensisheim",
+  lat: 47.866951,
+  lon: 7.35212,
+  nm: "Ensisheim",
+  value: 3020152
+},  {
+  id: 3020149,
+  label: "Ensues-la-Redonne",
+  lat: 43.354641,
+  lon: 5.20357,
+  nm: "Ensues-la-Redonne",
+  value: 3020149
+},  {
+  id: 3020142,
+  label: "Entraigues-sur-la-Sorgue",
+  lat: 44,
+  lon: 4.91667,
+  nm: "Entraigues-sur-la-Sorgue",
+  value: 3020142
+},  {
+  id: 3020139,
+  label: "Entrammes",
+  lat: 47.997589,
+  lon: -0.71399,
+  nm: "Entrammes",
+  value: 3020139
+},  {
+  id: 3020116,
+  label: "Entzheim",
+  lat: 48.532242,
+  lon: 7.63329,
+  nm: "Entzheim",
+  value: 3020116
+},  {
+  id: 3020108,
+  label: "Envermeu",
+  lat: 49.895599,
+  lon: 1.26492,
+  nm: "Envermeu",
+  value: 3020108
+},  {
+  id: 3020097,
+  label: "Epagny",
+  lat: 45.938061,
+  lon: 6.09095,
+  nm: "Epagny",
+  value: 3020097
+},  {
+  id: 3020065,
+  label: "Eperlecques",
+  lat: 50.80566,
+  lon: 2.15207,
+  nm: "Eperlecques",
+  value: 3020065
+},  {
+  id: 3020062,
+  label: "Epernay",
+  lat: 49.049999,
+  lon: 3.95,
+  nm: "Epernay",
+  value: 3020062
+},  {
+  id: 3020057,
+  label: "Epernon",
+  lat: 48.610321,
+  lon: 1.67218,
+  nm: "Epernon",
+  value: 3020057
+},  {
+  id: 3020051,
+  label: "Epfig",
+  lat: 48.359329,
+  lon: 7.46427,
+  nm: "Epfig",
+  value: 3020051
+},  {
+  id: 3020036,
+  label: "Epinac",
+  lat: 46.98333,
+  lon: 4.51667,
+  nm: "Epinac",
+  value: 3020036
+},  {
+  id: 3020035,
+  label: "Epinal",
+  lat: 48.183331,
+  lon: 6.45,
+  nm: "Epinal",
+  value: 3020035
+},  {
+  id: 3020024,
+  label: "Epinay-sous-Senart",
+  lat: 48.689701,
+  lon: 2.51186,
+  nm: "Epinay-sous-Senart",
+  value: 3020024
+},  {
+  id: 3020021,
+  label: "Epinay-sur-Orge",
+  lat: 48.673382,
+  lon: 2.31074,
+  nm: "Epinay-sur-Orge",
+  value: 3020021
+},  {
+  id: 3020020,
+  label: "Epinay-sur-Seine",
+  lat: 48.953499,
+  lon: 2.31514,
+  nm: "Epinay-sur-Seine",
+  value: 3020020
+},  {
+  id: 3019985,
+  label: "Epone",
+  lat: 48.954762,
+  lon: 1.82233,
+  nm: "Epone",
+  value: 3019985
+},  {
+  id: 3019981,
+  label: "Epouville",
+  lat: 49.563492,
+  lon: 0.22372,
+  nm: "Epouville",
+  value: 3019981
+},  {
+  id: 3019977,
+  label: "Eppeville",
+  lat: 49.740688,
+  lon: 3.05114,
+  nm: "Eppeville",
+  value: 3019977
+},  {
+  id: 3019960,
+  label: "Equeurdreville-Hainneville",
+  lat: 49.648682,
+  lon: -1.65306,
+  nm: "Equeurdreville-Hainneville",
+  value: 3019960
+},  {
+  id: 3019957,
+  label: "Equihen-Plage",
+  lat: 50.675571,
+  lon: 1.57225,
+  nm: "Equihen-Plage",
+  value: 3019957
+},  {
+  id: 3019952,
+  label: "Eragny",
+  lat: 49.01667,
+  lon: 2.1,
+  nm: "Eragny",
+  value: 3019952
+},  {
+  id: 3019944,
+  label: "Erbray",
+  lat: 47.654919,
+  lon: -1.31783,
+  nm: "Erbray",
+  value: 3019944
+},  {
+  id: 3019930,
+  label: "Erdeven",
+  lat: 47.642101,
+  lon: -3.15706,
+  nm: "Erdeven",
+  value: 3019930
+},  {
+  id: 3019920,
+  label: "Ergue-Gaberic",
+  lat: 47.995621,
+  lon: -4.02223,
+  nm: "Ergue-Gaberic",
+  value: 3019920
+},  {
+  id: 3019897,
+  label: "Ermont",
+  lat: 48.99004,
+  lon: 2.25804,
+  nm: "Ermont",
+  value: 3019897
+},  {
+  id: 3019895,
+  label: "Ernee",
+  lat: 48.297642,
+  lon: -0.93143,
+  nm: "Ernee",
+  value: 3019895
+},  {
+  id: 3019877,
+  label: "Erquinghem-Lys",
+  lat: 50.67601,
+  lon: 2.84505,
+  nm: "Erquinghem-Lys",
+  value: 3019877
+},  {
+  id: 3019875,
+  label: "Erquy",
+  lat: 48.631859,
+  lon: -2.4628,
+  nm: "Erquy",
+  value: 3019875
+},  {
+  id: 3019865,
+  label: "Erstein",
+  lat: 48.423729,
+  lon: 7.66262,
+  nm: "Erstein",
+  value: 3019865
+},  {
+  id: 3019854,
+  label: "Esbly",
+  lat: 48.905201,
+  lon: 2.81235,
+  nm: "Esbly",
+  value: 3019854
+},  {
+  id: 3019843,
+  label: "Escalquens",
+  lat: 43.517441,
+  lon: 1.55893,
+  nm: "Escalquens",
+  value: 3019843
+},  {
+  id: 3019827,
+  label: "Escaudain",
+  lat: 50.333149,
+  lon: 3.3443,
+  nm: "Escaudain",
+  value: 3019827
+},  {
+  id: 3019825,
+  label: "Escaudoeuvres",
+  lat: 50.200001,
+  lon: 3.26667,
+  nm: "Escaudoeuvres",
+  value: 3019825
+},  {
+  id: 3019820,
+  label: "Escautpont",
+  lat: 50.418751,
+  lon: 3.55341,
+  nm: "Escautpont",
+  value: 3019820
+},  {
+  id: 3019817,
+  label: "Eschau",
+  lat: 48.488972,
+  lon: 7.71644,
+  nm: "Eschau",
+  value: 3019817
+},  {
+  id: 3019733,
+  label: "Esnandes",
+  lat: 46.250332,
+  lon: -1.11566,
+  nm: "Esnandes",
+  value: 3019733
+},  {
+  id: 3019717,
+  label: "Espalion",
+  lat: 44.522369,
+  lon: 2.76265,
+  nm: "Espalion",
+  value: 3019717
+},  {
+  id: 3019716,
+  label: "Espaly-Saint-Marcel",
+  lat: 45.047901,
+  lon: 3.86557,
+  nm: "Espaly-Saint-Marcel",
+  value: 3019716
+},  {
+  id: 3019699,
+  label: "Espelette",
+  lat: 43.340149,
+  lon: -1.44737,
+  nm: "Espelette",
+  value: 3019699
+},  {
+  id: 3019695,
+  label: "Esperaza",
+  lat: 42.932251,
+  lon: 2.22006,
+  nm: "Esperaza",
+  value: 3019695
+},  {
+  id: 3019643,
+  label: "Esquelbecq",
+  lat: 50.88694,
+  lon: 2.43215,
+  nm: "Esquelbecq",
+  value: 3019643
+},  {
+  id: 3019621,
+  label: "Essert",
+  lat: 47.632542,
+  lon: 6.81539,
+  nm: "Essert",
+  value: 3019621
+},  {
+  id: 3019607,
+  label: "Essey-les-Nancy",
+  lat: 48.70179,
+  lon: 6.22425,
+  nm: "Essey-les-Nancy",
+  value: 3019607
+},  {
+  id: 3019601,
+  label: "Essomes-sur-Marne",
+  lat: 49.028809,
+  lon: 3.37571,
+  nm: "Essomes-sur-Marne",
+  value: 3019601
+},  {
+  id: 3019584,
+  label: "Estagel",
+  lat: 42.77314,
+  lon: 2.69665,
+  nm: "Estagel",
+  value: 3019584
+},  {
+  id: 3019578,
+  label: "Estaires",
+  lat: 50.645741,
+  lon: 2.72782,
+  nm: "Estaires",
+  value: 3019578
+},  {
+  id: 3019515,
+  label: "Estrablin",
+  lat: 45.517319,
+  lon: 4.96626,
+  nm: "Estrablin",
+  value: 3019515
+},  {
+  id: 3019500,
+  label: "Estrees-Saint-Denis",
+  lat: 49.426022,
+  lon: 2.64293,
+  nm: "Estrees-Saint-Denis",
+  value: 3019500
+},  {
+  id: 3019485,
+  label: "Esvres",
+  lat: 47.28537,
+  lon: 0.78588,
+  nm: "Esvres",
+  value: 3019485
+},  {
+  id: 3019480,
+  label: "Etables-sur-Mer",
+  lat: 48.633331,
+  lon: -2.83333,
+  nm: "Etables-sur-Mer",
+  value: 3019480
+},  {
+  id: 3019474,
+  label: "Etain",
+  lat: 49.212589,
+  lon: 5.64022,
+  nm: "Etain",
+  value: 3019474
+},  {
+  id: 3019459,
+  label: "Etampes",
+  lat: 48.433331,
+  lon: 2.15,
+  nm: "Etampes",
+  value: 3019459
+},  {
+  id: 3019443,
+  label: "Etang-sur-Arroux",
+  lat: 46.865601,
+  lon: 4.18988,
+  nm: "Etang-sur-Arroux",
+  value: 3019443
+},  {
+  id: 3019441,
+  label: "Etaples",
+  lat: 50.521938,
+  lon: 1.63319,
+  nm: "Etaples",
+  value: 3019441
+},  {
+  id: 3019436,
+  label: "Etaules",
+  lat: 45.73407,
+  lon: -1.09918,
+  nm: "Etaules",
+  value: 3019436
+},  {
+  id: 3019423,
+  label: "Etel",
+  lat: 47.656139,
+  lon: -3.20018,
+  nm: "Etel",
+  value: 3019423
+},  {
+  id: 3019406,
+  label: "Etiolles",
+  lat: 48.632481,
+  lon: 2.48226,
+  nm: "Etiolles",
+  value: 3019406
+},  {
+  id: 3019402,
+  label: "Etival-Clairefontaine",
+  lat: 48.365189,
+  lon: 6.86118,
+  nm: "Etival-Clairefontaine",
+  value: 3019402
+},  {
+  id: 3019401,
+  label: "Etival-les-le-Mans",
+  lat: 47.950001,
+  lon: 0.08333,
+  nm: "Etival-les-le-Mans",
+  value: 3019401
+},  {
+  id: 3019391,
+  label: "Etoile-sur-Rhone",
+  lat: 44.83812,
+  lon: 4.89159,
+  nm: "Etoile-sur-Rhone",
+  value: 3019391
+},  {
+  id: 3019372,
+  label: "Etrechy",
+  lat: 48.494652,
+  lon: 2.19489,
+  nm: "Etrechy",
+  value: 3019372
+},  {
+  id: 3019367,
+  label: "Etrelles",
+  lat: 48.06031,
+  lon: -1.19402,
+  nm: "Etrelles",
+  value: 3019367
+},  {
+  id: 3019363,
+  label: "Etrepagny",
+  lat: 49.306229,
+  lon: 1.6114,
+  nm: "Etrepagny",
+  value: 3019363
+},  {
+  id: 3019335,
+  label: "Etupes",
+  lat: 47.505249,
+  lon: 6.87075,
+  nm: "Etupes",
+  value: 3019335
+},  {
+  id: 3019329,
+  label: "Eu",
+  lat: 50.046059,
+  lon: 1.42079,
+  nm: "Eu",
+  value: 3019329
+},  {
+  id: 3019293,
+  label: "Evenos",
+  lat: 43.15863,
+  lon: 5.84786,
+  nm: "Evenos",
+  value: 3019293
+},  {
+  id: 3019280,
+  label: "Evian-les-Bains",
+  lat: 46.401112,
+  lon: 6.58793,
+  nm: "Evian-les-Bains",
+  value: 3019280
+},  {
+  id: 3019276,
+  label: "Evin-Malmaison",
+  lat: 50.439232,
+  lon: 3.03138,
+  nm: "Evin-Malmaison",
+  value: 3019276
+},  {
+  id: 3019265,
+  label: "Evreux",
+  lat: 49.024139,
+  lon: 1.15082,
+  nm: "Evreux",
+  value: 3019265
+},  {
+  id: 3019259,
+  label: "Evron",
+  lat: 48.156422,
+  lon: -0.3997,
+  nm: "Evron",
+  value: 3019259
+},  {
+  id: 3019256,
+  label: "Evry",
+  lat: 48.633331,
+  lon: 2.45,
+  nm: "Evry",
+  value: 3019256
+},  {
+  id: 3019248,
+  label: "Exincourt",
+  lat: 47.494652,
+  lon: 6.83169,
+  nm: "Exincourt",
+  value: 3019248
+},  {
+  id: 3019238,
+  label: "Eybens",
+  lat: 45.14867,
+  lon: 5.74926,
+  nm: "Eybens",
+  value: 3019238
+},  {
+  id: 3019229,
+  label: "Eygalieres",
+  lat: 43.76099,
+  lon: 4.94968,
+  nm: "Eygalieres",
+  value: 3019229
+},  {
+  id: 3019219,
+  label: "Eyguieres",
+  lat: 43.694809,
+  lon: 5.03131,
+  nm: "Eyguieres",
+  value: 3019219
+},  {
+  id: 3019212,
+  label: "Eymet",
+  lat: 44.668121,
+  lon: 0.39961,
+  nm: "Eymet",
+  value: 3019212
+},  {
+  id: 3019209,
+  label: "Eymoutiers",
+  lat: 45.7379,
+  lon: 1.74189,
+  nm: "Eymoutiers",
+  value: 3019209
+},  {
+  id: 3019203,
+  label: "Eyragues",
+  lat: 43.84103,
+  lon: 4.84231,
+  nm: "Eyragues",
+  value: 3019203
+},  {
+  id: 3019193,
+  label: "Eysines",
+  lat: 44.883518,
+  lon: -0.64686,
+  nm: "Eysines",
+  value: 3019193
+},  {
+  id: 3019176,
+  label: "Eyzin-Pinet",
+  lat: 45.472408,
+  lon: 4.99841,
+  nm: "Eyzin-Pinet",
+  value: 3019176
+},  {
+  id: 3019175,
+  label: "Ezanville",
+  lat: 49.027939,
+  lon: 2.36786,
+  nm: "Ezanville",
+  value: 3019175
+},  {
+  id: 3019174,
+  label: "Eze",
+  lat: 43.716671,
+  lon: 7.36667,
+  nm: "Eze",
+  value: 3019174
+},  {
+  id: 3019170,
+  label: "Ezy-sur-Eure",
+  lat: 48.866669,
+  lon: 1.41667,
+  nm: "Ezy-sur-Eure",
+  value: 3019170
+},  {
+  id: 3019160,
+  label: "Fabregues",
+  lat: 43.550571,
+  lon: 3.77638,
+  nm: "Fabregues",
+  value: 3019160
+},  {
+  id: 3019153,
+  label: "Faches-Thumesnil",
+  lat: 50.583328,
+  lon: 3.06667,
+  nm: "Faches-Thumesnil",
+  value: 3019153
+},  {
+  id: 3019139,
+  label: "Fagnieres",
+  lat: 48.963848,
+  lon: 4.31692,
+  nm: "Fagnieres",
+  value: 3019139
+},  {
+  id: 3019125,
+  label: "Fains-Veel",
+  lat: 48.783329,
+  lon: 5.13333,
+  nm: "Fains-Veel",
+  value: 3019125
+},  {
+  id: 3019113,
+  label: "Falaise",
+  lat: 48.89217,
+  lon: -0.19527,
+  nm: "Falaise",
+  value: 3019113
+},  {
+  id: 3019110,
+  label: "Falck",
+  lat: 49.231339,
+  lon: 6.63497,
+  nm: "Falck",
+  value: 3019110
+},  {
+  id: 3019080,
+  label: "Famars",
+  lat: 50.317429,
+  lon: 3.51945,
+  nm: "Famars",
+  value: 3019080
+},  {
+  id: 3019077,
+  label: "Fameck",
+  lat: 49.303349,
+  lon: 6.1086,
+  nm: "Fameck",
+  value: 3019077
+},  {
+  id: 3019044,
+  label: "Farebersviller",
+  lat: 49.119961,
+  lon: 6.87201,
+  nm: "Farebersviller",
+  value: 3019044
+},  {
+  id: 3019040,
+  label: "Faremoutiers",
+  lat: 48.799622,
+  lon: 2.99607,
+  nm: "Faremoutiers",
+  value: 3019040
+},  {
+  id: 3018946,
+  label: "Faulquemont",
+  lat: 49.047112,
+  lon: 6.60314,
+  nm: "Faulquemont",
+  value: 3018946
+},  {
+  id: 3018942,
+  label: "Faumont",
+  lat: 50.460178,
+  lon: 3.13713,
+  nm: "Faumont",
+  value: 3018942
+},  {
+  id: 3018928,
+  label: "Fauville-en-Caux",
+  lat: 49.652569,
+  lon: 0.59197,
+  nm: "Fauville-en-Caux",
+  value: 3018928
+},  {
+  id: 3018903,
+  label: "Faverges",
+  lat: 45.74752,
+  lon: 6.29297,
+  nm: "Faverges",
+  value: 3018903
+},  {
+  id: 3018861,
+  label: "Fay-aux-Loges",
+  lat: 47.927238,
+  lon: 2.14012,
+  nm: "Fay-aux-Loges",
+  value: 3018861
+},  {
+  id: 3018859,
+  label: "Fay-de-Bretagne",
+  lat: 47.414532,
+  lon: -1.79155,
+  nm: "Fay-de-Bretagne",
+  value: 3018859
+},  {
+  id: 3018835,
+  label: "Fayence",
+  lat: 43.625702,
+  lon: 6.69531,
+  nm: "Fayence",
+  value: 3018835
+},  {
+  id: 3018794,
+  label: "Fecamp",
+  lat: 49.75787,
+  lon: 0.37457,
+  nm: "Fecamp",
+  value: 3018794
+},  {
+  id: 3018793,
+  label: "Fechain",
+  lat: 50.26638,
+  lon: 3.21024,
+  nm: "Fechain",
+  value: 3018793
+},  {
+  id: 3018782,
+  label: "Fegersheim",
+  lat: 48.490162,
+  lon: 7.68107,
+  nm: "Fegersheim",
+  value: 3018782
+},  {
+  id: 3018781,
+  label: "Fegreac",
+  lat: 47.584759,
+  lon: -2.0441,
+  nm: "Fegreac",
+  value: 3018781
+},  {
+  id: 3018778,
+  label: "Feignies",
+  lat: 50.298061,
+  lon: 3.91534,
+  nm: "Feignies",
+  value: 3018778
+},  {
+  id: 3018776,
+  label: "Feillens",
+  lat: 46.335152,
+  lon: 4.88863,
+  nm: "Feillens",
+  value: 3018776
+},  {
+  id: 3018747,
+  label: "Felletin",
+  lat: 45.883331,
+  lon: 2.17431,
+  nm: "Felletin",
+  value: 3018747
+},  {
+  id: 3018739,
+  label: "Fenain",
+  lat: 50.366669,
+  lon: 3.3,
+  nm: "Fenain",
+  value: 3018739
+},  {
+  id: 3018713,
+  label: "Fenouillet",
+  lat: 43.680408,
+  lon: 1.392,
+  nm: "Fenouillet",
+  value: 3018713
+},  {
+  id: 3018694,
+  label: "Fere-Champenoise",
+  lat: 48.754318,
+  lon: 3.99069,
+  nm: "Fere-Champenoise",
+  value: 3018694
+},  {
+  id: 3018693,
+  label: "Fere-en-Tardenois",
+  lat: 49.200001,
+  lon: 3.51667,
+  nm: "Fere-en-Tardenois",
+  value: 3018693
+},  {
+  id: 3018692,
+  label: "Ferel",
+  lat: 47.482021,
+  lon: -2.34227,
+  nm: "Ferel",
+  value: 3018692
+},  {
+  id: 3018679,
+  label: "Ferney-Voltaire",
+  lat: 46.258579,
+  lon: 6.11063,
+  nm: "Ferney-Voltaire",
+  value: 3018679
+},  {
+  id: 3018650,
+  label: "Ferriere-la-Grande",
+  lat: 50.255211,
+  lon: 3.99288,
+  nm: "Ferriere-la-Grande",
+  value: 3018650
+},  {
+  id: 3018605,
+  label: "Fesches-le-Chatel",
+  lat: 47.524151,
+  lon: 6.90535,
+  nm: "Fesches-le-Chatel",
+  value: 3018605
+},  {
+  id: 3018601,
+  label: "Fessenheim",
+  lat: 47.917439,
+  lon: 7.53698,
+  nm: "Fessenheim",
+  value: 3018601
+},  {
+  id: 3018587,
+  label: "Feucherolles",
+  lat: 48.870022,
+  lon: 1.97402,
+  nm: "Feucherolles",
+  value: 3018587
+},  {
+  id: 3018561,
+  label: "Feuquieres-en-Vimeu",
+  lat: 50.059818,
+  lon: 1.60465,
+  nm: "Feuquieres-en-Vimeu",
+  value: 3018561
+},  {
+  id: 3018560,
+  label: "Feurs",
+  lat: 45.73988,
+  lon: 4.22706,
+  nm: "Feurs",
+  value: 3018560
+},  {
+  id: 3018545,
+  label: "Feytiat",
+  lat: 45.809052,
+  lon: 1.33033,
+  nm: "Feytiat",
+  value: 3018545
+},  {
+  id: 3018544,
+  label: "Feyzin",
+  lat: 45.667278,
+  lon: 4.85971,
+  nm: "Feyzin",
+  value: 3018544
+},  {
+  id: 3018513,
+  label: "Figanieres",
+  lat: 43.57,
+  lon: 6.5,
+  nm: "Figanieres",
+  value: 3018513
+},  {
+  id: 3018506,
+  label: "Figeac",
+  lat: 44.599998,
+  lon: 2.03333,
+  nm: "Figeac",
+  value: 3018506
+},  {
+  id: 3018489,
+  label: "Fillinges",
+  lat: 46.159439,
+  lon: 6.34237,
+  nm: "Fillinges",
+  value: 3018489
+},  {
+  id: 3018456,
+  label: "Firmi",
+  lat: 44.541061,
+  lon: 2.30764,
+  nm: "Firmi",
+  value: 3018456
+},  {
+  id: 3018455,
+  label: "Firminy",
+  lat: 45.387321,
+  lon: 4.29074,
+  nm: "Firminy",
+  value: 3018455
+},  {
+  id: 3018453,
+  label: "Fismes",
+  lat: 49.307732,
+  lon: 3.68607,
+  nm: "Fismes",
+  value: 3018453
+},  {
+  id: 3018448,
+  label: "Fitz-James",
+  lat: 49.391129,
+  lon: 2.4307,
+  nm: "Fitz-James",
+  value: 3018448
+},  {
+  id: 3018389,
+  label: "Flassans-sur-Issole",
+  lat: 43.370201,
+  lon: 6.22363,
+  nm: "Flassans-sur-Issole",
+  value: 3018389
+},  {
+  id: 3018364,
+  label: "Flavigny-sur-Moselle",
+  lat: 48.564121,
+  lon: 6.19113,
+  nm: "Flavigny-sur-Moselle",
+  value: 3018364
+},  {
+  id: 3018362,
+  label: "Flavin",
+  lat: 44.288898,
+  lon: 2.60513,
+  nm: "Flavin",
+  value: 3018362
+},  {
+  id: 3018355,
+  label: "Flayosc",
+  lat: 43.532532,
+  lon: 6.39401,
+  nm: "Flayosc",
+  value: 3018355
+},  {
+  id: 3018354,
+  label: "Fleac",
+  lat: 45.666672,
+  lon: 0.1,
+  nm: "Fleac",
+  value: 3018354
+},  {
+  id: 3018339,
+  label: "Flers",
+  lat: 48.737221,
+  lon: -0.57466,
+  nm: "Flers",
+  value: 3018339
+},  {
+  id: 3018336,
+  label: "Flers-en-Escrebieux",
+  lat: 50.388859,
+  lon: 3.06842,
+  nm: "Flers-en-Escrebieux",
+  value: 3018336
+},  {
+  id: 3018332,
+  label: "Flesselles",
+  lat: 50.002022,
+  lon: 2.26119,
+  nm: "Flesselles",
+  value: 3018332
+},  {
+  id: 3018323,
+  label: "Fleurance",
+  lat: 43.84824,
+  lon: 0.66302,
+  nm: "Fleurance",
+  value: 3018323
+},  {
+  id: 3018318,
+  label: "Fleurbaix",
+  lat: 50.650612,
+  lon: 2.83305,
+  nm: "Fleurbaix",
+  value: 3018318
+},  {
+  id: 3018298,
+  label: "Fleurines",
+  lat: 49.26318,
+  lon: 2.58405,
+  nm: "Fleurines",
+  value: 3018298
+},  {
+  id: 3018296,
+  label: "Fleury",
+  lat: 43.230949,
+  lon: 3.13745,
+  nm: "Fleury",
+  value: 3018296
+},  {
+  id: 3018280,
+  label: "Fleury-les-Aubrais",
+  lat: 47.933281,
+  lon: 1.91811,
+  nm: "Fleury-les-Aubrais",
+  value: 3018280
+},  {
+  id: 3018279,
+  label: "Fleury-Merogis",
+  lat: 48.637299,
+  lon: 2.36378,
+  nm: "Fleury-Merogis",
+  value: 3018279
+},  {
+  id: 3018277,
+  label: "Fleury-sur-Andelle",
+  lat: 49.361759,
+  lon: 1.35599,
+  nm: "Fleury-sur-Andelle",
+  value: 3018277
+},  {
+  id: 3018275,
+  label: "Fleury-sur-Orne",
+  lat: 49.14851,
+  lon: -0.37508,
+  nm: "Fleury-sur-Orne",
+  value: 3018275
+},  {
+  id: 3018270,
+  label: "Fleville-devant-Nancy",
+  lat: 48.624931,
+  lon: 6.20499,
+  nm: "Fleville-devant-Nancy",
+  value: 3018270
+},  {
+  id: 3018257,
+  label: "Flines-lez-Raches",
+  lat: 50.416672,
+  lon: 3.18333,
+  nm: "Flines-lez-Raches",
+  value: 3018257
+},  {
+  id: 3018255,
+  label: "Flins-sur-Seine",
+  lat: 48.965229,
+  lon: 1.87314,
+  nm: "Flins-sur-Seine",
+  value: 3018255
+},  {
+  id: 3018252,
+  label: "Flixecourt",
+  lat: 50.014648,
+  lon: 2.08095,
+  nm: "Flixecourt",
+  value: 3018252
+},  {
+  id: 3018247,
+  label: "Floing",
+  lat: 49.72216,
+  lon: 4.92947,
+  nm: "Floing",
+  value: 3018247
+},  {
+  id: 3018246,
+  label: "Floirac",
+  lat: 44.832378,
+  lon: -0.51411,
+  nm: "Floirac",
+  value: 3018246
+},  {
+  id: 3018235,
+  label: "Florange",
+  lat: 49.32373,
+  lon: 6.1212,
+  nm: "Florange",
+  value: 3018235
+},  {
+  id: 3018231,
+  label: "Florensac",
+  lat: 43.383011,
+  lon: 3.46638,
+  nm: "Florensac",
+  value: 3018231
+},  {
+  id: 3018189,
+  label: "Foecy",
+  lat: 47.176182,
+  lon: 2.16257,
+  nm: "Foecy",
+  value: 3018189
+},  {
+  id: 3018174,
+  label: "Foix",
+  lat: 42.966671,
+  lon: 1.6,
+  nm: "Foix",
+  value: 3018174
+},  {
+  id: 3018154,
+  label: "Follainville-Dennemont",
+  lat: 49.021938,
+  lon: 1.71331,
+  nm: "Follainville-Dennemont",
+  value: 3018154
+},  {
+  id: 3018145,
+  label: "Folschviller",
+  lat: 49.070621,
+  lon: 6.68948,
+  nm: "Folschviller",
+  value: 3018145
+},  {
+  id: 3018142,
+  label: "Fonbeauzard",
+  lat: 43.678299,
+  lon: 1.4344,
+  nm: "Fonbeauzard",
+  value: 3018142
+},  {
+  id: 3018124,
+  label: "Fondettes",
+  lat: 47.4035,
+  lon: 0.59686,
+  nm: "Fondettes",
+  value: 3018124
+},  {
+  id: 3018103,
+  label: "Fonsorbes",
+  lat: 43.53524,
+  lon: 1.22937,
+  nm: "Fonsorbes",
+  value: 3018103
+},  {
+  id: 3018095,
+  label: "Fontaine",
+  lat: 45.198391,
+  lon: 5.68265,
+  nm: "Fontaine",
+  value: 3018095
+},  {
+  id: 3018050,
+  label: "Fontaine-la-Mallet",
+  lat: 49.535999,
+  lon: 0.14625,
+  nm: "Fontaine-la-Mallet",
+  value: 3018050
+},  {
+  id: 3018043,
+  label: "Fontaine-le-Comte",
+  lat: 46.532169,
+  lon: 0.26176,
+  nm: "Fontaine-le-Comte",
+  value: 3018043
+},  {
+  id: 3018032,
+  label: "Fontaine-les-Dijon",
+  lat: 47.342381,
+  lon: 5.02007,
+  nm: "Fontaine-les-Dijon",
+  value: 3018032
+},  {
+  id: 3018074,
+  label: "Fontainebleau",
+  lat: 48.400002,
+  lon: 2.7,
+  nm: "Fontainebleau",
+  value: 3018074
+},  {
+  id: 3018011,
+  label: "Fontaines",
+  lat: 46.849049,
+  lon: 4.77036,
+  nm: "Fontaines",
+  value: 3018011
+},  {
+  id: 3017996,
+  label: "Fontaines-Saint-Martin",
+  lat: 45.84478,
+  lon: 4.85489,
+  nm: "Fontaines-Saint-Martin",
+  value: 3017996
+},  {
+  id: 3017994,
+  label: "Fontaines-sur-Saone",
+  lat: 45.833771,
+  lon: 4.84834,
+  nm: "Fontaines-sur-Saone",
+  value: 3017994
+},  {
+  id: 3017971,
+  label: "Fontanil-Cornillon",
+  lat: 45.248081,
+  lon: 5.66434,
+  nm: "Fontanil-Cornillon",
+  value: 3017971
+},  {
+  id: 3017945,
+  label: "Fontcouverte",
+  lat: 45.767078,
+  lon: -0.58682,
+  nm: "Fontcouverte",
+  value: 3017945
+},  {
+  id: 3017924,
+  label: "Fontenay-aux-Roses",
+  lat: 48.793251,
+  lon: 2.29275,
+  nm: "Fontenay-aux-Roses",
+  value: 3017924
+},  {
+  id: 3017921,
+  label: "Fontenay-le-Comte",
+  lat: 46.466671,
+  lon: -0.81667,
+  nm: "Fontenay-le-Comte",
+  value: 3017921
+},  {
+  id: 3017919,
+  label: "Fontenay-le-Fleury",
+  lat: 48.812531,
+  lon: 2.04863,
+  nm: "Fontenay-le-Fleury",
+  value: 3017919
+},  {
+  id: 3017910,
+  label: "Fontenay-sous-Bois",
+  lat: 48.85442,
+  lon: 2.48268,
+  nm: "Fontenay-sous-Bois",
+  value: 3017910
+},  {
+  id: 3017902,
+  label: "Fontenay-Tresigny",
+  lat: 48.70647,
+  lon: 2.87047,
+  nm: "Fontenay-Tresigny",
+  value: 3017902
+},  {
+  id: 3017879,
+  label: "Fontenilles",
+  lat: 43.55286,
+  lon: 1.19096,
+  nm: "Fontenilles",
+  value: 3017879
+},  {
+  id: 3017829,
+  label: "Fontoy",
+  lat: 49.356239,
+  lon: 5.99936,
+  nm: "Fontoy",
+  value: 3017829
+},  {
+  id: 3017816,
+  label: "Fontvieille",
+  lat: 43.728062,
+  lon: 4.70953,
+  nm: "Fontvieille",
+  value: 3017816
+},  {
+  id: 3017805,
+  label: "Forbach",
+  lat: 49.183331,
+  lon: 6.9,
+  nm: "Forbach",
+  value: 3017805
+},  {
+  id: 3017798,
+  label: "Forcalquier",
+  lat: 43.966671,
+  lon: 5.78333,
+  nm: "Forcalquier",
+  value: 3017798
+},  {
+  id: 3017728,
+  label: "Forges-les-Bains",
+  lat: 48.629421,
+  lon: 2.10264,
+  nm: "Forges-les-Bains",
+  value: 3017728
+},  {
+  id: 3017727,
+  label: "Forges-les-Eaux",
+  lat: 49.613911,
+  lon: 1.54449,
+  nm: "Forges-les-Eaux",
+  value: 3017727
+},  {
+  id: 3017717,
+  label: "Formerie",
+  lat: 49.649281,
+  lon: 1.73106,
+  nm: "Formerie",
+  value: 3017717
+},  {
+  id: 3017686,
+  label: "Fort-Mardyck",
+  lat: 51.028992,
+  lon: 2.30724,
+  nm: "Fort-Mardyck",
+  value: 3017686
+},  {
+  id: 3017651,
+  label: "Fos-sur-Mer",
+  lat: 43.43774,
+  lon: 4.94457,
+  nm: "Fos-sur-Mer",
+  value: 3017651
+},  {
+  id: 3017660,
+  label: "Fosses",
+  lat: 49.09808,
+  lon: 2.50957,
+  nm: "Fosses",
+  value: 3017660
+},  {
+  id: 3017624,
+  label: "Fouesnant",
+  lat: 47.891869,
+  lon: -4.01484,
+  nm: "Fouesnant",
+  value: 3017624
+},  {
+  id: 3017622,
+  label: "Foug",
+  lat: 48.68375,
+  lon: 5.78691,
+  nm: "Foug",
+  value: 3017622
+},  {
+  id: 3017609,
+  label: "Fougeres",
+  lat: 48.349998,
+  lon: -1.2,
+  nm: "Fougeres",
+  value: 3017609
+},  {
+  id: 3017602,
+  label: "Fougerolles",
+  lat: 47.885422,
+  lon: 6.40454,
+  nm: "Fougerolles",
+  value: 3017602
+},  {
+  id: 3017592,
+  label: "Fouillard",
+  lat: 48.158199,
+  lon: -1.57914,
+  nm: "Fouillard",
+  value: 3017592
+},  {
+  id: 3017576,
+  label: "Foulayronnes",
+  lat: 44.240292,
+  lon: 0.64516,
+  nm: "Foulayronnes",
+  value: 3017576
+},  {
+  id: 3017556,
+  label: "Fouquieres-les-Lens",
+  lat: 50.428421,
+  lon: 2.9132,
+  nm: "Fouquieres-les-Lens",
+  value: 3017556
+},  {
+  id: 3017546,
+  label: "Fouras",
+  lat: 45.987358,
+  lon: -1.09275,
+  nm: "Fouras",
+  value: 3017546
+},  {
+  id: 3017537,
+  label: "Fourchambault",
+  lat: 47.01667,
+  lon: 3.08333,
+  nm: "Fourchambault",
+  value: 3017537
+},  {
+  id: 3017512,
+  label: "Fourmies",
+  lat: 50.01532,
+  lon: 4.04784,
+  nm: "Fourmies",
+  value: 3017512
+},  {
+  id: 3017491,
+  label: "Fournes-en-Weppes",
+  lat: 50.584969,
+  lon: 2.88793,
+  nm: "Fournes-en-Weppes",
+  value: 3017491
+},  {
+  id: 3017477,
+  label: "Fourques",
+  lat: 43.6945,
+  lon: 4.60932,
+  nm: "Fourques",
+  value: 3017477
+},  {
+  id: 3017474,
+  label: "Fourqueux",
+  lat: 48.886929,
+  lon: 2.06367,
+  nm: "Fourqueux",
+  value: 3017474
+},  {
+  id: 3017410,
+  label: "Fraisses",
+  lat: 45.383331,
+  lon: 4.25,
+  nm: "Fraisses",
+  value: 3017410
+},  {
+  id: 3017400,
+  label: "Fraize",
+  lat: 48.1866,
+  lon: 6.99786,
+  nm: "Fraize",
+  value: 3017400
+},  {
+  id: 3017363,
+  label: "Francheville",
+  lat: 45.738789,
+  lon: 4.77218,
+  nm: "Francheville",
+  value: 3017363
+},  {
+  id: 3017341,
+  label: "Franconville",
+  lat: 48.98333,
+  lon: 2.23333,
+  nm: "Franconville",
+  value: 3017341
+},  {
+  id: 3017320,
+  label: "Frans",
+  lat: 45.992279,
+  lon: 4.77582,
+  nm: "Frans",
+  value: 3017320
+},  {
+  id: 3017253,
+  label: "Frejus",
+  lat: 43.432861,
+  lon: 6.73524,
+  nm: "Frejus",
+  value: 3017253
+},  {
+  id: 3017248,
+  label: "Frelinghien",
+  lat: 50.716671,
+  lon: 2.93333,
+  nm: "Frelinghien",
+  value: 3017248
+},  {
+  id: 3017219,
+  label: "Freneuse",
+  lat: 49.048321,
+  lon: 1.60168,
+  nm: "Freneuse",
+  value: 3017219
+},  {
+  id: 3017208,
+  label: "Frepillon",
+  lat: 49.052158,
+  lon: 2.20528,
+  nm: "Frepillon",
+  value: 3017208
+},  {
+  id: 3017189,
+  label: "Fresnay-sur-Sarthe",
+  lat: 48.28199,
+  lon: 0.02288,
+  nm: "Fresnay-sur-Sarthe",
+  value: 3017189
+},  {
+  id: 3017178,
+  label: "Fresnes",
+  lat: 48.75568,
+  lon: 2.32241,
+  nm: "Fresnes",
+  value: 3017178
+},  {
+  id: 3017167,
+  label: "Fresnes-sur-Escaut",
+  lat: 50.433819,
+  lon: 3.57752,
+  nm: "Fresnes-sur-Escaut",
+  value: 3017167
+},  {
+  id: 3017144,
+  label: "Fresnoy-le-Grand",
+  lat: 49.947571,
+  lon: 3.41841,
+  nm: "Fresnoy-le-Grand",
+  value: 3017144
+},  {
+  id: 3017124,
+  label: "Fresse-sur-Moselle",
+  lat: 47.875889,
+  lon: 6.78589,
+  nm: "Fresse-sur-Moselle",
+  value: 3017124
+},  {
+  id: 3017127,
+  label: "Fressenneville",
+  lat: 50.068378,
+  lon: 1.57816,
+  nm: "Fressenneville",
+  value: 3017127
+},  {
+  id: 3017100,
+  label: "Fretin",
+  lat: 50.557449,
+  lon: 3.13668,
+  nm: "Fretin",
+  value: 3017100
+},  {
+  id: 3017080,
+  label: "Frevent",
+  lat: 50.276081,
+  lon: 2.28725,
+  nm: "Frevent",
+  value: 3017080
+},  {
+  id: 3017059,
+  label: "Freyming-Merlebach",
+  lat: 49.150002,
+  lon: 6.78333,
+  nm: "Freyming-Merlebach",
+  value: 3017059
+},  {
+  id: 3017024,
+  label: "Friville-Escarbotin",
+  lat: 50.086021,
+  lon: 1.5456,
+  nm: "Friville-Escarbotin",
+  value: 3017024
+},  {
+  id: 3017017,
+  label: "Froges",
+  lat: 45.27359,
+  lon: 5.92159,
+  nm: "Froges",
+  value: 3017017
+},  {
+  id: 3017012,
+  label: "Froideconche",
+  lat: 47.821209,
+  lon: 6.41522,
+  nm: "Froideconche",
+  value: 3017012
+},  {
+  id: 3016959,
+  label: "Frontenay-Rohan-Rohan",
+  lat: 46.252762,
+  lon: -0.53833,
+  nm: "Frontenay-Rohan-Rohan",
+  value: 3016959
+},  {
+  id: 3016956,
+  label: "Frontignan",
+  lat: 43.448479,
+  lon: 3.754,
+  nm: "Frontignan",
+  value: 3016956
+},  {
+  id: 3016953,
+  label: "Fronton",
+  lat: 43.83931,
+  lon: 1.38931,
+  nm: "Fronton",
+  value: 3016953
+},  {
+  id: 3016947,
+  label: "Frossay",
+  lat: 47.244511,
+  lon: -1.93557,
+  nm: "Frossay",
+  value: 3016947
+},  {
+  id: 3016944,
+  label: "Frouard",
+  lat: 48.759979,
+  lon: 6.13163,
+  nm: "Frouard",
+  value: 3016944
+},  {
+  id: 3016940,
+  label: "Frouzins",
+  lat: 43.51482,
+  lon: 1.32523,
+  nm: "Frouzins",
+  value: 3016940
+},  {
+  id: 3016931,
+  label: "Fruges",
+  lat: 50.515011,
+  lon: 2.13292,
+  nm: "Fruges",
+  value: 3016931
+},  {
+  id: 3016907,
+  label: "Fumay",
+  lat: 49.991322,
+  lon: 4.70771,
+  nm: "Fumay",
+  value: 3016907
+},  {
+  id: 3016903,
+  label: "Fumel",
+  lat: 44.498619,
+  lon: 0.96506,
+  nm: "Fumel",
+  value: 3016903
+},  {
+  id: 3016890,
+  label: "Furiani",
+  lat: 42.658138,
+  lon: 9.41469,
+  nm: "Furiani",
+  value: 3016890
+},  {
+  id: 3016882,
+  label: "Fussy",
+  lat: 47.143719,
+  lon: 2.42953,
+  nm: "Fussy",
+  value: 3016882
+},  {
+  id: 3016878,
+  label: "Fuveau",
+  lat: 43.45578,
+  lon: 5.56149,
+  nm: "Fuveau",
+  value: 3016878
+},  {
+  id: 3016853,
+  label: "Gace",
+  lat: 48.793442,
+  lon: 0.29624,
+  nm: "Gace",
+  value: 3016853
+},  {
+  id: 3016830,
+  label: "Gagny",
+  lat: 48.883331,
+  lon: 2.53333,
+  nm: "Gagny",
+  value: 3016830
+},  {
+  id: 3016824,
+  label: "Gaillac",
+  lat: 43.9016,
+  lon: 1.89686,
+  nm: "Gaillac",
+  value: 3016824
+},  {
+  id: 3016820,
+  label: "Gaillan-en-Medoc",
+  lat: 45.321331,
+  lon: -0.95794,
+  nm: "Gaillan-en-Medoc",
+  value: 3016820
+},  {
+  id: 3016817,
+  label: "Gaillard",
+  lat: 46.185299,
+  lon: 6.20693,
+  nm: "Gaillard",
+  value: 3016817
+},  {
+  id: 3016807,
+  label: "Gaillon",
+  lat: 49.161041,
+  lon: 1.34016,
+  nm: "Gaillon",
+  value: 3016807
+},  {
+  id: 3016800,
+  label: "Gainneville",
+  lat: 49.518452,
+  lon: 0.26164,
+  nm: "Gainneville",
+  value: 3016800
+},  {
+  id: 3016764,
+  label: "Galgon",
+  lat: 44.98333,
+  lon: -0.26667,
+  nm: "Galgon",
+  value: 3016764
+},  {
+  id: 3016750,
+  label: "Gallardon",
+  lat: 48.526218,
+  lon: 1.69307,
+  nm: "Gallardon",
+  value: 3016750
+},  {
+  id: 3015119,
+  label: "Gallargues-le-Montueux",
+  lat: 43.716671,
+  lon: 4.16667,
+  nm: "Gallargues-le-Montueux",
+  value: 3015119
+},  {
+  id: 3016737,
+  label: "Gamaches",
+  lat: 49.986141,
+  lon: 1.55624,
+  nm: "Gamaches",
+  value: 3016737
+},  {
+  id: 3016733,
+  label: "Gambais",
+  lat: 48.77351,
+  lon: 1.67196,
+  nm: "Gambais",
+  value: 3016733
+},  {
+  id: 3016730,
+  label: "Gambsheim",
+  lat: 48.692089,
+  lon: 7.88286,
+  nm: "Gambsheim",
+  value: 3016730
+},  {
+  id: 3016726,
+  label: "Gan",
+  lat: 43.23333,
+  lon: -0.38333,
+  nm: "Gan",
+  value: 3016726
+},  {
+  id: 3016716,
+  label: "Gandrange",
+  lat: 49.27071,
+  lon: 6.12249,
+  nm: "Gandrange",
+  value: 3016716
+},  {
+  id: 3016714,
+  label: "Ganges",
+  lat: 43.9338,
+  lon: 3.70784,
+  nm: "Ganges",
+  value: 3016714
+},  {
+  id: 3016711,
+  label: "Gannat",
+  lat: 46.100151,
+  lon: 3.19886,
+  nm: "Gannat",
+  value: 3016711
+},  {
+  id: 3016702,
+  label: "Gap",
+  lat: 44.566669,
+  lon: 6.08333,
+  nm: "Gap",
+  value: 3016702
+},  {
+  id: 3016690,
+  label: "Garancieres",
+  lat: 48.822708,
+  lon: 1.75512,
+  nm: "Garancieres",
+  value: 3016690
+},  {
+  id: 3016675,
+  label: "Garches",
+  lat: 48.842258,
+  lon: 2.18232,
+  nm: "Garches",
+  value: 3016675
+},  {
+  id: 3016674,
+  label: "Garchizy",
+  lat: 47.047859,
+  lon: 3.09625,
+  nm: "Garchizy",
+  value: 3016674
+},  {
+  id: 3016667,
+  label: "Gardanne",
+  lat: 43.45491,
+  lon: 5.46913,
+  nm: "Gardanne",
+  value: 3016667
+},  {
+  id: 3016635,
+  label: "Gareoult",
+  lat: 43.328579,
+  lon: 6.04594,
+  nm: "Gareoult",
+  value: 3016635
+},  {
+  id: 3016624,
+  label: "Gargas",
+  lat: 43.901989,
+  lon: 5.35781,
+  nm: "Gargas",
+  value: 3016624
+},  {
+  id: 3016622,
+  label: "Gargenville",
+  lat: 48.988022,
+  lon: 1.81176,
+  nm: "Gargenville",
+  value: 3016622
+},  {
+  id: 3016621,
+  label: "Garges-les-Gonesse",
+  lat: 48.967911,
+  lon: 2.39781,
+  nm: "Garges-les-Gonesse",
+  value: 3016621
+},  {
+  id: 3016595,
+  label: "Garons",
+  lat: 43.7686,
+  lon: 4.42753,
+  nm: "Garons",
+  value: 3016595
+},  {
+  id: 3016564,
+  label: "Gasny",
+  lat: 49.091839,
+  lon: 1.60336,
+  nm: "Gasny",
+  value: 3016564
+},  {
+  id: 3016561,
+  label: "Gassin",
+  lat: 43.228741,
+  lon: 6.5848,
+  nm: "Gassin",
+  value: 3016561
+},  {
+  id: 3016534,
+  label: "Gattieres",
+  lat: 43.760368,
+  lon: 7.17799,
+  nm: "Gattieres",
+  value: 3016534
+},  {
+  id: 3016524,
+  label: "Gauchy",
+  lat: 49.827648,
+  lon: 3.27371,
+  nm: "Gauchy",
+  value: 3016524
+},  {
+  id: 3016424,
+  label: "Geispolsheim",
+  lat: 48.516579,
+  lon: 7.64667,
+  nm: "Geispolsheim",
+  value: 3016424
+},  {
+  id: 3016406,
+  label: "Gelos",
+  lat: 43.283329,
+  lon: -0.36667,
+  nm: "Gelos",
+  value: 3016406
+},  {
+  id: 3016398,
+  label: "Gemenos",
+  lat: 43.297508,
+  lon: 5.62843,
+  nm: "Gemenos",
+  value: 3016398
+},  {
+  id: 3016392,
+  label: "Gemozac",
+  lat: 45.568958,
+  lon: -0.67574,
+  nm: "Gemozac",
+  value: 3016392
+},  {
+  id: 3016387,
+  label: "Genas",
+  lat: 45.732151,
+  lon: 4.99943,
+  nm: "Genas",
+  value: 3016387
+},  {
+  id: 3016385,
+  label: "Genay",
+  lat: 45.89764,
+  lon: 4.83729,
+  nm: "Genay",
+  value: 3016385
+},  {
+  id: 3016376,
+  label: "Genech",
+  lat: 50.531219,
+  lon: 3.21651,
+  nm: "Genech",
+  value: 3016376
+},  {
+  id: 3016371,
+  label: "Generac",
+  lat: 43.728298,
+  lon: 4.35,
+  nm: "Generac",
+  value: 3016371
+},  {
+  id: 6615510,
+  label: "Geneston",
+  lat: 47.056389,
+  lon: -1.51139,
+  nm: "Geneston",
+  value: 6615510
+},  {
+  id: 3016333,
+  label: "Genissieux",
+  lat: 45.084259,
+  lon: 5.08337,
+  nm: "Genissieux",
+  value: 3016333
+},  {
+  id: 3016332,
+  label: "Genlis",
+  lat: 47.242031,
+  lon: 5.22415,
+  nm: "Genlis",
+  value: 3016332
+},  {
+  id: 3016330,
+  label: "Gennes",
+  lat: 47.340099,
+  lon: -0.23149,
+  nm: "Gennes",
+  value: 3016330
+},  {
+  id: 3016321,
+  label: "Gennevilliers",
+  lat: 48.933331,
+  lon: 2.3,
+  nm: "Gennevilliers",
+  value: 3016321
+},  {
+  id: 3016292,
+  label: "Gentilly",
+  lat: 48.812939,
+  lon: 2.3417,
+  nm: "Gentilly",
+  value: 3016292
+},  {
+  id: 3016274,
+  label: "Gerardmer",
+  lat: 48.07346,
+  lon: 6.87787,
+  nm: "Gerardmer",
+  value: 3016274
+},  {
+  id: 3016247,
+  label: "Gergy",
+  lat: 46.875568,
+  lon: 4.94527,
+  nm: "Gergy",
+  value: 3016247
+},  {
+  id: 3016192,
+  label: "Gerstheim",
+  lat: 48.38142,
+  lon: 7.70308,
+  nm: "Gerstheim",
+  value: 3016192
+},  {
+  id: 3016177,
+  label: "Gerzat",
+  lat: 45.824322,
+  lon: 3.14404,
+  nm: "Gerzat",
+  value: 3016177
+},  {
+  id: 3016167,
+  label: "Geste",
+  lat: 47.181789,
+  lon: -1.10917,
+  nm: "Geste",
+  value: 3016167
+},  {
+  id: 3016166,
+  label: "Gestel",
+  lat: 47.803612,
+  lon: -3.44245,
+  nm: "Gestel",
+  value: 3016166
+},  {
+  id: 3016162,
+  label: "Getigne",
+  lat: 47.0765,
+  lon: -1.2481,
+  nm: "Getigne",
+  value: 3016162
+},  {
+  id: 3016158,
+  label: "Geudertheim",
+  lat: 48.724152,
+  lon: 7.75188,
+  nm: "Geudertheim",
+  value: 3016158
+},  {
+  id: 3016152,
+  label: "Geveze",
+  lat: 48.21933,
+  lon: -1.78952,
+  nm: "Geveze",
+  value: 3016152
+},  {
+  id: 3016147,
+  label: "Gevrey-Chambertin",
+  lat: 47.226139,
+  lon: 4.96806,
+  nm: "Gevrey-Chambertin",
+  value: 3016147
+},  {
+  id: 3016143,
+  label: "Gex",
+  lat: 46.333328,
+  lon: 6.06667,
+  nm: "Gex",
+  value: 3016143
+},  {
+  id: 3016133,
+  label: "Ghisonaccia",
+  lat: 42.016209,
+  lon: 9.40412,
+  nm: "Ghisonaccia",
+  value: 3016133
+},  {
+  id: 3016130,
+  label: "Ghyvelde",
+  lat: 51.05275,
+  lon: 2.52642,
+  nm: "Ghyvelde",
+  value: 3016130
+},  {
+  id: 3016113,
+  label: "Giberville",
+  lat: 49.18158,
+  lon: -0.28386,
+  nm: "Giberville",
+  value: 3016113
+},  {
+  id: 3016097,
+  label: "Gien",
+  lat: 47.693321,
+  lon: 2.63094,
+  nm: "Gien",
+  value: 3016097
+},  {
+  id: 3016089,
+  label: "Gieres",
+  lat: 45.182732,
+  lon: 5.79179,
+  nm: "Gieres",
+  value: 3016089
+},  {
+  id: 3016085,
+  label: "Gievres",
+  lat: 47.278469,
+  lon: 1.66943,
+  nm: "Gievres",
+  value: 3016085
+},  {
+  id: 3016078,
+  label: "Gif-sur-Yvette",
+  lat: 48.683331,
+  lon: 2.13333,
+  nm: "Gif-sur-Yvette",
+  value: 3016078
+},  {
+  id: 3016076,
+  label: "Gigean",
+  lat: 43.500278,
+  lon: 3.71167,
+  nm: "Gigean",
+  value: 3016076
+},  {
+  id: 3016073,
+  label: "Gignac",
+  lat: 43.652,
+  lon: 3.5509,
+  nm: "Gignac",
+  value: 3016073
+},  {
+  id: 3016070,
+  label: "Gignac-la-Nerthe",
+  lat: 43.391449,
+  lon: 5.23348,
+  nm: "Gignac-la-Nerthe",
+  value: 3016070
+},  {
+  id: 3016038,
+  label: "Gilly-sur-Isere",
+  lat: 45.659168,
+  lon: 6.35096,
+  nm: "Gilly-sur-Isere",
+  value: 3016038
+},  {
+  id: 3016023,
+  label: "Gimont",
+  lat: 43.62627,
+  lon: 0.87655,
+  nm: "Gimont",
+  value: 3016023
+},  {
+  id: 3015958,
+  label: "Giromagny",
+  lat: 47.741459,
+  lon: 6.82671,
+  nm: "Giromagny",
+  value: 3015958
+},  {
+  id: 3015926,
+  label: "Gisors",
+  lat: 49.28178,
+  lon: 1.7801,
+  nm: "Gisors",
+  value: 3015926
+},  {
+  id: 3015911,
+  label: "Givenchy-en-Gohelle",
+  lat: 50.3908,
+  lon: 2.7732,
+  nm: "Givenchy-en-Gohelle",
+  value: 3015911
+},  {
+  id: 3015904,
+  label: "Givet",
+  lat: 50.137959,
+  lon: 4.82545,
+  nm: "Givet",
+  value: 3015904
+},  {
+  id: 3015902,
+  label: "Givors",
+  lat: 45.584148,
+  lon: 4.77256,
+  nm: "Givors",
+  value: 3015902
+},  {
+  id: 3015894,
+  label: "Givry",
+  lat: 46.782021,
+  lon: 4.74262,
+  nm: "Givry",
+  value: 3015894
+},  {
+  id: 3015823,
+  label: "Gleize",
+  lat: 45.990822,
+  lon: 4.70071,
+  nm: "Gleize",
+  value: 3015823
+},  {
+  id: 3015765,
+  label: "Goderville",
+  lat: 49.64566,
+  lon: 0.36593,
+  nm: "Goderville",
+  value: 3015765
+},  {
+  id: 3015764,
+  label: "Godewaersvelde",
+  lat: 50.793991,
+  lon: 2.64456,
+  nm: "Godewaersvelde",
+  value: 3015764
+},  {
+  id: 3015741,
+  label: "Golbey",
+  lat: 48.197639,
+  lon: 6.43966,
+  nm: "Golbey",
+  value: 3015741
+},  {
+  id: 3015727,
+  label: "Gometz-le-Chatel",
+  lat: 48.678371,
+  lon: 2.13792,
+  nm: "Gometz-le-Chatel",
+  value: 3015727
+},  {
+  id: 3015723,
+  label: "Gommegnies",
+  lat: 50.271549,
+  lon: 3.70625,
+  nm: "Gommegnies",
+  value: 3015723
+},  {
+  id: 3015711,
+  label: "Goncelin",
+  lat: 45.344528,
+  lon: 5.97892,
+  nm: "Goncelin",
+  value: 3015711
+},  {
+  id: 3004078,
+  label: "Gond-Pontouvre",
+  lat: 45.683331,
+  lon: 0.16667,
+  nm: "Gond-Pontouvre",
+  value: 3004078
+},  {
+  id: 3015708,
+  label: "Gondecourt",
+  lat: 50.544689,
+  lon: 2.98378,
+  nm: "Gondecourt",
+  value: 3015708
+},  {
+  id: 3015697,
+  label: "Gondreville",
+  lat: 48.694359,
+  lon: 5.96551,
+  nm: "Gondreville",
+  value: 3015697
+},  {
+  id: 3015689,
+  label: "Gonesse",
+  lat: 48.986931,
+  lon: 2.44892,
+  nm: "Gonesse",
+  value: 3015689
+},  {
+  id: 3015681,
+  label: "Gonnehem",
+  lat: 50.560619,
+  lon: 2.57277,
+  nm: "Gonnehem",
+  value: 3015681
+},  {
+  id: 3015662,
+  label: "Gorcy",
+  lat: 49.533329,
+  lon: 5.7,
+  nm: "Gorcy",
+  value: 3015662
+},  {
+  id: 3015661,
+  label: "Gordes",
+  lat: 43.912369,
+  lon: 5.20089,
+  nm: "Gordes",
+  value: 3015661
+},  {
+  id: 3015658,
+  label: "Gorges",
+  lat: 47.099171,
+  lon: -1.30024,
+  nm: "Gorges",
+  value: 3015658
+},  {
+  id: 3015642,
+  label: "Gorron",
+  lat: 48.41095,
+  lon: -0.81267,
+  nm: "Gorron",
+  value: 3015642
+},  {
+  id: 3015602,
+  label: "Gouesnach",
+  lat: 47.9104,
+  lon: -4.1145,
+  nm: "Gouesnach",
+  value: 3015602
+},  {
+  id: 3015601,
+  label: "Gouesnou",
+  lat: 48.45266,
+  lon: -4.46456,
+  nm: "Gouesnou",
+  value: 3015601
+},  {
+  id: 3015546,
+  label: "Gourdon",
+  lat: 44.73333,
+  lon: 1.38333,
+  nm: "Gourdon",
+  value: 3015546
+},  {
+  id: 3015522,
+  label: "Gourin",
+  lat: 48.13866,
+  lon: -3.60755,
+  nm: "Gourin",
+  value: 3015522
+},  {
+  id: 3015509,
+  label: "Gournay-en-Bray",
+  lat: 49.482849,
+  lon: 1.72471,
+  nm: "Gournay-en-Bray",
+  value: 3015509
+},  {
+  id: 3015507,
+  label: "Gournay-sur-Marne",
+  lat: 48.862228,
+  lon: 2.58452,
+  nm: "Gournay-sur-Marne",
+  value: 3015507
+},  {
+  id: 3015490,
+  label: "Goussainville",
+  lat: 49.013672,
+  lon: 2.46595,
+  nm: "Goussainville",
+  value: 3015490
+},  {
+  id: 3015460,
+  label: "Gouvieux",
+  lat: 49.18705,
+  lon: 2.41439,
+  nm: "Gouvieux",
+  value: 3015460
+},  {
+  id: 3015434,
+  label: "Goven",
+  lat: 48.006378,
+  lon: -1.84629,
+  nm: "Goven",
+  value: 3015434
+},  {
+  id: 3015424,
+  label: "Grabels",
+  lat: 43.647968,
+  lon: 3.79864,
+  nm: "Grabels",
+  value: 3015424
+},  {
+  id: 3015422,
+  label: "Graces",
+  lat: 48.556511,
+  lon: -3.18533,
+  nm: "Graces",
+  value: 3015422
+},  {
+  id: 3015419,
+  label: "Gradignan",
+  lat: 44.772621,
+  lon: -0.61393,
+  nm: "Gradignan",
+  value: 3015419
+},  {
+  id: 3015386,
+  label: "Gramat",
+  lat: 44.78075,
+  lon: 1.71957,
+  nm: "Gramat",
+  value: 3015386
+},  {
+  id: 3015305,
+  label: "Grand-Champ",
+  lat: 47.758041,
+  lon: -2.84636,
+  nm: "Grand-Champ",
+  value: 3015305
+},  {
+  id: 3015292,
+  label: "Grand-Charmont",
+  lat: 47.526741,
+  lon: 6.82604,
+  nm: "Grand-Charmont",
+  value: 3015292
+},  {
+  id: 3015267,
+  label: "Grand-Couronne",
+  lat: 49.355629,
+  lon: 1.00647,
+  nm: "Grand-Couronne",
+  value: 3015267
+},  {
+  id: 3015126,
+  label: "Grand-Fort-Philippe",
+  lat: 50.999611,
+  lon: 2.10784,
+  nm: "Grand-Fort-Philippe",
+  value: 3015126
+},  {
+  id: 3015125,
+  label: "Grand-Fougeray",
+  lat: 47.7239,
+  lon: -1.7321,
+  nm: "Grand-Fougeray",
+  value: 3015125
+},  {
+  id: 3015317,
+  label: "Grandcamp-Maisy",
+  lat: 49.383331,
+  lon: -1.03333,
+  nm: "Grandcamp-Maisy",
+  value: 3015317
+},  {
+  id: 3015160,
+  label: "Grande-Synthe",
+  lat: 51.0154,
+  lon: 2.29975,
+  nm: "Grande-Synthe",
+  value: 3015160
+},  {
+  id: 3014928,
+  label: "Grandvillars",
+  lat: 47.539211,
+  lon: 6.96424,
+  nm: "Grandvillars",
+  value: 3014928
+},  {
+  id: 3014918,
+  label: "Grandvilliers",
+  lat: 49.66547,
+  lon: 1.94088,
+  nm: "Grandvilliers",
+  value: 3014918
+},  {
+  id: 3014878,
+  label: "Granges-sur-Vologne",
+  lat: 48.145168,
+  lon: 6.79095,
+  nm: "Granges-sur-Vologne",
+  value: 3014878
+},  {
+  id: 3014868,
+  label: "Grans",
+  lat: 43.603569,
+  lon: 5.06881,
+  nm: "Grans",
+  value: 3014868
+},  {
+  id: 3014867,
+  label: "Granville",
+  lat: 48.837921,
+  lon: -1.59714,
+  nm: "Granville",
+  value: 3014867
+},  {
+  id: 3014856,
+  label: "Grasse",
+  lat: 43.666672,
+  lon: 6.91667,
+  nm: "Grasse",
+  value: 3014856
+},  {
+  id: 3014848,
+  label: "Gratentour",
+  lat: 43.723598,
+  lon: 1.43234,
+  nm: "Gratentour",
+  value: 3014848
+},  {
+  id: 3014828,
+  label: "Graulhet",
+  lat: 43.76688,
+  lon: 1.98938,
+  nm: "Graulhet",
+  value: 3014828
+},  {
+  id: 3014816,
+  label: "Gravelines",
+  lat: 50.986511,
+  lon: 2.12807,
+  nm: "Gravelines",
+  value: 3014816
+},  {
+  id: 3014803,
+  label: "Graveson",
+  lat: 43.851341,
+  lon: 4.77189,
+  nm: "Graveson",
+  value: 3014803
+},  {
+  id: 3014795,
+  label: "Gravigny",
+  lat: 49.053101,
+  lon: 1.16962,
+  nm: "Gravigny",
+  value: 3014795
+},  {
+  id: 3014784,
+  label: "Gray",
+  lat: 47.445751,
+  lon: 5.59215,
+  nm: "Gray",
+  value: 3014784
+},  {
+  id: 3014767,
+  label: "Greasque",
+  lat: 43.433102,
+  lon: 5.54449,
+  nm: "Greasque",
+  value: 3014767
+},  {
+  id: 3014745,
+  label: "Grenade",
+  lat: 43.76667,
+  lon: 1.28333,
+  nm: "Grenade",
+  value: 3014745
+},  {
+  id: 3014739,
+  label: "Grenay",
+  lat: 50.449619,
+  lon: 2.75168,
+  nm: "Grenay",
+  value: 3014739
+},  {
+  id: 3014728,
+  label: "Grenoble",
+  lat: 45.166672,
+  lon: 5.71667,
+  nm: "Grenoble",
+  value: 3014728
+},  {
+  id: 3014717,
+  label: "Greoux-les-Bains",
+  lat: 43.75753,
+  lon: 5.88169,
+  nm: "Greoux-les-Bains",
+  value: 3014717
+},  {
+  id: 3014699,
+  label: "Gresy-sur-Aix",
+  lat: 45.723011,
+  lon: 5.93412,
+  nm: "Gresy-sur-Aix",
+  value: 3014699
+},  {
+  id: 3014697,
+  label: "Gretz-Armainvilliers",
+  lat: 48.741199,
+  lon: 2.73105,
+  nm: "Gretz-Armainvilliers",
+  value: 3014697
+},  {
+  id: 3014676,
+  label: "Grezieu-la-Varenne",
+  lat: 45.748329,
+  lon: 4.69016,
+  nm: "Grezieu-la-Varenne",
+  value: 3014676
+},  {
+  id: 3014667,
+  label: "Gries",
+  lat: 48.7537,
+  lon: 7.81403,
+  nm: "Gries",
+  value: 3014667
+},  {
+  id: 3014655,
+  label: "Grignon",
+  lat: 45.651642,
+  lon: 6.37727,
+  nm: "Grignon",
+  value: 3014655
+},  {
+  id: 3014646,
+  label: "Grigny",
+  lat: 48.654121,
+  lon: 2.39343,
+  nm: "Grigny",
+  value: 3014646
+},  {
+  id: 3014647,
+  label: "Grigny",
+  lat: 45.611279,
+  lon: 4.79589,
+  nm: "Grigny",
+  value: 3014647
+},  {
+  id: 3014634,
+  label: "Grimaud",
+  lat: 43.270489,
+  lon: 6.52491,
+  nm: "Grimaud",
+  value: 3014634
+},  {
+  id: 3014606,
+  label: "Grisolles",
+  lat: 43.829201,
+  lon: 1.29673,
+  nm: "Grisolles",
+  value: 3014606
+},  {
+  id: 3014600,
+  label: "Grisy-Suisnes",
+  lat: 48.685379,
+  lon: 2.66781,
+  nm: "Grisy-Suisnes",
+  value: 3014600
+},  {
+  id: 3014580,
+  label: "Groisy",
+  lat: 46.018349,
+  lon: 6.17083,
+  nm: "Groisy",
+  value: 3014580
+},  {
+  id: 3014579,
+  label: "Groix",
+  lat: 47.63887,
+  lon: -3.4543,
+  nm: "Groix",
+  value: 3014579
+},  {
+  id: 3014560,
+  label: "Grosbliederstroff",
+  lat: 49.158081,
+  lon: 7.02413,
+  nm: "Grosbliederstroff",
+  value: 3014560
+},  {
+  id: 3014540,
+  label: "Groslay",
+  lat: 48.985611,
+  lon: 2.34736,
+  nm: "Groslay",
+  value: 3014540
+},  {
+  id: 3014517,
+  label: "Grosseto-Prugna",
+  lat: 41.870972,
+  lon: 8.96403,
+  nm: "Grosseto-Prugna",
+  value: 3014517
+},  {
+  id: 3014490,
+  label: "Gruchet-le-Valasse",
+  lat: 49.554661,
+  lon: 0.48684,
+  nm: "Gruchet-le-Valasse",
+  value: 3014490
+},  {
+  id: 3014477,
+  label: "Gruissan",
+  lat: 43.10759,
+  lon: 3.08651,
+  nm: "Gruissan",
+  value: 3014477
+},  {
+  id: 3014433,
+  label: "Guebwiller",
+  lat: 47.916672,
+  lon: 7.2,
+  nm: "Guebwiller",
+  value: 3014433
+},  {
+  id: 3014430,
+  label: "Guecelard",
+  lat: 47.87751,
+  lon: 0.1293,
+  nm: "Guecelard",
+  value: 3014430
+},  {
+  id: 3014421,
+  label: "Guegon",
+  lat: 47.937069,
+  lon: -2.5645,
+  nm: "Guegon",
+  value: 3014421
+},  {
+  id: 3014413,
+  label: "Guemene-Penfao",
+  lat: 47.633331,
+  lon: -1.83333,
+  nm: "Guemene-Penfao",
+  value: 3014413
+},  {
+  id: 3014407,
+  label: "Guenange",
+  lat: 49.299461,
+  lon: 6.20752,
+  nm: "Guenange",
+  value: 3014407
+},  {
+  id: 3014398,
+  label: "Guenrouet",
+  lat: 47.51881,
+  lon: -1.95381,
+  nm: "Guenrouet",
+  value: 3014398
+},  {
+  id: 3014393,
+  label: "Guer",
+  lat: 47.906189,
+  lon: -2.12314,
+  nm: "Guer",
+  value: 3014393
+},  {
+  id: 3014392,
+  label: "Guerande",
+  lat: 47.329109,
+  lon: -2.42829,
+  nm: "Guerande",
+  value: 3014392
+},  {
+  id: 3014391,
+  label: "Guerard",
+  lat: 48.820862,
+  lon: 2.95969,
+  nm: "Guerard",
+  value: 3014391
+},  {
+  id: 3014383,
+  label: "Gueret",
+  lat: 46.166672,
+  lon: 1.86667,
+  nm: "Gueret",
+  value: 3014383
+},  {
+  id: 3014377,
+  label: "Guerigny",
+  lat: 47.087029,
+  lon: 3.20182,
+  nm: "Guerigny",
+  value: 3014377
+},  {
+  id: 3014351,
+  label: "Guerville",
+  lat: 48.943878,
+  lon: 1.73429,
+  nm: "Guerville",
+  value: 3014351
+},  {
+  id: 3014346,
+  label: "Guesnain",
+  lat: 50.349998,
+  lon: 3.15,
+  nm: "Guesnain",
+  value: 3014346
+},  {
+  id: 3014334,
+  label: "Gueugnon",
+  lat: 46.603569,
+  lon: 4.06286,
+  nm: "Gueugnon",
+  value: 3014334
+},  {
+  id: 3014305,
+  label: "Guichen",
+  lat: 47.967621,
+  lon: -1.79534,
+  nm: "Guichen",
+  value: 3014305
+},  {
+  id: 3014304,
+  label: "Guiclan",
+  lat: 48.549671,
+  lon: -3.96211,
+  nm: "Guiclan",
+  value: 3014304
+},  {
+  id: 3232493,
+  label: "Guidel-Plage",
+  lat: 47.767681,
+  lon: -3.5218,
+  nm: "Guidel-Plage",
+  value: 3232493
+},  {
+  id: 3014294,
+  label: "Guignen",
+  lat: 47.92009,
+  lon: -1.86161,
+  nm: "Guignen",
+  value: 3014294
+},  {
+  id: 3014292,
+  label: "Guignes",
+  lat: 48.633331,
+  lon: 2.8,
+  nm: "Guignes",
+  value: 3014292
+},  {
+  id: 3014289,
+  label: "Guignicourt",
+  lat: 49.437141,
+  lon: 3.96756,
+  nm: "Guignicourt",
+  value: 3014289
+},  {
+  id: 3014280,
+  label: "Guilers",
+  lat: 48.425449,
+  lon: -4.55801,
+  nm: "Guilers",
+  value: 3014280
+},  {
+  id: 3014277,
+  label: "Guilherand-Granges",
+  lat: 44.932781,
+  lon: 4.87372,
+  nm: "Guilherand-Granges",
+  value: 3014277
+},  {
+  id: 3014258,
+  label: "Guillestre",
+  lat: 44.6595,
+  lon: 6.64948,
+  nm: "Guillestre",
+  value: 3014258
+},  {
+  id: 3014239,
+  label: "Guilvinec",
+  lat: 47.798611,
+  lon: -4.28111,
+  nm: "Guilvinec",
+  value: 3014239
+},  {
+  id: 3014224,
+  label: "Guines",
+  lat: 50.867081,
+  lon: 1.87025,
+  nm: "Guines",
+  value: 3014224
+},  {
+  id: 3014221,
+  label: "Guingamp",
+  lat: 48.549999,
+  lon: -3.15,
+  nm: "Guingamp",
+  value: 3014221
+},  {
+  id: 3014213,
+  label: "Guipavas",
+  lat: 48.435219,
+  lon: -4.39722,
+  nm: "Guipavas",
+  value: 3014213
+},  {
+  id: 3014208,
+  label: "Guipry",
+  lat: 47.82637,
+  lon: -1.84218,
+  nm: "Guipry",
+  value: 3014208
+},  {
+  id: 3014196,
+  label: "Guiscriff",
+  lat: 48.049438,
+  lon: -3.64356,
+  nm: "Guiscriff",
+  value: 3014196
+},  {
+  id: 3014195,
+  label: "Guise",
+  lat: 49.900551,
+  lon: 3.62801,
+  nm: "Guise",
+  value: 3014195
+},  {
+  id: 3014192,
+  label: "Guisseny",
+  lat: 48.632919,
+  lon: -4.40884,
+  nm: "Guisseny",
+  value: 3014192
+},  {
+  id: 3014175,
+  label: "Gujan-Mestras",
+  lat: 44.633331,
+  lon: -1.06667,
+  nm: "Gujan-Mestras",
+  value: 3014175
+},  {
+  id: 3014167,
+  label: "Gundershoffen",
+  lat: 48.906479,
+  lon: 7.66096,
+  nm: "Gundershoffen",
+  value: 3014167
+},  {
+  id: 3014143,
+  label: "Guyancourt",
+  lat: 48.773338,
+  lon: 2.07393,
+  nm: "Guyancourt",
+  value: 3014143
+},  {
+  id: 3014103,
+  label: "Habsheim",
+  lat: 47.730869,
+  lon: 7.41855,
+  nm: "Habsheim",
+  value: 3014103
+},  {
+  id: 3014096,
+  label: "Hadol",
+  lat: 48.089828,
+  lon: 6.47662,
+  nm: "Hadol",
+  value: 3014096
+},  {
+  id: 3014084,
+  label: "Hagetmau",
+  lat: 43.658932,
+  lon: -0.59172,
+  nm: "Hagetmau",
+  value: 3014084
+},  {
+  id: 3014080,
+  label: "Hagondange",
+  lat: 49.251339,
+  lon: 6.16812,
+  nm: "Hagondange",
+  value: 3014080
+},  {
+  id: 3014078,
+  label: "Haguenau",
+  lat: 48.815571,
+  lon: 7.79051,
+  nm: "Haguenau",
+  value: 3014078
+},  {
+  id: 3014067,
+  label: "Haillicourt",
+  lat: 50.475189,
+  lon: 2.57458,
+  nm: "Haillicourt",
+  value: 3014067
+},  {
+  id: 3014060,
+  label: "Haisnes",
+  lat: 50.507759,
+  lon: 2.79416,
+  nm: "Haisnes",
+  value: 3014060
+},  {
+  id: 3014049,
+  label: "Hallennes-lez-Haubourdin",
+  lat: 50.616669,
+  lon: 2.96667,
+  nm: "Hallennes-lez-Haubourdin",
+  value: 3014049
+},  {
+  id: 3014034,
+  label: "Halluin",
+  lat: 50.786282,
+  lon: 3.12611,
+  nm: "Halluin",
+  value: 3014034
+},  {
+  id: 3014029,
+  label: "Ham",
+  lat: 49.747211,
+  lon: 3.07301,
+  nm: "Ham",
+  value: 3014029
+},  {
+  id: 3014006,
+  label: "Ham-sous-Varsberg",
+  lat: 49.180309,
+  lon: 6.64626,
+  nm: "Ham-sous-Varsberg",
+  value: 3014006
+},  {
+  id: 3014026,
+  label: "Hambach",
+  lat: 49.06263,
+  lon: 7.04246,
+  nm: "Hambach",
+  value: 3014026
+},  {
+  id: 3014001,
+  label: "Hanches",
+  lat: 48.601151,
+  lon: 1.65137,
+  nm: "Hanches",
+  value: 3014001
+},  {
+  id: 3013926,
+  label: "Hardricourt",
+  lat: 49.00779,
+  lon: 1.89389,
+  nm: "Hardricourt",
+  value: 3013926
+},  {
+  id: 3013922,
+  label: "Harfleur",
+  lat: 49.506599,
+  lon: 0.19827,
+  nm: "Harfleur",
+  value: 3013922
+},  {
+  id: 3013908,
+  label: "Harnes",
+  lat: 50.44643,
+  lon: 2.90481,
+  nm: "Harnes",
+  value: 3013908
+},  {
+  id: 3013878,
+  label: "Hasnon",
+  lat: 50.424721,
+  lon: 3.38657,
+  nm: "Hasnon",
+  value: 3013878
+},  {
+  id: 3013877,
+  label: "Hasparren",
+  lat: 43.38377,
+  lon: -1.30499,
+  nm: "Hasparren",
+  value: 3013877
+},  {
+  id: 3013875,
+  label: "Haspres",
+  lat: 50.258289,
+  lon: 3.41695,
+  nm: "Haspres",
+  value: 3013875
+},  {
+  id: 3013862,
+  label: "Haubourdin",
+  lat: 50.608261,
+  lon: 2.99143,
+  nm: "Haubourdin",
+  value: 3013862
+},  {
+  id: 3013855,
+  label: "Haucourt-Moulaine",
+  lat: 49.490219,
+  lon: 5.80284,
+  nm: "Haucourt-Moulaine",
+  value: 3013855
+},  {
+  id: 3013845,
+  label: "Haulchin",
+  lat: 50.3172,
+  lon: 3.43599,
+  nm: "Haulchin",
+  value: 3013845
+},  {
+  id: 3013766,
+  label: "Haute-Goulaine",
+  lat: 47.199051,
+  lon: -1.42941,
+  nm: "Haute-Goulaine",
+  value: 3013766
+},  {
+  id: 3013705,
+  label: "Hauteville-Lompnes",
+  lat: 45.97794,
+  lon: 5.60114,
+  nm: "Hauteville-Lompnes",
+  value: 3013705
+},  {
+  id: 3013681,
+  label: "Hautmont",
+  lat: 50.250771,
+  lon: 3.92143,
+  nm: "Hautmont",
+  value: 3013681
+},  {
+  id: 3013673,
+  label: "Hautot-sur-Mer",
+  lat: 49.897888,
+  lon: 1.02884,
+  nm: "Hautot-sur-Mer",
+  value: 3013673
+},  {
+  id: 3013637,
+  label: "Haveluy",
+  lat: 50.35289,
+  lon: 3.40389,
+  nm: "Haveluy",
+  value: 3013637
+},  {
+  id: 3013627,
+  label: "Hayange",
+  lat: 49.334278,
+  lon: 6.05268,
+  nm: "Hayange",
+  value: 3013627
+},  {
+  id: 3013626,
+  label: "Haybes",
+  lat: 50.004581,
+  lon: 4.70496,
+  nm: "Haybes",
+  value: 3013626
+},  {
+  id: 3013619,
+  label: "Hazebrouck",
+  lat: 50.72374,
+  lon: 2.53729,
+  nm: "Hazebrouck",
+  value: 3013619
+},  {
+  id: 3013596,
+  label: "Hede-Bazouges",
+  lat: 48.299999,
+  lon: -1.8,
+  nm: "Hede-Bazouges",
+  value: 3013596
+},  {
+  id: 3013592,
+  label: "Hegenheim",
+  lat: 47.562511,
+  lon: 7.52684,
+  nm: "Hegenheim",
+  value: 3013592
+},  {
+  id: 3013585,
+  label: "Heillecourt",
+  lat: 48.658539,
+  lon: 6.20711,
+  nm: "Heillecourt",
+  value: 3013585
+},  {
+  id: 3013549,
+  label: "Hem",
+  lat: 50.652561,
+  lon: 3.18681,
+  nm: "Hem",
+  value: 3013549
+},  {
+  id: 3013534,
+  label: "Hendaye",
+  lat: 43.371719,
+  lon: -1.77382,
+  nm: "Hendaye",
+  value: 3013534
+},  {
+  id: 3013525,
+  label: "Henin-Beaumont",
+  lat: 50.413589,
+  lon: 2.96485,
+  nm: "Henin-Beaumont",
+  value: 3013525
+},  {
+  id: 3013521,
+  label: "Hennebont",
+  lat: 47.805119,
+  lon: -3.27337,
+  nm: "Hennebont",
+  value: 3013521
+},  {
+  id: 3013484,
+  label: "Herbignac",
+  lat: 47.448219,
+  lon: -2.3181,
+  nm: "Herbignac",
+  value: 3013484
+},  {
+  id: 3013478,
+  label: "Herbitzheim",
+  lat: 49.014069,
+  lon: 7.09022,
+  nm: "Herbitzheim",
+  value: 3013478
+},  {
+  id: 3013477,
+  label: "Herblay",
+  lat: 48.989941,
+  lon: 2.1699,
+  nm: "Herblay",
+  value: 3013477
+},  {
+  id: 3013459,
+  label: "Hergnies",
+  lat: 50.47287,
+  lon: 3.52612,
+  nm: "Hergnies",
+  value: 3013459
+},  {
+  id: 3013457,
+  label: "Heric",
+  lat: 47.414169,
+  lon: -1.65309,
+  nm: "Heric",
+  value: 3013457
+},  {
+  id: 3013456,
+  label: "Hericourt",
+  lat: 47.573051,
+  lon: 6.76139,
+  nm: "Hericourt",
+  value: 3013456
+},  {
+  id: 3013452,
+  label: "Hericy",
+  lat: 48.448479,
+  lon: 2.76445,
+  nm: "Hericy",
+  value: 3013452
+},  {
+  id: 3013448,
+  label: "Herimoncourt",
+  lat: 47.442841,
+  lon: 6.88242,
+  nm: "Herimoncourt",
+  value: 3013448
+},  {
+  id: 3013447,
+  label: "Herin",
+  lat: 50.355572,
+  lon: 3.4531,
+  nm: "Herin",
+  value: 3013447
+},  {
+  id: 3013442,
+  label: "Herlies",
+  lat: 50.57753,
+  lon: 2.85285,
+  nm: "Herlies",
+  value: 3013442
+},  {
+  id: 3013433,
+  label: "Hermanville-sur-Mer",
+  lat: 49.284641,
+  lon: -0.31544,
+  nm: "Hermanville-sur-Mer",
+  value: 3013433
+},  {
+  id: 3013424,
+  label: "Hermes",
+  lat: 49.360321,
+  lon: 2.24461,
+  nm: "Hermes",
+  value: 3013424
+},  {
+  id: 3013403,
+  label: "Herouville-Saint-Clair",
+  lat: 49.21088,
+  lon: -0.30653,
+  nm: "Herouville-Saint-Clair",
+  value: 3013403
+},  {
+  id: 3013387,
+  label: "Herrlisheim",
+  lat: 48.730492,
+  lon: 7.90535,
+  nm: "Herrlisheim",
+  value: 3013387
+},  {
+  id: 3013381,
+  label: "Herserange",
+  lat: 49.517578,
+  lon: 5.78163,
+  nm: "Herserange",
+  value: 3013381
+},  {
+  id: 3013380,
+  label: "Hersin-Coupigny",
+  lat: 50.44796,
+  lon: 2.6494,
+  nm: "Hersin-Coupigny",
+  value: 3013380
+},  {
+  id: 3013365,
+  label: "Hesdin",
+  lat: 50.373501,
+  lon: 2.0382,
+  nm: "Hesdin",
+  value: 3013365
+},  {
+  id: 3013361,
+  label: "Hesingue",
+  lat: 47.57621,
+  lon: 7.52244,
+  nm: "Hesingue",
+  value: 3013361
+},  {
+  id: 3013350,
+  label: "Hettange-Grande",
+  lat: 49.406391,
+  lon: 6.15057,
+  nm: "Hettange-Grande",
+  value: 3013350
+},  {
+  id: 3013305,
+  label: "Heyrieux",
+  lat: 45.628529,
+  lon: 5.05849,
+  nm: "Heyrieux",
+  value: 3013305
+},  {
+  id: 3013283,
+  label: "Hillion",
+  lat: 48.51429,
+  lon: -2.66634,
+  nm: "Hillion",
+  value: 3013283
+},  {
+  id: 3013282,
+  label: "Hilsenheim",
+  lat: 48.28756,
+  lon: 7.56522,
+  nm: "Hilsenheim",
+  value: 3013282
+},  {
+  id: 3013273,
+  label: "Hinges",
+  lat: 50.566738,
+  lon: 2.6216,
+  nm: "Hinges",
+  value: 3013273
+},  {
+  id: 3013259,
+  label: "Hirsingue",
+  lat: 47.586552,
+  lon: 7.2513,
+  nm: "Hirsingue",
+  value: 3013259
+},  {
+  id: 3013258,
+  label: "Hirson",
+  lat: 49.922619,
+  lon: 4.08259,
+  nm: "Hirson",
+  value: 3013258
+},  {
+  id: 3013249,
+  label: "Hochfelden",
+  lat: 48.757381,
+  lon: 7.56769,
+  nm: "Hochfelden",
+  value: 3013249
+},  {
+  id: 3013248,
+  label: "Hochstatt",
+  lat: 47.70343,
+  lon: 7.27584,
+  nm: "Hochstatt",
+  value: 3013248
+},  {
+  id: 3013226,
+  label: "Hoenheim",
+  lat: 48.622238,
+  lon: 7.75549,
+  nm: "Hoenheim",
+  value: 3013226
+},  {
+  id: 3013225,
+  label: "Hoerdt",
+  lat: 48.700001,
+  lon: 7.78333,
+  nm: "Hoerdt",
+  value: 3013225
+},  {
+  id: 3013206,
+  label: "Holtzheim",
+  lat: 48.558201,
+  lon: 7.64434,
+  nm: "Holtzheim",
+  value: 3013206
+},  {
+  id: 3013196,
+  label: "Hombourg-Haut",
+  lat: 49.123589,
+  lon: 6.77397,
+  nm: "Hombourg-Haut",
+  value: 3013196
+},  {
+  id: 3013195,
+  label: "Homecourt",
+  lat: 49.221111,
+  lon: 5.98445,
+  nm: "Homecourt",
+  value: 3013195
+},  {
+  id: 3013174,
+  label: "Hondschoote",
+  lat: 50.978001,
+  lon: 2.58372,
+  nm: "Hondschoote",
+  value: 3013174
+},  {
+  id: 3013173,
+  label: "Honfleur",
+  lat: 49.419849,
+  lon: 0.23294,
+  nm: "Honfleur",
+  value: 3013173
+},  {
+  id: 3013155,
+  label: "Horbourg-Wihr",
+  lat: 48.081059,
+  lon: 7.3938,
+  nm: "Horbourg-Wihr",
+  value: 3013155
+},  {
+  id: 3013152,
+  label: "Hornaing",
+  lat: 50.368351,
+  lon: 3.33707,
+  nm: "Hornaing",
+  value: 3013152
+},  {
+  id: 3013122,
+  label: "Houdain",
+  lat: 50.450401,
+  lon: 2.53777,
+  nm: "Houdain",
+  value: 3013122
+},  {
+  id: 3013120,
+  label: "Houdan",
+  lat: 48.79044,
+  lon: 1.60007,
+  nm: "Houdan",
+  value: 3013120
+},  {
+  id: 3013115,
+  label: "Houdemont",
+  lat: 48.650002,
+  lon: 6.18333,
+  nm: "Houdemont",
+  value: 3013115
+},  {
+  id: 3013097,
+  label: "Houilles",
+  lat: 48.921612,
+  lon: 2.19263,
+  nm: "Houilles",
+  value: 3013097
+},  {
+  id: 3013091,
+  label: "Houlgate",
+  lat: 49.299,
+  lon: -0.08153,
+  nm: "Houlgate",
+  value: 3013091
+},  {
+  id: 3013083,
+  label: "Houplin-Ancoisne",
+  lat: 50.56284,
+  lon: 3.0025,
+  nm: "Houplin-Ancoisne",
+  value: 3013083
+},  {
+  id: 3013082,
+  label: "Houplines",
+  lat: 50.694988,
+  lon: 2.91518,
+  nm: "Houplines",
+  value: 3013082
+},  {
+  id: 3013080,
+  label: "Houppeville",
+  lat: 49.512589,
+  lon: 1.07962,
+  nm: "Houppeville",
+  value: 3013080
+},  {
+  id: 3013069,
+  label: "Hourtin",
+  lat: 45.185699,
+  lon: -1.05719,
+  nm: "Hourtin",
+  value: 3013069
+},  {
+  id: 3013044,
+  label: "Hoymille",
+  lat: 50.97187,
+  lon: 2.44738,
+  nm: "Hoymille",
+  value: 3013044
+},  {
+  id: 3013007,
+  label: "Huisseau-sur-Cosson",
+  lat: 47.593349,
+  lon: 1.45333,
+  nm: "Huisseau-sur-Cosson",
+  value: 3013007
+},  {
+  id: 3013001,
+  label: "Hulluch",
+  lat: 50.489609,
+  lon: 2.81232,
+  nm: "Hulluch",
+  value: 3013001
+},  {
+  id: 3012979,
+  label: "Huningue",
+  lat: 47.604771,
+  lon: 7.57782,
+  nm: "Huningue",
+  value: 3012979
+},  {
+  id: 3012962,
+  label: "Huriel",
+  lat: 46.37368,
+  lon: 2.47793,
+  nm: "Huriel",
+  value: 3012962
+},  {
+  id: 3012953,
+  label: "Hussigny-Godbrange",
+  lat: 49.491192,
+  lon: 5.86683,
+  nm: "Hussigny-Godbrange",
+  value: 3012953
+},  {
+  id: 3012949,
+  label: "Huttenheim",
+  lat: 48.358639,
+  lon: 7.57833,
+  nm: "Huttenheim",
+  value: 3012949
+},  {
+  id: 3012937,
+  label: "Hyeres",
+  lat: 43.119541,
+  lon: 6.13897,
+  nm: "Hyeres",
+  value: 3012937
+},  {
+  id: 3012921,
+  label: "Ibos",
+  lat: 43.23333,
+  lon: 0,
+  nm: "Ibos",
+  value: 3012921
+},  {
+  id: 3012912,
+  label: "Idron",
+  lat: 43.283329,
+  lon: -0.31667,
+  nm: "Idron",
+  value: 3012912
+},  {
+  id: 3012905,
+  label: "Iffendic",
+  lat: 48.12981,
+  lon: -2.03486,
+  nm: "Iffendic",
+  value: 3012905
+},  {
+  id: 3012903,
+  label: "Ifs",
+  lat: 49.139999,
+  lon: -0.34899,
+  nm: "Ifs",
+  value: 3012903
+},  {
+  id: 3012889,
+  label: "Igny",
+  lat: 48.74437,
+  lon: 2.22428,
+  nm: "Igny",
+  value: 3012889
+},  {
+  id: 3012854,
+  label: "Illange",
+  lat: 49.330841,
+  lon: 6.18166,
+  nm: "Illange",
+  value: 3012854
+},  {
+  id: 3012848,
+  label: "Ille-sur-Tet",
+  lat: 42.670689,
+  lon: 2.62162,
+  nm: "Ille-sur-Tet",
+  value: 3012848
+},  {
+  id: 3012845,
+  label: "Illfurth",
+  lat: 47.672901,
+  lon: 7.26539,
+  nm: "Illfurth",
+  value: 3012845
+},  {
+  id: 3012834,
+  label: "Illkirch-Graffenstaden",
+  lat: 48.528938,
+  lon: 7.71523,
+  nm: "Illkirch-Graffenstaden",
+  value: 3012834
+},  {
+  id: 3012829,
+  label: "Illzach",
+  lat: 47.78088,
+  lon: 7.34662,
+  nm: "Illzach",
+  value: 3012829
+},  {
+  id: 3012821,
+  label: "Imphy",
+  lat: 46.936192,
+  lon: 3.26037,
+  nm: "Imphy",
+  value: 3012821
+},  {
+  id: 3034697,
+  label: "Indre",
+  lat: 47.200001,
+  lon: -1.66667,
+  nm: "Indre",
+  value: 3034697
+},  {
+  id: 3012790,
+  label: "Ingersheim",
+  lat: 48.09803,
+  lon: 7.30308,
+  nm: "Ingersheim",
+  value: 3012790
+},  {
+  id: 3012780,
+  label: "Ingre",
+  lat: 47.919949,
+  lon: 1.82778,
+  nm: "Ingre",
+  value: 3012780
+},  {
+  id: 3012778,
+  label: "Inguiniel",
+  lat: 47.976582,
+  lon: -3.28072,
+  nm: "Inguiniel",
+  value: 3012778
+},  {
+  id: 3012777,
+  label: "Ingwiller",
+  lat: 48.872841,
+  lon: 7.4798,
+  nm: "Ingwiller",
+  value: 3012777
+},  {
+  id: 3012742,
+  label: "Irigny",
+  lat: 45.673618,
+  lon: 4.81753,
+  nm: "Irigny",
+  value: 3012742
+},  {
+  id: 3012652,
+  label: "Is-sur-Tille",
+  lat: 47.526699,
+  lon: 5.1065,
+  nm: "Is-sur-Tille",
+  value: 3012652
+},  {
+  id: 3012725,
+  label: "Isbergues",
+  lat: 50.62328,
+  lon: 2.45902,
+  nm: "Isbergues",
+  value: 3012725
+},  {
+  id: 3012713,
+  label: "Isigny-le-Buat",
+  lat: 48.61705,
+  lon: -1.16994,
+  nm: "Isigny-le-Buat",
+  value: 3012713
+},  {
+  id: 3012712,
+  label: "Isigny-sur-Mer",
+  lat: 49.31604,
+  lon: -1.10384,
+  nm: "Isigny-sur-Mer",
+  value: 3012712
+},  {
+  id: 3012709,
+  label: "Isle",
+  lat: 45.802719,
+  lon: 1.21213,
+  nm: "Isle",
+  value: 3012709
+},  {
+  id: 3012698,
+  label: "Isneauville",
+  lat: 49.498322,
+  lon: 1.15431,
+  nm: "Isneauville",
+  value: 3012698
+},  {
+  id: 3012676,
+  label: "Isse",
+  lat: 47.624191,
+  lon: -1.45152,
+  nm: "Isse",
+  value: 3012676
+},  {
+  id: 3012671,
+  label: "Issenheim",
+  lat: 47.903568,
+  lon: 7.25235,
+  nm: "Issenheim",
+  value: 3012671
+},  {
+  id: 3012664,
+  label: "Issoire",
+  lat: 45.549999,
+  lon: 3.25,
+  nm: "Issoire",
+  value: 3012664
+},  {
+  id: 3012656,
+  label: "Issou",
+  lat: 48.989941,
+  lon: 1.79292,
+  nm: "Issou",
+  value: 3012656
+},  {
+  id: 3012655,
+  label: "Issoudun",
+  lat: 46.950001,
+  lon: 2,
+  nm: "Issoudun",
+  value: 3012655
+},  {
+  id: 3012649,
+  label: "Issy-les-Moulineaux",
+  lat: 48.821041,
+  lon: 2.27718,
+  nm: "Issy-les-Moulineaux",
+  value: 3012649
+},  {
+  id: 3012647,
+  label: "Istres",
+  lat: 43.51667,
+  lon: 4.98333,
+  nm: "Istres",
+  value: 3012647
+},  {
+  id: 3012643,
+  label: "Iteuil",
+  lat: 46.488079,
+  lon: 0.31212,
+  nm: "Iteuil",
+  value: 3012643
+},  {
+  id: 3012640,
+  label: "Ittenheim",
+  lat: 48.604469,
+  lon: 7.59471,
+  nm: "Ittenheim",
+  value: 3012640
+},  {
+  id: 3012638,
+  label: "Itteville",
+  lat: 48.515362,
+  lon: 2.34377,
+  nm: "Itteville",
+  value: 3012638
+},  {
+  id: 3012636,
+  label: "Itxassou",
+  lat: 43.32893,
+  lon: -1.40617,
+  nm: "Itxassou",
+  value: 3012636
+},  {
+  id: 3012623,
+  label: "Ivry-la-Bataille",
+  lat: 48.883331,
+  lon: 1.45948,
+  nm: "Ivry-la-Bataille",
+  value: 3012623
+},  {
+  id: 3012621,
+  label: "Ivry-sur-Seine",
+  lat: 48.815681,
+  lon: 2.38487,
+  nm: "Ivry-sur-Seine",
+  value: 3012621
+},  {
+  id: 3012620,
+  label: "Iwuy",
+  lat: 50.233002,
+  lon: 3.32058,
+  nm: "Iwuy",
+  value: 3012620
+},  {
+  id: 3012611,
+  label: "Izeaux",
+  lat: 45.335152,
+  lon: 5.4251,
+  nm: "Izeaux",
+  value: 3012611
+},  {
+  id: 3012593,
+  label: "Izon",
+  lat: 44.92416,
+  lon: -0.36322,
+  nm: "Izon",
+  value: 3012593
+},  {
+  id: 3012577,
+  label: "Jacob-Bellecombette",
+  lat: 45.55275,
+  lon: 5.9116,
+  nm: "Jacob-Bellecombette",
+  value: 3012577
+},  {
+  id: 3012576,
+  label: "Jacou",
+  lat: 43.661388,
+  lon: 3.91222,
+  nm: "Jacou",
+  value: 3012576
+},  {
+  id: 3012549,
+  label: "Jallais",
+  lat: 47.196911,
+  lon: -0.86738,
+  nm: "Jallais",
+  value: 3012549
+},  {
+  id: 3012499,
+  label: "Janville-sur-Juine",
+  lat: 48.513519,
+  lon: 2.27064,
+  nm: "Janville-sur-Juine",
+  value: 3012499
+},  {
+  id: 3012495,
+  label: "Janze",
+  lat: 47.959148,
+  lon: -1.49829,
+  nm: "Janze",
+  value: 3012495
+},  {
+  id: 3012484,
+  label: "Jard-sur-Mer",
+  lat: 46.414509,
+  lon: -1.5764,
+  nm: "Jard-sur-Mer",
+  value: 3012484
+},  {
+  id: 3012487,
+  label: "Jardin",
+  lat: 45.49617,
+  lon: 4.90641,
+  nm: "Jardin",
+  value: 3012487
+},  {
+  id: 3012483,
+  label: "Jargeau",
+  lat: 47.863159,
+  lon: 2.12648,
+  nm: "Jargeau",
+  value: 3012483
+},  {
+  id: 3012477,
+  label: "Jarnac",
+  lat: 45.681599,
+  lon: -0.17329,
+  nm: "Jarnac",
+  value: 3012477
+},  {
+  id: 3012467,
+  label: "Jarny",
+  lat: 49.15736,
+  lon: 5.87877,
+  nm: "Jarny",
+  value: 3012467
+},  {
+  id: 3012465,
+  label: "Jarrie",
+  lat: 45.117321,
+  lon: 5.75957,
+  nm: "Jarrie",
+  value: 3012465
+},  {
+  id: 3012449,
+  label: "Jarville-la-Malgrange",
+  lat: 48.669071,
+  lon: 6.20636,
+  nm: "Jarville-la-Malgrange",
+  value: 3012449
+},  {
+  id: 3012444,
+  label: "Jassans-Riottier",
+  lat: 45.983521,
+  lon: 4.76004,
+  nm: "Jassans-Riottier",
+  value: 3012444
+},  {
+  id: 3012417,
+  label: "Jaunay-Clan",
+  lat: 46.684521,
+  lon: 0.37128,
+  nm: "Jaunay-Clan",
+  value: 3012417
+},  {
+  id: 3012404,
+  label: "Jaux",
+  lat: 49.391201,
+  lon: 2.77809,
+  nm: "Jaux",
+  value: 3012404
+},  {
+  id: 3012346,
+  label: "Jeumont",
+  lat: 50.296581,
+  lon: 4.10108,
+  nm: "Jeumont",
+  value: 3012346
+},  {
+  id: 3012322,
+  label: "Joeuf",
+  lat: 49.23333,
+  lon: 6.01667,
+  nm: "Joeuf",
+  value: 3012322
+},  {
+  id: 3012319,
+  label: "Joigny",
+  lat: 47.98288,
+  lon: 3.40096,
+  nm: "Joigny",
+  value: 3012319
+},  {
+  id: 3012315,
+  label: "Joinville",
+  lat: 48.44363,
+  lon: 5.14144,
+  nm: "Joinville",
+  value: 3012315
+},  {
+  id: 3012313,
+  label: "Joinville-le-Pont",
+  lat: 48.825378,
+  lon: 2.47458,
+  nm: "Joinville-le-Pont",
+  value: 3012313
+},  {
+  id: 3012303,
+  label: "Jonage",
+  lat: 45.796398,
+  lon: 5.0453,
+  nm: "Jonage",
+  value: 3012303
+},  {
+  id: 3012295,
+  label: "Jonchery-sur-Vesle",
+  lat: 49.28952,
+  lon: 3.81346,
+  nm: "Jonchery-sur-Vesle",
+  value: 3012295
+},  {
+  id: 3012277,
+  label: "Jonquieres",
+  lat: 44.114311,
+  lon: 4.90003,
+  nm: "Jonquieres",
+  value: 3012277
+},  {
+  id: 3012275,
+  label: "Jonquieres-Saint-Vincent",
+  lat: 43.828091,
+  lon: 4.56327,
+  nm: "Jonquieres-Saint-Vincent",
+  value: 3012275
+},  {
+  id: 3012266,
+  label: "Jonzac",
+  lat: 45.450001,
+  lon: -0.43333,
+  nm: "Jonzac",
+  value: 3012266
+},  {
+  id: 3012248,
+  label: "Josselin",
+  lat: 47.957199,
+  lon: -2.54713,
+  nm: "Josselin",
+  value: 3012248
+},  {
+  id: 3012236,
+  label: "Jouarre",
+  lat: 48.926609,
+  lon: 3.13168,
+  nm: "Jouarre",
+  value: 3012236
+},  {
+  id: 3012234,
+  label: "Jouars-Pontchartrain",
+  lat: 48.788879,
+  lon: 1.89898,
+  nm: "Jouars-Pontchartrain",
+  value: 3012234
+},  {
+  id: 3012219,
+  label: "Joue-les-Tours",
+  lat: 47.35223,
+  lon: 0.66906,
+  nm: "Joue-les-Tours",
+  value: 3012219
+},  {
+  id: 3012200,
+  label: "Jouques",
+  lat: 43.637501,
+  lon: 5.64006,
+  nm: "Jouques",
+  value: 3012200
+},  {
+  id: 3012165,
+  label: "Jouy-en-Josas",
+  lat: 48.75909,
+  lon: 2.16966,
+  nm: "Jouy-en-Josas",
+  value: 3012165
+},  {
+  id: 3012162,
+  label: "Jouy-le-Moutier",
+  lat: 49.010681,
+  lon: 2.04028,
+  nm: "Jouy-le-Moutier",
+  value: 3012162
+},  {
+  id: 3012155,
+  label: "Jouy-sur-Morin",
+  lat: 48.794998,
+  lon: 3.27238,
+  nm: "Jouy-sur-Morin",
+  value: 3012155
+},  {
+  id: 3012124,
+  label: "Juigne",
+  lat: 47.718781,
+  lon: -0.39405,
+  nm: "Juigne",
+  value: 3012124
+},  {
+  id: 3012120,
+  label: "Juigne-sur-Loire",
+  lat: 47.40741,
+  lon: -0.47682,
+  nm: "Juigne-sur-Loire",
+  value: 3012120
+},  {
+  id: 3012109,
+  label: "Juillan",
+  lat: 43.199371,
+  lon: 0.0257,
+  nm: "Juillan",
+  value: 3012109
+},  {
+  id: 3012099,
+  label: "Juilly",
+  lat: 49.013748,
+  lon: 2.70563,
+  nm: "Juilly",
+  value: 3012099
+},  {
+  id: 3012073,
+  label: "Jumelles",
+  lat: 47.435101,
+  lon: -0.1037,
+  nm: "Jumelles",
+  value: 3012073
+},  {
+  id: 3012049,
+  label: "Jurancon",
+  lat: 43.2883,
+  lon: -0.38694,
+  nm: "Jurancon",
+  value: 3012049
+},  {
+  id: 3012004,
+  label: "Juvignac",
+  lat: 43.613892,
+  lon: 3.81056,
+  nm: "Juvignac",
+  value: 3012004
+},  {
+  id: 3011988,
+  label: "Juvisy-sur-Orge",
+  lat: 48.683331,
+  lon: 2.38333,
+  nm: "Juvisy-sur-Orge",
+  value: 3011988
+},  {
+  id: 3011978,
+  label: "Juziers",
+  lat: 48.991371,
+  lon: 1.8476,
+  nm: "Juziers",
+  value: 3011978
+},  {
+  id: 3011976,
+  label: "Kaltenhouse",
+  lat: 48.791019,
+  lon: 7.83329,
+  nm: "Kaltenhouse",
+  value: 3011976
+},  {
+  id: 3011969,
+  label: "Kaysersberg",
+  lat: 48.138031,
+  lon: 7.26385,
+  nm: "Kaysersberg",
+  value: 3011969
+},  {
+  id: 3011964,
+  label: "Kembs",
+  lat: 47.68948,
+  lon: 7.50323,
+  nm: "Kembs",
+  value: 3011964
+},  {
+  id: 3011686,
+  label: "Kerlouan",
+  lat: 48.645,
+  lon: -4.36556,
+  nm: "Kerlouan",
+  value: 3011686
+},  {
+  id: 3011506,
+  label: "Kervignac",
+  lat: 47.76289,
+  lon: -3.23778,
+  nm: "Kervignac",
+  value: 3011506
+},  {
+  id: 3011458,
+  label: "Kilstett",
+  lat: 48.675999,
+  lon: 7.85471,
+  nm: "Kilstett",
+  value: 3011458
+},  {
+  id: 3011456,
+  label: "Kingersheim",
+  lat: 47.792591,
+  lon: 7.33491,
+  nm: "Kingersheim",
+  value: 3011456
+},  {
+  id: 3011440,
+  label: "Knutange",
+  lat: 49.343079,
+  lon: 6.03297,
+  nm: "Knutange",
+  value: 3011440
+},  {
+  id: 3011437,
+  label: "Koenigsmacker",
+  lat: 49.400002,
+  lon: 6.28333,
+  nm: "Koenigsmacker",
+  value: 3011437
+},  {
+  id: 3011386,
+  label: "La Balme-de-Sillingy",
+  lat: 45.961102,
+  lon: 6.04251,
+  nm: "La Balme-de-Sillingy",
+  value: 3011386
+},  {
+  id: 3011332,
+  label: "La Barre-de-Monts",
+  lat: 46.880581,
+  lon: -2.12168,
+  nm: "La Barre-de-Monts",
+  value: 3011332
+},  {
+  id: 3011307,
+  label: "La Bassee",
+  lat: 50.534241,
+  lon: 2.8062,
+  nm: "La Bassee",
+  value: 3011307
+},  {
+  id: 3011234,
+  label: "La Bathie",
+  lat: 45.628132,
+  lon: 6.45106,
+  nm: "La Bathie",
+  value: 3011234
+},  {
+  id: 3019766,
+  label: "La Baule-Escoublac",
+  lat: 47.29221,
+  lon: -2.36395,
+  nm: "La Baule-Escoublac",
+  value: 3019766
+},  {
+  id: 3011187,
+  label: "La Bazoge",
+  lat: 48.096889,
+  lon: 0.15534,
+  nm: "La Bazoge",
+  value: 3011187
+},  {
+  id: 3011090,
+  label: "La Bernerie-en-Retz",
+  lat: 47.080399,
+  lon: -2.03642,
+  nm: "La Bernerie-en-Retz",
+  value: 3011090
+},  {
+  id: 3011008,
+  label: "La Boisse",
+  lat: 45.842781,
+  lon: 5.03639,
+  nm: "La Boisse",
+  value: 3011008
+},  {
+  id: 3010911,
+  label: "La Bouexiere",
+  lat: 48.183331,
+  lon: -1.43333,
+  nm: "La Bouexiere",
+  value: 3010911
+},  {
+  id: 3010905,
+  label: "La Bouilladisse",
+  lat: 43.396191,
+  lon: 5.59307,
+  nm: "La Bouilladisse",
+  value: 3010905
+},  {
+  id: 3010882,
+  label: "La Bourboule",
+  lat: 45.588371,
+  lon: 2.73956,
+  nm: "La Bourboule",
+  value: 3010882
+},  {
+  id: 3010815,
+  label: "La Bresse",
+  lat: 47.999741,
+  lon: 6.86499,
+  nm: "La Bresse",
+  value: 3010815
+},  {
+  id: 3010778,
+  label: "La Broque",
+  lat: 48.47298,
+  lon: 7.21639,
+  nm: "La Broque",
+  value: 3010778
+},  {
+  id: 3010726,
+  label: "La Bruffiere",
+  lat: 47.014919,
+  lon: -1.1973,
+  nm: "La Bruffiere",
+  value: 3010726
+},  {
+  id: 3010685,
+  label: "La Buisse",
+  lat: 45.3354,
+  lon: 5.62282,
+  nm: "La Buisse",
+  value: 3010685
+},  {
+  id: 3010619,
+  label: "La Canourgue",
+  lat: 44.431332,
+  lon: 3.21584,
+  nm: "La Canourgue",
+  value: 3010619
+},  {
+  id: 3010609,
+  label: "La Capelle",
+  lat: 49.966671,
+  lon: 3.91667,
+  nm: "La Capelle",
+  value: 3010609
+},  {
+  id: 3010529,
+  label: "La Celle-Saint-Cloud",
+  lat: 48.850288,
+  lon: 2.14523,
+  nm: "La Celle-Saint-Cloud",
+  value: 3010529
+},  {
+  id: 3010483,
+  label: "La Chaize-le-Vicomte",
+  lat: 46.671661,
+  lon: -1.29084,
+  nm: "La Chaize-le-Vicomte",
+  value: 3010483
+},  {
+  id: 3010396,
+  label: "La Chapelle-Basse-Mer",
+  lat: 47.270859,
+  lon: -1.33913,
+  nm: "La Chapelle-Basse-Mer",
+  value: 3010396
+},  {
+  id: 3010372,
+  label: "La Chapelle-de-Guinchay",
+  lat: 46.208408,
+  lon: 4.76245,
+  nm: "La Chapelle-de-Guinchay",
+  value: 3010372
+},  {
+  id: 3010369,
+  label: "La Chapelle-des-Fougeretz",
+  lat: 48.177052,
+  lon: -1.73143,
+  nm: "La Chapelle-des-Fougeretz",
+  value: 3010369
+},  {
+  id: 3010368,
+  label: "La Chapelle-des-Marais",
+  lat: 47.448448,
+  lon: -2.23834,
+  nm: "La Chapelle-des-Marais",
+  value: 3010368
+},  {
+  id: 3010344,
+  label: "La Chapelle-en-Serval",
+  lat: 49.128422,
+  lon: 2.53405,
+  nm: "La Chapelle-en-Serval",
+  value: 3010344
+},  {
+  id: 3010321,
+  label: "La Chapelle-Heulin",
+  lat: 47.17667,
+  lon: -1.34,
+  nm: "La Chapelle-Heulin",
+  value: 3010321
+},  {
+  id: 3010315,
+  label: "La Chapelle-la-Reine",
+  lat: 48.318138,
+  lon: 2.57152,
+  nm: "La Chapelle-la-Reine",
+  value: 3010315
+},  {
+  id: 3010312,
+  label: "La Chapelle-Launay",
+  lat: 47.372261,
+  lon: -1.97071,
+  nm: "La Chapelle-Launay",
+  value: 3010312
+},  {
+  id: 3010281,
+  label: "La Chapelle-Saint-Aubin",
+  lat: 48.03595,
+  lon: 0.15624,
+  nm: "La Chapelle-Saint-Aubin",
+  value: 3010281
+},  {
+  id: 3010271,
+  label: "La Chapelle-Saint-Luc",
+  lat: 48.317341,
+  lon: 4.03988,
+  nm: "La Chapelle-Saint-Luc",
+  value: 3010271
+},  {
+  id: 3010265,
+  label: "La Chapelle-Saint-Mesmin",
+  lat: 47.886478,
+  lon: 1.8345,
+  nm: "La Chapelle-Saint-Mesmin",
+  value: 3010265
+},  {
+  id: 3010254,
+  label: "La Chapelle-Saint-Ursin",
+  lat: 47.062481,
+  lon: 2.32447,
+  nm: "La Chapelle-Saint-Ursin",
+  value: 3010254
+},  {
+  id: 3010239,
+  label: "La Chapelle-sur-Crecy",
+  lat: 48.85862,
+  lon: 2.93455,
+  nm: "La Chapelle-sur-Crecy",
+  value: 3010239
+},  {
+  id: 3010237,
+  label: "La Chapelle-sur-Erdre",
+  lat: 47.295841,
+  lon: -1.55309,
+  nm: "La Chapelle-sur-Erdre",
+  value: 3010237
+},  {
+  id: 3010226,
+  label: "La Chapelle-Thouarault",
+  lat: 48.124859,
+  lon: -1.86619,
+  nm: "La Chapelle-Thouarault",
+  value: 3010226
+},  {
+  id: 3010201,
+  label: "La Charite-sur-Loire",
+  lat: 47.183331,
+  lon: 3.01667,
+  nm: "La Charite-sur-Loire",
+  value: 3010201
+},  {
+  id: 3010161,
+  label: "La Chataigneraie",
+  lat: 46.647861,
+  lon: -0.73916,
+  nm: "La Chataigneraie",
+  value: 3010161
+},  {
+  id: 3010154,
+  label: "La Chatre",
+  lat: 46.583328,
+  lon: 1.98333,
+  nm: "La Chatre",
+  value: 3010154
+},  {
+  id: 3010092,
+  label: "La Chaussee-Saint-Victor",
+  lat: 47.616199,
+  lon: 1.36765,
+  nm: "La Chaussee-Saint-Victor",
+  value: 3010092
+},  {
+  id: 3010040,
+  label: "La Chevroliere",
+  lat: 47.09124,
+  lon: -1.60973,
+  nm: "La Chevroliere",
+  value: 3010040
+},  {
+  id: 3010025,
+  label: "La Ciotat",
+  lat: 43.174759,
+  lon: 5.60449,
+  nm: "La Ciotat",
+  value: 3010025
+},  {
+  id: 3010014,
+  label: "La Clayette",
+  lat: 46.29002,
+  lon: 4.30422,
+  nm: "La Clayette",
+  value: 3010014
+},  {
+  id: 3010004,
+  label: "La Clusaz",
+  lat: 45.905201,
+  lon: 6.42376,
+  nm: "La Clusaz",
+  value: 3010004
+},  {
+  id: 3009978,
+  label: "La Colle-sur-Loup",
+  lat: 43.6875,
+  lon: 7.10268,
+  nm: "La Colle-sur-Loup",
+  value: 3009978
+},  {
+  id: 3009879,
+  label: "La Cote-Saint-Andre",
+  lat: 45.39357,
+  lon: 5.26055,
+  nm: "La Cote-Saint-Andre",
+  value: 3009879
+},  {
+  id: 3009824,
+  label: "La Courneuve",
+  lat: 48.928051,
+  lon: 2.39627,
+  nm: "La Courneuve",
+  value: 3009824
+},  {
+  id: 3009822,
+  label: "La Couronne",
+  lat: 45.611279,
+  lon: 0.09948,
+  nm: "La Couronne",
+  value: 3009822
+},  {
+  id: 3009805,
+  label: "La Couture",
+  lat: 50.582119,
+  lon: 2.7071,
+  nm: "La Couture",
+  value: 3009805
+},  {
+  id: 3009804,
+  label: "La Couture-Boussey",
+  lat: 48.895809,
+  lon: 1.40491,
+  nm: "La Couture-Boussey",
+  value: 3009804
+},  {
+  id: 3009791,
+  label: "La Crau",
+  lat: 43.149811,
+  lon: 6.07425,
+  nm: "La Crau",
+  value: 3009791
+},  {
+  id: 3030377,
+  label: "La Creche",
+  lat: 46.366669,
+  lon: -0.3,
+  nm: "La Creche",
+  value: 3030377
+},  {
+  id: 3009732,
+  label: "La Croix-en-Touraine",
+  lat: 47.340309,
+  lon: 0.99024,
+  nm: "La Croix-en-Touraine",
+  value: 3009732
+},  {
+  id: 3009710,
+  label: "La Croix-Valmer",
+  lat: 43.207951,
+  lon: 6.56696,
+  nm: "La Croix-Valmer",
+  value: 3009710
+},  {
+  id: 3009663,
+  label: "La Destrousse",
+  lat: 43.37505,
+  lon: 5.6056,
+  nm: "La Destrousse",
+  value: 3009663
+},  {
+  id: 3009575,
+  label: "La Fare-les-Oliviers",
+  lat: 43.551041,
+  lon: 5.1943,
+  nm: "La Fare-les-Oliviers",
+  value: 3009575
+},  {
+  id: 3009566,
+  label: "La Farlede",
+  lat: 43.167702,
+  lon: 6.04266,
+  nm: "La Farlede",
+  value: 3009566
+},  {
+  id: 3009526,
+  label: "La Fere",
+  lat: 49.662861,
+  lon: 3.36631,
+  nm: "La Fere",
+  value: 3009526
+},  {
+  id: 3009516,
+  label: "La Ferriere",
+  lat: 46.714531,
+  lon: -1.31417,
+  nm: "La Ferriere",
+  value: 3009516
+},  {
+  id: 3009496,
+  label: "La Ferte-Alais",
+  lat: 48.483059,
+  lon: 2.34802,
+  nm: "La Ferte-Alais",
+  value: 3009496
+},  {
+  id: 3009494,
+  label: "La Ferte-Bernard",
+  lat: 48.186329,
+  lon: 0.65357,
+  nm: "La Ferte-Bernard",
+  value: 3009494
+},  {
+  id: 3009490,
+  label: "La Ferte-Gaucher",
+  lat: 48.7831,
+  lon: 3.30678,
+  nm: "La Ferte-Gaucher",
+  value: 3009490
+},  {
+  id: 3009486,
+  label: "La Ferte-Mace",
+  lat: 48.589989,
+  lon: -0.358,
+  nm: "La Ferte-Mace",
+  value: 3009486
+},  {
+  id: 3009485,
+  label: "La Ferte-Milon",
+  lat: 49.174541,
+  lon: 3.12885,
+  nm: "La Ferte-Milon",
+  value: 3009485
+},  {
+  id: 3009484,
+  label: "La Ferte-Saint-Aubin",
+  lat: 47.716949,
+  lon: 1.93904,
+  nm: "La Ferte-Saint-Aubin",
+  value: 3009484
+},  {
+  id: 3009481,
+  label: "La Ferte-sous-Jouarre",
+  lat: 48.951401,
+  lon: 3.12724,
+  nm: "La Ferte-sous-Jouarre",
+  value: 3009481
+},  {
+  id: 3009443,
+  label: "La Fleche",
+  lat: 47.698151,
+  lon: -0.07553,
+  nm: "La Fleche",
+  value: 3009443
+},  {
+  id: 3009438,
+  label: "La Flocelliere",
+  lat: 46.83202,
+  lon: -0.86215,
+  nm: "La Flocelliere",
+  value: 3009438
+},  {
+  id: 3009436,
+  label: "La Flotte",
+  lat: 46.187698,
+  lon: -1.32815,
+  nm: "La Flotte",
+  value: 3009436
+},  {
+  id: 3009395,
+  label: "La Force",
+  lat: 44.869019,
+  lon: 0.37541,
+  nm: "La Force",
+  value: 3009395
+},  {
+  id: 3009352,
+  label: "La Foret-Fouesnant",
+  lat: 47.910099,
+  lon: -3.97858,
+  nm: "La Foret-Fouesnant",
+  value: 3009352
+},  {
+  id: 3009348,
+  label: "La Foret-sur-Sevre",
+  lat: 46.769051,
+  lon: -0.64964,
+  nm: "La Foret-sur-Sevre",
+  value: 3009348
+},  {
+  id: 3009313,
+  label: "La Fouillouse",
+  lat: 45.501999,
+  lon: 4.31213,
+  nm: "La Fouillouse",
+  value: 3009313
+},  {
+  id: 3009266,
+  label: "La Fresnais",
+  lat: 48.59478,
+  lon: -1.84186,
+  nm: "La Fresnais",
+  value: 3009266
+},  {
+  id: 3009256,
+  label: "La Frette-sur-Seine",
+  lat: 48.980572,
+  lon: 2.17866,
+  nm: "La Frette-sur-Seine",
+  value: 3009256
+},  {
+  id: 3009239,
+  label: "La Gacilly",
+  lat: 47.765621,
+  lon: -2.1322,
+  nm: "La Gacilly",
+  value: 3009239
+},  {
+  id: 3009223,
+  label: "La Garde",
+  lat: 43.122768,
+  lon: 6.00745,
+  nm: "La Garde",
+  value: 3009223
+},  {
+  id: 3009169,
+  label: "La Garenne-Colombes",
+  lat: 48.90472,
+  lon: 2.2469,
+  nm: "La Garenne-Colombes",
+  value: 3009169
+},  {
+  id: 3009168,
+  label: "La Garnache",
+  lat: 46.891762,
+  lon: -1.83163,
+  nm: "La Garnache",
+  value: 3009168
+},  {
+  id: 3009153,
+  label: "La Gaubretiere",
+  lat: 46.941441,
+  lon: -1.06215,
+  nm: "La Gaubretiere",
+  value: 3009153
+},  {
+  id: 3009150,
+  label: "La Gaude",
+  lat: 43.722351,
+  lon: 7.15083,
+  nm: "La Gaude",
+  value: 3009150
+},  {
+  id: 3009086,
+  label: "La Glacerie",
+  lat: 49.605171,
+  lon: -1.58185,
+  nm: "La Glacerie",
+  value: 3009086
+},  {
+  id: 3009050,
+  label: "La Gorgue",
+  lat: 50.637901,
+  lon: 2.71502,
+  nm: "La Gorgue",
+  value: 3009050
+},  {
+  id: 3009015,
+  label: "La Grand-Croix",
+  lat: 45.5,
+  lon: 4.55,
+  nm: "La Grand-Croix",
+  value: 3009015
+},  {
+  id: 3008981,
+  label: "La Grande-Motte",
+  lat: 43.566669,
+  lon: 4.08333,
+  nm: "La Grande-Motte",
+  value: 3008981
+},  {
+  id: 3008977,
+  label: "La Grande-Paroisse",
+  lat: 48.386822,
+  lon: 2.90157,
+  nm: "La Grande-Paroisse",
+  value: 3008977
+},  {
+  id: 3008857,
+  label: "La Guerche-de-Bretagne",
+  lat: 47.94112,
+  lon: -1.22869,
+  nm: "La Guerche-de-Bretagne",
+  value: 3008857
+},  {
+  id: 3008820,
+  label: "La Guyonniere",
+  lat: 46.96476,
+  lon: -1.2506,
+  nm: "La Guyonniere",
+  value: 3008820
+},  {
+  id: 3008809,
+  label: "La Haie-Fouassiere",
+  lat: 47.154919,
+  lon: -1.39794,
+  nm: "La Haie-Fouassiere",
+  value: 3008809
+},  {
+  id: 3008611,
+  label: "La Jarne",
+  lat: 46.127731,
+  lon: -1.07259,
+  nm: "La Jarne",
+  value: 3008611
+},  {
+  id: 3008607,
+  label: "La Jarrie",
+  lat: 46.128792,
+  lon: -1.00896,
+  nm: "La Jarrie",
+  value: 3008607
+},  {
+  id: 3008539,
+  label: "La Lande-de-Fronsac",
+  lat: 44.980358,
+  lon: -0.38048,
+  nm: "La Lande-de-Fronsac",
+  value: 3008539
+},  {
+  id: 3008432,
+  label: "La Londe-les-Maures",
+  lat: 43.137138,
+  lon: 6.23499,
+  nm: "La Londe-les-Maures",
+  value: 3008432
+},  {
+  id: 3008426,
+  label: "La Longueville",
+  lat: 50.289391,
+  lon: 3.85672,
+  nm: "La Longueville",
+  value: 3008426
+},  {
+  id: 3008418,
+  label: "La Loupe",
+  lat: 48.473202,
+  lon: 1.01584,
+  nm: "La Loupe",
+  value: 3008418
+},  {
+  id: 3008391,
+  label: "La Machine",
+  lat: 46.892262,
+  lon: 3.46426,
+  nm: "La Machine",
+  value: 3008391
+},  {
+  id: 3008379,
+  label: "La Madeleine",
+  lat: 50.64603,
+  lon: 3.07585,
+  nm: "La Madeleine",
+  value: 3008379
+},  {
+  id: 3008353,
+  label: "La Mailleraye-sur-Seine",
+  lat: 49.483082,
+  lon: 0.7703,
+  nm: "La Mailleraye-sur-Seine",
+  value: 3008353
+},  {
+  id: 3008189,
+  label: "La Meignanne",
+  lat: 47.516998,
+  lon: -0.66861,
+  nm: "La Meignanne",
+  value: 3008189
+},  {
+  id: 3008177,
+  label: "La Membrolle-sur-Choisille",
+  lat: 47.437191,
+  lon: 0.63163,
+  nm: "La Membrolle-sur-Choisille",
+  value: 3008177
+},  {
+  id: 3008166,
+  label: "La Menitre",
+  lat: 47.400002,
+  lon: -0.26667,
+  nm: "La Menitre",
+  value: 3008166
+},  {
+  id: 3008140,
+  label: "La Meziere",
+  lat: 48.218281,
+  lon: -1.75514,
+  nm: "La Meziere",
+  value: 3008140
+},  {
+  id: 3008133,
+  label: "La Milesse",
+  lat: 48.063141,
+  lon: 0.13428,
+  nm: "La Milesse",
+  value: 3008133
+},  {
+  id: 3008107,
+  label: "La Monnerie-le-Montel",
+  lat: 45.866669,
+  lon: 3.6,
+  nm: "La Monnerie-le-Montel",
+  value: 3008107
+},  {
+  id: 3008096,
+  label: "La Montagne",
+  lat: 47.18652,
+  lon: -1.68272,
+  nm: "La Montagne",
+  value: 3008096
+},  {
+  id: 3008052,
+  label: "La Mothe-Achard",
+  lat: 46.61586,
+  lon: -1.65938,
+  nm: "La Mothe-Achard",
+  value: 3008052
+},  {
+  id: 3008037,
+  label: "La Motte",
+  lat: 43.491421,
+  lon: 6.53689,
+  nm: "La Motte",
+  value: 3008037
+},  {
+  id: 3007998,
+  label: "La Motte-Servolex",
+  lat: 45.594158,
+  lon: 5.87575,
+  nm: "La Motte-Servolex",
+  value: 3007998
+},  {
+  id: 3007963,
+  label: "La Mulatiere",
+  lat: 45.725899,
+  lon: 4.80712,
+  nm: "La Mulatiere",
+  value: 3007963
+},  {
+  id: 3007957,
+  label: "La Mure",
+  lat: 44.902561,
+  lon: 5.78659,
+  nm: "La Mure",
+  value: 3007957
+},  {
+  id: 3007582,
+  label: "La Norville",
+  lat: 48.582432,
+  lon: 2.2618,
+  nm: "La Norville",
+  value: 3007582
+},  {
+  id: 3007401,
+  label: "La Penne-sur-Huveaune",
+  lat: 43.282082,
+  lon: 5.51642,
+  nm: "La Penne-sur-Huveaune",
+  value: 3007401
+},  {
+  id: 3007262,
+  label: "La Plaine-sur-Mer",
+  lat: 47.136189,
+  lon: -2.19182,
+  nm: "La Plaine-sur-Mer",
+  value: 3007262
+},  {
+  id: 3007259,
+  label: "La Planche",
+  lat: 47.01619,
+  lon: -1.43159,
+  nm: "La Planche",
+  value: 3007259
+},  {
+  id: 3007213,
+  label: "La Pommeraye",
+  lat: 47.355621,
+  lon: -0.85892,
+  nm: "La Pommeraye",
+  value: 3007213
+},  {
+  id: 3007195,
+  label: "La Possonniere",
+  lat: 47.374851,
+  lon: -0.68538,
+  nm: "La Possonniere",
+  value: 3007195
+},  {
+  id: 3007102,
+  label: "La Queue-en-Brie",
+  lat: 48.785198,
+  lon: 2.58112,
+  nm: "La Queue-en-Brie",
+  value: 3007102
+},  {
+  id: 3007101,
+  label: "La Queue-les-Yvelines",
+  lat: 48.799999,
+  lon: 1.76667,
+  nm: "La Queue-les-Yvelines",
+  value: 3007101
+},  {
+  id: 3007064,
+  label: "La Ravoire",
+  lat: 45.55978,
+  lon: 5.96871,
+  nm: "La Ravoire",
+  value: 3007064
+},  {
+  id: 3006979,
+  label: "La Reole",
+  lat: 44.582008,
+  lon: -0.03691,
+  nm: "La Reole",
+  value: 3006979
+},  {
+  id: 3006930,
+  label: "La Ricamarie",
+  lat: 45.41684,
+  lon: 4.31199,
+  nm: "La Ricamarie",
+  value: 3006930
+},  {
+  id: 3006929,
+  label: "La Richardais",
+  lat: 48.606411,
+  lon: -2.03638,
+  nm: "La Richardais",
+  value: 3006929
+},  {
+  id: 3006928,
+  label: "La Riche",
+  lat: 47.389961,
+  lon: 0.67072,
+  nm: "La Riche",
+  value: 3006928
+},  {
+  id: 3006889,
+  label: "La Riviere-de-Corps",
+  lat: 48.288399,
+  lon: 4.01947,
+  nm: "La Riviere-de-Corps",
+  value: 3006889
+},  {
+  id: 3006701,
+  label: "la Roca dAlbera",
+  lat: 42.521301,
+  lon: 2.93374,
+  nm: "la Roca dAlbera",
+  value: 3006701
+},  {
+  id: 3006806,
+  label: "La Roche-Blanche",
+  lat: 45.700642,
+  lon: 3.12648,
+  nm: "La Roche-Blanche",
+  value: 3006806
+},  {
+  id: 3006801,
+  label: "La Roche-Chalais",
+  lat: 45.150002,
+  lon: 0.01667,
+  nm: "La Roche-Chalais",
+  value: 3006801
+},  {
+  id: 3006798,
+  label: "La Roche-de-Glun",
+  lat: 45.013359,
+  lon: 4.84488,
+  nm: "La Roche-de-Glun",
+  value: 3006798
+},  {
+  id: 3006770,
+  label: "La Roche-sur-Foron",
+  lat: 46.066601,
+  lon: 6.31224,
+  nm: "La Roche-sur-Foron",
+  value: 3006770
+},  {
+  id: 3006767,
+  label: "La Roche-sur-Yon",
+  lat: 46.666672,
+  lon: -1.43333,
+  nm: "La Roche-sur-Yon",
+  value: 3006767
+},  {
+  id: 3006793,
+  label: "La Rochefoucauld",
+  lat: 45.740479,
+  lon: 0.38564,
+  nm: "La Rochefoucauld",
+  value: 3006793
+},  {
+  id: 3006787,
+  label: "La Rochelle",
+  lat: 46.166672,
+  lon: -1.15,
+  nm: "La Rochelle",
+  value: 3006787
+},  {
+  id: 3006755,
+  label: "La Rochette",
+  lat: 48.50882,
+  lon: 2.66357,
+  nm: "La Rochette",
+  value: 3006755
+},  {
+  id: 3006758,
+  label: "La Rochette",
+  lat: 45.460251,
+  lon: 6.12065,
+  nm: "La Rochette",
+  value: 3006758
+},  {
+  id: 3006704,
+  label: "La Roquebrussanne",
+  lat: 43.33989,
+  lon: 5.97618,
+  nm: "La Roquebrussanne",
+  value: 3006704
+},  {
+  id: 3006690,
+  label: "La Roquette-sur-Siagne",
+  lat: 43.59948,
+  lon: 6.95705,
+  nm: "La Roquette-sur-Siagne",
+  value: 3006690
+},  {
+  id: 3006531,
+  label: "La Salvetat-Saint-Gilles",
+  lat: 43.576221,
+  lon: 1.27192,
+  nm: "La Salvetat-Saint-Gilles",
+  value: 3006531
+},  {
+  id: 3006502,
+  label: "La Saussaye",
+  lat: 49.259361,
+  lon: 0.98094,
+  nm: "La Saussaye",
+  value: 3006502
+},  {
+  id: 3006454,
+  label: "La Seguiniere",
+  lat: 47.063568,
+  lon: -0.93857,
+  nm: "La Seguiniere",
+  value: 3006454
+},  {
+  id: 3006430,
+  label: "La Sentinelle",
+  lat: 50.351151,
+  lon: 3.48425,
+  nm: "La Sentinelle",
+  value: 3006430
+},  {
+  id: 3006414,
+  label: "La Seyne-sur-Mer",
+  lat: 43.098179,
+  lon: 5.88472,
+  nm: "La Seyne-sur-Mer",
+  value: 3006414
+},  {
+  id: 3006387,
+  label: "La Souterraine",
+  lat: 46.237141,
+  lon: 1.48701,
+  nm: "La Souterraine",
+  value: 3006387
+},  {
+  id: 3006330,
+  label: "La Suze-sur-Sarthe",
+  lat: 47.887531,
+  lon: 0.02519,
+  nm: "La Suze-sur-Sarthe",
+  value: 3006330
+},  {
+  id: 3006320,
+  label: "La Talaudiere",
+  lat: 45.480942,
+  lon: 4.43173,
+  nm: "La Talaudiere",
+  value: 3006320
+},  {
+  id: 3006293,
+  label: "La Terrasse",
+  lat: 45.32634,
+  lon: 5.93277,
+  nm: "La Terrasse",
+  value: 3006293
+},  {
+  id: 3006285,
+  label: "La Tessoualle",
+  lat: 47.004761,
+  lon: -0.85119,
+  nm: "La Tessoualle",
+  value: 3006285
+},  {
+  id: 3006283,
+  label: "La Teste-de-Buch",
+  lat: 44.62875,
+  lon: -1.14059,
+  nm: "La Teste-de-Buch",
+  value: 3006283
+},  {
+  id: 3006207,
+  label: "La Tour-de-Salvagny",
+  lat: 45.812328,
+  lon: 4.71626,
+  nm: "La Tour-de-Salvagny",
+  value: 3006207
+},  {
+  id: 3006205,
+  label: "La Tour-du-Crieu",
+  lat: 43.10471,
+  lon: 1.65275,
+  nm: "La Tour-du-Crieu",
+  value: 3006205
+},  {
+  id: 3006202,
+  label: "La Tour-du-Pin",
+  lat: 45.566669,
+  lon: 5.45,
+  nm: "La Tour-du-Pin",
+  value: 3006202
+},  {
+  id: 3006183,
+  label: "La Tranche-sur-Mer",
+  lat: 46.342999,
+  lon: -1.437,
+  nm: "La Tranche-sur-Mer",
+  value: 3006183
+},  {
+  id: 3006170,
+  label: "La Tremblade",
+  lat: 45.768059,
+  lon: -1.14266,
+  nm: "La Tremblade",
+  value: 3006170
+},  {
+  id: 3006152,
+  label: "La Trinite",
+  lat: 43.741489,
+  lon: 7.31353,
+  nm: "La Trinite",
+  value: 3006152
+},  {
+  id: 3006131,
+  label: "La Tronche",
+  lat: 45.204288,
+  lon: 5.73645,
+  nm: "La Tronche",
+  value: 3006131
+},  {
+  id: 3006090,
+  label: "La Turballe",
+  lat: 47.346859,
+  lon: -2.50734,
+  nm: "La Turballe",
+  value: 3006090
+},  {
+  id: 3006089,
+  label: "La Turbie",
+  lat: 43.74514,
+  lon: 7.40101,
+  nm: "La Turbie",
+  value: 3006089
+},  {
+  id: 3005825,
+  label: "La Valette-du-Var",
+  lat: 43.137409,
+  lon: 5.98314,
+  nm: "La Valette-du-Var",
+  value: 3005825
+},  {
+  id: 3005651,
+  label: "La Verpilliere",
+  lat: 45.636471,
+  lon: 5.14151,
+  nm: "La Verpilliere",
+  value: 3005651
+},  {
+  id: 3005640,
+  label: "La Verrie",
+  lat: 46.961311,
+  lon: -0.99596,
+  nm: "La Verrie",
+  value: 3005640
+},  {
+  id: 3005639,
+  label: "La Verriere",
+  lat: 48.751999,
+  lon: 1.94649,
+  nm: "La Verriere",
+  value: 3005639
+},  {
+  id: 3005540,
+  label: "La Ville-aux-Dames",
+  lat: 47.395512,
+  lon: 0.76837,
+  nm: "La Ville-aux-Dames",
+  value: 3005540
+},  {
+  id: 3005524,
+  label: "La Ville-du-Bois",
+  lat: 48.655209,
+  lon: 2.26833,
+  nm: "La Ville-du-Bois",
+  value: 3005524
+},  {
+  id: 3005435,
+  label: "La Voulte-sur-Rhone",
+  lat: 44.80072,
+  lon: 4.7716,
+  nm: "La Voulte-sur-Rhone",
+  value: 3005435
+},  {
+  id: 3005422,
+  label: "La Wantzenau",
+  lat: 48.65786,
+  lon: 7.83068,
+  nm: "La Wantzenau",
+  value: 3005422
+},  {
+  id: 3011353,
+  label: "Labaroche",
+  lat: 48.11076,
+  lon: 7.19244,
+  nm: "Labaroche",
+  value: 3011353
+},  {
+  id: 3011312,
+  label: "Labarthe-sur-Leze",
+  lat: 43.452061,
+  lon: 1.39968,
+  nm: "Labarthe-sur-Leze",
+  value: 3011312
+},  {
+  id: 3011250,
+  label: "Labastide-Saint-Pierre",
+  lat: 43.91769,
+  lon: 1.36628,
+  nm: "Labastide-Saint-Pierre",
+  value: 3011250
+},  {
+  id: 3011154,
+  label: "Labege",
+  lat: 43.530392,
+  lon: 1.53596,
+  nm: "Labege",
+  value: 3011154
+},  {
+  id: 3011123,
+  label: "Labenne",
+  lat: 43.594639,
+  lon: -1.42559,
+  nm: "Labenne",
+  value: 3011123
+},  {
+  id: 3010908,
+  label: "Labouheyre",
+  lat: 44.212971,
+  lon: -0.92062,
+  nm: "Labouheyre",
+  value: 3010908
+},  {
+  id: 3010855,
+  label: "Labourse",
+  lat: 50.498829,
+  lon: 2.68121,
+  nm: "Labourse",
+  value: 3010855
+},  {
+  id: 3010720,
+  label: "Labruguiere",
+  lat: 43.538582,
+  lon: 2.26392,
+  nm: "Labruguiere",
+  value: 3010720
+},  {
+  id: 3010626,
+  label: "Lacanau",
+  lat: 44.977791,
+  lon: -1.0762,
+  nm: "Lacanau",
+  value: 3010626
+},  {
+  id: 3010580,
+  label: "Lacasse",
+  lat: 43.398731,
+  lon: 1.26951,
+  nm: "Lacasse",
+  value: 3010580
+},  {
+  id: 3010566,
+  label: "Lacaune",
+  lat: 43.7066,
+  lon: 2.69293,
+  nm: "Lacaune",
+  value: 3010566
+},  {
+  id: 3009716,
+  label: "Lacroix-Saint-Ouen",
+  lat: 49.35685,
+  lon: 2.78803,
+  nm: "Lacroix-Saint-Ouen",
+  value: 3009716
+},  {
+  id: 3009289,
+  label: "Lafrancaise",
+  lat: 44.127911,
+  lon: 1.24141,
+  nm: "Lafrancaise",
+  value: 3009289
+},  {
+  id: 3009188,
+  label: "Lagardelle-sur-Leze",
+  lat: 43.41143,
+  lon: 1.3892,
+  nm: "Lagardelle-sur-Leze",
+  value: 3009188
+},  {
+  id: 3009073,
+  label: "Lagnieu",
+  lat: 45.900379,
+  lon: 5.3466,
+  nm: "Lagnieu",
+  value: 3009073
+},  {
+  id: 3009071,
+  label: "Lagny-sur-Marne",
+  lat: 48.866669,
+  lon: 2.71667,
+  nm: "Lagny-sur-Marne",
+  value: 3009071
+},  {
+  id: 3009052,
+  label: "Lagord",
+  lat: 46.188221,
+  lon: -1.15355,
+  nm: "Lagord",
+  value: 3009052
+},  {
+  id: 3008719,
+  label: "Lahonce",
+  lat: 43.482479,
+  lon: -1.39101,
+  nm: "Lahonce",
+  value: 3008719
+},  {
+  id: 3008684,
+  label: "Laigne-en-Belin",
+  lat: 47.87706,
+  lon: 0.22796,
+  nm: "Laigne-en-Belin",
+  value: 3008684
+},  {
+  id: 3008680,
+  label: "Laigneville",
+  lat: 49.291489,
+  lon: 2.44581,
+  nm: "Laigneville",
+  value: 3008680
+},  {
+  id: 3008665,
+  label: "Laille",
+  lat: 47.978481,
+  lon: -1.71676,
+  nm: "Laille",
+  value: 3008665
+},  {
+  id: 3008662,
+  label: "Lailly-en-Val",
+  lat: 47.769619,
+  lon: 1.68657,
+  nm: "Lailly-en-Val",
+  value: 3008662
+},  {
+  id: 3008469,
+  label: "Lalinde",
+  lat: 44.836208,
+  lon: 0.73075,
+  nm: "Lalinde",
+  value: 3008469
+},  {
+  id: 3008463,
+  label: "Lallaing",
+  lat: 50.390121,
+  lon: 3.16949,
+  nm: "Lallaing",
+  value: 3008463
+},  {
+  id: 3008321,
+  label: "Lamalou-les-Bains",
+  lat: 43.597858,
+  lon: 3.08052,
+  nm: "Lamalou-les-Bains",
+  value: 3008321
+},  {
+  id: 3008249,
+  label: "Lamastre",
+  lat: 44.986721,
+  lon: 4.57975,
+  nm: "Lamastre",
+  value: 3008249
+},  {
+  id: 3008225,
+  label: "Lamballe",
+  lat: 48.467621,
+  lon: -2.51436,
+  nm: "Lamballe",
+  value: 3008225
+},  {
+  id: 3008218,
+  label: "Lambersart",
+  lat: 50.650002,
+  lon: 3.03333,
+  nm: "Lambersart",
+  value: 3008218
+},  {
+  id: 3008208,
+  label: "Lambesc",
+  lat: 43.653111,
+  lon: 5.26282,
+  nm: "Lambesc",
+  value: 3008208
+},  {
+  id: 3008198,
+  label: "Lambres-lez-Douai",
+  lat: 50.349998,
+  lon: 3.06667,
+  nm: "Lambres-lez-Douai",
+  value: 3008198
+},  {
+  id: 3008080,
+  label: "Lamonzie-Saint-Martin",
+  lat: 44.84713,
+  lon: 0.39102,
+  nm: "Lamonzie-Saint-Martin",
+  value: 3008080
+},  {
+  id: 3008074,
+  label: "Lamorlaye",
+  lat: 49.16246,
+  lon: 2.44687,
+  nm: "Lamorlaye",
+  value: 3008074
+},  {
+  id: 3008020,
+  label: "Lamotte-Beuvron",
+  lat: 47.602001,
+  lon: 2.02837,
+  nm: "Lamotte-Beuvron",
+  value: 3008020
+},  {
+  id: 3007973,
+  label: "Lampaul-Guimiliau",
+  lat: 48.491562,
+  lon: -4.04144,
+  nm: "Lampaul-Guimiliau",
+  value: 3007973
+},  {
+  id: 3007972,
+  label: "Lampaul-Plouarzel",
+  lat: 48.447269,
+  lon: -4.76045,
+  nm: "Lampaul-Plouarzel",
+  value: 3007972
+},  {
+  id: 3007970,
+  label: "Lampertheim",
+  lat: 48.651711,
+  lon: 7.69913,
+  nm: "Lampertheim",
+  value: 3007970
+},  {
+  id: 3007912,
+  label: "Lancon-Provence",
+  lat: 43.592369,
+  lon: 5.13167,
+  nm: "Lancon-Provence",
+  value: 3007912
+},  {
+  id: 3007903,
+  label: "Landas",
+  lat: 50.472691,
+  lon: 3.30366,
+  nm: "Landas",
+  value: 3007903
+},  {
+  id: 3007885,
+  label: "Landeda",
+  lat: 48.58733,
+  lon: -4.571,
+  nm: "Landeda",
+  value: 3007885
+},  {
+  id: 3007874,
+  label: "Landerneau",
+  lat: 48.452518,
+  lon: -4.25252,
+  nm: "Landerneau",
+  value: 3007874
+},  {
+  id: 3007873,
+  label: "Landeronde",
+  lat: 46.657219,
+  lon: -1.56953,
+  nm: "Landeronde",
+  value: 3007873
+},  {
+  id: 3007858,
+  label: "Landevant",
+  lat: 47.764999,
+  lon: -3.12221,
+  nm: "Landevant",
+  value: 3007858
+},  {
+  id: 3007842,
+  label: "Landivisiau",
+  lat: 48.507839,
+  lon: -4.06833,
+  nm: "Landivisiau",
+  value: 3007842
+},  {
+  id: 3007830,
+  label: "Landrecies",
+  lat: 50.125,
+  lon: 3.69171,
+  nm: "Landrecies",
+  value: 3007830
+},  {
+  id: 3007794,
+  label: "Lanester",
+  lat: 47.761318,
+  lon: -3.33965,
+  nm: "Lanester",
+  value: 3007794
+},  {
+  id: 3007780,
+  label: "Laneuveville-devant-Nancy",
+  lat: 48.656281,
+  lon: 6.2317,
+  nm: "Laneuveville-devant-Nancy",
+  value: 3007780
+},  {
+  id: 3007730,
+  label: "Langeac",
+  lat: 45.10331,
+  lon: 3.4932,
+  nm: "Langeac",
+  value: 3007730
+},  {
+  id: 3007729,
+  label: "Langeais",
+  lat: 47.325871,
+  lon: 0.40136,
+  nm: "Langeais",
+  value: 3007729
+},  {
+  id: 3007715,
+  label: "Langlade",
+  lat: 43.802841,
+  lon: 4.25232,
+  nm: "Langlade",
+  value: 3007715
+},  {
+  id: 3007694,
+  label: "Langogne",
+  lat: 44.727261,
+  lon: 3.85539,
+  nm: "Langogne",
+  value: 3007694
+},  {
+  id: 3007693,
+  label: "Langoiran",
+  lat: 44.708691,
+  lon: -0.39368,
+  nm: "Langoiran",
+  value: 3007693
+},  {
+  id: 3007691,
+  label: "Langon",
+  lat: 44.549999,
+  lon: -0.25,
+  nm: "Langon",
+  value: 3007691
+},  {
+  id: 3007687,
+  label: "Langonnet",
+  lat: 48.10511,
+  lon: -3.49356,
+  nm: "Langonnet",
+  value: 3007687
+},  {
+  id: 3007680,
+  label: "Langres",
+  lat: 47.866669,
+  lon: 5.33333,
+  nm: "Langres",
+  value: 3007680
+},  {
+  id: 3007666,
+  label: "Langueux",
+  lat: 48.494999,
+  lon: -2.7185,
+  nm: "Langueux",
+  value: 3007666
+},  {
+  id: 3007663,
+  label: "Languidic",
+  lat: 47.832661,
+  lon: -3.15821,
+  nm: "Languidic",
+  value: 3007663
+},  {
+  id: 3007637,
+  label: "Lanmeur",
+  lat: 47.833328,
+  lon: -3.71667,
+  nm: "Lanmeur",
+  value: 3007637
+},  {
+  id: 3007622,
+  label: "Lannemezan",
+  lat: 43.125172,
+  lon: 0.38401,
+  nm: "Lannemezan",
+  value: 3007622
+},  {
+  id: 3007610,
+  label: "Lannilis",
+  lat: 48.570911,
+  lon: -4.52233,
+  nm: "Lannilis",
+  value: 3007610
+},  {
+  id: 3007609,
+  label: "Lannion",
+  lat: 48.73333,
+  lon: -3.46667,
+  nm: "Lannion",
+  value: 3007609
+},  {
+  id: 3007539,
+  label: "Lans-en-Vercors",
+  lat: 45.12793,
+  lon: 5.58572,
+  nm: "Lans-en-Vercors",
+  value: 3007539
+},  {
+  id: 3007541,
+  label: "Lansargues",
+  lat: 43.651569,
+  lon: 4.07495,
+  nm: "Lansargues",
+  value: 3007541
+},  {
+  id: 3007508,
+  label: "Lanton",
+  lat: 44.704781,
+  lon: -1.03562,
+  nm: "Lanton",
+  value: 3007508
+},  {
+  id: 3007496,
+  label: "Lanvallay",
+  lat: 48.455429,
+  lon: -2.02803,
+  nm: "Lanvallay",
+  value: 3007496
+},  {
+  id: 3007488,
+  label: "Lanveoc",
+  lat: 48.287991,
+  lon: -4.46277,
+  nm: "Lanveoc",
+  value: 3007488
+},  {
+  id: 3007477,
+  label: "Laon",
+  lat: 49.566669,
+  lon: 3.61667,
+  nm: "Laon",
+  value: 3007477
+},  {
+  id: 3007461,
+  label: "Lapalisse",
+  lat: 46.248348,
+  lon: 3.63605,
+  nm: "Lapalisse",
+  value: 3007461
+},  {
+  id: 3007451,
+  label: "Lapalud",
+  lat: 44.304459,
+  lon: 4.68953,
+  nm: "Lapalud",
+  value: 3007451
+},  {
+  id: 3007327,
+  label: "Lapeyrouse-Fossat",
+  lat: 43.69973,
+  lon: 1.51049,
+  nm: "Lapeyrouse-Fossat",
+  value: 3007327
+},  {
+  id: 3007160,
+  label: "Lapoutroie",
+  lat: 48.153229,
+  lon: 7.16696,
+  nm: "Lapoutroie",
+  value: 3007160
+},  {
+  id: 3007116,
+  label: "Lapugnoy",
+  lat: 50.51635,
+  lon: 2.5346,
+  nm: "Lapugnoy",
+  value: 3007116
+},  {
+  id: 3007082,
+  label: "Laragne-Monteglin",
+  lat: 44.316669,
+  lon: 5.81667,
+  nm: "Laragne-Monteglin",
+  value: 3007082
+},  {
+  id: 3007048,
+  label: "Larcay",
+  lat: 47.366489,
+  lon: 0.78145,
+  nm: "Larcay",
+  value: 3007048
+},  {
+  id: 3007017,
+  label: "Lardy",
+  lat: 48.518471,
+  lon: 2.2736,
+  nm: "Lardy",
+  value: 3007017
+},  {
+  id: 3006958,
+  label: "Largentiere",
+  lat: 44.533329,
+  lon: 4.3,
+  nm: "Largentiere",
+  value: 3006958
+},  {
+  id: 3006876,
+  label: "Larmor-Plage",
+  lat: 47.706459,
+  lon: -3.38339,
+  nm: "Larmor-Plage",
+  value: 3006876
+},  {
+  id: 3006380,
+  label: "Lassay-les-Chateaux",
+  lat: 48.438351,
+  lon: -0.49758,
+  nm: "Lassay-les-Chateaux",
+  value: 3006380
+},  {
+  id: 3006215,
+  label: "Latour-Bas-Elne",
+  lat: 42.606461,
+  lon: 3.00201,
+  nm: "Latour-Bas-Elne",
+  value: 3006215
+},  {
+  id: 3006161,
+  label: "Latresne",
+  lat: 44.786011,
+  lon: -0.48994,
+  nm: "Latresne",
+  value: 3006161
+},  {
+  id: 3006121,
+  label: "Lattes",
+  lat: 43.56752,
+  lon: 3.9046,
+  nm: "Lattes",
+  value: 3006121
+},  {
+  id: 3006056,
+  label: "Laudun-lArdoise",
+  lat: 44.099998,
+  lon: 4.66667,
+  nm: "Laudun-lArdoise",
+  value: 3006056
+},  {
+  id: 3006035,
+  label: "Launaguet",
+  lat: 43.678181,
+  lon: 1.45603,
+  nm: "Launaguet",
+  value: 3006035
+},  {
+  id: 3005966,
+  label: "Lauris",
+  lat: 43.74799,
+  lon: 5.31518,
+  nm: "Lauris",
+  value: 3005966
+},  {
+  id: 3005932,
+  label: "Lauwin-Planque",
+  lat: 50.39024,
+  lon: 3.0451,
+  nm: "Lauwin-Planque",
+  value: 3005932
+},  {
+  id: 3005866,
+  label: "Laval",
+  lat: 48.066669,
+  lon: -0.76667,
+  nm: "Laval",
+  value: 3005866
+},  {
+  id: 3005775,
+  label: "Lavans-les-Saint-Claude",
+  lat: 46.384838,
+  lon: 5.78172,
+  nm: "Lavans-les-Saint-Claude",
+  value: 3005775
+},  {
+  id: 3005769,
+  label: "Lavardac",
+  lat: 44.177849,
+  lon: 0.29825,
+  nm: "Lavardac",
+  value: 3005769
+},  {
+  id: 3005735,
+  label: "Lavaur",
+  lat: 43.698471,
+  lon: 1.81858,
+  nm: "Lavaur",
+  value: 3005735
+},  {
+  id: 3005712,
+  label: "Lavelanet",
+  lat: 42.931271,
+  lon: 1.84656,
+  nm: "Lavelanet",
+  value: 3005712
+},  {
+  id: 3005696,
+  label: "Laventie",
+  lat: 50.628181,
+  lon: 2.77076,
+  nm: "Laventie",
+  value: 3005696
+},  {
+  id: 3005632,
+  label: "Laverune",
+  lat: 43.586391,
+  lon: 3.80611,
+  nm: "Laverune",
+  value: 3005632
+},  {
+  id: 3005417,
+  label: "Laxou",
+  lat: 48.683151,
+  lon: 6.148,
+  nm: "Laxou",
+  value: 3005417
+},  {
+  id: 3005397,
+  label: "Lay-Saint-Christophe",
+  lat: 48.748669,
+  lon: 6.19776,
+  nm: "Lay-Saint-Christophe",
+  value: 3005397
+},  {
+  id: 3005401,
+  label: "Layrac",
+  lat: 44.134491,
+  lon: 0.66176,
+  nm: "Layrac",
+  value: 3005401
+},  {
+  id: 6615511,
+  label: "Le Ban Saint-Martin",
+  lat: 49.122501,
+  lon: 6.15111,
+  nm: "Le Ban Saint-Martin",
+  value: 6615511
+},  {
+  id: 3005364,
+  label: "Le Barcares",
+  lat: 42.788052,
+  lon: 3.03565,
+  nm: "Le Barcares",
+  value: 3005364
+},  {
+  id: 3005360,
+  label: "Le Barp",
+  lat: 44.60833,
+  lon: -0.76948,
+  nm: "Le Barp",
+  value: 3005360
+},  {
+  id: 3005282,
+  label: "Le Bignon",
+  lat: 47.097221,
+  lon: -1.49167,
+  nm: "Le Bignon",
+  value: 3005282
+},  {
+  id: 3005270,
+  label: "Le Blanc",
+  lat: 46.633331,
+  lon: 1.06667,
+  nm: "Le Blanc",
+  value: 3005270
+},  {
+  id: 3005269,
+  label: "Le Blanc-Mesnil",
+  lat: 48.938721,
+  lon: 2.46138,
+  nm: "Le Blanc-Mesnil",
+  value: 3005269
+},  {
+  id: 3005218,
+  label: "Le Bois-Plage-en-Re",
+  lat: 46.186588,
+  lon: -1.39267,
+  nm: "Le Bois-Plage-en-Re",
+  value: 3005218
+},  {
+  id: 3005202,
+  label: "Le Bono",
+  lat: 47.641289,
+  lon: -2.94902,
+  nm: "Le Bono",
+  value: 3005202
+},  {
+  id: 3005182,
+  label: "Le Bosc-Roger-en-Roumois",
+  lat: 49.283329,
+  lon: 0.93333,
+  nm: "Le Bosc-Roger-en-Roumois",
+  value: 3005182
+},  {
+  id: 3005099,
+  label: "Le Boupere",
+  lat: 46.795952,
+  lon: -0.92654,
+  nm: "Le Boupere",
+  value: 3005099
+},  {
+  id: 3005082,
+  label: "Le Bourget",
+  lat: 48.934052,
+  lon: 2.43584,
+  nm: "Le Bourget",
+  value: 3005082
+},  {
+  id: 3005081,
+  label: "Le Bourget-du-Lac",
+  lat: 45.64756,
+  lon: 5.86085,
+  nm: "Le Bourget-du-Lac",
+  value: 3005081
+},  {
+  id: 3005066,
+  label: "Le Bouscat",
+  lat: 44.866001,
+  lon: -0.59411,
+  nm: "Le Bouscat",
+  value: 3005066
+},  {
+  id: 3005001,
+  label: "Le Breuil",
+  lat: 46.806541,
+  lon: 4.46953,
+  nm: "Le Breuil",
+  value: 3005001
+},  {
+  id: 3004935,
+  label: "Le Bugue",
+  lat: 44.918468,
+  lon: 0.92714,
+  nm: "Le Bugue",
+  value: 3004935
+},  {
+  id: 3004891,
+  label: "Le Cailar",
+  lat: 43.67923,
+  lon: 4.23576,
+  nm: "Le Cailar",
+  value: 3004891
+},  {
+  id: 3004871,
+  label: "Le Cannet",
+  lat: 43.576618,
+  lon: 7.01912,
+  nm: "Le Cannet",
+  value: 3004871
+},  {
+  id: 3004870,
+  label: "Le Cannet-des-Maures",
+  lat: 43.392719,
+  lon: 6.34165,
+  nm: "Le Cannet-des-Maures",
+  value: 3004870
+},  {
+  id: 3004866,
+  label: "Le Cap dAgde",
+  lat: 43.277962,
+  lon: 3.51357,
+  nm: "Le Cap dAgde",
+  value: 3004866
+},  {
+  id: 3004838,
+  label: "Le Castellet",
+  lat: 43.20285,
+  lon: 5.77642,
+  nm: "Le Castellet",
+  value: 3004838
+},  {
+  id: 3004813,
+  label: "Le Cellier",
+  lat: 47.319881,
+  lon: -1.34584,
+  nm: "Le Cellier",
+  value: 3004813
+},  {
+  id: 3004811,
+  label: "Le Cendre",
+  lat: 45.72118,
+  lon: 3.18839,
+  nm: "Le Cendre",
+  value: 3004811
+},  {
+  id: 3004775,
+  label: "Le Chambon-Feugerolles",
+  lat: 45.396889,
+  lon: 4.32592,
+  nm: "Le Chambon-Feugerolles",
+  value: 3004775
+},  {
+  id: 3004774,
+  label: "Le Chambon-sur-Lignon",
+  lat: 45.060791,
+  lon: 4.30314,
+  nm: "Le Chambon-sur-Lignon",
+  value: 3004774
+},  {
+  id: 3004698,
+  label: "Le Chatelet-en-Brie",
+  lat: 48.50695,
+  lon: 2.79163,
+  nm: "Le Chatelet-en-Brie",
+  value: 3004698
+},  {
+  id: 3004630,
+  label: "Le Chesnay",
+  lat: 48.822201,
+  lon: 2.12213,
+  nm: "Le Chesnay",
+  value: 3004630
+},  {
+  id: 3004609,
+  label: "Le Cheylard",
+  lat: 44.906231,
+  lon: 4.42406,
+  nm: "Le Cheylard",
+  value: 3004609
+},  {
+  id: 3004608,
+  label: "Le Cheylas",
+  lat: 45.373692,
+  lon: 5.99376,
+  nm: "Le Cheylas",
+  value: 3004608
+},  {
+  id: 3004513,
+  label: "Le Conquet",
+  lat: 48.360531,
+  lon: -4.77086,
+  nm: "Le Conquet",
+  value: 3004513
+},  {
+  id: 3004492,
+  label: "Le Coteau",
+  lat: 46.027061,
+  lon: 4.0869,
+  nm: "Le Coteau",
+  value: 3004492
+},  {
+  id: 3004471,
+  label: "Le Coudray",
+  lat: 48.42115,
+  lon: 1.50057,
+  nm: "Le Coudray",
+  value: 3004471
+},  {
+  id: 3004464,
+  label: "Le Coudray-Montceaux",
+  lat: 48.563759,
+  lon: 2.50012,
+  nm: "Le Coudray-Montceaux",
+  value: 3004464
+},  {
+  id: 3004434,
+  label: "Le Cres",
+  lat: 43.648071,
+  lon: 3.93976,
+  nm: "Le Cres",
+  value: 3004434
+},  {
+  id: 3004427,
+  label: "Le Creusot",
+  lat: 46.80714,
+  lon: 4.41632,
+  nm: "Le Creusot",
+  value: 3004427
+},  {
+  id: 3004418,
+  label: "Le Croisic",
+  lat: 47.291889,
+  lon: -2.5138,
+  nm: "Le Croisic",
+  value: 3004418
+},  {
+  id: 3004398,
+  label: "Le Crotoy",
+  lat: 50.216,
+  lon: 1.625,
+  nm: "Le Crotoy",
+  value: 3004398
+},  {
+  id: 3004334,
+  label: "Le Dorat",
+  lat: 46.215141,
+  lon: 1.08152,
+  nm: "Le Dorat",
+  value: 3004334
+},  {
+  id: 3004304,
+  label: "Le Faouet",
+  lat: 48.03299,
+  lon: -3.49048,
+  nm: "Le Faouet",
+  value: 3004304
+},  {
+  id: 3004258,
+  label: "Le Fenouiller",
+  lat: 46.719009,
+  lon: -1.90175,
+  nm: "Le Fenouiller",
+  value: 3004258
+},  {
+  id: 3004222,
+  label: "Le Folgoet",
+  lat: 48.563591,
+  lon: -4.33641,
+  nm: "Le Folgoet",
+  value: 3004222
+},  {
+  id: 3004138,
+  label: "Le Fuilet",
+  lat: 47.283451,
+  lon: -1.1131,
+  nm: "Le Fuilet",
+  value: 3004138
+},  {
+  id: 3004041,
+  label: "Le Grand-Bornand",
+  lat: 45.943459,
+  lon: 6.44111,
+  nm: "Le Grand-Bornand",
+  value: 3004041
+},  {
+  id: 3003991,
+  label: "Le Grand-Lemps",
+  lat: 45.397888,
+  lon: 5.42215,
+  nm: "Le Grand-Lemps",
+  value: 3003991
+},  {
+  id: 3003986,
+  label: "Le Grand-Luce",
+  lat: 47.86618,
+  lon: 0.46919,
+  nm: "Le Grand-Luce",
+  value: 3003986
+},  {
+  id: 3003952,
+  label: "Le Grand-Quevilly",
+  lat: 49.400761,
+  lon: 1.04582,
+  nm: "Le Grand-Quevilly",
+  value: 3003952
+},  {
+  id: 3003918,
+  label: "Le Grau-du-Roi",
+  lat: 43.538811,
+  lon: 4.13559,
+  nm: "Le Grau-du-Roi",
+  value: 3003918
+},  {
+  id: 3003893,
+  label: "Le Gua",
+  lat: 45.726139,
+  lon: -0.94468,
+  nm: "Le Gua",
+  value: 3003893
+},  {
+  id: 3003859,
+  label: "Le Haillan",
+  lat: 44.87225,
+  lon: -0.67965,
+  nm: "Le Haillan",
+  value: 3003859
+},  {
+  id: 3003796,
+  label: "Le Havre",
+  lat: 49.493801,
+  lon: 0.10767,
+  nm: "Le Havre",
+  value: 3003796
+},  {
+  id: 3003773,
+  label: "Le Houlme",
+  lat: 49.50972,
+  lon: 1.03537,
+  nm: "Le Houlme",
+  value: 3003773
+},  {
+  id: 3003737,
+  label: "Le Kremlin-Bicetre",
+  lat: 48.814709,
+  lon: 2.36073,
+  nm: "Le Kremlin-Bicetre",
+  value: 3003737
+},  {
+  id: 3003730,
+  label: "Le Landreau",
+  lat: 47.20512,
+  lon: -1.30452,
+  nm: "Le Landreau",
+  value: 3003730
+},  {
+  id: 3003713,
+  label: "Le Lavandou",
+  lat: 43.137001,
+  lon: 6.366,
+  nm: "Le Lavandou",
+  value: 3003713
+},  {
+  id: 3003672,
+  label: "Le Longeron",
+  lat: 47.018452,
+  lon: -1.05762,
+  nm: "Le Longeron",
+  value: 3003672
+},  {
+  id: 3003661,
+  label: "Le Loroux-Bottereau",
+  lat: 47.237629,
+  lon: -1.34952,
+  nm: "Le Loroux-Bottereau",
+  value: 3003661
+},  {
+  id: 3003656,
+  label: "Le Louroux-Beconnais",
+  lat: 47.52211,
+  lon: -0.88664,
+  nm: "Le Louroux-Beconnais",
+  value: 3003656
+},  {
+  id: 3003650,
+  label: "Le Luc",
+  lat: 43.393181,
+  lon: 6.31474,
+  nm: "Le Luc",
+  value: 3003650
+},  {
+  id: 3003647,
+  label: "Le Lude",
+  lat: 47.646481,
+  lon: 0.15664,
+  nm: "Le Lude",
+  value: 3003647
+},  {
+  id: 3003603,
+  label: "Le Mans",
+  lat: 48,
+  lon: 0.2,
+  nm: "Le Mans",
+  value: 3003603
+},  {
+  id: 3003514,
+  label: "Le May-sur-Evre",
+  lat: 47.137138,
+  lon: -0.89227,
+  nm: "Le May-sur-Evre",
+  value: 3003514
+},  {
+  id: 3003481,
+  label: "Le Mee-sur-Seine",
+  lat: 48.53157,
+  lon: 2.62829,
+  nm: "Le Mee-sur-Seine",
+  value: 3003481
+},  {
+  id: 3003393,
+  label: "Le Mesnil-en-Thelle",
+  lat: 49.178299,
+  lon: 2.28573,
+  nm: "Le Mesnil-en-Thelle",
+  value: 3003393
+},  {
+  id: 3003391,
+  label: "Le Mesnil-Esnard",
+  lat: 49.413189,
+  lon: 1.14521,
+  nm: "Le Mesnil-Esnard",
+  value: 3003391
+},  {
+  id: 3003375,
+  label: "Le Mesnil-le-Roi",
+  lat: 48.938251,
+  lon: 2.12554,
+  nm: "Le Mesnil-le-Roi",
+  value: 3003375
+},  {
+  id: 3003359,
+  label: "Le Mesnil-Saint-Denis",
+  lat: 48.74485,
+  lon: 1.95594,
+  nm: "Le Mesnil-Saint-Denis",
+  value: 3003359
+},  {
+  id: 3003316,
+  label: "Le Molay-Littry",
+  lat: 49.242649,
+  lon: -0.87238,
+  nm: "Le Molay-Littry",
+  value: 3003316
+},  {
+  id: 3003148,
+  label: "Le Muy",
+  lat: 43.473808,
+  lon: 6.56452,
+  nm: "Le Muy",
+  value: 3003148
+},  {
+  id: 3003127,
+  label: "Le Neubourg",
+  lat: 49.150478,
+  lon: 0.9102,
+  nm: "Le Neubourg",
+  value: 3003127
+},  {
+  id: 3003101,
+  label: "Le Nouvion-en-Thierache",
+  lat: 50.016251,
+  lon: 3.78509,
+  nm: "Le Nouvion-en-Thierache",
+  value: 3003101
+},  {
+  id: 3003045,
+  label: "Le Palais",
+  lat: 47.34557,
+  lon: -3.15411,
+  nm: "Le Palais",
+  value: 3003045
+},  {
+  id: 3003044,
+  label: "Le Palais-sur-Vienne",
+  lat: 45.8638,
+  lon: 1.32207,
+  nm: "Le Palais-sur-Vienne",
+  value: 3003044
+},  {
+  id: 3003042,
+  label: "Le Pallet",
+  lat: 47.138088,
+  lon: -1.33476,
+  nm: "Le Pallet",
+  value: 3003042
+},  {
+  id: 3003017,
+  label: "Le Passage",
+  lat: 44.201431,
+  lon: 0.60275,
+  nm: "Le Passage",
+  value: 3003017
+},  {
+  id: 3002988,
+  label: "Le Peage-de-Roussillon",
+  lat: 45.371799,
+  lon: 4.79791,
+  nm: "Le Peage-de-Roussillon",
+  value: 3002988
+},  {
+  id: 3002986,
+  label: "Le Pechereau",
+  lat: 46.576771,
+  lon: 1.54743,
+  nm: "Le Pechereau",
+  value: 3002986
+},  {
+  id: 3002984,
+  label: "Le Pecq",
+  lat: 48.893169,
+  lon: 2.10371,
+  nm: "Le Pecq",
+  value: 3002984
+},  {
+  id: 3002981,
+  label: "Le Pellerin",
+  lat: 47.199139,
+  lon: -1.75514,
+  nm: "Le Pellerin",
+  value: 3002981
+},  {
+  id: 3002967,
+  label: "Le Perray-en-Yvelines",
+  lat: 48.694408,
+  lon: 1.85643,
+  nm: "Le Perray-en-Yvelines",
+  value: 3002967
+},  {
+  id: 3002965,
+  label: "Le Perreux-sur-Marne",
+  lat: 48.849998,
+  lon: 2.5,
+  nm: "Le Perreux-sur-Marne",
+  value: 3002965
+},  {
+  id: 3002880,
+  label: "Le Petit-Quevilly",
+  lat: 49.41338,
+  lon: 1.06155,
+  nm: "Le Petit-Quevilly",
+  value: 3002880
+},  {
+  id: 3002836,
+  label: "Le Pian-Medoc",
+  lat: 44.955372,
+  lon: -0.66227,
+  nm: "Le Pian-Medoc",
+  value: 3002836
+},  {
+  id: 2986886,
+  label: "Le Plan-de-la-Tour",
+  lat: 43.333328,
+  lon: 6.55,
+  nm: "Le Plan-de-la-Tour",
+  value: 2986886
+},  {
+  id: 3002680,
+  label: "Le Plessis-Belleville",
+  lat: 49.095009,
+  lon: 2.75614,
+  nm: "Le Plessis-Belleville",
+  value: 3002680
+},  {
+  id: 3002679,
+  label: "Le Plessis-Bouchard",
+  lat: 49,
+  lon: 2.23333,
+  nm: "Le Plessis-Bouchard",
+  value: 3002679
+},  {
+  id: 3002669,
+  label: "Le Plessis-Grammoire",
+  lat: 47.49884,
+  lon: -0.43021,
+  nm: "Le Plessis-Grammoire",
+  value: 3002669
+},  {
+  id: 3002654,
+  label: "Le Plessis-Pate",
+  lat: 48.610779,
+  lon: 2.32318,
+  nm: "Le Plessis-Pate",
+  value: 3002654
+},  {
+  id: 3002650,
+  label: "Le Plessis-Robinson",
+  lat: 48.788891,
+  lon: 2.27078,
+  nm: "Le Plessis-Robinson",
+  value: 3002650
+},  {
+  id: 3002647,
+  label: "Le Plessis-Trevise",
+  lat: 48.810741,
+  lon: 2.57363,
+  nm: "Le Plessis-Trevise",
+  value: 3002647
+},  {
+  id: 3002626,
+  label: "Le Poinconnet",
+  lat: 46.764099,
+  lon: 1.7179,
+  nm: "Le Poinconnet",
+  value: 3002626
+},  {
+  id: 3002620,
+  label: "Le Poire-sur-Vie",
+  lat: 46.769211,
+  lon: -1.50938,
+  nm: "Le Poire-sur-Vie",
+  value: 3002620
+},  {
+  id: 3002586,
+  label: "Le Pont-de-Beauvoisin",
+  lat: 45.536942,
+  lon: 5.67333,
+  nm: "Le Pont-de-Beauvoisin",
+  value: 3002586
+},  {
+  id: 3002585,
+  label: "Le Pont-de-Claix",
+  lat: 45.124432,
+  lon: 5.7064,
+  nm: "Le Pont-de-Claix",
+  value: 3002585
+},  {
+  id: 3002570,
+  label: "Le Pontet",
+  lat: 43.961189,
+  lon: 4.86008,
+  nm: "Le Pontet",
+  value: 3002570
+},  {
+  id: 3002547,
+  label: "Le Port-Marly",
+  lat: 48.89016,
+  lon: 2.1114,
+  nm: "Le Port-Marly",
+  value: 3002547
+},  {
+  id: 3002551,
+  label: "Le Portel",
+  lat: 50.705589,
+  lon: 1.57574,
+  nm: "Le Portel",
+  value: 3002551
+},  {
+  id: 3002534,
+  label: "Le Pouliguen",
+  lat: 47.26973,
+  lon: -2.4278,
+  nm: "Le Pouliguen",
+  value: 3002534
+},  {
+  id: 3002520,
+  label: "Le Pouzin",
+  lat: 44.751732,
+  lon: 4.74798,
+  nm: "Le Pouzin",
+  value: 3002520
+},  {
+  id: 3002510,
+  label: "Le Pradet",
+  lat: 43.106609,
+  lon: 6.01718,
+  nm: "Le Pradet",
+  value: 3002510
+},  {
+  id: 3002499,
+  label: "Le Pre-Saint-Gervais",
+  lat: 48.88549,
+  lon: 2.40422,
+  nm: "Le Pre-Saint-Gervais",
+  value: 3002499
+},  {
+  id: 3002465,
+  label: "Le Puy-en-Velay",
+  lat: 45.043659,
+  lon: 3.88523,
+  nm: "Le Puy-en-Velay",
+  value: 3002465
+},  {
+  id: 3002443,
+  label: "Le Puy-Sainte-Reparade",
+  lat: 43.663189,
+  lon: 5.43434,
+  nm: "Le Puy-Sainte-Reparade",
+  value: 3002443
+},  {
+  id: 3002420,
+  label: "Le Quesnoy",
+  lat: 50.247971,
+  lon: 3.63656,
+  nm: "Le Quesnoy",
+  value: 3002420
+},  {
+  id: 3002401,
+  label: "Le Raincy",
+  lat: 48.900002,
+  lon: 2.51667,
+  nm: "Le Raincy",
+  value: 3002401
+},  {
+  id: 3002373,
+  label: "Le Relecq-Kerhuon",
+  lat: 48.40691,
+  lon: -4.39359,
+  nm: "Le Relecq-Kerhuon",
+  value: 3002373
+},  {
+  id: 3002357,
+  label: "Le Revest-les-Eaux",
+  lat: 43.183331,
+  lon: 5.93333,
+  nm: "Le Revest-les-Eaux",
+  value: 3002357
+},  {
+  id: 3002351,
+  label: "Le Rheu",
+  lat: 48.10228,
+  lon: -1.79734,
+  nm: "Le Rheu",
+  value: 3002351
+},  {
+  id: 3002280,
+  label: "Le Rouret",
+  lat: 43.67873,
+  lon: 7.01521,
+  nm: "Le Rouret",
+  value: 3002280
+},  {
+  id: 3002271,
+  label: "Le Rove",
+  lat: 43.369869,
+  lon: 5.25112,
+  nm: "Le Rove",
+  value: 3002271
+},  {
+  id: 3002256,
+  label: "Le Russey",
+  lat: 47.160549,
+  lon: 6.72912,
+  nm: "Le Russey",
+  value: 3002256
+},  {
+  id: 3000139,
+  label: "Le Soler",
+  lat: 42.681011,
+  lon: 2.79335,
+  nm: "Le Soler",
+  value: 3000139
+},  {
+  id: 3000090,
+  label: "Le Sourn",
+  lat: 48.042622,
+  lon: -2.9879,
+  nm: "Le Sourn",
+  value: 3000090
+},  {
+  id: 2999296,
+  label: "Le Taillan-Medoc",
+  lat: 44.905201,
+  lon: -0.6706,
+  nm: "Le Taillan-Medoc",
+  value: 2999296
+},  {
+  id: 2999290,
+  label: "Le Tallud",
+  lat: 46.629108,
+  lon: -0.29978,
+  nm: "Le Tallud",
+  value: 2999290
+},  {
+  id: 2999260,
+  label: "Le Teich",
+  lat: 44.631771,
+  lon: -1.02155,
+  nm: "Le Teich",
+  value: 2999260
+},  {
+  id: 2999259,
+  label: "Le Teil",
+  lat: 44.546791,
+  lon: 4.68165,
+  nm: "Le Teil",
+  value: 2999259
+},  {
+  id: 2999205,
+  label: "Le Theil-Bocage",
+  lat: 48.883331,
+  lon: -0.71667,
+  nm: "Le Theil-Bocage",
+  value: 2999205
+},  {
+  id: 2999186,
+  label: "Le Thillay",
+  lat: 49.006592,
+  lon: 2.47218,
+  nm: "Le Thillay",
+  value: 2999186
+},  {
+  id: 2999185,
+  label: "Le Thillot",
+  lat: 47.87941,
+  lon: 6.7628,
+  nm: "Le Thillot",
+  value: 2999185
+},  {
+  id: 2999182,
+  label: "Le Tholonet",
+  lat: 43.521759,
+  lon: 5.51115,
+  nm: "Le Tholonet",
+  value: 2999182
+},  {
+  id: 2999180,
+  label: "Le Thor",
+  lat: 43.929428,
+  lon: 4.99543,
+  nm: "Le Thor",
+  value: 2999180
+},  {
+  id: 2999163,
+  label: "Le Tignet",
+  lat: 43.63887,
+  lon: 6.84173,
+  nm: "Le Tignet",
+  value: 2999163
+},  {
+  id: 2999139,
+  label: "Le Touquet-Paris-Plage",
+  lat: 50.524319,
+  lon: 1.58571,
+  nm: "Le Touquet-Paris-Plage",
+  value: 2999139
+},  {
+  id: 2999131,
+  label: "Le Touvet",
+  lat: 45.358089,
+  lon: 5.94889,
+  nm: "Le Touvet",
+  value: 2999131
+},  {
+  id: 2999126,
+  label: "Le Trait",
+  lat: 49.468948,
+  lon: 0.81634,
+  nm: "Le Trait",
+  value: 2999126
+},  {
+  id: 2999093,
+  label: "Le Treport",
+  lat: 50.059792,
+  lon: 1.37583,
+  nm: "Le Treport",
+  value: 2999093
+},  {
+  id: 2999012,
+  label: "Le Val",
+  lat: 43.438648,
+  lon: 6.07295,
+  nm: "Le Val",
+  value: 2999012
+},  {
+  id: 2998933,
+  label: "Le Vaudreuil",
+  lat: 49.25407,
+  lon: 1.2096,
+  nm: "Le Vaudreuil",
+  value: 2998933
+},  {
+  id: 2998862,
+  label: "Le Versoud",
+  lat: 45.21386,
+  lon: 5.85815,
+  nm: "Le Versoud",
+  value: 2998862
+},  {
+  id: 2998854,
+  label: "Le Vesinet",
+  lat: 48.892811,
+  lon: 2.13308,
+  nm: "Le Vesinet",
+  value: 2998854
+},  {
+  id: 3004814,
+  label: "Lecelles",
+  lat: 50.467789,
+  lon: 3.40096,
+  nm: "Lecelles",
+  value: 3004814
+},  {
+  id: 3004444,
+  label: "Lecousse",
+  lat: 48.364578,
+  lon: -1.21289,
+  nm: "Lecousse",
+  value: 3004444
+},  {
+  id: 3004381,
+  label: "Lectoure",
+  lat: 43.934639,
+  lon: 0.62107,
+  nm: "Lectoure",
+  value: 3004381
+},  {
+  id: 3004314,
+  label: "Leers",
+  lat: 50.682171,
+  lon: 3.24429,
+  nm: "Leers",
+  value: 3004314
+},  {
+  id: 3004244,
+  label: "Leffrinckoucke",
+  lat: 51.034569,
+  lon: 2.46452,
+  nm: "Leffrinckoucke",
+  value: 3004244
+},  {
+  id: 3004213,
+  label: "Leforest",
+  lat: 50.43866,
+  lon: 3.0648,
+  nm: "Leforest",
+  value: 3004213
+},  {
+  id: 3004114,
+  label: "Lege",
+  lat: 46.884838,
+  lon: -1.60127,
+  nm: "Lege",
+  value: 3004114
+},  {
+  id: 3003874,
+  label: "Leguevin",
+  lat: 43.600281,
+  lon: 1.23236,
+  nm: "Leguevin",
+  value: 3003874
+},  {
+  id: 3003777,
+  label: "Lehon",
+  lat: 48.444321,
+  lon: -2.04578,
+  nm: "Lehon",
+  value: 3003777
+},  {
+  id: 3003136,
+  label: "Lencloitre",
+  lat: 46.816219,
+  lon: 0.32827,
+  nm: "Lencloitre",
+  value: 3003136
+},  {
+  id: 3003093,
+  label: "Lens",
+  lat: 50.433022,
+  lon: 2.82791,
+  nm: "Lens",
+  value: 3003093
+},  {
+  id: 3003074,
+  label: "Lentilly",
+  lat: 45.819839,
+  lon: 4.66352,
+  nm: "Lentilly",
+  value: 3003074
+},  {
+  id: 3003067,
+  label: "Leognan",
+  lat: 44.735481,
+  lon: -0.59738,
+  nm: "Leognan",
+  value: 3003067
+},  {
+  id: 3002247,
+  label: "Lery",
+  lat: 49.285851,
+  lon: 1.20768,
+  nm: "Lery",
+  value: 3002247
+},  {
+  id: 3002237,
+  label: "Les Abrets",
+  lat: 45.53706,
+  lon: 5.58535,
+  nm: "Les Abrets",
+  value: 3002237
+},  {
+  id: 3002185,
+  label: "Les Allues",
+  lat: 45.432549,
+  lon: 6.55558,
+  nm: "Les Allues",
+  value: 3002185
+},  {
+  id: 3002172,
+  label: "Les Andelys",
+  lat: 49.25,
+  lon: 1.41667,
+  nm: "Les Andelys",
+  value: 3002172
+},  {
+  id: 3002158,
+  label: "Les Angles",
+  lat: 43.958061,
+  lon: 4.76342,
+  nm: "Les Angles",
+  value: 3002158
+},  {
+  id: 3002138,
+  label: "Les Arcs",
+  lat: 43.45702,
+  lon: 6.47905,
+  nm: "Les Arcs",
+  value: 3002138
+},  {
+  id: 3002057,
+  label: "Les Avenieres",
+  lat: 45.631561,
+  lon: 5.57074,
+  nm: "Les Avenieres",
+  value: 3002057
+},  {
+  id: 3001698,
+  label: "Les Brouzils",
+  lat: 46.885712,
+  lon: -1.32095,
+  nm: "Les Brouzils",
+  value: 3001698
+},  {
+  id: 3001402,
+  label: "Les Clayes-sous-Bois",
+  lat: 48.82206,
+  lon: 1.98677,
+  nm: "Les Clayes-sous-Bois",
+  value: 3001402
+},  {
+  id: 3001386,
+  label: "Les Clouzeaux",
+  lat: 46.628811,
+  lon: -1.50947,
+  nm: "Les Clouzeaux",
+  value: 3001386
+},  {
+  id: 3001176,
+  label: "Les Eglisottes-et-Chalaures",
+  lat: 45.099998,
+  lon: -0.05,
+  nm: "Les Eglisottes-et-Chalaures",
+  value: 3001176
+},  {
+  id: 3001157,
+  label: "Les Epesses",
+  lat: 46.883331,
+  lon: -0.9,
+  nm: "Les Epesses",
+  value: 3001157
+},  {
+  id: 3001134,
+  label: "Les Essarts",
+  lat: 46.774399,
+  lon: -1.22834,
+  nm: "Les Essarts",
+  value: 3001134
+},  {
+  id: 3001126,
+  label: "Les Essarts-le-Roi",
+  lat: 48.716728,
+  lon: 1.90089,
+  nm: "Les Essarts-le-Roi",
+  value: 3001126
+},  {
+  id: 3001051,
+  label: "Les Fins",
+  lat: 47.077641,
+  lon: 6.63002,
+  nm: "Les Fins",
+  value: 3001051
+},  {
+  id: 3001020,
+  label: "Les Forges",
+  lat: 48.177471,
+  lon: 6.38846,
+  nm: "Les Forges",
+  value: 3001020
+},  {
+  id: 3000674,
+  label: "Les Hautes-Rivieres",
+  lat: 49.885948,
+  lon: 4.84186,
+  nm: "Les Hautes-Rivieres",
+  value: 3000674
+},  {
+  id: 3000648,
+  label: "Les Herbiers",
+  lat: 46.866669,
+  lon: -1.01667,
+  nm: "Les Herbiers",
+  value: 3000648
+},  {
+  id: 3000622,
+  label: "Les Houches",
+  lat: 45.89011,
+  lon: 6.79613,
+  nm: "Les Houches",
+  value: 3000622
+},  {
+  id: 3000519,
+  label: "Les Landes-Genusson",
+  lat: 46.966671,
+  lon: -1.11667,
+  nm: "Les Landes-Genusson",
+  value: 3000519
+},  {
+  id: 3000491,
+  label: "Les Lilas",
+  lat: 48.879921,
+  lon: 2.42057,
+  nm: "Les Lilas",
+  value: 3000491
+},  {
+  id: 3000446,
+  label: "Les Lucs-sur-Boulogne",
+  lat: 46.84478,
+  lon: -1.49445,
+  nm: "Les Lucs-sur-Boulogne",
+  value: 3000446
+},  {
+  id: 3000400,
+  label: "Les Marches",
+  lat: 45.49921,
+  lon: 6.00087,
+  nm: "Les Marches",
+  value: 3000400
+},  {
+  id: 3000329,
+  label: "Les Mees",
+  lat: 44.030708,
+  lon: 5.97681,
+  nm: "Les Mees",
+  value: 3000329
+},  {
+  id: 3000192,
+  label: "Les Mureaux",
+  lat: 48.99173,
+  lon: 1.90972,
+  nm: "Les Mureaux",
+  value: 3000192
+},  {
+  id: 3000165,
+  label: "Les Noes-pres-Troyes",
+  lat: 48.303581,
+  lon: 4.04552,
+  nm: "Les Noes-pres-Troyes",
+  value: 3000165
+},  {
+  id: 3000060,
+  label: "Les Pavillons-sous-Bois",
+  lat: 48.90683,
+  lon: 2.50648,
+  nm: "Les Pavillons-sous-Bois",
+  value: 3000060
+},  {
+  id: 3000047,
+  label: "Les Pennes-Mirabeau",
+  lat: 43.410278,
+  lon: 5.31306,
+  nm: "Les Pennes-Mirabeau",
+  value: 3000047
+},  {
+  id: 2999982,
+  label: "Les Pieux",
+  lat: 49.512859,
+  lon: -1.80714,
+  nm: "Les Pieux",
+  value: 2999982
+},  {
+  id: 2999908,
+  label: "Les Ponts-de-Ce",
+  lat: 47.423149,
+  lon: -0.52477,
+  nm: "Les Ponts-de-Ce",
+  value: 2999908
+},  {
+  id: 2999742,
+  label: "Les Roches-de-Condrieu",
+  lat: 45.451069,
+  lon: 4.76738,
+  nm: "Les Roches-de-Condrieu",
+  value: 2999742
+},  {
+  id: 2999725,
+  label: "Les Rosiers-sur-Loire",
+  lat: 47.349998,
+  lon: -0.21667,
+  nm: "Les Rosiers-sur-Loire",
+  value: 2999725
+},  {
+  id: 2999706,
+  label: "Les Rousses",
+  lat: 46.484119,
+  lon: 6.0633,
+  nm: "Les Rousses",
+  value: 2999706
+},  {
+  id: 2999683,
+  label: "Les Sables-dOlonne",
+  lat: 46.5,
+  lon: -1.78333,
+  nm: "Les Sables-dOlonne",
+  value: 2999683
+},  {
+  id: 2999649,
+  label: "Les Salles-du-Gardon",
+  lat: 44.207901,
+  lon: 4.03689,
+  nm: "Les Salles-du-Gardon",
+  value: 2999649
+},  {
+  id: 2999572,
+  label: "Les Sorinieres",
+  lat: 47.148312,
+  lon: -1.52932,
+  nm: "Les Sorinieres",
+  value: 2999572
+},  {
+  id: 2999485,
+  label: "Les Touches",
+  lat: 47.44249,
+  lon: -1.43097,
+  nm: "Les Touches",
+  value: 2999485
+},  {
+  id: 6615536,
+  label: "Les Ulis",
+  lat: 48.681671,
+  lon: 2.16944,
+  nm: "Les Ulis",
+  value: 6615536
+},  {
+  id: 2999391,
+  label: "Les Vans",
+  lat: 44.406189,
+  lon: 4.13471,
+  nm: "Les Vans",
+  value: 2999391
+},  {
+  id: 3001617,
+  label: "Lescar",
+  lat: 43.333328,
+  lon: -0.41667,
+  nm: "Lescar",
+  value: 3001617
+},  {
+  id: 3000602,
+  label: "Lesigny",
+  lat: 48.74374,
+  lon: 2.61518,
+  nm: "Lesigny",
+  value: 3000602
+},  {
+  id: 3000174,
+  label: "Lesneven",
+  lat: 48.57233,
+  lon: -4.32133,
+  nm: "Lesneven",
+  value: 3000174
+},  {
+  id: 3000072,
+  label: "Lesparre-Medoc",
+  lat: 45.299999,
+  lon: -0.93333,
+  nm: "Lesparre-Medoc",
+  value: 3000072
+},  {
+  id: 2999981,
+  label: "Lespignan",
+  lat: 43.273659,
+  lon: 3.17224,
+  nm: "Lespignan",
+  value: 2999981
+},  {
+  id: 2999976,
+  label: "Lespinasse",
+  lat: 43.712059,
+  lon: 1.38462,
+  nm: "Lespinasse",
+  value: 2999976
+},  {
+  id: 2999838,
+  label: "Lesquin",
+  lat: 50.582321,
+  lon: 3.119,
+  nm: "Lesquin",
+  value: 2999838
+},  {
+  id: 2999446,
+  label: "Lestrem",
+  lat: 50.619869,
+  lon: 2.68646,
+  nm: "Lestrem",
+  value: 2999446
+},  {
+  id: 2999046,
+  label: "Leucate",
+  lat: 42.910561,
+  lon: 3.02944,
+  nm: "Leucate",
+  value: 2999046
+},  {
+  id: 2999020,
+  label: "Leuville-sur-Orge",
+  lat: 48.617298,
+  lon: 2.26685,
+  nm: "Leuville-sur-Orge",
+  value: 2999020
+},  {
+  id: 2999002,
+  label: "Leval",
+  lat: 50.181061,
+  lon: 3.83093,
+  nm: "Leval",
+  value: 2999002
+},  {
+  id: 2998975,
+  label: "Levallois-Perret",
+  lat: 48.89389,
+  lon: 2.28864,
+  nm: "Levallois-Perret",
+  value: 2998975
+},  {
+  id: 2998917,
+  label: "Levens",
+  lat: 43.860432,
+  lon: 7.22653,
+  nm: "Levens",
+  value: 2998917
+},  {
+  id: 2998856,
+  label: "Leves",
+  lat: 48.47065,
+  lon: 1.48194,
+  nm: "Leves",
+  value: 2998856
+},  {
+  id: 2998830,
+  label: "Levier",
+  lat: 46.953018,
+  lon: 6.12059,
+  nm: "Levier",
+  value: 2998830
+},  {
+  id: 2998718,
+  label: "Levroux",
+  lat: 46.9786,
+  lon: 1.61243,
+  nm: "Levroux",
+  value: 2998718
+},  {
+  id: 2998714,
+  label: "Lewarde",
+  lat: 50.341728,
+  lon: 3.16782,
+  nm: "Lewarde",
+  value: 2998714
+},  {
+  id: 2998709,
+  label: "Lexy",
+  lat: 49.503559,
+  lon: 5.7338,
+  nm: "Lexy",
+  value: 2998709
+},  {
+  id: 2998661,
+  label: "Lezat-sur-Leze",
+  lat: 43.27734,
+  lon: 1.34686,
+  nm: "Lezat-sur-Leze",
+  value: 2998661
+},  {
+  id: 2998660,
+  label: "Lezay",
+  lat: 46.26437,
+  lon: -0.00925,
+  nm: "Lezay",
+  value: 2998660
+},  {
+  id: 2998654,
+  label: "Lezennes",
+  lat: 50.615528,
+  lon: 3.11354,
+  nm: "Lezennes",
+  value: 2998654
+},  {
+  id: 2998644,
+  label: "Lezignan-Corbieres",
+  lat: 43.197639,
+  lon: 2.76142,
+  nm: "Lezignan-Corbieres",
+  value: 2998644
+},  {
+  id: 2998639,
+  label: "Lezoux",
+  lat: 45.826889,
+  lon: 3.37924,
+  nm: "Lezoux",
+  value: 2998639
+},  {
+  id: 2998632,
+  label: "LHay-les-Roses",
+  lat: 48.783329,
+  lon: 2.33333,
+  nm: "LHay-les-Roses",
+  value: 2998632
+},  {
+  id: 2998622,
+  label: "Lherm",
+  lat: 43.431271,
+  lon: 1.22239,
+  nm: "Lherm",
+  value: 2998622
+},  {
+  id: 2998532,
+  label: "Liancourt",
+  lat: 49.330341,
+  lon: 2.46595,
+  nm: "Liancourt",
+  value: 2998532
+},  {
+  id: 2998520,
+  label: "Libercourt",
+  lat: 50.483219,
+  lon: 3.01584,
+  nm: "Libercourt",
+  value: 2998520
+},  {
+  id: 2998517,
+  label: "Libourne",
+  lat: 44.916672,
+  lon: -0.23333,
+  nm: "Libourne",
+  value: 2998517
+},  {
+  id: 2998439,
+  label: "Lieusaint",
+  lat: 48.634762,
+  lon: 2.54806,
+  nm: "Lieusaint",
+  value: 2998439
+},  {
+  id: 2998431,
+  label: "Lievin",
+  lat: 50.4198,
+  lon: 2.78068,
+  nm: "Lievin",
+  value: 2998431
+},  {
+  id: 2998425,
+  label: "Liffol-le-Grand",
+  lat: 48.317711,
+  lon: 5.58125,
+  nm: "Liffol-le-Grand",
+  value: 2998425
+},  {
+  id: 2998423,
+  label: "Liffre",
+  lat: 48.213242,
+  lon: -1.50838,
+  nm: "Liffre",
+  value: 2998423
+},  {
+  id: 2998409,
+  label: "Lignan-sur-Orb",
+  lat: 43.384621,
+  lon: 3.16891,
+  nm: "Lignan-sur-Orb",
+  value: 2998409
+},  {
+  id: 2998404,
+  label: "Ligne",
+  lat: 47.410961,
+  lon: -1.37726,
+  nm: "Ligne",
+  value: 2998404
+},  {
+  id: 2998362,
+  label: "Ligny-en-Barrois",
+  lat: 48.68861,
+  lon: 5.32543,
+  nm: "Ligny-en-Barrois",
+  value: 2998362
+},  {
+  id: 2998343,
+  label: "Ligueil",
+  lat: 47.042099,
+  lon: 0.81893,
+  nm: "Ligueil",
+  value: 2998343
+},  {
+  id: 2998340,
+  label: "Liguge",
+  lat: 46.520351,
+  lon: 0.32617,
+  nm: "Liguge",
+  value: 2998340
+},  {
+  id: 2998330,
+  label: "LIle-Rousse",
+  lat: 42.633709,
+  lon: 8.93764,
+  nm: "LIle-Rousse",
+  value: 2998330
+},  {
+  id: 2998324,
+  label: "Lille",
+  lat: 50.632969,
+  lon: 3.05858,
+  nm: "Lille",
+  value: 2998324
+},  {
+  id: 2998322,
+  label: "Lillebonne",
+  lat: 49.520302,
+  lon: 0.53617,
+  nm: "Lillebonne",
+  value: 2998322
+},  {
+  id: 2998320,
+  label: "Lillers",
+  lat: 50.56345,
+  lon: 2.48042,
+  nm: "Lillers",
+  value: 2998320
+},  {
+  id: 2998312,
+  label: "Limas",
+  lat: 45.978958,
+  lon: 4.70292,
+  nm: "Limas",
+  value: 2998312
+},  {
+  id: 2998311,
+  label: "Limay",
+  lat: 48.995529,
+  lon: 1.74081,
+  nm: "Limay",
+  value: 2998311
+},  {
+  id: 2998305,
+  label: "Limeil-Brevannes",
+  lat: 48.744801,
+  lon: 2.48705,
+  nm: "Limeil-Brevannes",
+  value: 2998305
+},  {
+  id: 2998286,
+  label: "Limoges",
+  lat: 45.831532,
+  lon: 1.2578,
+  nm: "Limoges",
+  value: 2998286
+},  {
+  id: 2998277,
+  label: "Limonest",
+  lat: 45.83744,
+  lon: 4.7718,
+  nm: "Limonest",
+  value: 2998277
+},  {
+  id: 2998269,
+  label: "Limours",
+  lat: 48.646252,
+  lon: 2.07688,
+  nm: "Limours",
+  value: 2998269
+},  {
+  id: 2998264,
+  label: "Limoux",
+  lat: 43.054871,
+  lon: 2.22173,
+  nm: "Limoux",
+  value: 2998264
+},  {
+  id: 2998252,
+  label: "Linars",
+  lat: 45.650002,
+  lon: 0.08333,
+  nm: "Linars",
+  value: 2998252
+},  {
+  id: 2998251,
+  label: "Linas",
+  lat: 48.630409,
+  lon: 2.26266,
+  nm: "Linas",
+  value: 2998251
+},  {
+  id: 2998224,
+  label: "Lingolsheim",
+  lat: 48.557522,
+  lon: 7.68253,
+  nm: "Lingolsheim",
+  value: 2998224
+},  {
+  id: 2998209,
+  label: "Linselles",
+  lat: 50.73708,
+  lon: 3.07878,
+  nm: "Linselles",
+  value: 2998209
+},  {
+  id: 2998187,
+  label: "Lion-sur-Mer",
+  lat: 49.300179,
+  lon: -0.32157,
+  nm: "Lion-sur-Mer",
+  value: 2998187
+},  {
+  id: 2998167,
+  label: "Lipsheim",
+  lat: 48.491638,
+  lon: 7.66751,
+  nm: "Lipsheim",
+  value: 2998167
+},  {
+  id: 2998165,
+  label: "Lire",
+  lat: 47.34322,
+  lon: -1.16536,
+  nm: "Lire",
+  value: 2998165
+},  {
+  id: 2998150,
+  label: "Lisieux",
+  lat: 49.146599,
+  lon: 0.22925,
+  nm: "Lisieux",
+  value: 2998150
+},  {
+  id: 2998140,
+  label: "LIsle-Adam",
+  lat: 49.107441,
+  lon: 2.22818,
+  nm: "LIsle-Adam",
+  value: 2998140
+},  {
+  id: 2998136,
+  label: "LIsle-dAbeau",
+  lat: 45.61813,
+  lon: 5.23546,
+  nm: "LIsle-dAbeau",
+  value: 2998136
+},  {
+  id: 2998127,
+  label: "LIsle-sur-la-Sorgue",
+  lat: 43.919151,
+  lon: 5.05092,
+  nm: "LIsle-sur-la-Sorgue",
+  value: 2998127
+},  {
+  id: 2998124,
+  label: "Lisle-sur-Tarn",
+  lat: 43.852501,
+  lon: 1.81098,
+  nm: "Lisle-sur-Tarn",
+  value: 2998124
+},  {
+  id: 2998105,
+  label: "Lisses",
+  lat: 48.602219,
+  lon: 2.42246,
+  nm: "Lisses",
+  value: 2998105
+},  {
+  id: 2998102,
+  label: "Lissieu",
+  lat: 45.864262,
+  lon: 4.74703,
+  nm: "Lissieu",
+  value: 2998102
+},  {
+  id: 2998097,
+  label: "Listrac-Medoc",
+  lat: 45.0741,
+  lon: -0.79132,
+  nm: "Listrac-Medoc",
+  value: 2998097
+},  {
+  id: 2998081,
+  label: "Livarot",
+  lat: 49.005001,
+  lon: 0.1502,
+  nm: "Livarot",
+  value: 2998081
+},  {
+  id: 2998078,
+  label: "Liverdun",
+  lat: 48.750839,
+  lon: 6.06424,
+  nm: "Liverdun",
+  value: 2998078
+},  {
+  id: 2998059,
+  label: "Livron-sur-Drome",
+  lat: 44.773102,
+  lon: 4.84705,
+  nm: "Livron-sur-Drome",
+  value: 2998059
+},  {
+  id: 2998056,
+  label: "Livry-Gargan",
+  lat: 48.9193,
+  lon: 2.54305,
+  nm: "Livry-Gargan",
+  value: 2998056
+},  {
+  id: 2998055,
+  label: "Livry-sur-Seine",
+  lat: 48.517712,
+  lon: 2.67879,
+  nm: "Livry-sur-Seine",
+  value: 2998055
+},  {
+  id: 2998027,
+  label: "Lizy-sur-Ourcq",
+  lat: 49.02454,
+  lon: 3.02178,
+  nm: "Lizy-sur-Ourcq",
+  value: 2998027
+},  {
+  id: 2997996,
+  label: "Loches",
+  lat: 47.133331,
+  lon: 1,
+  nm: "Loches",
+  value: 2997996
+},  {
+  id: 2997961,
+  label: "Locmine",
+  lat: 47.886189,
+  lon: -2.83536,
+  nm: "Locmine",
+  value: 2997961
+},  {
+  id: 2997959,
+  label: "Locmiquelic",
+  lat: 47.724991,
+  lon: -3.34153,
+  nm: "Locmiquelic",
+  value: 2997959
+},  {
+  id: 2997957,
+  label: "Locoal-Mendon",
+  lat: 47.7052,
+  lon: -3.10796,
+  nm: "Locoal-Mendon",
+  value: 2997957
+},  {
+  id: 2997956,
+  label: "Locon",
+  lat: 50.57029,
+  lon: 2.66629,
+  nm: "Locon",
+  value: 2997956
+},  {
+  id: 2997943,
+  label: "Loctudy",
+  lat: 47.833328,
+  lon: -4.16667,
+  nm: "Loctudy",
+  value: 2997943
+},  {
+  id: 2997936,
+  label: "Lodeve",
+  lat: 43.716671,
+  lon: 3.31667,
+  nm: "Lodeve",
+  value: 2997936
+},  {
+  id: 2997904,
+  label: "Lognes",
+  lat: 48.835411,
+  lon: 2.62998,
+  nm: "Lognes",
+  value: 2997904
+},  {
+  id: 2997875,
+  label: "Loire-sur-Rhone",
+  lat: 45.549999,
+  lon: 4.8,
+  nm: "Loire-sur-Rhone",
+  value: 2997875
+},  {
+  id: 2997841,
+  label: "Loison-sous-Lens",
+  lat: 50.437962,
+  lon: 2.85322,
+  nm: "Loison-sous-Lens",
+  value: 2997841
+},  {
+  id: 2997804,
+  label: "Lombron",
+  lat: 48.078781,
+  lon: 0.41869,
+  nm: "Lombron",
+  value: 2997804
+},  {
+  id: 2997803,
+  label: "Lomme",
+  lat: 50.643581,
+  lon: 2.98715,
+  nm: "Lomme",
+  value: 2997803
+},  {
+  id: 2997792,
+  label: "Lompret",
+  lat: 50.669312,
+  lon: 2.98968,
+  nm: "Lompret",
+  value: 2997792
+},  {
+  id: 2997775,
+  label: "Longages",
+  lat: 43.353981,
+  lon: 1.23905,
+  nm: "Longages",
+  value: 2997775
+},  {
+  id: 2997717,
+  label: "Longeville-les-Metz",
+  lat: 49.11277,
+  lon: 6.1353,
+  nm: "Longeville-les-Metz",
+  value: 2997717
+},  {
+  id: 2997716,
+  label: "Longeville-les-Saint-Avold",
+  lat: 49.118111,
+  lon: 6.64165,
+  nm: "Longeville-les-Saint-Avold",
+  value: 2997716
+},  {
+  id: 2997722,
+  label: "Longeville-sur-Mer",
+  lat: 46.416672,
+  lon: -1.5,
+  nm: "Longeville-sur-Mer",
+  value: 2997722
+},  {
+  id: 2997712,
+  label: "Longjumeau",
+  lat: 48.69503,
+  lon: 2.30736,
+  nm: "Longjumeau",
+  value: 2997712
+},  {
+  id: 2997711,
+  label: "Longlaville",
+  lat: 49.53455,
+  lon: 5.80203,
+  nm: "Longlaville",
+  value: 2997711
+},  {
+  id: 2997700,
+  label: "Longperrier",
+  lat: 49.048439,
+  lon: 2.66571,
+  nm: "Longperrier",
+  value: 2997700
+},  {
+  id: 2997698,
+  label: "Longpont-sur-Orge",
+  lat: 48.64172,
+  lon: 2.29278,
+  nm: "Longpont-sur-Orge",
+  value: 2997698
+},  {
+  id: 2997681,
+  label: "Longueau",
+  lat: 49.872261,
+  lon: 2.3588,
+  nm: "Longueau",
+  value: 2997681
+},  {
+  id: 2997676,
+  label: "Longueil-Annel",
+  lat: 49.469082,
+  lon: 2.86464,
+  nm: "Longueil-Annel",
+  value: 2997676
+},  {
+  id: 2997670,
+  label: "Longuenesse",
+  lat: 50.733952,
+  lon: 2.2352,
+  nm: "Longuenesse",
+  value: 2997670
+},  {
+  id: 2997646,
+  label: "Longuyon",
+  lat: 49.44548,
+  lon: 5.60145,
+  nm: "Longuyon",
+  value: 2997646
+},  {
+  id: 2997644,
+  label: "Longvic",
+  lat: 47.28754,
+  lon: 5.06341,
+  nm: "Longvic",
+  value: 2997644
+},  {
+  id: 2997638,
+  label: "Longwy",
+  lat: 49.51936,
+  lon: 5.76882,
+  nm: "Longwy",
+  value: 2997638
+},  {
+  id: 2997628,
+  label: "Lons",
+  lat: 43.316669,
+  lon: -0.4,
+  nm: "Lons",
+  value: 2997628
+},  {
+  id: 2997626,
+  label: "Lons-le-Saunier",
+  lat: 46.666672,
+  lon: 5.55,
+  nm: "Lons-le-Saunier",
+  value: 2997626
+},  {
+  id: 2997621,
+  label: "Loon-Plage",
+  lat: 50.996471,
+  lon: 2.2177,
+  nm: "Loon-Plage",
+  value: 2997621
+},  {
+  id: 2997620,
+  label: "Loos",
+  lat: 50.609821,
+  lon: 3.01874,
+  nm: "Loos",
+  value: 2997620
+},  {
+  id: 2997619,
+  label: "Loos-en-Gohelle",
+  lat: 50.457859,
+  lon: 2.79215,
+  nm: "Loos-en-Gohelle",
+  value: 2997619
+},  {
+  id: 2997616,
+  label: "Loperhet",
+  lat: 48.377251,
+  lon: -4.30608,
+  nm: "Loperhet",
+  value: 2997616
+},  {
+  id: 2997590,
+  label: "Lorette",
+  lat: 45.50618,
+  lon: 4.57522,
+  nm: "Lorette",
+  value: 2997590
+},  {
+  id: 2997581,
+  label: "Lorgues",
+  lat: 43.49361,
+  lon: 6.3611,
+  nm: "Lorgues",
+  value: 2997581
+},  {
+  id: 2997577,
+  label: "Lorient",
+  lat: 47.75,
+  lon: -3.36667,
+  nm: "Lorient",
+  value: 2997577
+},  {
+  id: 2997570,
+  label: "Loriol-du-Comtat",
+  lat: 44.07626,
+  lon: 4.99922,
+  nm: "Loriol-du-Comtat",
+  value: 2997570
+},  {
+  id: 2997569,
+  label: "Loriol-sur-Drome",
+  lat: 44.75214,
+  lon: 4.82547,
+  nm: "Loriol-sur-Drome",
+  value: 2997569
+},  {
+  id: 2997556,
+  label: "Lormont",
+  lat: 44.87495,
+  lon: -0.51782,
+  nm: "Lormont",
+  value: 2997556
+},  {
+  id: 2997547,
+  label: "Lorris",
+  lat: 47.8895,
+  lon: 2.51478,
+  nm: "Lorris",
+  value: 2997547
+},  {
+  id: 2997514,
+  label: "Louannec",
+  lat: 48.794231,
+  lon: -3.412,
+  nm: "Louannec",
+  value: 2997514
+},  {
+  id: 2997511,
+  label: "Louargat",
+  lat: 48.565762,
+  lon: -3.3375,
+  nm: "Louargat",
+  value: 2997511
+},  {
+  id: 2997493,
+  label: "Loubert",
+  lat: 45.914219,
+  lon: 0.58617,
+  nm: "Loubert",
+  value: 2997493
+},  {
+  id: 2997465,
+  label: "Loudeac",
+  lat: 48.178261,
+  lon: -2.75433,
+  nm: "Loudeac",
+  value: 2997465
+},  {
+  id: 2997457,
+  label: "Loudun",
+  lat: 47.007881,
+  lon: 0.08296,
+  nm: "Loudun",
+  value: 2997457
+},  {
+  id: 2997456,
+  label: "Loue",
+  lat: 47.99575,
+  lon: -0.1545,
+  nm: "Loue",
+  value: 2997456
+},  {
+  id: 2997439,
+  label: "Louhans",
+  lat: 46.633331,
+  lon: 5.21667,
+  nm: "Louhans",
+  value: 2997439
+},  {
+  id: 2997397,
+  label: "Lourches",
+  lat: 50.313541,
+  lon: 3.35258,
+  nm: "Lourches",
+  value: 2997397
+},  {
+  id: 2997395,
+  label: "Lourdes",
+  lat: 43.099998,
+  lon: -0.05,
+  nm: "Lourdes",
+  value: 2997395
+},  {
+  id: 2997371,
+  label: "Loury",
+  lat: 47.999439,
+  lon: 2.08474,
+  nm: "Loury",
+  value: 2997371
+},  {
+  id: 2997351,
+  label: "Louveciennes",
+  lat: 48.86116,
+  lon: 2.11463,
+  nm: "Louveciennes",
+  value: 2997351
+},  {
+  id: 2997345,
+  label: "Louverne",
+  lat: 48.12178,
+  lon: -0.71721,
+  nm: "Louverne",
+  value: 2997345
+},  {
+  id: 2997336,
+  label: "Louviers",
+  lat: 49.216671,
+  lon: 1.16667,
+  nm: "Louviers",
+  value: 2997336
+},  {
+  id: 2997331,
+  label: "Louvigne-du-Desert",
+  lat: 48.480469,
+  lon: -1.12537,
+  nm: "Louvigne-du-Desert",
+  value: 2997331
+},  {
+  id: 2997325,
+  label: "Louvigny",
+  lat: 49.15715,
+  lon: -0.39376,
+  nm: "Louvigny",
+  value: 2997325
+},  {
+  id: 2997317,
+  label: "Louvres",
+  lat: 49.044601,
+  lon: 2.50479,
+  nm: "Louvres",
+  value: 2997317
+},  {
+  id: 2997316,
+  label: "Louvroil",
+  lat: 50.264271,
+  lon: 3.96272,
+  nm: "Louvroil",
+  value: 2997316
+},  {
+  id: 2997297,
+  label: "Loyettes",
+  lat: 45.776199,
+  lon: 5.20743,
+  nm: "Loyettes",
+  value: 2997297
+},  {
+  id: 2997295,
+  label: "Lozanne",
+  lat: 45.855911,
+  lon: 4.68594,
+  nm: "Lozanne",
+  value: 2997295
+},  {
+  id: 2997271,
+  label: "Lubersac",
+  lat: 45.443939,
+  lon: 1.40418,
+  nm: "Lubersac",
+  value: 2997271
+},  {
+  id: 2997262,
+  label: "Luc-la-Primaube",
+  lat: 44.314388,
+  lon: 2.53552,
+  nm: "Luc-la-Primaube",
+  value: 2997262
+},  {
+  id: 2997204,
+  label: "Luc-sur-Mer",
+  lat: 49.314522,
+  lon: -0.35499,
+  nm: "Luc-sur-Mer",
+  value: 2997204
+},  {
+  id: 2997248,
+  label: "Lucciana",
+  lat: 42.545891,
+  lon: 9.41859,
+  nm: "Lucciana",
+  value: 2997248
+},  {
+  id: 2997246,
+  label: "Luce",
+  lat: 48.436901,
+  lon: 1.46359,
+  nm: "Luce",
+  value: 2997246
+},  {
+  id: 2997210,
+  label: "Lucon",
+  lat: 46.457729,
+  lon: -1.16512,
+  nm: "Lucon",
+  value: 2997210
+},  {
+  id: 2997185,
+  label: "Ludon-Medoc",
+  lat: 44.981178,
+  lon: -0.60254,
+  nm: "Ludon-Medoc",
+  value: 2997185
+},  {
+  id: 2997184,
+  label: "Ludres",
+  lat: 48.621811,
+  lon: 6.16183,
+  nm: "Ludres",
+  value: 2997184
+},  {
+  id: 2997158,
+  label: "Lugrin",
+  lat: 46.403301,
+  lon: 6.66744,
+  nm: "Lugrin",
+  value: 2997158
+},  {
+  id: 2997148,
+  label: "Luisant",
+  lat: 48.429501,
+  lon: 1.47383,
+  nm: "Luisant",
+  value: 2997148
+},  {
+  id: 2997142,
+  label: "Lumbres",
+  lat: 50.706928,
+  lon: 2.12082,
+  nm: "Lumbres",
+  value: 2997142
+},  {
+  id: 2997116,
+  label: "Lunel",
+  lat: 43.67778,
+  lon: 4.13611,
+  nm: "Lunel",
+  value: 2997116
+},  {
+  id: 2997113,
+  label: "Lunel-Viel",
+  lat: 43.678902,
+  lon: 4.0925,
+  nm: "Lunel-Viel",
+  value: 2997113
+},  {
+  id: 2997112,
+  label: "Luneray",
+  lat: 49.82795,
+  lon: 0.91581,
+  nm: "Luneray",
+  value: 2997112
+},  {
+  id: 2997110,
+  label: "Luneville",
+  lat: 48.599998,
+  lon: 6.5,
+  nm: "Luneville",
+  value: 2997110
+},  {
+  id: 2997104,
+  label: "LUnion",
+  lat: 43.660419,
+  lon: 1.48264,
+  nm: "LUnion",
+  value: 2997104
+},  {
+  id: 2997079,
+  label: "Lurcy-Levis",
+  lat: 46.73056,
+  lon: 2.93876,
+  nm: "Lurcy-Levis",
+  value: 2997079
+},  {
+  id: 2997076,
+  label: "Lure",
+  lat: 47.683331,
+  lon: 6.5,
+  nm: "Lure",
+  value: 2997076
+},  {
+  id: 2997058,
+  label: "Lusignan",
+  lat: 46.435982,
+  lon: 0.1262,
+  nm: "Lusignan",
+  value: 2997058
+},  {
+  id: 2997044,
+  label: "Lussac-les-Chateaux",
+  lat: 46.403271,
+  lon: 0.72524,
+  nm: "Lussac-les-Chateaux",
+  value: 2997044
+},  {
+  id: 2997010,
+  label: "Lutterbach",
+  lat: 47.75835,
+  lon: 7.27695,
+  nm: "Lutterbach",
+  value: 2997010
+},  {
+  id: 2996995,
+  label: "Luxeuil-les-Bains",
+  lat: 47.817101,
+  lon: 6.365,
+  nm: "Luxeuil-les-Bains",
+  value: 2996995
+},  {
+  id: 2996986,
+  label: "Luynes",
+  lat: 47.384411,
+  lon: 0.5547,
+  nm: "Luynes",
+  value: 2996986
+},  {
+  id: 2996982,
+  label: "Luzarches",
+  lat: 49.11319,
+  lon: 2.4223,
+  nm: "Luzarches",
+  value: 2996982
+},  {
+  id: 2996963,
+  label: "Luzinay",
+  lat: 45.588951,
+  lon: 4.95829,
+  nm: "Luzinay",
+  value: 2996963
+},  {
+  id: 2996957,
+  label: "Luzy",
+  lat: 46.790112,
+  lon: 3.97036,
+  nm: "Luzy",
+  value: 2996957
+},  {
+  id: 2996944,
+  label: "Lyon",
+  lat: 45.748459,
+  lon: 4.84671,
+  nm: "Lyon",
+  value: 2996944
+},  {
+  id: 2996927,
+  label: "Lys-lez-Lannoy",
+  lat: 50.666672,
+  lon: 3.21667,
+  nm: "Lys-lez-Lannoy",
+  value: 2996927
+},  {
+  id: 2996921,
+  label: "Mably",
+  lat: 46.086231,
+  lon: 4.06607,
+  nm: "Mably",
+  value: 2996921
+},  {
+  id: 2996918,
+  label: "Macau",
+  lat: 45.00679,
+  lon: -0.61821,
+  nm: "Macau",
+  value: 2996918
+},  {
+  id: 2996905,
+  label: "Machecoul",
+  lat: 46.99358,
+  lon: -1.82352,
+  nm: "Machecoul",
+  value: 2996905
+},  {
+  id: 2996901,
+  label: "Macheren",
+  lat: 49.100449,
+  lon: 6.7738,
+  nm: "Macheren",
+  value: 2996901
+},  {
+  id: 2996882,
+  label: "Macon",
+  lat: 46.299999,
+  lon: 4.83333,
+  nm: "Macon",
+  value: 2996882
+},  {
+  id: 2996823,
+  label: "Magalas",
+  lat: 43.470951,
+  lon: 3.22338,
+  nm: "Magalas",
+  value: 2996823
+},  {
+  id: 2996819,
+  label: "Magenta",
+  lat: 49.048981,
+  lon: 3.96882,
+  nm: "Magenta",
+  value: 2996819
+},  {
+  id: 2996814,
+  label: "Magland",
+  lat: 46.019711,
+  lon: 6.62016,
+  nm: "Magland",
+  value: 2996814
+},  {
+  id: 2996810,
+  label: "Magnac-Laval",
+  lat: 46.215141,
+  lon: 1.16724,
+  nm: "Magnac-Laval",
+  value: 2996810
+},  {
+  id: 2996807,
+  label: "Magnac-sur-Touvre",
+  lat: 45.666672,
+  lon: 0.23333,
+  nm: "Magnac-sur-Touvre",
+  value: 2996807
+},  {
+  id: 2996802,
+  label: "Magnanville",
+  lat: 48.967979,
+  lon: 1.67842,
+  nm: "Magnanville",
+  value: 2996802
+},  {
+  id: 2996798,
+  label: "Magne",
+  lat: 46.315479,
+  lon: -0.54575,
+  nm: "Magne",
+  value: 2996798
+},  {
+  id: 2996764,
+  label: "Magny-en-Vexin",
+  lat: 49.155151,
+  lon: 1.78669,
+  nm: "Magny-en-Vexin",
+  value: 2996764
+},  {
+  id: 2996755,
+  label: "Magny-le-Hongre",
+  lat: 48.863251,
+  lon: 2.81546,
+  nm: "Magny-le-Hongre",
+  value: 2996755
+},  {
+  id: 2996752,
+  label: "Magny-les-Hameaux",
+  lat: 48.74345,
+  lon: 2.06154,
+  nm: "Magny-les-Hameaux",
+  value: 2996752
+},  {
+  id: 2996727,
+  label: "Maiche",
+  lat: 47.251598,
+  lon: 6.80308,
+  nm: "Maiche",
+  value: 2996727
+},  {
+  id: 2996722,
+  label: "Maignelay-Montigny",
+  lat: 49.549999,
+  lon: 2.51667,
+  nm: "Maignelay-Montigny",
+  value: 2996722
+},  {
+  id: 2996711,
+  label: "Maillane",
+  lat: 43.831139,
+  lon: 4.78152,
+  nm: "Maillane",
+  value: 2996711
+},  {
+  id: 2996687,
+  label: "Mailly-le-Camp",
+  lat: 48.66526,
+  lon: 4.21303,
+  nm: "Mailly-le-Camp",
+  value: 2996687
+},  {
+  id: 2996674,
+  label: "Maincy",
+  lat: 48.54977,
+  lon: 2.70017,
+  nm: "Maincy",
+  value: 2996674
+},  {
+  id: 2996660,
+  label: "Maing",
+  lat: 50.307911,
+  lon: 3.48446,
+  nm: "Maing",
+  value: 2996660
+},  {
+  id: 2996653,
+  label: "Maintenon",
+  lat: 48.58704,
+  lon: 1.57847,
+  nm: "Maintenon",
+  value: 2996653
+},  {
+  id: 2996645,
+  label: "Mainvilliers",
+  lat: 48.450039,
+  lon: 1.45607,
+  nm: "Mainvilliers",
+  value: 2996645
+},  {
+  id: 2996628,
+  label: "Maisdon-sur-Sevre",
+  lat: 47.097141,
+  lon: -1.38,
+  nm: "Maisdon-sur-Sevre",
+  value: 2996628
+},  {
+  id: 2996568,
+  label: "Maisons-Alfort",
+  lat: 48.81171,
+  lon: 2.43945,
+  nm: "Maisons-Alfort",
+  value: 2996568
+},  {
+  id: 2996564,
+  label: "Maisons-Laffitte",
+  lat: 48.952641,
+  lon: 2.14521,
+  nm: "Maisons-Laffitte",
+  value: 2996564
+},  {
+  id: 2996559,
+  label: "Maisse",
+  lat: 48.395241,
+  lon: 2.37902,
+  nm: "Maisse",
+  value: 2996559
+},  {
+  id: 2996538,
+  label: "Maizieres-les-Metz",
+  lat: 49.207539,
+  lon: 6.16052,
+  nm: "Maizieres-les-Metz",
+  value: 2996538
+},  {
+  id: 2996514,
+  label: "Malakoff",
+  lat: 48.819988,
+  lon: 2.29998,
+  nm: "Malakoff",
+  value: 2996514
+},  {
+  id: 2996505,
+  label: "Malansac",
+  lat: 47.677238,
+  lon: -2.29543,
+  nm: "Malansac",
+  value: 2996505
+},  {
+  id: 2996495,
+  label: "Malaucene",
+  lat: 44.172401,
+  lon: 5.13294,
+  nm: "Malaucene",
+  value: 2996495
+},  {
+  id: 2996492,
+  label: "Malaunay",
+  lat: 49.5271,
+  lon: 1.04292,
+  nm: "Malaunay",
+  value: 2996492
+},  {
+  id: 2996448,
+  label: "Malemort-sur-Correze",
+  lat: 45.17009,
+  lon: 1.56193,
+  nm: "Malemort-sur-Correze",
+  value: 2996448
+},  {
+  id: 2996444,
+  label: "Malesherbes",
+  lat: 48.295658,
+  lon: 2.40935,
+  nm: "Malesherbes",
+  value: 2996444
+},  {
+  id: 2996440,
+  label: "Malestroit",
+  lat: 47.809341,
+  lon: -2.38457,
+  nm: "Malestroit",
+  value: 2996440
+},  {
+  id: 2996420,
+  label: "Malicorne-sur-Sarthe",
+  lat: 47.813171,
+  lon: -0.08152,
+  nm: "Malicorne-sur-Sarthe",
+  value: 2996420
+},  {
+  id: 2996408,
+  label: "Malissard",
+  lat: 44.902012,
+  lon: 4.95915,
+  nm: "Malissard",
+  value: 2996408
+},  {
+  id: 2996397,
+  label: "Mallemort",
+  lat: 43.73172,
+  lon: 5.17945,
+  nm: "Mallemort",
+  value: 2996397
+},  {
+  id: 2996306,
+  label: "Malville",
+  lat: 47.359051,
+  lon: -1.86226,
+  nm: "Malville",
+  value: 2996306
+},  {
+  id: 2996298,
+  label: "Malzeville",
+  lat: 48.711811,
+  lon: 6.18176,
+  nm: "Malzeville",
+  value: 2996298
+},  {
+  id: 2996291,
+  label: "Mamers",
+  lat: 48.349998,
+  lon: 0.38333,
+  nm: "Mamers",
+  value: 2996291
+},  {
+  id: 2996255,
+  label: "Mandelieu-la-Napoule",
+  lat: 43.549999,
+  lon: 6.93333,
+  nm: "Mandelieu-la-Napoule",
+  value: 2996255
+},  {
+  id: 2996251,
+  label: "Mandeure",
+  lat: 47.449211,
+  lon: 6.80762,
+  nm: "Mandeure",
+  value: 2996251
+},  {
+  id: 2996241,
+  label: "Mandres-les-Roses",
+  lat: 48.701981,
+  lon: 2.54662,
+  nm: "Mandres-les-Roses",
+  value: 2996241
+},  {
+  id: 2996236,
+  label: "Manduel",
+  lat: 43.81855,
+  lon: 4.47247,
+  nm: "Manduel",
+  value: 2996236
+},  {
+  id: 2996186,
+  label: "Manom",
+  lat: 49.36985,
+  lon: 6.18556,
+  nm: "Manom",
+  value: 2996186
+},  {
+  id: 2996180,
+  label: "Manosque",
+  lat: 43.828831,
+  lon: 5.78688,
+  nm: "Manosque",
+  value: 2996180
+},  {
+  id: 2996148,
+  label: "Mantes-la-Jolie",
+  lat: 48.98333,
+  lon: 1.71667,
+  nm: "Mantes-la-Jolie",
+  value: 2996148
+},  {
+  id: 2996146,
+  label: "Mantes-la-Ville",
+  lat: 48.97374,
+  lon: 1.70253,
+  nm: "Mantes-la-Ville",
+  value: 2996146
+},  {
+  id: 2996106,
+  label: "Marange-Silvange",
+  lat: 49.207481,
+  lon: 6.10228,
+  nm: "Marange-Silvange",
+  value: 2996106
+},  {
+  id: 2996103,
+  label: "Marans",
+  lat: 46.308109,
+  lon: -0.9945,
+  nm: "Marans",
+  value: 2996103
+},  {
+  id: 2996089,
+  label: "Maraussan",
+  lat: 43.36895,
+  lon: 3.15642,
+  nm: "Maraussan",
+  value: 2996089
+},  {
+  id: 2996074,
+  label: "Marboz",
+  lat: 46.343369,
+  lon: 5.25978,
+  nm: "Marboz",
+  value: 2996074
+},  {
+  id: 2996006,
+  label: "Marcheprime",
+  lat: 44.69146,
+  lon: -0.85496,
+  nm: "Marcheprime",
+  value: 2996006
+},  {
+  id: 2995991,
+  label: "Marchiennes",
+  lat: 50.400002,
+  lon: 3.28333,
+  nm: "Marchiennes",
+  value: 2995991
+},  {
+  id: 2995983,
+  label: "Marcigny",
+  lat: 46.276272,
+  lon: 4.03957,
+  nm: "Marcigny",
+  value: 2995983
+},  {
+  id: 2995950,
+  label: "Marcilly-en-Villette",
+  lat: 47.765049,
+  lon: 2.02266,
+  nm: "Marcilly-en-Villette",
+  value: 2995950
+},  {
+  id: 2995938,
+  label: "Marck",
+  lat: 50.948959,
+  lon: 1.94328,
+  nm: "Marck",
+  value: 2995938
+},  {
+  id: 2995936,
+  label: "Marckolsheim",
+  lat: 48.164711,
+  lon: 7.544,
+  nm: "Marckolsheim",
+  value: 2995936
+},  {
+  id: 2995933,
+  label: "Marcoing",
+  lat: 50.121101,
+  lon: 3.17321,
+  nm: "Marcoing",
+  value: 2995933
+},  {
+  id: 2995908,
+  label: "Marcq-en-Baroeul",
+  lat: 50.666672,
+  lon: 3.08333,
+  nm: "Marcq-en-Baroeul",
+  value: 2995908
+},  {
+  id: 2995887,
+  label: "Mardie",
+  lat: 47.886169,
+  lon: 2.05745,
+  nm: "Mardie",
+  value: 2995887
+},  {
+  id: 2995861,
+  label: "Mareil-Marly",
+  lat: 48.882141,
+  lon: 2.07351,
+  nm: "Mareil-Marly",
+  value: 2995861
+},  {
+  id: 2995854,
+  label: "Marennes",
+  lat: 45.8228,
+  lon: -1.10546,
+  nm: "Marennes",
+  value: 2995854
+},  {
+  id: 2995823,
+  label: "Mareuil-sur-Lay-Dissais",
+  lat: 46.533329,
+  lon: -1.23333,
+  nm: "Mareuil-sur-Lay-Dissais",
+  value: 2995823
+},  {
+  id: 2995806,
+  label: "Margency",
+  lat: 49,
+  lon: 2.3,
+  nm: "Margency",
+  value: 2995806
+},  {
+  id: 2995790,
+  label: "Margny-les-Compiegne",
+  lat: 49.425591,
+  lon: 2.81806,
+  nm: "Margny-les-Compiegne",
+  value: 2995790
+},  {
+  id: 2995782,
+  label: "Marguerittes",
+  lat: 43.8596,
+  lon: 4.44517,
+  nm: "Marguerittes",
+  value: 2995782
+},  {
+  id: 2995750,
+  label: "Marignane",
+  lat: 43.416039,
+  lon: 5.21453,
+  nm: "Marignane",
+  value: 2995750
+},  {
+  id: 2995744,
+  label: "Marignier",
+  lat: 46.090141,
+  lon: 6.50004,
+  nm: "Marignier",
+  value: 2995744
+},  {
+  id: 2995734,
+  label: "Marigny",
+  lat: 49.099522,
+  lon: -1.24179,
+  nm: "Marigny",
+  value: 2995734
+},  {
+  id: 2995702,
+  label: "Marines",
+  lat: 49.144852,
+  lon: 1.98226,
+  nm: "Marines",
+  value: 2995702
+},  {
+  id: 2995699,
+  label: "Maringues",
+  lat: 45.921181,
+  lon: 3.32969,
+  nm: "Maringues",
+  value: 2995699
+},  {
+  id: 2995675,
+  label: "Marle",
+  lat: 49.740059,
+  lon: 3.7706,
+  nm: "Marle",
+  value: 2995675
+},  {
+  id: 2995673,
+  label: "Marlenheim",
+  lat: 48.621342,
+  lon: 7.49096,
+  nm: "Marlenheim",
+  value: 2995673
+},  {
+  id: 2995669,
+  label: "Marles-les-Mines",
+  lat: 50.50478,
+  lon: 2.50882,
+  nm: "Marles-les-Mines",
+  value: 2995669
+},  {
+  id: 2995649,
+  label: "Marly",
+  lat: 49.066669,
+  lon: 6.15,
+  nm: "Marly",
+  value: 2995649
+},  {
+  id: 2995656,
+  label: "Marly",
+  lat: 50.345558,
+  lon: 3.54959,
+  nm: "Marly",
+  value: 2995656
+},  {
+  id: 2995653,
+  label: "Marly-la-Ville",
+  lat: 49.08202,
+  lon: 2.50348,
+  nm: "Marly-la-Ville",
+  value: 2995653
+},  {
+  id: 2995652,
+  label: "Marly-le-Roi",
+  lat: 48.866669,
+  lon: 2.08333,
+  nm: "Marly-le-Roi",
+  value: 2995652
+},  {
+  id: 2995647,
+  label: "Marmagne",
+  lat: 47.099998,
+  lon: 2.28333,
+  nm: "Marmagne",
+  value: 2995647
+},  {
+  id: 2995642,
+  label: "Marmande",
+  lat: 44.5,
+  lon: 0.16667,
+  nm: "Marmande",
+  value: 2995642
+},  {
+  id: 2995622,
+  label: "Marmoutier",
+  lat: 48.690048,
+  lon: 7.38195,
+  nm: "Marmoutier",
+  value: 2995622
+},  {
+  id: 2995606,
+  label: "Marnaz",
+  lat: 46.062012,
+  lon: 6.52692,
+  nm: "Marnaz",
+  value: 2995606
+},  {
+  id: 2995586,
+  label: "Maroeuil",
+  lat: 50.325191,
+  lon: 2.70504,
+  nm: "Maroeuil",
+  value: 2995586
+},  {
+  id: 2995571,
+  label: "Marolles-en-Hurepoix",
+  lat: 48.562321,
+  lon: 2.29885,
+  nm: "Marolles-en-Hurepoix",
+  value: 2995571
+},  {
+  id: 2995569,
+  label: "Marolles-les-Braults",
+  lat: 48.252708,
+  lon: 0.31631,
+  nm: "Marolles-les-Braults",
+  value: 2995569
+},  {
+  id: 2995563,
+  label: "Maromme",
+  lat: 49.479252,
+  lon: 1.02375,
+  nm: "Maromme",
+  value: 2995563
+},  {
+  id: 2995550,
+  label: "Marpent",
+  lat: 50.292519,
+  lon: 4.07936,
+  nm: "Marpent",
+  value: 2995550
+},  {
+  id: 2995536,
+  label: "Marquette-lez-Lille",
+  lat: 50.676281,
+  lon: 3.06613,
+  nm: "Marquette-lez-Lille",
+  value: 2995536
+},  {
+  id: 2995532,
+  label: "Marquise",
+  lat: 50.812939,
+  lon: 1.70786,
+  nm: "Marquise",
+  value: 2995532
+},  {
+  id: 2995489,
+  label: "Marsannay-la-Cote",
+  lat: 47.27095,
+  lon: 4.98895,
+  nm: "Marsannay-la-Cote",
+  value: 2995489
+},  {
+  id: 2995471,
+  label: "Marseillan",
+  lat: 43.356178,
+  lon: 3.52795,
+  nm: "Marseillan",
+  value: 2995471
+},  {
+  id: 2995469,
+  label: "Marseille",
+  lat: 43.296951,
+  lon: 5.38107,
+  nm: "Marseille",
+  value: 2995469
+},  {
+  id: 2995456,
+  label: "Marsillargues",
+  lat: 43.664242,
+  lon: 4.17448,
+  nm: "Marsillargues",
+  value: 2995456
+},  {
+  id: 2995454,
+  label: "Marsilly",
+  lat: 46.23027,
+  lon: -1.1384,
+  nm: "Marsilly",
+  value: 2995454
+},  {
+  id: 2995438,
+  label: "Marssac-sur-Tarn",
+  lat: 43.917679,
+  lon: 2.02921,
+  nm: "Marssac-sur-Tarn",
+  value: 2995438
+},  {
+  id: 2995404,
+  label: "Martignas-sur-Jalle",
+  lat: 44.84528,
+  lon: -0.7806,
+  nm: "Martignas-sur-Jalle",
+  value: 2995404
+},  {
+  id: 2995398,
+  label: "Martigne-Ferchaud",
+  lat: 47.829342,
+  lon: -1.31911,
+  nm: "Martigne-Ferchaud",
+  value: 2995398
+},  {
+  id: 2995387,
+  label: "Martigues",
+  lat: 43.407349,
+  lon: 5.05526,
+  nm: "Martigues",
+  value: 2995387
+},  {
+  id: 2995385,
+  label: "Martillac",
+  lat: 44.710999,
+  lon: -0.53747,
+  nm: "Martillac",
+  value: 2995385
+},  {
+  id: 2995351,
+  label: "Martres-Tolosane",
+  lat: 43.199291,
+  lon: 1.01056,
+  nm: "Martres-Tolosane",
+  value: 2995351
+},  {
+  id: 2995339,
+  label: "Marvejols",
+  lat: 44.55378,
+  lon: 3.29137,
+  nm: "Marvejols",
+  value: 2995339
+},  {
+  id: 2995324,
+  label: "Marzy",
+  lat: 46.981239,
+  lon: 3.09352,
+  nm: "Marzy",
+  value: 2995324
+},  {
+  id: 2995281,
+  label: "Masevaux",
+  lat: 47.776711,
+  lon: 6.99683,
+  nm: "Masevaux",
+  value: 2995281
+},  {
+  id: 2995270,
+  label: "Masnieres",
+  lat: 50.114891,
+  lon: 3.20889,
+  nm: "Masnieres",
+  value: 2995270
+},  {
+  id: 2995269,
+  label: "Masny",
+  lat: 50.347969,
+  lon: 3.20165,
+  nm: "Masny",
+  value: 2995269
+},  {
+  id: 2995226,
+  label: "Massieux",
+  lat: 45.909691,
+  lon: 4.83321,
+  nm: "Massieux",
+  value: 2995226
+},  {
+  id: 2995206,
+  label: "Massy",
+  lat: 48.726921,
+  lon: 2.28301,
+  nm: "Massy",
+  value: 2995206
+},  {
+  id: 2995192,
+  label: "Matha",
+  lat: 45.868229,
+  lon: -0.31849,
+  nm: "Matha",
+  value: 2995192
+},  {
+  id: 2995189,
+  label: "Mathay",
+  lat: 47.439041,
+  lon: 6.78487,
+  nm: "Mathay",
+  value: 2995189
+},  {
+  id: 2995150,
+  label: "Maubeuge",
+  lat: 50.278751,
+  lon: 3.97267,
+  nm: "Maubeuge",
+  value: 2995150
+},  {
+  id: 2995146,
+  label: "Maubourguet",
+  lat: 43.468239,
+  lon: 0.03578,
+  nm: "Maubourguet",
+  value: 2995146
+},  {
+  id: 2995121,
+  label: "Mauguio",
+  lat: 43.618099,
+  lon: 4.00739,
+  nm: "Mauguio",
+  value: 2995121
+},  {
+  id: 2995110,
+  label: "Maule",
+  lat: 48.910561,
+  lon: 1.85264,
+  nm: "Maule",
+  value: 2995110
+},  {
+  id: 2995107,
+  label: "Mauleon-Licharre",
+  lat: 43.226841,
+  lon: -0.88038,
+  nm: "Mauleon-Licharre",
+  value: 2995107
+},  {
+  id: 2995104,
+  label: "Maulevrier",
+  lat: 47.009289,
+  lon: -0.74239,
+  nm: "Maulevrier",
+  value: 2995104
+},  {
+  id: 2995058,
+  label: "Maure-de-Bretagne",
+  lat: 47.892391,
+  lon: -1.99104,
+  nm: "Maure-de-Bretagne",
+  value: 2995058
+},  {
+  id: 2995059,
+  label: "Maurecourt",
+  lat: 48.99614,
+  lon: 2.06154,
+  nm: "Maurecourt",
+  value: 2995059
+},  {
+  id: 2995054,
+  label: "Maureillas-las-Illas",
+  lat: 42.490139,
+  lon: 2.80752,
+  nm: "Maureillas-las-Illas",
+  value: 2995054
+},  {
+  id: 2995041,
+  label: "Maurepas",
+  lat: 48.764858,
+  lon: 1.92923,
+  nm: "Maurepas",
+  value: 2995041
+},  {
+  id: 2995024,
+  label: "Mauriac",
+  lat: 45.216671,
+  lon: 2.33333,
+  nm: "Mauriac",
+  value: 2995024
+},  {
+  id: 2995009,
+  label: "Mauron",
+  lat: 48.082569,
+  lon: -2.28477,
+  nm: "Mauron",
+  value: 2995009
+},  {
+  id: 2995003,
+  label: "Maurs",
+  lat: 44.71117,
+  lon: 2.19832,
+  nm: "Maurs",
+  value: 2995003
+},  {
+  id: 2994992,
+  label: "Maussane-les-Alpilles",
+  lat: 43.722359,
+  lon: 4.80497,
+  nm: "Maussane-les-Alpilles",
+  value: 2994992
+},  {
+  id: 2994981,
+  label: "Mauves-sur-Loire",
+  lat: 47.297379,
+  lon: -1.38763,
+  nm: "Mauves-sur-Loire",
+  value: 2994981
+},  {
+  id: 2994959,
+  label: "Mauze-sur-le-Mignon",
+  lat: 46.19516,
+  lon: -0.67032,
+  nm: "Mauze-sur-le-Mignon",
+  value: 2994959
+},  {
+  id: 2994958,
+  label: "Mauze-Thouarsais",
+  lat: 46.976109,
+  lon: -0.27846,
+  nm: "Mauze-Thouarsais",
+  value: 2994958
+},  {
+  id: 2994951,
+  label: "Maxeville",
+  lat: 48.70816,
+  lon: 6.1696,
+  nm: "Maxeville",
+  value: 2994951
+},  {
+  id: 2994935,
+  label: "Mayenne",
+  lat: 48.299999,
+  lon: -0.61667,
+  nm: "Mayenne",
+  value: 2994935
+},  {
+  id: 2994928,
+  label: "Mayet",
+  lat: 47.759682,
+  lon: 0.27468,
+  nm: "Mayet",
+  value: 2994928
+},  {
+  id: 2994902,
+  label: "Mazamet",
+  lat: 43.490009,
+  lon: 2.37304,
+  nm: "Mazamet",
+  value: 2994902
+},  {
+  id: 2994901,
+  label: "Mazan",
+  lat: 44.056801,
+  lon: 5.12747,
+  nm: "Mazan",
+  value: 2994901
+},  {
+  id: 2994891,
+  label: "Maze",
+  lat: 47.456322,
+  lon: -0.27106,
+  nm: "Maze",
+  value: 2994891
+},  {
+  id: 2994870,
+  label: "Mazeres",
+  lat: 43.250549,
+  lon: 1.67728,
+  nm: "Mazeres",
+  value: 2994870
+},  {
+  id: 2994868,
+  label: "Mazeres-Lezons",
+  lat: 43.26667,
+  lon: -0.35,
+  nm: "Mazeres-Lezons",
+  value: 2994868
+},  {
+  id: 2994837,
+  label: "Mazingarbe",
+  lat: 50.4711,
+  lon: 2.71544,
+  nm: "Mazingarbe",
+  value: 2994837
+},  {
+  id: 2994798,
+  label: "Meaux",
+  lat: 48.950001,
+  lon: 2.86667,
+  nm: "Meaux",
+  value: 2994798
+},  {
+  id: 2994778,
+  label: "Medis",
+  lat: 45.643372,
+  lon: -0.96298,
+  nm: "Medis",
+  value: 2994778
+},  {
+  id: 2994768,
+  label: "Megeve",
+  lat: 45.852329,
+  lon: 6.61286,
+  nm: "Megeve",
+  value: 2994768
+},  {
+  id: 2994756,
+  label: "Mehun-sur-Yevre",
+  lat: 47.137821,
+  lon: 2.21105,
+  nm: "Mehun-sur-Yevre",
+  value: 2994756
+},  {
+  id: 2994697,
+  label: "Melesse",
+  lat: 48.217709,
+  lon: -1.69496,
+  nm: "Melesse",
+  value: 2994697
+},  {
+  id: 2994692,
+  label: "Melgven",
+  lat: 47.906261,
+  lon: -3.83518,
+  nm: "Melgven",
+  value: 2994692
+},  {
+  id: 2994676,
+  label: "Mellac",
+  lat: 47.90345,
+  lon: -3.57675,
+  nm: "Mellac",
+  value: 2994676
+},  {
+  id: 2994675,
+  label: "Melle",
+  lat: 46.222851,
+  lon: -0.14216,
+  nm: "Melle",
+  value: 2994675
+},  {
+  id: 2994651,
+  label: "Melun",
+  lat: 48.533329,
+  lon: 2.66667,
+  nm: "Melun",
+  value: 2994651
+},  {
+  id: 2994617,
+  label: "Mende",
+  lat: 44.51667,
+  lon: 3.5,
+  nm: "Mende",
+  value: 2994617
+},  {
+  id: 2994534,
+  label: "Mennecy",
+  lat: 48.569031,
+  lon: 2.44384,
+  nm: "Mennecy",
+  value: 2994534
+},  {
+  id: 2994497,
+  label: "Menton",
+  lat: 43.776489,
+  lon: 7.50435,
+  nm: "Menton",
+  value: 2994497
+},  {
+  id: 2994494,
+  label: "Menucourt",
+  lat: 49.028412,
+  lon: 1.98046,
+  nm: "Menucourt",
+  value: 2994494
+},  {
+  id: 2994481,
+  label: "Mer",
+  lat: 47.705551,
+  lon: 1.50621,
+  nm: "Mer",
+  value: 2994481
+},  {
+  id: 2994447,
+  label: "Mercury",
+  lat: 45.674519,
+  lon: 6.33688,
+  nm: "Mercury",
+  value: 2994447
+},  {
+  id: 2994431,
+  label: "Merdrignac",
+  lat: 48.193722,
+  lon: -2.41533,
+  nm: "Merdrignac",
+  value: 2994431
+},  {
+  id: 2994426,
+  label: "Mereau",
+  lat: 47.16296,
+  lon: 2.05086,
+  nm: "Mereau",
+  value: 2994426
+},  {
+  id: 2994416,
+  label: "Mereville",
+  lat: 48.314758,
+  lon: 2.08609,
+  nm: "Mereville",
+  value: 2994416
+},  {
+  id: 2994404,
+  label: "Meribel",
+  lat: 45.41497,
+  lon: 6.565,
+  nm: "Meribel",
+  value: 2994404
+},  {
+  id: 2994401,
+  label: "Mericourt",
+  lat: 50.401161,
+  lon: 2.86246,
+  nm: "Mericourt",
+  value: 2994401
+},  {
+  id: 2994396,
+  label: "Meriel",
+  lat: 49.076141,
+  lon: 2.21054,
+  nm: "Meriel",
+  value: 2994396
+},  {
+  id: 2994393,
+  label: "Merignac",
+  lat: 44.832481,
+  lon: -0.63381,
+  nm: "Merignac",
+  value: 2994393
+},  {
+  id: 2994385,
+  label: "Merignies",
+  lat: 50.506088,
+  lon: 3.11043,
+  nm: "Merignies",
+  value: 2994385
+},  {
+  id: 2994379,
+  label: "Merindol",
+  lat: 43.755161,
+  lon: 5.20357,
+  nm: "Merindol",
+  value: 2994379
+},  {
+  id: 2994351,
+  label: "Merlevenez",
+  lat: 47.73563,
+  lon: -3.23047,
+  nm: "Merlevenez",
+  value: 2994351
+},  {
+  id: 2994349,
+  label: "Merlimont",
+  lat: 50.455898,
+  lon: 1.61315,
+  nm: "Merlimont",
+  value: 2994349
+},  {
+  id: 2994313,
+  label: "Mers-les-Bains",
+  lat: 50.06538,
+  lon: 1.3881,
+  nm: "Mers-les-Bains",
+  value: 2994313
+},  {
+  id: 2994307,
+  label: "Mertzwiller",
+  lat: 48.868462,
+  lon: 7.6831,
+  nm: "Mertzwiller",
+  value: 2994307
+},  {
+  id: 2994306,
+  label: "Meru",
+  lat: 49.23333,
+  lon: 2.13333,
+  nm: "Meru",
+  value: 2994306
+},  {
+  id: 2994297,
+  label: "Merville",
+  lat: 50.643291,
+  lon: 2.64125,
+  nm: "Merville",
+  value: 2994297
+},  {
+  id: 2994298,
+  label: "Merville",
+  lat: 43.723541,
+  lon: 1.29656,
+  nm: "Merville",
+  value: 2994298
+},  {
+  id: 2994283,
+  label: "Mery-sur-Oise",
+  lat: 49.058762,
+  lon: 2.19113,
+  nm: "Mery-sur-Oise",
+  value: 2994283
+},  {
+  id: 2994280,
+  label: "Mesanger",
+  lat: 47.431309,
+  lon: -1.22798,
+  nm: "Mesanger",
+  value: 2994280
+},  {
+  id: 2994274,
+  label: "Meschers-sur-Gironde",
+  lat: 45.560371,
+  lon: -0.9547,
+  nm: "Meschers-sur-Gironde",
+  value: 2994274
+},  {
+  id: 2994263,
+  label: "Meslay-du-Maine",
+  lat: 47.95116,
+  lon: -0.55428,
+  nm: "Meslay-du-Maine",
+  value: 2994263
+},  {
+  id: 2994201,
+  label: "Messac",
+  lat: 47.82399,
+  lon: -1.81085,
+  nm: "Messac",
+  value: 2994201
+},  {
+  id: 2994193,
+  label: "Messei",
+  lat: 48.711571,
+  lon: -0.53739,
+  nm: "Messei",
+  value: 2994193
+},  {
+  id: 2994184,
+  label: "Messimy",
+  lat: 45.697411,
+  lon: 4.67291,
+  nm: "Messimy",
+  value: 2994184
+},  {
+  id: 2994168,
+  label: "Meteren",
+  lat: 50.73333,
+  lon: 2.7,
+  nm: "Meteren",
+  value: 2994168
+},  {
+  id: 2994161,
+  label: "Mettray",
+  lat: 47.452511,
+  lon: 0.64939,
+  nm: "Mettray",
+  value: 2994161
+},  {
+  id: 2994160,
+  label: "Metz",
+  lat: 49.11911,
+  lon: 6.17269,
+  nm: "Metz",
+  value: 2994160
+},  {
+  id: 2994150,
+  label: "Metz-Tessy",
+  lat: 45.934059,
+  lon: 6.10826,
+  nm: "Metz-Tessy",
+  value: 2994150
+},  {
+  id: 2994144,
+  label: "Meudon",
+  lat: 48.813808,
+  lon: 2.235,
+  nm: "Meudon",
+  value: 2994144
+},  {
+  id: 2994139,
+  label: "Meulan-en-Yvelines",
+  lat: 49.007679,
+  lon: 1.90602,
+  nm: "Meulan-en-Yvelines",
+  value: 2994139
+},  {
+  id: 2994126,
+  label: "Meung-sur-Loire",
+  lat: 47.831242,
+  lon: 1.69582,
+  nm: "Meung-sur-Loire",
+  value: 2994126
+},  {
+  id: 2994121,
+  label: "Meurchin",
+  lat: 50.49831,
+  lon: 2.89318,
+  nm: "Meurchin",
+  value: 2994121
+},  {
+  id: 2994094,
+  label: "Meximieux",
+  lat: 45.908409,
+  lon: 5.19527,
+  nm: "Meximieux",
+  value: 2994094
+},  {
+  id: 2994093,
+  label: "Mexy",
+  lat: 49.501499,
+  lon: 5.7807,
+  nm: "Mexy",
+  value: 2994093
+},  {
+  id: 2994087,
+  label: "Meylan",
+  lat: 45.219879,
+  lon: 5.79007,
+  nm: "Meylan",
+  value: 2994087
+},  {
+  id: 2994085,
+  label: "Meymac",
+  lat: 45.53487,
+  lon: 2.14502,
+  nm: "Meymac",
+  value: 2994085
+},  {
+  id: 2994078,
+  label: "Meynes",
+  lat: 43.879742,
+  lon: 4.55958,
+  nm: "Meynes",
+  value: 2994078
+},  {
+  id: 2994070,
+  label: "Meyrargues",
+  lat: 43.638062,
+  lon: 5.52611,
+  nm: "Meyrargues",
+  value: 2994070
+},  {
+  id: 2994068,
+  label: "Meyreuil",
+  lat: 43.487801,
+  lon: 5.49574,
+  nm: "Meyreuil",
+  value: 2994068
+},  {
+  id: 2994049,
+  label: "Meythet",
+  lat: 45.918362,
+  lon: 6.09422,
+  nm: "Meythet",
+  value: 2994049
+},  {
+  id: 2994048,
+  label: "Meyzieu",
+  lat: 45.76667,
+  lon: 5,
+  nm: "Meyzieu",
+  value: 2994048
+},  {
+  id: 2994043,
+  label: "Meze",
+  lat: 43.425041,
+  lon: 3.6059,
+  nm: "Meze",
+  value: 2994043
+},  {
+  id: 2994033,
+  label: "Mezeriat",
+  lat: 46.23431,
+  lon: 5.04806,
+  nm: "Mezeriat",
+  value: 2994033
+},  {
+  id: 2994008,
+  label: "Mezieres-sur-Seine",
+  lat: 48.961281,
+  lon: 1.79245,
+  nm: "Mezieres-sur-Seine",
+  value: 2994008
+},  {
+  id: 2993936,
+  label: "Mieussy",
+  lat: 46.13369,
+  lon: 6.52416,
+  nm: "Mieussy",
+  value: 2993936
+},  {
+  id: 2993928,
+  label: "Migennes",
+  lat: 47.965481,
+  lon: 3.51787,
+  nm: "Migennes",
+  value: 2993928
+},  {
+  id: 2993921,
+  label: "Mignaloux-Beauvoir",
+  lat: 46.541569,
+  lon: 0.41538,
+  nm: "Mignaloux-Beauvoir",
+  value: 2993921
+},  {
+  id: 2993918,
+  label: "Migne-Auxances",
+  lat: 46.627449,
+  lon: 0.31458,
+  nm: "Migne-Auxances",
+  value: 2993918
+},  {
+  id: 2993889,
+  label: "Milhaud",
+  lat: 43.78978,
+  lon: 4.31035,
+  nm: "Milhaud",
+  value: 2993889
+},  {
+  id: 2993884,
+  label: "Milizac",
+  lat: 48.466671,
+  lon: -4.56667,
+  nm: "Milizac",
+  value: 2993884
+},  {
+  id: 2993876,
+  label: "Millas",
+  lat: 42.692032,
+  lon: 2.69508,
+  nm: "Millas",
+  value: 2993876
+},  {
+  id: 2993875,
+  label: "Millau",
+  lat: 44.099998,
+  lon: 3.08333,
+  nm: "Millau",
+  value: 2993875
+},  {
+  id: 2993864,
+  label: "Millery",
+  lat: 45.631741,
+  lon: 4.78628,
+  nm: "Millery",
+  value: 2993864
+},  {
+  id: 2993843,
+  label: "Milly-la-Foret",
+  lat: 48.403999,
+  lon: 2.47015,
+  nm: "Milly-la-Foret",
+  value: 2993843
+},  {
+  id: 2993832,
+  label: "Mimet",
+  lat: 43.413929,
+  lon: 5.50495,
+  nm: "Mimet",
+  value: 2993832
+},  {
+  id: 2993830,
+  label: "Mimizan",
+  lat: 44.200569,
+  lon: -1.22886,
+  nm: "Mimizan",
+  value: 2993830
+},  {
+  id: 2993801,
+  label: "Miniac-Morvan",
+  lat: 48.514771,
+  lon: -1.89955,
+  nm: "Miniac-Morvan",
+  value: 2993801
+},  {
+  id: 2993781,
+  label: "Mionnay",
+  lat: 45.895569,
+  lon: 4.93074,
+  nm: "Mionnay",
+  value: 2993781
+},  {
+  id: 2993780,
+  label: "Mions",
+  lat: 45.664322,
+  lon: 4.94994,
+  nm: "Mions",
+  value: 2993780
+},  {
+  id: 2993779,
+  label: "Mios",
+  lat: 44.604889,
+  lon: -0.93329,
+  nm: "Mios",
+  value: 2993779
+},  {
+  id: 2993760,
+  label: "Miramas",
+  lat: 43.586658,
+  lon: 5.00464,
+  nm: "Miramas",
+  value: 2993760
+},  {
+  id: 2993753,
+  label: "Miramont-de-Guyenne",
+  lat: 44.60157,
+  lon: 0.36247,
+  nm: "Miramont-de-Guyenne",
+  value: 2993753
+},  {
+  id: 2993749,
+  label: "Mirande",
+  lat: 43.51667,
+  lon: 0.41667,
+  nm: "Mirande",
+  value: 2993749
+},  {
+  id: 2993732,
+  label: "Mirebeau",
+  lat: 46.78743,
+  lon: 0.18341,
+  nm: "Mirebeau",
+  value: 2993732
+},  {
+  id: 2993728,
+  label: "Mirecourt",
+  lat: 48.300892,
+  lon: 6.13282,
+  nm: "Mirecourt",
+  value: 2993728
+},  {
+  id: 2993720,
+  label: "Mirepoix",
+  lat: 43.08773,
+  lon: 1.8735,
+  nm: "Mirepoix",
+  value: 2993720
+},  {
+  id: 2993717,
+  label: "Mireval",
+  lat: 43.508598,
+  lon: 3.8017,
+  nm: "Mireval",
+  value: 2993717
+},  {
+  id: 2993712,
+  label: "Miribel",
+  lat: 45.825802,
+  lon: 4.9544,
+  nm: "Miribel",
+  value: 2993712
+},  {
+  id: 2993701,
+  label: "Miserey-Salines",
+  lat: 47.286381,
+  lon: 5.97387,
+  nm: "Miserey-Salines",
+  value: 2993701
+},  {
+  id: 2993700,
+  label: "Miserieux",
+  lat: 45.973091,
+  lon: 4.8123,
+  nm: "Miserieux",
+  value: 2993700
+},  {
+  id: 2993692,
+  label: "Missillac",
+  lat: 47.481548,
+  lon: -2.16,
+  nm: "Missillac",
+  value: 2993692
+},  {
+  id: 2993679,
+  label: "Mitry-Mory",
+  lat: 48.98333,
+  lon: 2.61667,
+  nm: "Mitry-Mory",
+  value: 2993679
+},  {
+  id: 2993654,
+  label: "Modane",
+  lat: 45.200001,
+  lon: 6.66667,
+  nm: "Modane",
+  value: 2993654
+},  {
+  id: 2993647,
+  label: "Moelan-sur-Mer",
+  lat: 47.814178,
+  lon: -3.62892,
+  nm: "Moelan-sur-Mer",
+  value: 2993647
+},  {
+  id: 2993605,
+  label: "Moirans",
+  lat: 45.3283,
+  lon: 5.55342,
+  nm: "Moirans",
+  value: 2993605
+},  {
+  id: 2993604,
+  label: "Moirans-en-Montagne",
+  lat: 46.433811,
+  lon: 5.72643,
+  nm: "Moirans-en-Montagne",
+  value: 2993604
+},  {
+  id: 2993586,
+  label: "Moissac",
+  lat: 44.10236,
+  lon: 1.0945,
+  nm: "Moissac",
+  value: 2993586
+},  {
+  id: 2993572,
+  label: "Moissy-Cramayel",
+  lat: 48.626049,
+  lon: 2.60125,
+  nm: "Moissy-Cramayel",
+  value: 2993572
+},  {
+  id: 2993496,
+  label: "Molleges",
+  lat: 43.80703,
+  lon: 4.94934,
+  nm: "Molleges",
+  value: 2993496
+},  {
+  id: 2993419,
+  label: "Monce-en-Belin",
+  lat: 47.894421,
+  lon: 0.19809,
+  nm: "Monce-en-Belin",
+  value: 2993419
+},  {
+  id: 2993403,
+  label: "Monchecourt",
+  lat: 50.304131,
+  lon: 3.21029,
+  nm: "Monchecourt",
+  value: 2993403
+},  {
+  id: 2993390,
+  label: "Monchy-Saint-Eloi",
+  lat: 49.290421,
+  lon: 2.46739,
+  nm: "Monchy-Saint-Eloi",
+  value: 2993390
+},  {
+  id: 2993375,
+  label: "Moncoutant",
+  lat: 46.725471,
+  lon: -0.58797,
+  nm: "Moncoutant",
+  value: 2993375
+},  {
+  id: 2993367,
+  label: "Mondelange",
+  lat: 49.26469,
+  lon: 6.17087,
+  nm: "Mondelange",
+  value: 2993367
+},  {
+  id: 2993358,
+  label: "Mondeville",
+  lat: 49.174969,
+  lon: -0.32238,
+  nm: "Mondeville",
+  value: 2993358
+},  {
+  id: 2993348,
+  label: "Mondonville",
+  lat: 43.672958,
+  lon: 1.28592,
+  nm: "Mondonville",
+  value: 2993348
+},  {
+  id: 2993342,
+  label: "Mondragon",
+  lat: 44.238579,
+  lon: 4.71005,
+  nm: "Mondragon",
+  value: 2993342
+},  {
+  id: 2993331,
+  label: "Monein",
+  lat: 43.333328,
+  lon: -0.58333,
+  nm: "Monein",
+  value: 2993331
+},  {
+  id: 2993316,
+  label: "Moneteau",
+  lat: 47.849232,
+  lon: 3.58178,
+  nm: "Moneteau",
+  value: 2993316
+},  {
+  id: 2993308,
+  label: "Monflanquin",
+  lat: 44.529659,
+  lon: 0.76772,
+  nm: "Monflanquin",
+  value: 2993308
+},  {
+  id: 2993277,
+  label: "Monistrol-sur-Loire",
+  lat: 45.293339,
+  lon: 4.17161,
+  nm: "Monistrol-sur-Loire",
+  value: 2993277
+},  {
+  id: 2993261,
+  label: "Monnaie",
+  lat: 47.501621,
+  lon: 0.78872,
+  nm: "Monnaie",
+  value: 2993261
+},  {
+  id: 2993250,
+  label: "Monnetier-Mornex",
+  lat: 46.160301,
+  lon: 6.20667,
+  nm: "Monnetier-Mornex",
+  value: 2993250
+},  {
+  id: 2993207,
+  label: "Mons-en-Baroeul",
+  lat: 50.633331,
+  lon: 3.11667,
+  nm: "Mons-en-Baroeul",
+  value: 2993207
+},  {
+  id: 2993203,
+  label: "Mons-en-Pevele",
+  lat: 50.479259,
+  lon: 3.09767,
+  nm: "Mons-en-Pevele",
+  value: 2993203
+},  {
+  id: 2993208,
+  label: "Monsempron-Libos",
+  lat: 44.49004,
+  lon: 0.9409,
+  nm: "Monsempron-Libos",
+  value: 2993208
+},  {
+  id: 2993191,
+  label: "Monswiller",
+  lat: 48.755112,
+  lon: 7.37732,
+  nm: "Monswiller",
+  value: 2993191
+},  {
+  id: 2992771,
+  label: "Mont-de-Marsan",
+  lat: 43.890221,
+  lon: -0.49713,
+  nm: "Mont-de-Marsan",
+  value: 2992771
+},  {
+  id: 2992126,
+  label: "Mont-pres-Chambord",
+  lat: 47.562351,
+  lon: 1.45712,
+  nm: "Mont-pres-Chambord",
+  value: 2992126
+},  {
+  id: 2992003,
+  label: "Mont-Saint-Aignan",
+  lat: 49.46307,
+  lon: 1.09364,
+  nm: "Mont-Saint-Aignan",
+  value: 2992003
+},  {
+  id: 2991992,
+  label: "Mont-Saint-Martin",
+  lat: 49.5467,
+  lon: 5.79375,
+  nm: "Mont-Saint-Martin",
+  value: 2991992
+},  {
+  id: 2993166,
+  label: "Montady",
+  lat: 43.335899,
+  lon: 3.1278,
+  nm: "Montady",
+  value: 2993166
+},  {
+  id: 2993160,
+  label: "Montagnac",
+  lat: 43.480869,
+  lon: 3.48312,
+  nm: "Montagnac",
+  value: 2993160
+},  {
+  id: 2993117,
+  label: "Montagny",
+  lat: 45.626991,
+  lon: 4.75782,
+  nm: "Montagny",
+  value: 2993117
+},  {
+  id: 2993092,
+  label: "Montaigu",
+  lat: 46.976669,
+  lon: -1.30846,
+  nm: "Montaigu",
+  value: 2993092
+},  {
+  id: 2993061,
+  label: "Montalieu-Vercieu",
+  lat: 45.815769,
+  lon: 5.40393,
+  nm: "Montalieu-Vercieu",
+  value: 2993061
+},  {
+  id: 2993053,
+  label: "Montamise",
+  lat: 46.621811,
+  lon: 0.42442,
+  nm: "Montamise",
+  value: 2993053
+},  {
+  id: 2993051,
+  label: "Montanay",
+  lat: 45.878181,
+  lon: 4.86302,
+  nm: "Montanay",
+  value: 2993051
+},  {
+  id: 2993028,
+  label: "Montardon",
+  lat: 43.366669,
+  lon: -0.35,
+  nm: "Montardon",
+  value: 2993028
+},  {
+  id: 2993024,
+  label: "Montargis",
+  lat: 48,
+  lon: 2.75,
+  nm: "Montargis",
+  value: 2993024
+},  {
+  id: 2993013,
+  label: "Montarnaud",
+  lat: 43.64743,
+  lon: 3.6969,
+  nm: "Montarnaud",
+  value: 2993013
+},  {
+  id: 2993006,
+  label: "Montastruc-la-Conseillere",
+  lat: 43.719818,
+  lon: 1.59019,
+  nm: "Montastruc-la-Conseillere",
+  value: 2993006
+},  {
+  id: 2993004,
+  label: "Montataire",
+  lat: 49.258999,
+  lon: 2.43777,
+  nm: "Montataire",
+  value: 2993004
+},  {
+  id: 2993002,
+  label: "Montauban",
+  lat: 44.01667,
+  lon: 1.35,
+  nm: "Montauban",
+  value: 2993002
+},  {
+  id: 2992998,
+  label: "Montauban-de-Bretagne",
+  lat: 48.199341,
+  lon: -2.04476,
+  nm: "Montauban-de-Bretagne",
+  value: 2992998
+},  {
+  id: 2992978,
+  label: "Montauroux",
+  lat: 43.619049,
+  lon: 6.775,
+  nm: "Montauroux",
+  value: 2992978
+},  {
+  id: 2992960,
+  label: "Montayral",
+  lat: 44.475128,
+  lon: 0.98769,
+  nm: "Montayral",
+  value: 2992960
+},  {
+  id: 2992953,
+  label: "Montbard",
+  lat: 47.616669,
+  lon: 4.33333,
+  nm: "Montbard",
+  value: 2992953
+},  {
+  id: 2992944,
+  label: "Montbazin",
+  lat: 43.51667,
+  lon: 3.69667,
+  nm: "Montbazin",
+  value: 2992944
+},  {
+  id: 2992943,
+  label: "Montbazon",
+  lat: 47.283482,
+  lon: 0.69988,
+  nm: "Montbazon",
+  value: 2992943
+},  {
+  id: 2992938,
+  label: "Montbeliard",
+  lat: 47.51667,
+  lon: 6.8,
+  nm: "Montbeliard",
+  value: 2992938
+},  {
+  id: 2992926,
+  label: "Montberon",
+  lat: 43.715858,
+  lon: 1.47968,
+  nm: "Montberon",
+  value: 2992926
+},  {
+  id: 2992925,
+  label: "Montbert",
+  lat: 47.056129,
+  lon: -1.4889,
+  nm: "Montbert",
+  value: 2992925
+},  {
+  id: 2992921,
+  label: "Montbeton",
+  lat: 44.01667,
+  lon: 1.3,
+  nm: "Montbeton",
+  value: 2992921
+},  {
+  id: 2992917,
+  label: "Montblanc",
+  lat: 43.394859,
+  lon: 3.36752,
+  nm: "Montblanc",
+  value: 2992917
+},  {
+  id: 2992908,
+  label: "Montbonnot-Saint-Martin",
+  lat: 45.222359,
+  lon: 5.80353,
+  nm: "Montbonnot-Saint-Martin",
+  value: 2992908
+},  {
+  id: 2992890,
+  label: "Montbrison",
+  lat: 45.599998,
+  lon: 4.05,
+  nm: "Montbrison",
+  value: 2992890
+},  {
+  id: 2992886,
+  label: "Montbron",
+  lat: 45.666672,
+  lon: 0.5,
+  nm: "Montbron",
+  value: 2992886
+},  {
+  id: 2992863,
+  label: "Montceau-les-Mines",
+  lat: 46.666672,
+  lon: 4.36667,
+  nm: "Montceau-les-Mines",
+  value: 2992863
+},  {
+  id: 2992852,
+  label: "Montcenis",
+  lat: 46.787849,
+  lon: 4.38738,
+  nm: "Montcenis",
+  value: 2992852
+},  {
+  id: 2992838,
+  label: "Montchanin",
+  lat: 46.749641,
+  lon: 4.4707,
+  nm: "Montchanin",
+  value: 2992838
+},  {
+  id: 2992799,
+  label: "Montcourt-Fromonville",
+  lat: 48.306721,
+  lon: 2.7046,
+  nm: "Montcourt-Fromonville",
+  value: 2992799
+},  {
+  id: 2992760,
+  label: "Montdidier",
+  lat: 49.650002,
+  lon: 2.56667,
+  nm: "Montdidier",
+  value: 2992760
+},  {
+  id: 2992744,
+  label: "Montebourg",
+  lat: 49.48774,
+  lon: -1.38036,
+  nm: "Montebourg",
+  value: 2992744
+},  {
+  id: 2992740,
+  label: "Montech",
+  lat: 43.95816,
+  lon: 1.23204,
+  nm: "Montech",
+  value: 2992740
+},  {
+  id: 2992704,
+  label: "Montelier",
+  lat: 44.93726,
+  lon: 5.03118,
+  nm: "Montelier",
+  value: 2992704
+},  {
+  id: 2992703,
+  label: "Montelimar",
+  lat: 44.55838,
+  lon: 4.75094,
+  nm: "Montelimar",
+  value: 2992703
+},  {
+  id: 2992689,
+  label: "Montendre",
+  lat: 45.284691,
+  lon: -0.40627,
+  nm: "Montendre",
+  value: 2992689
+},  {
+  id: 2992674,
+  label: "Monterblanc",
+  lat: 47.742111,
+  lon: -2.6795,
+  nm: "Monterblanc",
+  value: 2992674
+},  {
+  id: 2992671,
+  label: "Montereau-Fault-Yonne",
+  lat: 48.383331,
+  lon: 2.95,
+  nm: "Montereau-Fault-Yonne",
+  value: 2992671
+},  {
+  id: 2992654,
+  label: "Montesquieu-Volvestre",
+  lat: 43.207241,
+  lon: 1.22862,
+  nm: "Montesquieu-Volvestre",
+  value: 2992654
+},  {
+  id: 2992650,
+  label: "Montesson",
+  lat: 48.909241,
+  lon: 2.13754,
+  nm: "Montesson",
+  value: 2992650
+},  {
+  id: 2992638,
+  label: "Monteux",
+  lat: 44.034801,
+  lon: 4.99719,
+  nm: "Monteux",
+  value: 2992638
+},  {
+  id: 2992637,
+  label: "Montevrain",
+  lat: 48.874149,
+  lon: 2.75114,
+  nm: "Montevrain",
+  value: 2992637
+},  {
+  id: 2992618,
+  label: "Montfavet",
+  lat: 43.93335,
+  lon: 4.87342,
+  nm: "Montfavet",
+  value: 2992618
+},  {
+  id: 2992616,
+  label: "Montfermeil",
+  lat: 48.898201,
+  lon: 2.57913,
+  nm: "Montfermeil",
+  value: 2992616
+},  {
+  id: 2992607,
+  label: "Montferrand-le-Chateau",
+  lat: 47.175362,
+  lon: 5.91534,
+  nm: "Montferrand-le-Chateau",
+  value: 2992607
+},  {
+  id: 2992606,
+  label: "Montferrat",
+  lat: 43.610722,
+  lon: 6.48238,
+  nm: "Montferrat",
+  value: 2992606
+},  {
+  id: 2992602,
+  label: "Montferrier-sur-Lez",
+  lat: 43.667419,
+  lon: 3.85439,
+  nm: "Montferrier-sur-Lez",
+  value: 2992602
+},  {
+  id: 2992584,
+  label: "Montfort-le-Gesnois",
+  lat: 48.049999,
+  lon: 0.41667,
+  nm: "Montfort-le-Gesnois",
+  value: 2992584
+},  {
+  id: 2992581,
+  label: "Montfort-sur-Meu",
+  lat: 48.135422,
+  lon: -1.95201,
+  nm: "Montfort-sur-Meu",
+  value: 2992581
+},  {
+  id: 2992577,
+  label: "Montfrin",
+  lat: 43.875961,
+  lon: 4.5996,
+  nm: "Montfrin",
+  value: 2992577
+},  {
+  id: 2992537,
+  label: "Montgermont",
+  lat: 48.155918,
+  lon: -1.71464,
+  nm: "Montgermont",
+  value: 2992537
+},  {
+  id: 2992536,
+  label: "Montgeron",
+  lat: 48.705429,
+  lon: 2.45039,
+  nm: "Montgeron",
+  value: 2992536
+},  {
+  id: 2992526,
+  label: "Montgiscard",
+  lat: 43.46072,
+  lon: 1.56738,
+  nm: "Montgiscard",
+  value: 2992526
+},  {
+  id: 2992495,
+  label: "Montherme",
+  lat: 49.884651,
+  lon: 4.73013,
+  nm: "Montherme",
+  value: 2992495
+},  {
+  id: 2992466,
+  label: "Montier-en-Der",
+  lat: 48.47823,
+  lon: 4.77073,
+  nm: "Montier-en-Der",
+  value: 2992466
+},  {
+  id: 2992453,
+  label: "Montignac",
+  lat: 45.064289,
+  lon: 1.16196,
+  nm: "Montignac",
+  value: 2992453
+},  {
+  id: 2992420,
+  label: "Montigny-en-Gohelle",
+  lat: 50.4254,
+  lon: 2.93902,
+  nm: "Montigny-en-Gohelle",
+  value: 2992420
+},  {
+  id: 2992418,
+  label: "Montigny-en-Ostrevent",
+  lat: 50.366669,
+  lon: 3.18333,
+  nm: "Montigny-en-Ostrevent",
+  value: 2992418
+},  {
+  id: 2992415,
+  label: "Montigny-le-Bretonneux",
+  lat: 48.766361,
+  lon: 2.03405,
+  nm: "Montigny-le-Bretonneux",
+  value: 2992415
+},  {
+  id: 2992404,
+  label: "Montigny-les-Cormeilles",
+  lat: 48.982021,
+  lon: 2.20035,
+  nm: "Montigny-les-Cormeilles",
+  value: 2992404
+},  {
+  id: 2992402,
+  label: "Montigny-les-Metz",
+  lat: 49.094349,
+  lon: 6.15167,
+  nm: "Montigny-les-Metz",
+  value: 2992402
+},  {
+  id: 2992387,
+  label: "Montigny-sur-Loing",
+  lat: 48.335751,
+  lon: 2.74423,
+  nm: "Montigny-sur-Loing",
+  value: 2992387
+},  {
+  id: 2992367,
+  label: "Montivilliers",
+  lat: 49.545181,
+  lon: 0.18769,
+  nm: "Montivilliers",
+  value: 2992367
+},  {
+  id: 2992354,
+  label: "Montjean-sur-Loire",
+  lat: 47.38842,
+  lon: -0.85873,
+  nm: "Montjean-sur-Loire",
+  value: 2992354
+},  {
+  id: 2992309,
+  label: "Montlhery",
+  lat: 48.640041,
+  lon: 2.27465,
+  nm: "Montlhery",
+  value: 2992309
+},  {
+  id: 2992304,
+  label: "Montlignon",
+  lat: 49.006359,
+  lon: 2.28705,
+  nm: "Montlignon",
+  value: 2992304
+},  {
+  id: 2992293,
+  label: "Montlouis-sur-Loire",
+  lat: 47.388451,
+  lon: 0.83208,
+  nm: "Montlouis-sur-Loire",
+  value: 2992293
+},  {
+  id: 2992292,
+  label: "Montlucon",
+  lat: 46.333328,
+  lon: 2.6,
+  nm: "Montlucon",
+  value: 2992292
+},  {
+  id: 2992290,
+  label: "Montluel",
+  lat: 45.851898,
+  lon: 5.0578,
+  nm: "Montluel",
+  value: 2992290
+},  {
+  id: 2992287,
+  label: "Montmagny",
+  lat: 48.973381,
+  lon: 2.34688,
+  nm: "Montmagny",
+  value: 2992287
+},  {
+  id: 2992260,
+  label: "Montmedy",
+  lat: 49.520962,
+  lon: 5.36835,
+  nm: "Montmedy",
+  value: 2992260
+},  {
+  id: 2992255,
+  label: "Montmelian",
+  lat: 45.499939,
+  lon: 6.05047,
+  nm: "Montmelian",
+  value: 2992255
+},  {
+  id: 2992254,
+  label: "Montmerle-sur-Saone",
+  lat: 46.083328,
+  lon: 4.76667,
+  nm: "Montmerle-sur-Saone",
+  value: 2992254
+},  {
+  id: 2992249,
+  label: "Montmeyran",
+  lat: 44.833199,
+  lon: 4.97473,
+  nm: "Montmeyran",
+  value: 2992249
+},  {
+  id: 2992240,
+  label: "Montmirail",
+  lat: 48.872139,
+  lon: 3.53797,
+  nm: "Montmirail",
+  value: 2992240
+},  {
+  id: 2992229,
+  label: "Montmorency",
+  lat: 48.988258,
+  lon: 2.3434,
+  nm: "Montmorency",
+  value: 2992229
+},  {
+  id: 2992225,
+  label: "Montmorillon",
+  lat: 46.433331,
+  lon: 0.86667,
+  nm: "Montmorillon",
+  value: 2992225
+},  {
+  id: 2992220,
+  label: "Montmorot",
+  lat: 46.675411,
+  lon: 5.52284,
+  nm: "Montmorot",
+  value: 2992220
+},  {
+  id: 2992206,
+  label: "Montoir-de-Bretagne",
+  lat: 47.33012,
+  lon: -2.15107,
+  nm: "Montoir-de-Bretagne",
+  value: 2992206
+},  {
+  id: 2992204,
+  label: "Montoire-sur-le-Loir",
+  lat: 47.753159,
+  lon: 0.86525,
+  nm: "Montoire-sur-le-Loir",
+  value: 2992204
+},  {
+  id: 2992203,
+  label: "Montois-la-Montagne",
+  lat: 49.217522,
+  lon: 6.02305,
+  nm: "Montois-la-Montagne",
+  value: 2992203
+},  {
+  id: 2992166,
+  label: "Montpellier",
+  lat: 43.61092,
+  lon: 3.87723,
+  nm: "Montpellier",
+  value: 2992166
+},  {
+  id: 2992132,
+  label: "Montpon-Menesterol",
+  lat: 45,
+  lon: 0.16667,
+  nm: "Montpon-Menesterol",
+  value: 2992132
+},  {
+  id: 2992124,
+  label: "Montrabe",
+  lat: 43.644772,
+  lon: 1.52384,
+  nm: "Montrabe",
+  value: 2992124
+},  {
+  id: 2992119,
+  label: "Montreal",
+  lat: 43.199799,
+  lon: 2.14122,
+  nm: "Montreal",
+  value: 2992119
+},  {
+  id: 2992116,
+  label: "Montreal-la-Cluse",
+  lat: 46.183331,
+  lon: 5.58333,
+  nm: "Montreal-la-Cluse",
+  value: 2992116
+},  {
+  id: 2992104,
+  label: "Montredon-Labessonnie",
+  lat: 43.717232,
+  lon: 2.32454,
+  nm: "Montredon-Labessonnie",
+  value: 2992104
+},  {
+  id: 2992102,
+  label: "Montrejeau",
+  lat: 43.085548,
+  lon: 0.5647,
+  nm: "Montrejeau",
+  value: 2992102
+},  {
+  id: 2992090,
+  label: "Montreuil",
+  lat: 48.864151,
+  lon: 2.44322,
+  nm: "Montreuil",
+  value: 2992090
+},  {
+  id: 2992061,
+  label: "Montreuil",
+  lat: 50.466671,
+  lon: 1.76667,
+  nm: "Montreuil",
+  value: 2992061
+},  {
+  id: 2992084,
+  label: "Montreuil-Bellay",
+  lat: 47.131062,
+  lon: -0.15209,
+  nm: "Montreuil-Bellay",
+  value: 2992084
+},  {
+  id: 2992050,
+  label: "Montrevel-en-Bresse",
+  lat: 46.336639,
+  lon: 5.1234,
+  nm: "Montrevel-en-Bresse",
+  value: 2992050
+},  {
+  id: 2992047,
+  label: "Montrichard",
+  lat: 47.343102,
+  lon: 1.18653,
+  nm: "Montrichard",
+  value: 2992047
+},  {
+  id: 2992024,
+  label: "Montrond-les-Bains",
+  lat: 45.650982,
+  lon: 4.23187,
+  nm: "Montrond-les-Bains",
+  value: 2992024
+},  {
+  id: 2992017,
+  label: "Montrouge",
+  lat: 48.8162,
+  lon: 2.31394,
+  nm: "Montrouge",
+  value: 2992017
+},  {
+  id: 2992009,
+  label: "Montry",
+  lat: 48.88409,
+  lon: 2.82914,
+  nm: "Montry",
+  value: 2992009
+},  {
+  id: 2992008,
+  label: "Monts",
+  lat: 47.277229,
+  lon: 0.62473,
+  nm: "Monts",
+  value: 2992008
+},  {
+  id: 2991957,
+  label: "Montsoult",
+  lat: 49.06942,
+  lon: 2.31966,
+  nm: "Montsoult",
+  value: 2991957
+},  {
+  id: 2991947,
+  label: "Montsurs",
+  lat: 48.13604,
+  lon: -0.55413,
+  nm: "Montsurs",
+  value: 2991947
+},  {
+  id: 2991906,
+  label: "Moosch",
+  lat: 47.85968,
+  lon: 7.05007,
+  nm: "Moosch",
+  value: 2991906
+},  {
+  id: 2991898,
+  label: "Morainvilliers",
+  lat: 48.92902,
+  lon: 1.93621,
+  nm: "Morainvilliers",
+  value: 2991898
+},  {
+  id: 2991891,
+  label: "Morangis",
+  lat: 48.703831,
+  lon: 2.33908,
+  nm: "Morangis",
+  value: 2991891
+},  {
+  id: 2991881,
+  label: "Morbecque",
+  lat: 50.693649,
+  lon: 2.51787,
+  nm: "Morbecque",
+  value: 2991881
+},  {
+  id: 2991880,
+  label: "Morbier",
+  lat: 46.53693,
+  lon: 6.01532,
+  nm: "Morbier",
+  value: 2991880
+},  {
+  id: 2991877,
+  label: "Morcenx",
+  lat: 44.035358,
+  lon: -0.91375,
+  nm: "Morcenx",
+  value: 2991877
+},  {
+  id: 2991868,
+  label: "Mordelles",
+  lat: 48.07571,
+  lon: -1.84286,
+  nm: "Mordelles",
+  value: 2991868
+},  {
+  id: 2991866,
+  label: "Moreac",
+  lat: 47.91967,
+  lon: -2.81934,
+  nm: "Moreac",
+  value: 2991866
+},  {
+  id: 2991847,
+  label: "Morestel",
+  lat: 45.675999,
+  lon: 5.47079,
+  nm: "Morestel",
+  value: 2991847
+},  {
+  id: 2991842,
+  label: "Moret-sur-Loing",
+  lat: 48.372391,
+  lon: 2.81713,
+  nm: "Moret-sur-Loing",
+  value: 2991842
+},  {
+  id: 2991839,
+  label: "Moreuil",
+  lat: 49.77457,
+  lon: 2.48273,
+  nm: "Moreuil",
+  value: 2991839
+},  {
+  id: 2991832,
+  label: "Morez",
+  lat: 46.525398,
+  lon: 6.02589,
+  nm: "Morez",
+  value: 2991832
+},  {
+  id: 2991806,
+  label: "Morhange",
+  lat: 48.922989,
+  lon: 6.64179,
+  nm: "Morhange",
+  value: 2991806
+},  {
+  id: 2991799,
+  label: "Morieres-les-Avignon",
+  lat: 43.9403,
+  lon: 4.9011,
+  nm: "Morieres-les-Avignon",
+  value: 2991799
+},  {
+  id: 2991792,
+  label: "Morigny-Champigny",
+  lat: 48.44685,
+  lon: 2.18352,
+  nm: "Morigny-Champigny",
+  value: 2991792
+},  {
+  id: 2991775,
+  label: "Morlaas",
+  lat: 43.349998,
+  lon: -0.26667,
+  nm: "Morlaas",
+  value: 2991775
+},  {
+  id: 2991772,
+  label: "Morlaix",
+  lat: 48.583328,
+  lon: -3.83333,
+  nm: "Morlaix",
+  value: 2991772
+},  {
+  id: 2991754,
+  label: "Mormant",
+  lat: 48.609009,
+  lon: 2.89026,
+  nm: "Mormant",
+  value: 2991754
+},  {
+  id: 2991747,
+  label: "Mornac",
+  lat: 45.683331,
+  lon: 0.26667,
+  nm: "Mornac",
+  value: 2991747
+},  {
+  id: 2991743,
+  label: "Mornant",
+  lat: 45.61898,
+  lon: 4.6737,
+  nm: "Mornant",
+  value: 2991743
+},  {
+  id: 2991741,
+  label: "Mornas",
+  lat: 44.200249,
+  lon: 4.72902,
+  nm: "Mornas",
+  value: 2991741
+},  {
+  id: 2991719,
+  label: "Morsang-sur-Orge",
+  lat: 48.6618,
+  lon: 2.35338,
+  nm: "Morsang-sur-Orge",
+  value: 2991719
+},  {
+  id: 2991716,
+  label: "Morsbach",
+  lat: 49.17086,
+  lon: 6.87958,
+  nm: "Morsbach",
+  value: 2991716
+},  {
+  id: 2991713,
+  label: "Morschwiller-le-Bas",
+  lat: 47.736092,
+  lon: 7.26687,
+  nm: "Morschwiller-le-Bas",
+  value: 2991713
+},  {
+  id: 2991704,
+  label: "Mortagne-au-Perche",
+  lat: 48.51667,
+  lon: 0.55,
+  nm: "Mortagne-au-Perche",
+  value: 2991704
+},  {
+  id: 2991700,
+  label: "Mortagne-sur-Sevre",
+  lat: 46.992031,
+  lon: -0.94738,
+  nm: "Mortagne-sur-Sevre",
+  value: 2991700
+},  {
+  id: 2991699,
+  label: "Mortain",
+  lat: 48.64782,
+  lon: -0.94055,
+  nm: "Mortain",
+  value: 2991699
+},  {
+  id: 2991692,
+  label: "Morteau",
+  lat: 47.057838,
+  lon: 6.60716,
+  nm: "Morteau",
+  value: 2991692
+},  {
+  id: 2991630,
+  label: "Morzine",
+  lat: 46.181492,
+  lon: 6.70664,
+  nm: "Morzine",
+  value: 2991630
+},  {
+  id: 2991579,
+  label: "Mouans-Sartoux",
+  lat: 43.622238,
+  lon: 6.97312,
+  nm: "Mouans-Sartoux",
+  value: 2991579
+},  {
+  id: 2991575,
+  label: "Mouchamps",
+  lat: 46.781311,
+  lon: -1.06179,
+  nm: "Mouchamps",
+  value: 2991575
+},  {
+  id: 2991551,
+  label: "Mougins",
+  lat: 43.598728,
+  lon: 7.00434,
+  nm: "Mougins",
+  value: 2991551
+},  {
+  id: 2991546,
+  label: "Mouguerre",
+  lat: 43.467949,
+  lon: -1.41824,
+  nm: "Mouguerre",
+  value: 2991546
+},  {
+  id: 2991537,
+  label: "Mouilleron-le-Captif",
+  lat: 46.718979,
+  lon: -1.45462,
+  nm: "Mouilleron-le-Captif",
+  value: 2991537
+},  {
+  id: 2991481,
+  label: "Moulins",
+  lat: 46.566669,
+  lon: 3.33333,
+  nm: "Moulins",
+  value: 2991481
+},  {
+  id: 2991470,
+  label: "Moulins-les-Metz",
+  lat: 49.10318,
+  lon: 6.10721,
+  nm: "Moulins-les-Metz",
+  value: 2991470
+},  {
+  id: 2991431,
+  label: "Mourenx",
+  lat: 43.383331,
+  lon: -0.6,
+  nm: "Mourenx",
+  value: 2991431
+},  {
+  id: 2991421,
+  label: "Mouries",
+  lat: 43.689968,
+  lon: 4.87089,
+  nm: "Mouries",
+  value: 2991421
+},  {
+  id: 2991413,
+  label: "Mourmelon-le-Grand",
+  lat: 49.132561,
+  lon: 4.3642,
+  nm: "Mourmelon-le-Grand",
+  value: 2991413
+},  {
+  id: 2991407,
+  label: "Mouroux",
+  lat: 48.822632,
+  lon: 3.03879,
+  nm: "Mouroux",
+  value: 2991407
+},  {
+  id: 2991396,
+  label: "Mours-Saint-Eusebe",
+  lat: 45.068298,
+  lon: 5.05752,
+  nm: "Mours-Saint-Eusebe",
+  value: 2991396
+},  {
+  id: 2991362,
+  label: "Moussy-le-Neuf",
+  lat: 49.06427,
+  lon: 2.60252,
+  nm: "Moussy-le-Neuf",
+  value: 2991362
+},  {
+  id: 2991330,
+  label: "Mouthiers-sur-Boeme",
+  lat: 45.549999,
+  lon: 0.11667,
+  nm: "Mouthiers-sur-Boeme",
+  value: 2991330
+},  {
+  id: 2991320,
+  label: "Moutiers",
+  lat: 49.233688,
+  lon: 5.96498,
+  nm: "Moutiers",
+  value: 2991320
+},  {
+  id: 2991325,
+  label: "Moutiers",
+  lat: 45.48333,
+  lon: 6.53333,
+  nm: "Moutiers",
+  value: 2991325
+},  {
+  id: 2991302,
+  label: "Mouvaux",
+  lat: 50.69944,
+  lon: 3.13429,
+  nm: "Mouvaux",
+  value: 2991302
+},  {
+  id: 2991297,
+  label: "Mouy",
+  lat: 49.31535,
+  lon: 2.31954,
+  nm: "Mouy",
+  value: 2991297
+},  {
+  id: 2991285,
+  label: "Mouzillon",
+  lat: 47.140961,
+  lon: -1.2819,
+  nm: "Mouzillon",
+  value: 2991285
+},  {
+  id: 2991283,
+  label: "Mouzon",
+  lat: 49.607059,
+  lon: 5.07569,
+  nm: "Mouzon",
+  value: 2991283
+},  {
+  id: 2991271,
+  label: "Moyenmoutier",
+  lat: 48.3773,
+  lon: 6.90047,
+  nm: "Moyenmoutier",
+  value: 2991271
+},  {
+  id: 2991264,
+  label: "Moyeuvre-Grande",
+  lat: 49.251652,
+  lon: 6.04754,
+  nm: "Moyeuvre-Grande",
+  value: 2991264
+},  {
+  id: 2991258,
+  label: "Mozac",
+  lat: 45.891659,
+  lon: 3.09095,
+  nm: "Mozac",
+  value: 2991258
+},  {
+  id: 2991255,
+  label: "Moze-sur-Louet",
+  lat: 47.358559,
+  lon: -0.55294,
+  nm: "Moze-sur-Louet",
+  value: 2991255
+},  {
+  id: 2991220,
+  label: "Muizon",
+  lat: 49.275002,
+  lon: 3.89083,
+  nm: "Muizon",
+  value: 2991220
+},  {
+  id: 2991214,
+  label: "Mulhouse",
+  lat: 47.75,
+  lon: 7.33333,
+  nm: "Mulhouse",
+  value: 2991214
+},  {
+  id: 2991207,
+  label: "Mulsanne",
+  lat: 47.91172,
+  lon: 0.24938,
+  nm: "Mulsanne",
+  value: 2991207
+},  {
+  id: 2991199,
+  label: "Mundolsheim",
+  lat: 48.642151,
+  lon: 7.71378,
+  nm: "Mundolsheim",
+  value: 2991199
+},  {
+  id: 2991189,
+  label: "Munster",
+  lat: 48.04089,
+  lon: 7.13338,
+  nm: "Munster",
+  value: 2991189
+},  {
+  id: 2991161,
+  label: "Mur-de-Bretagne",
+  lat: 48.200001,
+  lon: -2.98333,
+  nm: "Mur-de-Bretagne",
+  value: 2991161
+},  {
+  id: 2991179,
+  label: "Murat",
+  lat: 45.107971,
+  lon: 2.86665,
+  nm: "Murat",
+  value: 2991179
+},  {
+  id: 2991153,
+  label: "Muret",
+  lat: 43.466671,
+  lon: 1.35,
+  nm: "Muret",
+  value: 2991153
+},  {
+  id: 2991128,
+  label: "Murs-Erigne",
+  lat: 47.400002,
+  lon: -0.55,
+  nm: "Murs-Erigne",
+  value: 2991128
+},  {
+  id: 2991102,
+  label: "Mussidan",
+  lat: 45.035419,
+  lon: 0.3629,
+  nm: "Mussidan",
+  value: 2991102
+},  {
+  id: 2991086,
+  label: "Mutzig",
+  lat: 48.539742,
+  lon: 7.45594,
+  nm: "Mutzig",
+  value: 2991086
+},  {
+  id: 2991077,
+  label: "Muzillac",
+  lat: 47.554508,
+  lon: -2.48041,
+  nm: "Muzillac",
+  value: 2991077
+},  {
+  id: 2991036,
+  label: "Naintre",
+  lat: 46.763538,
+  lon: 0.48683,
+  nm: "Naintre",
+  value: 2991036
+},  {
+  id: 2991027,
+  label: "Nalliers",
+  lat: 46.470711,
+  lon: -1.02774,
+  nm: "Nalliers",
+  value: 2991027
+},  {
+  id: 2990999,
+  label: "Nancy",
+  lat: 48.683331,
+  lon: 6.2,
+  nm: "Nancy",
+  value: 2990999
+},  {
+  id: 2990995,
+  label: "Nandy",
+  lat: 48.583012,
+  lon: 2.56292,
+  nm: "Nandy",
+  value: 2990995
+},  {
+  id: 2990992,
+  label: "Nangis",
+  lat: 48.555351,
+  lon: 3.01306,
+  nm: "Nangis",
+  value: 2990992
+},  {
+  id: 2990987,
+  label: "Nans-les-Pins",
+  lat: 43.37035,
+  lon: 5.7834,
+  nm: "Nans-les-Pins",
+  value: 2990987
+},  {
+  id: 2990970,
+  label: "Nanterre",
+  lat: 48.891979,
+  lon: 2.20675,
+  nm: "Nanterre",
+  value: 2990970
+},  {
+  id: 2990969,
+  label: "Nantes",
+  lat: 47.217251,
+  lon: -1.55336,
+  nm: "Nantes",
+  value: 2990969
+},  {
+  id: 2990958,
+  label: "Nanteuil-le-Haudouin",
+  lat: 49.14082,
+  lon: 2.81142,
+  nm: "Nanteuil-le-Haudouin",
+  value: 2990958
+},  {
+  id: 2990957,
+  label: "Nanteuil-les-Meaux",
+  lat: 48.929401,
+  lon: 2.89594,
+  nm: "Nanteuil-les-Meaux",
+  value: 2990957
+},  {
+  id: 2990932,
+  label: "Nantua",
+  lat: 46.150002,
+  lon: 5.61667,
+  nm: "Nantua",
+  value: 2990932
+},  {
+  id: 2990919,
+  label: "Narbonne",
+  lat: 43.183331,
+  lon: 3,
+  nm: "Narbonne",
+  value: 2990919
+},  {
+  id: 2990908,
+  label: "Narrosse",
+  lat: 43.703812,
+  lon: -1.00742,
+  nm: "Narrosse",
+  value: 2990908
+},  {
+  id: 2990890,
+  label: "Naucelle",
+  lat: 44.198101,
+  lon: 2.3431,
+  nm: "Naucelle",
+  value: 2990890
+},  {
+  id: 2990866,
+  label: "Naveil",
+  lat: 47.795761,
+  lon: 1.03222,
+  nm: "Naveil",
+  value: 2990866
+},  {
+  id: 2990860,
+  label: "Naves",
+  lat: 45.31395,
+  lon: 1.76708,
+  nm: "Naves",
+  value: 2990860
+},  {
+  id: 2990852,
+  label: "Nay",
+  lat: 43.183331,
+  lon: -0.26667,
+  nm: "Nay",
+  value: 2990852
+},  {
+  id: 2990848,
+  label: "Nazelles-Negron",
+  lat: 47.433331,
+  lon: 0.95,
+  nm: "Nazelles-Negron",
+  value: 2990848
+},  {
+  id: 2990835,
+  label: "Neauphle-le-Chateau",
+  lat: 48.814178,
+  lon: 1.90567,
+  nm: "Neauphle-le-Chateau",
+  value: 2990835
+},  {
+  id: 2990809,
+  label: "Negrepelisse",
+  lat: 44.07436,
+  lon: 1.51978,
+  nm: "Negrepelisse",
+  value: 2990809
+},  {
+  id: 2990793,
+  label: "Nemours",
+  lat: 48.275108,
+  lon: 2.69078,
+  nm: "Nemours",
+  value: 2990793
+},  {
+  id: 2990780,
+  label: "Nerac",
+  lat: 44.133331,
+  lon: 0.35,
+  nm: "Nerac",
+  value: 2990780
+},  {
+  id: 2990767,
+  label: "Neris-les-Bains",
+  lat: 46.28688,
+  lon: 2.65869,
+  nm: "Neris-les-Bains",
+  value: 2990767
+},  {
+  id: 2990751,
+  label: "Nersac",
+  lat: 45.633331,
+  lon: 0.05,
+  nm: "Nersac",
+  value: 2990751
+},  {
+  id: 2990741,
+  label: "Nesle",
+  lat: 49.758881,
+  lon: 2.91133,
+  nm: "Nesle",
+  value: 2990741
+},  {
+  id: 2990729,
+  label: "Nesles-la-Vallee",
+  lat: 49.132019,
+  lon: 2.17099,
+  nm: "Nesles-la-Vallee",
+  value: 2990729
+},  {
+  id: 2990727,
+  label: "Nesmy",
+  lat: 46.590778,
+  lon: -1.40074,
+  nm: "Nesmy",
+  value: 2990727
+},  {
+  id: 2990683,
+  label: "Neuf-Brisach",
+  lat: 48.01783,
+  lon: 7.52795,
+  nm: "Neuf-Brisach",
+  value: 2990683
+},  {
+  id: 2990682,
+  label: "Neufchateau",
+  lat: 48.349998,
+  lon: 5.7,
+  nm: "Neufchateau",
+  value: 2990682
+},  {
+  id: 2990680,
+  label: "Neufchatel-en-Bray",
+  lat: 49.733158,
+  lon: 1.43956,
+  nm: "Neufchatel-en-Bray",
+  value: 2990680
+},  {
+  id: 2990678,
+  label: "Neufchatel-Hardelot",
+  lat: 50.620178,
+  lon: 1.64223,
+  nm: "Neufchatel-Hardelot",
+  value: 2990678
+},  {
+  id: 2990676,
+  label: "Neufchef",
+  lat: 49.31514,
+  lon: 6.02341,
+  nm: "Neufchef",
+  value: 2990676
+},  {
+  id: 2990628,
+  label: "Neuilly-en-Thelle",
+  lat: 49.224461,
+  lon: 2.28525,
+  nm: "Neuilly-en-Thelle",
+  value: 2990628
+},  {
+  id: 2990620,
+  label: "Neuilly-les-Dijon",
+  lat: 47.27943,
+  lon: 5.10645,
+  nm: "Neuilly-les-Dijon",
+  value: 2990620
+},  {
+  id: 2990616,
+  label: "Neuilly-Plaisance",
+  lat: 48.863419,
+  lon: 2.506,
+  nm: "Neuilly-Plaisance",
+  value: 2990616
+},  {
+  id: 2990615,
+  label: "Neuilly-Saint-Front",
+  lat: 49.17012,
+  lon: 3.26393,
+  nm: "Neuilly-Saint-Front",
+  value: 2990615
+},  {
+  id: 2990612,
+  label: "Neuilly-sur-Marne",
+  lat: 48.853729,
+  lon: 2.54903,
+  nm: "Neuilly-sur-Marne",
+  value: 2990612
+},  {
+  id: 2990611,
+  label: "Neuilly-sur-Seine",
+  lat: 48.883331,
+  lon: 2.26667,
+  nm: "Neuilly-sur-Seine",
+  value: 2990611
+},  {
+  id: 2990590,
+  label: "Neuvecelle",
+  lat: 46.39502,
+  lon: 6.61257,
+  nm: "Neuvecelle",
+  value: 2990590
+},  {
+  id: 2990580,
+  label: "Neuves-Maisons",
+  lat: 48.620289,
+  lon: 6.10698,
+  nm: "Neuves-Maisons",
+  value: 2990580
+},  {
+  id: 2990576,
+  label: "Neuvic",
+  lat: 45.10033,
+  lon: 0.46901,
+  nm: "Neuvic",
+  value: 2990576
+},  {
+  id: 2990575,
+  label: "Neuvic",
+  lat: 45.383331,
+  lon: 2.28333,
+  nm: "Neuvic",
+  value: 2990575
+},  {
+  id: 2990550,
+  label: "Neuville-aux-Bois",
+  lat: 48.06813,
+  lon: 2.05372,
+  nm: "Neuville-aux-Bois",
+  value: 2990550
+},  {
+  id: 2990546,
+  label: "Neuville-de-Poitou",
+  lat: 46.683331,
+  lon: 0.25,
+  nm: "Neuville-de-Poitou",
+  value: 2990546
+},  {
+  id: 2990543,
+  label: "Neuville-en-Ferrain",
+  lat: 50.74839,
+  lon: 3.15676,
+  nm: "Neuville-en-Ferrain",
+  value: 2990543
+},  {
+  id: 2990527,
+  label: "Neuville-Saint-Remy",
+  lat: 50.18618,
+  lon: 3.22404,
+  nm: "Neuville-Saint-Remy",
+  value: 2990527
+},  {
+  id: 2990520,
+  label: "Neuville-sur-Escaut",
+  lat: 50.299999,
+  lon: 3.35,
+  nm: "Neuville-sur-Escaut",
+  value: 2990520
+},  {
+  id: 2990516,
+  label: "Neuville-sur-Saone",
+  lat: 45.877041,
+  lon: 4.8492,
+  nm: "Neuville-sur-Saone",
+  value: 2990516
+},  {
+  id: 2990515,
+  label: "Neuville-sur-Sarthe",
+  lat: 48.076149,
+  lon: 0.19264,
+  nm: "Neuville-sur-Sarthe",
+  value: 2990515
+},  {
+  id: 2990474,
+  label: "Nevers",
+  lat: 46.989559,
+  lon: 3.159,
+  nm: "Nevers",
+  value: 2990474
+},  {
+  id: 2990471,
+  label: "Nevez",
+  lat: 47.819241,
+  lon: -3.79225,
+  nm: "Nevez",
+  value: 2990471
+},  {
+  id: 2990463,
+  label: "Nexon",
+  lat: 45.679619,
+  lon: 1.18555,
+  nm: "Nexon",
+  value: 2990463
+},  {
+  id: 2990440,
+  label: "Nice",
+  lat: 43.703129,
+  lon: 7.26608,
+  nm: "Nice",
+  value: 2990440
+},  {
+  id: 2990420,
+  label: "Niederbronn-les-Bains",
+  lat: 48.951649,
+  lon: 7.64271,
+  nm: "Niederbronn-les-Bains",
+  value: 2990420
+},  {
+  id: 2990392,
+  label: "Nieppe",
+  lat: 50.70425,
+  lon: 2.83506,
+  nm: "Nieppe",
+  value: 2990392
+},  {
+  id: 2990382,
+  label: "Nieul-le-Dolent",
+  lat: 46.573792,
+  lon: -1.50808,
+  nm: "Nieul-le-Dolent",
+  value: 2990382
+},  {
+  id: 2990377,
+  label: "Nieul-sur-Mer",
+  lat: 46.20583,
+  lon: -1.16449,
+  nm: "Nieul-sur-Mer",
+  value: 2990377
+},  {
+  id: 2990364,
+  label: "Nilvange",
+  lat: 49.339951,
+  lon: 6.05483,
+  nm: "Nilvange",
+  value: 2990364
+},  {
+  id: 2990363,
+  label: "Nimes",
+  lat: 43.833328,
+  lon: 4.35,
+  nm: "Nimes",
+  value: 2990363
+},  {
+  id: 2990355,
+  label: "Niort",
+  lat: 46.323132,
+  lon: -0.45877,
+  nm: "Niort",
+  value: 2990355
+},  {
+  id: 2990344,
+  label: "Nissan-lez-Enserune",
+  lat: 43.289619,
+  lon: 3.12705,
+  nm: "Nissan-lez-Enserune",
+  value: 2990344
+},  {
+  id: 2990331,
+  label: "Nivillac",
+  lat: 47.53371,
+  lon: -2.28298,
+  nm: "Nivillac",
+  value: 2990331
+},  {
+  id: 2990329,
+  label: "Nivolas-Vermelle",
+  lat: 45.55518,
+  lon: 5.30682,
+  nm: "Nivolas-Vermelle",
+  value: 2990329
+},  {
+  id: 2990307,
+  label: "Noailles",
+  lat: 49.328659,
+  lon: 2.20024,
+  nm: "Noailles",
+  value: 2990307
+},  {
+  id: 2990294,
+  label: "Noe",
+  lat: 43.358139,
+  lon: 1.27709,
+  nm: "Noe",
+  value: 2990294
+},  {
+  id: 2990287,
+  label: "Noeux-les-Mines",
+  lat: 50.48333,
+  lon: 2.66667,
+  nm: "Noeux-les-Mines",
+  value: 2990287
+},  {
+  id: 2990284,
+  label: "Nogaro",
+  lat: 43.75856,
+  lon: -0.03293,
+  nm: "Nogaro",
+  value: 2990284
+},  {
+  id: 2990276,
+  label: "Nogent-le-Bas",
+  lat: 48.019741,
+  lon: 5.33323,
+  nm: "Nogent-le-Bas",
+  value: 2990276
+},  {
+  id: 2990273,
+  label: "Nogent-le-Roi",
+  lat: 48.64785,
+  lon: 1.52933,
+  nm: "Nogent-le-Roi",
+  value: 2990273
+},  {
+  id: 2990272,
+  label: "Nogent-le-Rotrou",
+  lat: 48.316669,
+  lon: 0.83333,
+  nm: "Nogent-le-Rotrou",
+  value: 2990272
+},  {
+  id: 2990265,
+  label: "Nogent-sur-Marne",
+  lat: 48.833328,
+  lon: 2.48333,
+  nm: "Nogent-sur-Marne",
+  value: 2990265
+},  {
+  id: 2990264,
+  label: "Nogent-sur-Oise",
+  lat: 49.27158,
+  lon: 2.47074,
+  nm: "Nogent-sur-Oise",
+  value: 2990264
+},  {
+  id: 2990263,
+  label: "Nogent-sur-Seine",
+  lat: 48.48333,
+  lon: 3.5,
+  nm: "Nogent-sur-Seine",
+  value: 2990263
+},  {
+  id: 2990261,
+  label: "Nogent-sur-Vernisson",
+  lat: 47.846031,
+  lon: 2.74266,
+  nm: "Nogent-sur-Vernisson",
+  value: 2990261
+},  {
+  id: 2990247,
+  label: "Noidans-les-Vesoul",
+  lat: 47.612991,
+  lon: 6.12571,
+  nm: "Noidans-les-Vesoul",
+  value: 2990247
+},  {
+  id: 2990195,
+  label: "Noiseau",
+  lat: 48.77589,
+  lon: 2.54892,
+  nm: "Noiseau",
+  value: 2990195
+},  {
+  id: 2990192,
+  label: "Noisiel",
+  lat: 48.848679,
+  lon: 2.62435,
+  nm: "Noisiel",
+  value: 2990192
+},  {
+  id: 2990189,
+  label: "Noisy-le-Grand",
+  lat: 48.849789,
+  lon: 2.56266,
+  nm: "Noisy-le-Grand",
+  value: 2990189
+},  {
+  id: 2990188,
+  label: "Noisy-le-Roi",
+  lat: 48.844452,
+  lon: 2.06345,
+  nm: "Noisy-le-Roi",
+  value: 2990188
+},  {
+  id: 2990187,
+  label: "Noisy-le-Sec",
+  lat: 48.891479,
+  lon: 2.46451,
+  nm: "Noisy-le-Sec",
+  value: 2990187
+},  {
+  id: 2990167,
+  label: "Nomain",
+  lat: 50.498569,
+  lon: 3.24991,
+  nm: "Nomain",
+  value: 2990167
+},  {
+  id: 2990163,
+  label: "Nomexy",
+  lat: 48.307411,
+  lon: 6.38572,
+  nm: "Nomexy",
+  value: 2990163
+},  {
+  id: 2990158,
+  label: "Nonancourt",
+  lat: 48.770859,
+  lon: 1.19799,
+  nm: "Nonancourt",
+  value: 2990158
+},  {
+  id: 2990140,
+  label: "Nontron",
+  lat: 45.533329,
+  lon: 0.66667,
+  nm: "Nontron",
+  value: 2990140
+},  {
+  id: 2990085,
+  label: "Nort-sur-Erdre",
+  lat: 47.438808,
+  lon: -1.49833,
+  nm: "Nort-sur-Erdre",
+  value: 2990085
+},  {
+  id: 2990064,
+  label: "Notre-Dame-de-Bondeville",
+  lat: 49.48333,
+  lon: 1.05,
+  nm: "Notre-Dame-de-Bondeville",
+  value: 2990064
+},  {
+  id: 2990056,
+  label: "Notre-Dame-de-Gravenchon",
+  lat: 49.489399,
+  lon: 0.57188,
+  nm: "Notre-Dame-de-Gravenchon",
+  value: 2990056
+},  {
+  id: 2990042,
+  label: "Notre-Dame-de-Sanilhac",
+  lat: 45.12122,
+  lon: 0.71157,
+  nm: "Notre-Dame-de-Sanilhac",
+  value: 2990042
+},  {
+  id: 2990012,
+  label: "Nouaille-Maupertuis",
+  lat: 46.511131,
+  lon: 0.41667,
+  nm: "Nouaille-Maupertuis",
+  value: 2990012
+},  {
+  id: 2990007,
+  label: "Nouan-le-Fuzelier",
+  lat: 47.535999,
+  lon: 2.03647,
+  nm: "Nouan-le-Fuzelier",
+  value: 2990007
+},  {
+  id: 2989953,
+  label: "Nouvion-sur-Meuse",
+  lat: 49.69949,
+  lon: 4.79562,
+  nm: "Nouvion-sur-Meuse",
+  value: 2989953
+},  {
+  id: 2989952,
+  label: "Nouvoitou",
+  lat: 48.04105,
+  lon: -1.54714,
+  nm: "Nouvoitou",
+  value: 2989952
+},  {
+  id: 2989943,
+  label: "Nouzonville",
+  lat: 49.81369,
+  lon: 4.74736,
+  nm: "Nouzonville",
+  value: 2989943
+},  {
+  id: 2989935,
+  label: "Noves",
+  lat: 43.877361,
+  lon: 4.90248,
+  nm: "Noves",
+  value: 2989935
+},  {
+  id: 2989920,
+  label: "Noyal-Muzillac",
+  lat: 47.59169,
+  lon: -2.45557,
+  nm: "Noyal-Muzillac",
+  value: 2989920
+},  {
+  id: 2989918,
+  label: "Noyal-Pontivy",
+  lat: 48.066669,
+  lon: -2.88333,
+  nm: "Noyal-Pontivy",
+  value: 2989918
+},  {
+  id: 2989914,
+  label: "Noyal-sur-Vilaine",
+  lat: 48.112202,
+  lon: -1.52333,
+  nm: "Noyal-sur-Vilaine",
+  value: 2989914
+},  {
+  id: 2989913,
+  label: "Noyant",
+  lat: 47.510479,
+  lon: 0.11771,
+  nm: "Noyant",
+  value: 2989913
+},  {
+  id: 2989906,
+  label: "Noyarey",
+  lat: 45.247601,
+  lon: 5.62837,
+  nm: "Noyarey",
+  value: 2989906
+},  {
+  id: 2989901,
+  label: "Noyelles-Godault",
+  lat: 50.41753,
+  lon: 2.99306,
+  nm: "Noyelles-Godault",
+  value: 2989901
+},  {
+  id: 2989899,
+  label: "Noyelles-les-Vermelles",
+  lat: 50.490009,
+  lon: 2.72628,
+  nm: "Noyelles-les-Vermelles",
+  value: 2989899
+},  {
+  id: 2989897,
+  label: "Noyelles-sous-Lens",
+  lat: 50.43084,
+  lon: 2.87221,
+  nm: "Noyelles-sous-Lens",
+  value: 2989897
+},  {
+  id: 2989890,
+  label: "Noyen-sur-Sarthe",
+  lat: 47.871868,
+  lon: -0.09916,
+  nm: "Noyen-sur-Sarthe",
+  value: 2989890
+},  {
+  id: 2989879,
+  label: "Noyers-sur-Cher",
+  lat: 47.277012,
+  lon: 1.4032,
+  nm: "Noyers-sur-Cher",
+  value: 2989879
+},  {
+  id: 2989877,
+  label: "Noyon",
+  lat: 49.583328,
+  lon: 3,
+  nm: "Noyon",
+  value: 2989877
+},  {
+  id: 2989874,
+  label: "Nozay",
+  lat: 48.659199,
+  lon: 2.24151,
+  nm: "Nozay",
+  value: 2989874
+},  {
+  id: 2989876,
+  label: "Nozay",
+  lat: 47.564949,
+  lon: -1.62629,
+  nm: "Nozay",
+  value: 2989876
+},  {
+  id: 2989852,
+  label: "Nueil-les-Aubiers",
+  lat: 46.933331,
+  lon: -0.58333,
+  nm: "Nueil-les-Aubiers",
+  value: 2989852
+},  {
+  id: 2989837,
+  label: "Nuits-Saint-Georges",
+  lat: 47.136829,
+  lon: 4.949,
+  nm: "Nuits-Saint-Georges",
+  value: 2989837
+},  {
+  id: 2989819,
+  label: "Nyons",
+  lat: 44.366669,
+  lon: 5.13333,
+  nm: "Nyons",
+  value: 2989819
+},  {
+  id: 2989805,
+  label: "Oberhausbergen",
+  lat: 48.606071,
+  lon: 7.68846,
+  nm: "Oberhausbergen",
+  value: 2989805
+},  {
+  id: 2989802,
+  label: "Oberhoffen-sur-Moder",
+  lat: 48.78059,
+  lon: 7.86926,
+  nm: "Oberhoffen-sur-Moder",
+  value: 2989802
+},  {
+  id: 2989796,
+  label: "Obernai",
+  lat: 48.463131,
+  lon: 7.481,
+  nm: "Obernai",
+  value: 2989796
+},  {
+  id: 2989792,
+  label: "Oberschaeffolsheim",
+  lat: 48.58643,
+  lon: 7.65018,
+  nm: "Oberschaeffolsheim",
+  value: 2989792
+},  {
+  id: 2989785,
+  label: "Objat",
+  lat: 45.262379,
+  lon: 1.40781,
+  nm: "Objat",
+  value: 2989785
+},  {
+  id: 2989755,
+  label: "Octeville",
+  lat: 49.626122,
+  lon: -1.64349,
+  nm: "Octeville",
+  value: 2989755
+},  {
+  id: 2989753,
+  label: "Octeville-sur-Mer",
+  lat: 49.554958,
+  lon: 0.1166,
+  nm: "Octeville-sur-Mer",
+  value: 2989753
+},  {
+  id: 2989742,
+  label: "Odos",
+  lat: 43.19622,
+  lon: 0.05694,
+  nm: "Odos",
+  value: 2989742
+},  {
+  id: 2989736,
+  label: "OEting",
+  lat: 49.166672,
+  lon: 6.91667,
+  nm: "OEting",
+  value: 2989736
+},  {
+  id: 2989725,
+  label: "Offemont",
+  lat: 47.664162,
+  lon: 6.88056,
+  nm: "Offemont",
+  value: 2989725
+},  {
+  id: 2989715,
+  label: "Offranville",
+  lat: 49.872082,
+  lon: 1.04817,
+  nm: "Offranville",
+  value: 2989715
+},  {
+  id: 2989680,
+  label: "Oignies",
+  lat: 50.46331,
+  lon: 2.99376,
+  nm: "Oignies",
+  value: 2989680
+},  {
+  id: 2989646,
+  label: "Oissel",
+  lat: 49.333092,
+  lon: 1.09413,
+  nm: "Oissel",
+  value: 2989646
+},  {
+  id: 2989645,
+  label: "Oissery",
+  lat: 49.070469,
+  lon: 2.81819,
+  nm: "Oissery",
+  value: 2989645
+},  {
+  id: 2989629,
+  label: "Olemps",
+  lat: 44.346378,
+  lon: 2.5514,
+  nm: "Olemps",
+  value: 2989629
+},  {
+  id: 2989611,
+  label: "Olivet",
+  lat: 47.86219,
+  lon: 1.8991,
+  nm: "Olivet",
+  value: 2989611
+},  {
+  id: 2989601,
+  label: "Ollainville",
+  lat: 48.590809,
+  lon: 2.21936,
+  nm: "Ollainville",
+  value: 2989601
+},  {
+  id: 2989590,
+  label: "Ollioules",
+  lat: 43.13517,
+  lon: 5.848,
+  nm: "Ollioules",
+  value: 2989590
+},  {
+  id: 2989572,
+  label: "Olonne-sur-Mer",
+  lat: 46.53524,
+  lon: -1.77293,
+  nm: "Olonne-sur-Mer",
+  value: 2989572
+},  {
+  id: 2989569,
+  label: "Oloron-Sainte-Marie",
+  lat: 43.194408,
+  lon: -0.61069,
+  nm: "Oloron-Sainte-Marie",
+  value: 2989569
+},  {
+  id: 2989525,
+  label: "Ondres",
+  lat: 43.56461,
+  lon: -1.44449,
+  nm: "Ondres",
+  value: 2989525
+},  {
+  id: 2989506,
+  label: "Onnaing",
+  lat: 50.385841,
+  lon: 3.59963,
+  nm: "Onnaing",
+  value: 2989506
+},  {
+  id: 2989495,
+  label: "Onzain",
+  lat: 47.499561,
+  lon: 1.17701,
+  nm: "Onzain",
+  value: 2989495
+},  {
+  id: 2989486,
+  label: "Opio",
+  lat: 43.667591,
+  lon: 6.98566,
+  nm: "Opio",
+  value: 2989486
+},  {
+  id: 2989467,
+  label: "Oradour-sur-Glane",
+  lat: 45.934052,
+  lon: 1.0317,
+  nm: "Oradour-sur-Glane",
+  value: 2989467
+},  {
+  id: 2989461,
+  label: "Oraison",
+  lat: 43.916088,
+  lon: 5.91756,
+  nm: "Oraison",
+  value: 2989461
+},  {
+  id: 2989460,
+  label: "Orange",
+  lat: 44.139198,
+  lon: 4.80791,
+  nm: "Orange",
+  value: 2989460
+},  {
+  id: 2989445,
+  label: "Orbec",
+  lat: 49.01667,
+  lon: 0.41667,
+  nm: "Orbec",
+  value: 2989445
+},  {
+  id: 2989441,
+  label: "Orbey",
+  lat: 48.126511,
+  lon: 7.16455,
+  nm: "Orbey",
+  value: 2989441
+},  {
+  id: 2989430,
+  label: "Orcet",
+  lat: 45.70351,
+  lon: 3.16807,
+  nm: "Orcet",
+  value: 2989430
+},  {
+  id: 2989422,
+  label: "Orchies",
+  lat: 50.466671,
+  lon: 3.23333,
+  nm: "Orchies",
+  value: 2989422
+},  {
+  id: 2989417,
+  label: "Orcines",
+  lat: 45.783798,
+  lon: 3.0122,
+  nm: "Orcines",
+  value: 2989417
+},  {
+  id: 2989382,
+  label: "Orgeres",
+  lat: 47.998859,
+  lon: -1.66781,
+  nm: "Orgeres",
+  value: 2989382
+},  {
+  id: 2989376,
+  label: "Orgerus",
+  lat: 48.838509,
+  lon: 1.70132,
+  nm: "Orgerus",
+  value: 2989376
+},  {
+  id: 2989372,
+  label: "Orgeval",
+  lat: 48.921619,
+  lon: 1.9779,
+  nm: "Orgeval",
+  value: 2989372
+},  {
+  id: 2989362,
+  label: "Orgon",
+  lat: 43.79108,
+  lon: 5.03869,
+  nm: "Orgon",
+  value: 2989362
+},  {
+  id: 2989317,
+  label: "Orleans",
+  lat: 47.902889,
+  lon: 1.90389,
+  nm: "Orleans",
+  value: 2989317
+},  {
+  id: 2989301,
+  label: "Orlienas",
+  lat: 45.658581,
+  lon: 4.71707,
+  nm: "Orlienas",
+  value: 2989301
+},  {
+  id: 2989297,
+  label: "Orly",
+  lat: 48.747921,
+  lon: 2.39252,
+  nm: "Orly",
+  value: 2989297
+},  {
+  id: 2989281,
+  label: "Ormes",
+  lat: 47.941521,
+  lon: 1.81823,
+  nm: "Ormes",
+  value: 2989281
+},  {
+  id: 2989271,
+  label: "Ormesson-sur-Marne",
+  lat: 48.786301,
+  lon: 2.54471,
+  nm: "Ormesson-sur-Marne",
+  value: 2989271
+},  {
+  id: 2989252,
+  label: "Ornans",
+  lat: 47.107491,
+  lon: 6.14306,
+  nm: "Ornans",
+  value: 2989252
+},  {
+  id: 2989241,
+  label: "Ornex",
+  lat: 46.272701,
+  lon: 6.09982,
+  nm: "Ornex",
+  value: 2989241
+},  {
+  id: 2989211,
+  label: "Orry-la-Ville",
+  lat: 49.13345,
+  lon: 2.5114,
+  nm: "Orry-la-Ville",
+  value: 2989211
+},  {
+  id: 2989204,
+  label: "Orsay",
+  lat: 48.695721,
+  lon: 2.18727,
+  nm: "Orsay",
+  value: 2989204
+},  {
+  id: 2989187,
+  label: "Orthez",
+  lat: 43.48838,
+  lon: -0.77244,
+  nm: "Orthez",
+  value: 2989187
+},  {
+  id: 2989174,
+  label: "Orval",
+  lat: 46.725811,
+  lon: 2.47144,
+  nm: "Orval",
+  value: 2989174
+},  {
+  id: 2989170,
+  label: "Orvault",
+  lat: 47.27095,
+  lon: -1.6219,
+  nm: "Orvault",
+  value: 2989170
+},  {
+  id: 2989130,
+  label: "Osny",
+  lat: 49.059368,
+  lon: 2.06183,
+  nm: "Osny",
+  value: 2989130
+},  {
+  id: 2989108,
+  label: "Ossun",
+  lat: 43.183331,
+  lon: -0.03333,
+  nm: "Ossun",
+  value: 2989108
+},  {
+  id: 2989094,
+  label: "Ostricourt",
+  lat: 50.45145,
+  lon: 3.03417,
+  nm: "Ostricourt",
+  value: 2989094
+},  {
+  id: 2989093,
+  label: "Ostwald",
+  lat: 48.54369,
+  lon: 7.71099,
+  nm: "Ostwald",
+  value: 2989093
+},  {
+  id: 2989088,
+  label: "Othis",
+  lat: 49.073872,
+  lon: 2.67502,
+  nm: "Othis",
+  value: 2989088
+},  {
+  id: 2989087,
+  label: "Ottange",
+  lat: 49.44191,
+  lon: 6.01734,
+  nm: "Ottange",
+  value: 2989087
+},  {
+  id: 2989084,
+  label: "Ottmarsheim",
+  lat: 47.786549,
+  lon: 7.50935,
+  nm: "Ottmarsheim",
+  value: 2989084
+},  {
+  id: 2989058,
+  label: "Oudon",
+  lat: 47.34774,
+  lon: -1.285,
+  nm: "Oudon",
+  value: 2989058
+},  {
+  id: 2989013,
+  label: "Ouistreham",
+  lat: 49.275661,
+  lon: -0.2591,
+  nm: "Ouistreham",
+  value: 2989013
+},  {
+  id: 2988998,
+  label: "Oullins",
+  lat: 45.717739,
+  lon: 4.80382,
+  nm: "Oullins",
+  value: 2988998
+},  {
+  id: 2988971,
+  label: "Ouroux-sur-Saone",
+  lat: 46.72147,
+  lon: 4.95262,
+  nm: "Ouroux-sur-Saone",
+  value: 2988971
+},  {
+  id: 2988936,
+  label: "Outreau",
+  lat: 50.705349,
+  lon: 1.5897,
+  nm: "Outreau",
+  value: 2988936
+},  {
+  id: 2988922,
+  label: "Ouveillan",
+  lat: 43.28915,
+  lon: 2.97124,
+  nm: "Ouveillan",
+  value: 2988922
+},  {
+  id: 2988903,
+  label: "Ouzouer-sur-Loire",
+  lat: 47.76638,
+  lon: 2.48038,
+  nm: "Ouzouer-sur-Loire",
+  value: 2988903
+},  {
+  id: 2988893,
+  label: "Oye-Plage",
+  lat: 50.977131,
+  lon: 2.04276,
+  nm: "Oye-Plage",
+  value: 2988893
+},  {
+  id: 2988888,
+  label: "Oyonnax",
+  lat: 46.259171,
+  lon: 5.65727,
+  nm: "Oyonnax",
+  value: 2988888
+},  {
+  id: 2988867,
+  label: "Ozoir-la-Ferriere",
+  lat: 48.766991,
+  lon: 2.66871,
+  nm: "Ozoir-la-Ferriere",
+  value: 2988867
+},  {
+  id: 2988856,
+  label: "Pabu",
+  lat: 48.586079,
+  lon: -3.13608,
+  nm: "Pabu",
+  value: 2988856
+},  {
+  id: 2988853,
+  label: "Pace",
+  lat: 48.148479,
+  lon: -1.77327,
+  nm: "Pace",
+  value: 2988853
+},  {
+  id: 2988848,
+  label: "Pacy-sur-Eure",
+  lat: 49.01667,
+  lon: 1.38333,
+  nm: "Pacy-sur-Eure",
+  value: 2988848
+},  {
+  id: 2988823,
+  label: "Pagny-sur-Moselle",
+  lat: 48.98349,
+  lon: 6.02084,
+  nm: "Pagny-sur-Moselle",
+  value: 2988823
+},  {
+  id: 2988797,
+  label: "Paimboeuf",
+  lat: 47.286541,
+  lon: -2.03048,
+  nm: "Paimboeuf",
+  value: 2988797
+},  {
+  id: 2988796,
+  label: "Paimpol",
+  lat: 48.778412,
+  lon: -3.04375,
+  nm: "Paimpol",
+  value: 2988796
+},  {
+  id: 2988758,
+  label: "Palaiseau",
+  lat: 48.716671,
+  lon: 2.25,
+  nm: "Palaiseau",
+  value: 2988758
+},  {
+  id: 2988756,
+  label: "Palaja",
+  lat: 43.17363,
+  lon: 2.38462,
+  nm: "Palaja",
+  value: 2988756
+},  {
+  id: 2988743,
+  label: "Palau-del-Vidre",
+  lat: 42.571621,
+  lon: 2.96033,
+  nm: "Palau-del-Vidre",
+  value: 2988743
+},  {
+  id: 2988742,
+  label: "Palavas-les-Flots",
+  lat: 43.528049,
+  lon: 3.92705,
+  nm: "Palavas-les-Flots",
+  value: 2988742
+},  {
+  id: 2988670,
+  label: "Pamiers",
+  lat: 43.116669,
+  lon: 1.6,
+  nm: "Pamiers",
+  value: 2988670
+},  {
+  id: 2988657,
+  label: "Panazol",
+  lat: 45.834648,
+  lon: 1.32759,
+  nm: "Panazol",
+  value: 2988657
+},  {
+  id: 2988637,
+  label: "Panissieres",
+  lat: 45.79282,
+  lon: 4.33955,
+  nm: "Panissieres",
+  value: 2988637
+},  {
+  id: 2988632,
+  label: "Pannes",
+  lat: 48.019371,
+  lon: 2.66755,
+  nm: "Pannes",
+  value: 2988632
+},  {
+  id: 2988621,
+  label: "Pantin",
+  lat: 48.894371,
+  lon: 2.40935,
+  nm: "Pantin",
+  value: 2988621
+},  {
+  id: 2988592,
+  label: "Paray-le-Monial",
+  lat: 46.454571,
+  lon: 4.11584,
+  nm: "Paray-le-Monial",
+  value: 2988592
+},  {
+  id: 2988589,
+  label: "Paray-Vieille-Poste",
+  lat: 48.71402,
+  lon: 2.36283,
+  nm: "Paray-Vieille-Poste",
+  value: 2988589
+},  {
+  id: 2988576,
+  label: "Parcay-Meslay",
+  lat: 47.441952,
+  lon: 0.74847,
+  nm: "Parcay-Meslay",
+  value: 2988576
+},  {
+  id: 2988548,
+  label: "Parempuyre",
+  lat: 44.950378,
+  lon: -0.60453,
+  nm: "Parempuyre",
+  value: 2988548
+},  {
+  id: 2988542,
+  label: "Parentis-en-Born",
+  lat: 44.352741,
+  lon: -1.07095,
+  nm: "Parentis-en-Born",
+  value: 2988542
+},  {
+  id: 2988523,
+  label: "Pargny-sur-Saulx",
+  lat: 48.768661,
+  lon: 4.83758,
+  nm: "Pargny-sur-Saulx",
+  value: 2988523
+},  {
+  id: 2988507,
+  label: "Paris",
+  lat: 48.853409,
+  lon: 2.3488,
+  nm: "Paris",
+  value: 2988507
+},  {
+  id: 2988490,
+  label: "Parmain",
+  lat: 49.112469,
+  lon: 2.21487,
+  nm: "Parmain",
+  value: 2988490
+},  {
+  id: 2988475,
+  label: "Paron",
+  lat: 48.178879,
+  lon: 3.25076,
+  nm: "Paron",
+  value: 2988475
+},  {
+  id: 2988447,
+  label: "Parthenay",
+  lat: 46.650002,
+  lon: -0.25,
+  nm: "Parthenay",
+  value: 2988447
+},  {
+  id: 2988393,
+  label: "Passy",
+  lat: 45.92028,
+  lon: 6.68765,
+  nm: "Passy",
+  value: 2988393
+},  {
+  id: 2988374,
+  label: "Patay",
+  lat: 48.048328,
+  lon: 1.695,
+  nm: "Patay",
+  value: 2988374
+},  {
+  id: 2988358,
+  label: "Pau",
+  lat: 43.299999,
+  lon: -0.36667,
+  nm: "Pau",
+  value: 2988358
+},  {
+  id: 2988350,
+  label: "Pauillac",
+  lat: 45.196442,
+  lon: -0.74873,
+  nm: "Pauillac",
+  value: 2988350
+},  {
+  id: 2988339,
+  label: "Paulhan",
+  lat: 43.53944,
+  lon: 3.4576,
+  nm: "Paulhan",
+  value: 2988339
+},  {
+  id: 2988309,
+  label: "Pavie",
+  lat: 43.609692,
+  lon: 0.59143,
+  nm: "Pavie",
+  value: 2988309
+},  {
+  id: 2988305,
+  label: "Pavilly",
+  lat: 49.567032,
+  lon: 0.95445,
+  nm: "Pavilly",
+  value: 2988305
+},  {
+  id: 2988292,
+  label: "Payrin-Augmontel",
+  lat: 43.544498,
+  lon: 2.35406,
+  nm: "Payrin-Augmontel",
+  value: 2988292
+},  {
+  id: 2988268,
+  label: "Peaule",
+  lat: 47.57972,
+  lon: -2.35601,
+  nm: "Peaule",
+  value: 2988268
+},  {
+  id: 2988251,
+  label: "Pechbonnieu",
+  lat: 43.702419,
+  lon: 1.46538,
+  nm: "Pechbonnieu",
+  value: 2988251
+},  {
+  id: 2988236,
+  label: "Pecquencourt",
+  lat: 50.378502,
+  lon: 3.21277,
+  nm: "Pecquencourt",
+  value: 2988236
+},  {
+  id: 2988220,
+  label: "Pegomas",
+  lat: 43.598499,
+  lon: 6.93032,
+  nm: "Pegomas",
+  value: 2988220
+},  {
+  id: 2988214,
+  label: "Peille",
+  lat: 43.80587,
+  lon: 7.40429,
+  nm: "Peille",
+  value: 2988214
+},  {
+  id: 2988186,
+  label: "Pelissanne",
+  lat: 43.63512,
+  lon: 5.15131,
+  nm: "Pelissanne",
+  value: 2988186
+},  {
+  id: 2988169,
+  label: "Pellouailles-les-Vignes",
+  lat: 47.521721,
+  lon: -0.43954,
+  nm: "Pellouailles-les-Vignes",
+  value: 2988169
+},  {
+  id: 2988160,
+  label: "Pelussin",
+  lat: 45.418079,
+  lon: 4.68248,
+  nm: "Pelussin",
+  value: 2988160
+},  {
+  id: 2988082,
+  label: "Pennautier",
+  lat: 43.245121,
+  lon: 2.31892,
+  nm: "Pennautier",
+  value: 2988082
+},  {
+  id: 2988063,
+  label: "Penta-di-Casinca",
+  lat: 42.466869,
+  lon: 9.45902,
+  nm: "Penta-di-Casinca",
+  value: 2988063
+},  {
+  id: 2988054,
+  label: "Penvenan",
+  lat: 48.811821,
+  lon: -3.2955,
+  nm: "Penvenan",
+  value: 2988054
+},  {
+  id: 2988017,
+  label: "Percy",
+  lat: 48.917141,
+  lon: -1.18916,
+  nm: "Percy",
+  value: 2988017
+},  {
+  id: 2988003,
+  label: "Perenchies",
+  lat: 50.670132,
+  lon: 2.97024,
+  nm: "Perenchies",
+  value: 2988003
+},  {
+  id: 2987986,
+  label: "Periers",
+  lat: 49.186668,
+  lon: -1.40762,
+  nm: "Periers",
+  value: 2987986
+},  {
+  id: 2987981,
+  label: "Perignat-les-Sarlieve",
+  lat: 45.73571,
+  lon: 3.14024,
+  nm: "Perignat-les-Sarlieve",
+  value: 2987981
+},  {
+  id: 2987972,
+  label: "Perigny",
+  lat: 48.69656,
+  lon: 2.55537,
+  nm: "Perigny",
+  value: 2987972
+},  {
+  id: 2987976,
+  label: "Perigny",
+  lat: 46.15519,
+  lon: -1.09822,
+  nm: "Perigny",
+  value: 2987976
+},  {
+  id: 2987967,
+  label: "Perigueux",
+  lat: 45.183331,
+  lon: 0.71667,
+  nm: "Perigueux",
+  value: 2987967
+},  {
+  id: 2987945,
+  label: "Pernes-les-Fontaines",
+  lat: 44.000278,
+  lon: 5.05141,
+  nm: "Pernes-les-Fontaines",
+  value: 2987945
+},  {
+  id: 2987936,
+  label: "Perols",
+  lat: 43.563129,
+  lon: 3.95203,
+  nm: "Perols",
+  value: 2987936
+},  {
+  id: 2987930,
+  label: "Peronnas",
+  lat: 46.190731,
+  lon: 5.20819,
+  nm: "Peronnas",
+  value: 2987930
+},  {
+  id: 2987928,
+  label: "Peronne",
+  lat: 49.933331,
+  lon: 2.93333,
+  nm: "Peronne",
+  value: 2987928
+},  {
+  id: 2987914,
+  label: "Perpignan",
+  lat: 42.697639,
+  lon: 2.89541,
+  nm: "Perpignan",
+  value: 2987914
+},  {
+  id: 2987893,
+  label: "Perreux",
+  lat: 46.03838,
+  lon: 4.12205,
+  nm: "Perreux",
+  value: 2987893
+},  {
+  id: 2987863,
+  label: "Perros-Guirec",
+  lat: 48.814541,
+  lon: -3.43963,
+  nm: "Perros-Guirec",
+  value: 2987863
+},  {
+  id: 2987843,
+  label: "Pers-Jussy",
+  lat: 46.106251,
+  lon: 6.26749,
+  nm: "Pers-Jussy",
+  value: 2987843
+},  {
+  id: 2987847,
+  label: "Persan",
+  lat: 49.153358,
+  lon: 2.27218,
+  nm: "Persan",
+  value: 2987847
+},  {
+  id: 2987834,
+  label: "Perthes",
+  lat: 48.47821,
+  lon: 2.55509,
+  nm: "Perthes",
+  value: 2987834
+},  {
+  id: 2987825,
+  label: "Pertuis",
+  lat: 43.69252,
+  lon: 5.50285,
+  nm: "Pertuis",
+  value: 2987825
+},  {
+  id: 2987813,
+  label: "Peschadoires",
+  lat: 45.82391,
+  lon: 3.50243,
+  nm: "Peschadoires",
+  value: 2987813
+},  {
+  id: 2987805,
+  label: "Pessac",
+  lat: 44.810108,
+  lon: -0.64129,
+  nm: "Pessac",
+  value: 2987805
+},  {
+  id: 3002918,
+  label: "Petit-Couronne",
+  lat: 49.383331,
+  lon: 1.01667,
+  nm: "Petit-Couronne",
+  value: 3002918
+},  {
+  id: 2987658,
+  label: "Petit-Mars",
+  lat: 47.395119,
+  lon: -1.45262,
+  nm: "Petit-Mars",
+  value: 2987658
+},  {
+  id: 2987722,
+  label: "Petite-Foret",
+  lat: 50.366669,
+  lon: 3.48333,
+  nm: "Petite-Foret",
+  value: 2987722
+},  {
+  id: 2987706,
+  label: "Petite-Rosselle",
+  lat: 49.211769,
+  lon: 6.85607,
+  nm: "Petite-Rosselle",
+  value: 2987706
+},  {
+  id: 2987554,
+  label: "Peymeinade",
+  lat: 43.63636,
+  lon: 6.87776,
+  nm: "Peymeinade",
+  value: 2987554
+},  {
+  id: 2987551,
+  label: "Peynier",
+  lat: 43.448372,
+  lon: 5.64139,
+  nm: "Peynier",
+  value: 2987551
+},  {
+  id: 2987547,
+  label: "Peypin",
+  lat: 43.385029,
+  lon: 5.57788,
+  nm: "Peypin",
+  value: 2987547
+},  {
+  id: 2987513,
+  label: "Peyrehorade",
+  lat: 43.548859,
+  lon: -1.11574,
+  nm: "Peyrehorade",
+  value: 2987513
+},  {
+  id: 2987484,
+  label: "Peyrins",
+  lat: 45.092411,
+  lon: 5.04767,
+  nm: "Peyrins",
+  value: 2987484
+},  {
+  id: 2987472,
+  label: "Peyrolles-en-Provence",
+  lat: 43.645321,
+  lon: 5.58347,
+  nm: "Peyrolles-en-Provence",
+  value: 2987472
+},  {
+  id: 2987459,
+  label: "Peyruis",
+  lat: 44.029591,
+  lon: 5.94262,
+  nm: "Peyruis",
+  value: 2987459
+},  {
+  id: 2987441,
+  label: "Pezenas",
+  lat: 43.45953,
+  lon: 3.42384,
+  nm: "Pezenas",
+  value: 2987441
+},  {
+  id: 2987437,
+  label: "Pezilla-la-Riviere",
+  lat: 42.695358,
+  lon: 2.77115,
+  nm: "Pezilla-la-Riviere",
+  value: 2987437
+},  {
+  id: 2987431,
+  label: "Pfaffenhoffen",
+  lat: 48.841061,
+  lon: 7.60678,
+  nm: "Pfaffenhoffen",
+  value: 2987431
+},  {
+  id: 2987429,
+  label: "Pfastatt",
+  lat: 47.770439,
+  lon: 7.30103,
+  nm: "Pfastatt",
+  value: 2987429
+},  {
+  id: 2987423,
+  label: "Phalempin",
+  lat: 50.516911,
+  lon: 3.01584,
+  nm: "Phalempin",
+  value: 2987423
+},  {
+  id: 2987421,
+  label: "Phalsbourg",
+  lat: 48.767521,
+  lon: 7.25695,
+  nm: "Phalsbourg",
+  value: 2987421
+},  {
+  id: 2987409,
+  label: "Pia",
+  lat: 42.7449,
+  lon: 2.9193,
+  nm: "Pia",
+  value: 2987409
+},  {
+  id: 2987370,
+  label: "Picauville",
+  lat: 49.378101,
+  lon: -1.40048,
+  nm: "Picauville",
+  value: 2987370
+},  {
+  id: 2987328,
+  label: "Piennes",
+  lat: 49.305908,
+  lon: 5.78836,
+  nm: "Piennes",
+  value: 2987328
+},  {
+  id: 2987314,
+  label: "Pierre-Benite",
+  lat: 45.700901,
+  lon: 4.82511,
+  nm: "Pierre-Benite",
+  value: 2987314
+},  {
+  id: 2987320,
+  label: "Pierre-de-Bresse",
+  lat: 46.883331,
+  lon: 5.25,
+  nm: "Pierre-de-Bresse",
+  value: 2987320
+},  {
+  id: 2987297,
+  label: "Pierrefeu-du-Var",
+  lat: 43.22448,
+  lon: 6.14329,
+  nm: "Pierrefeu-du-Var",
+  value: 2987297
+},  {
+  id: 2987271,
+  label: "Pierrefitte-sur-Seine",
+  lat: 48.966911,
+  lon: 2.36104,
+  nm: "Pierrefitte-sur-Seine",
+  value: 2987271
+},  {
+  id: 2987270,
+  label: "Pierrefonds",
+  lat: 49.348782,
+  lon: 2.9779,
+  nm: "Pierrefonds",
+  value: 2987270
+},  {
+  id: 2987259,
+  label: "Pierrelatte",
+  lat: 44.37756,
+  lon: 4.70198,
+  nm: "Pierrelatte",
+  value: 2987259
+},  {
+  id: 2987256,
+  label: "Pierrelaye",
+  lat: 49.021099,
+  lon: 2.1548,
+  nm: "Pierrelaye",
+  value: 2987256
+},  {
+  id: 2987230,
+  label: "Pierres",
+  lat: 48.592091,
+  lon: 1.56444,
+  nm: "Pierres",
+  value: 2987230
+},  {
+  id: 2987222,
+  label: "Pierrevert",
+  lat: 43.816341,
+  lon: 5.74638,
+  nm: "Pierrevert",
+  value: 2987222
+},  {
+  id: 2987180,
+  label: "Pignan",
+  lat: 43.583649,
+  lon: 3.75981,
+  nm: "Pignan",
+  value: 2987180
+},  {
+  id: 2987179,
+  label: "Pignans",
+  lat: 43.301281,
+  lon: 6.22748,
+  nm: "Pignans",
+  value: 2987179
+},  {
+  id: 2987082,
+  label: "Pinsaguel",
+  lat: 43.510399,
+  lon: 1.38831,
+  nm: "Pinsaguel",
+  value: 2987082
+},  {
+  id: 2987071,
+  label: "Piolenc",
+  lat: 44.179451,
+  lon: 4.76408,
+  nm: "Piolenc",
+  value: 2987071
+},  {
+  id: 2987056,
+  label: "Pipriac",
+  lat: 47.809528,
+  lon: -1.94638,
+  nm: "Pipriac",
+  value: 2987056
+},  {
+  id: 2987046,
+  label: "Pire-sur-Seiche",
+  lat: 48.009579,
+  lon: -1.42909,
+  nm: "Pire-sur-Seiche",
+  value: 2987046
+},  {
+  id: 2987043,
+  label: "Piriac-sur-Mer",
+  lat: 47.379379,
+  lon: -2.54616,
+  nm: "Piriac-sur-Mer",
+  value: 2987043
+},  {
+  id: 2987003,
+  label: "Pithiviers",
+  lat: 48.166672,
+  lon: 2.25,
+  nm: "Pithiviers",
+  value: 2987003
+},  {
+  id: 2987001,
+  label: "Pithiviers-le-Vieil",
+  lat: 48.163132,
+  lon: 2.20922,
+  nm: "Pithiviers-le-Vieil",
+  value: 2987001
+},  {
+  id: 2986991,
+  label: "Plabennec",
+  lat: 48.502441,
+  lon: -4.42656,
+  nm: "Plabennec",
+  value: 2986991
+},  {
+  id: 2986944,
+  label: "Plaintel",
+  lat: 48.40733,
+  lon: -2.81733,
+  nm: "Plaintel",
+  value: 2986944
+},  {
+  id: 2986933,
+  label: "Plaisance-du-Touch",
+  lat: 43.565659,
+  lon: 1.29749,
+  nm: "Plaisance-du-Touch",
+  value: 2986933
+},  {
+  id: 2986930,
+  label: "Plaisir",
+  lat: 48.823189,
+  lon: 1.9541,
+  nm: "Plaisir",
+  value: 2986930
+},  {
+  id: 2986889,
+  label: "Plan-de-Cuques",
+  lat: 43.34753,
+  lon: 5.46398,
+  nm: "Plan-de-Cuques",
+  value: 2986889
+},  {
+  id: 2986894,
+  label: "Plancoet",
+  lat: 48.521992,
+  lon: -2.2354,
+  nm: "Plancoet",
+  value: 2986894
+},  {
+  id: 2986855,
+  label: "Plappeville",
+  lat: 49.130409,
+  lon: 6.12376,
+  nm: "Plappeville",
+  value: 2986855
+},  {
+  id: 2986820,
+  label: "Plechatel",
+  lat: 47.894958,
+  lon: -1.74876,
+  nm: "Plechatel",
+  value: 2986820
+},  {
+  id: 2986818,
+  label: "Pledran",
+  lat: 48.445999,
+  lon: -2.74667,
+  nm: "Pledran",
+  value: 2986818
+},  {
+  id: 2986807,
+  label: "Plelan-le-Grand",
+  lat: 48.00124,
+  lon: -2.09914,
+  nm: "Plelan-le-Grand",
+  value: 2986807
+},  {
+  id: 2986804,
+  label: "Plelo",
+  lat: 48.55534,
+  lon: -2.94634,
+  nm: "Plelo",
+  value: 2986804
+},  {
+  id: 2986803,
+  label: "Plemet",
+  lat: 48.17601,
+  lon: -2.59325,
+  nm: "Plemet",
+  value: 2986803
+},  {
+  id: 2986801,
+  label: "Plenee-Jugon",
+  lat: 48.36462,
+  lon: -2.40036,
+  nm: "Plenee-Jugon",
+  value: 2986801
+},  {
+  id: 2986800,
+  label: "Pleneuf-Val-Andre",
+  lat: 48.592999,
+  lon: -2.54675,
+  nm: "Pleneuf-Val-Andre",
+  value: 2986800
+},  {
+  id: 2986796,
+  label: "Plerguer",
+  lat: 48.52676,
+  lon: -1.84769,
+  nm: "Plerguer",
+  value: 2986796
+},  {
+  id: 2986795,
+  label: "Plerin",
+  lat: 48.542488,
+  lon: -2.77984,
+  nm: "Plerin",
+  value: 2986795
+},  {
+  id: 2986793,
+  label: "Plescop",
+  lat: 47.697262,
+  lon: -2.8056,
+  nm: "Plescop",
+  value: 2986793
+},  {
+  id: 2986790,
+  label: "Pleslin-Trigavou",
+  lat: 48.533329,
+  lon: -2.06667,
+  nm: "Pleslin-Trigavou",
+  value: 2986790
+},  {
+  id: 2986785,
+  label: "Plesse",
+  lat: 47.541801,
+  lon: -1.88609,
+  nm: "Plesse",
+  value: 2986785
+},  {
+  id: 2986772,
+  label: "Plestin-les-Greves",
+  lat: 48.65844,
+  lon: -3.63056,
+  nm: "Plestin-les-Greves",
+  value: 2986772
+},  {
+  id: 2986771,
+  label: "Pleubian",
+  lat: 48.84267,
+  lon: -3.139,
+  nm: "Pleubian",
+  value: 2986771
+},  {
+  id: 2986768,
+  label: "Pleudihen-sur-Rance",
+  lat: 48.51667,
+  lon: -1.96667,
+  nm: "Pleudihen-sur-Rance",
+  value: 2986768
+},  {
+  id: 2986762,
+  label: "Pleumeleuc",
+  lat: 48.18438,
+  lon: -1.91962,
+  nm: "Pleumeleuc",
+  value: 2986762
+},  {
+  id: 2986761,
+  label: "Pleumeur-Bodou",
+  lat: 48.76667,
+  lon: -3.51667,
+  nm: "Pleumeur-Bodou",
+  value: 2986761
+},  {
+  id: 2986757,
+  label: "Pleurtuit",
+  lat: 48.578579,
+  lon: -2.05806,
+  nm: "Pleurtuit",
+  value: 2986757
+},  {
+  id: 2986756,
+  label: "Pleuven",
+  lat: 47.900002,
+  lon: -4.03333,
+  nm: "Pleuven",
+  value: 2986756
+},  {
+  id: 2986747,
+  label: "Pleyben",
+  lat: 48.23333,
+  lon: -3.96667,
+  nm: "Pleyben",
+  value: 2986747
+},  {
+  id: 2986746,
+  label: "Pleyber-Christ",
+  lat: 48.5,
+  lon: -3.86667,
+  nm: "Pleyber-Christ",
+  value: 2986746
+},  {
+  id: 2986735,
+  label: "Plobannalec-Lesconil",
+  lat: 47.816669,
+  lon: -4.21667,
+  nm: "Plobannalec-Lesconil",
+  value: 2986735
+},  {
+  id: 2986734,
+  label: "Plobsheim",
+  lat: 48.469791,
+  lon: 7.72442,
+  nm: "Plobsheim",
+  value: 2986734
+},  {
+  id: 2986733,
+  label: "Ploemel",
+  lat: 47.651531,
+  lon: -3.0703,
+  nm: "Ploemel",
+  value: 2986733
+},  {
+  id: 2986732,
+  label: "Ploemeur",
+  lat: 47.73333,
+  lon: -3.43333,
+  nm: "Ploemeur",
+  value: 2986732
+},  {
+  id: 2986730,
+  label: "Ploeren",
+  lat: 47.657131,
+  lon: -2.86398,
+  nm: "Ploeren",
+  value: 2986730
+},  {
+  id: 2986729,
+  label: "Ploermel",
+  lat: 47.931721,
+  lon: -2.39781,
+  nm: "Ploermel",
+  value: 2986729
+},  {
+  id: 2986728,
+  label: "Ploeuc-sur-Lie",
+  lat: 48.349998,
+  lon: -2.75,
+  nm: "Ploeuc-sur-Lie",
+  value: 2986728
+},  {
+  id: 2986723,
+  label: "Plogonnec",
+  lat: 48.083328,
+  lon: -4.18333,
+  nm: "Plogonnec",
+  value: 2986723
+},  {
+  id: 2986715,
+  label: "Plombieres-les-Bains",
+  lat: 47.963371,
+  lon: 6.45758,
+  nm: "Plombieres-les-Bains",
+  value: 2986715
+},  {
+  id: 2986714,
+  label: "Plombieres-les-Dijon",
+  lat: 47.333328,
+  lon: 4.96667,
+  nm: "Plombieres-les-Dijon",
+  value: 2986714
+},  {
+  id: 2986713,
+  label: "Plomelin",
+  lat: 47.933331,
+  lon: -4.15,
+  nm: "Plomelin",
+  value: 2986713
+},  {
+  id: 2986712,
+  label: "Plomeur",
+  lat: 47.833328,
+  lon: -4.28333,
+  nm: "Plomeur",
+  value: 2986712
+},  {
+  id: 2986710,
+  label: "Plomodiern",
+  lat: 48.183331,
+  lon: -4.23333,
+  nm: "Plomodiern",
+  value: 2986710
+},  {
+  id: 2986708,
+  label: "Ploneour-Lanvern",
+  lat: 47.900002,
+  lon: -4.28333,
+  nm: "Ploneour-Lanvern",
+  value: 2986708
+},  {
+  id: 2986707,
+  label: "Plonevez-du-Faou",
+  lat: 48.25,
+  lon: -3.83333,
+  nm: "Plonevez-du-Faou",
+  value: 2986707
+},  {
+  id: 2986700,
+  label: "Plouagat",
+  lat: 48.53611,
+  lon: -2.99956,
+  nm: "Plouagat",
+  value: 2986700
+},  {
+  id: 2986699,
+  label: "Plouaret",
+  lat: 48.616669,
+  lon: -3.46667,
+  nm: "Plouaret",
+  value: 2986699
+},  {
+  id: 2986698,
+  label: "Plouarzel",
+  lat: 48.433331,
+  lon: -4.73333,
+  nm: "Plouarzel",
+  value: 2986698
+},  {
+  id: 2986696,
+  label: "Plouay",
+  lat: 47.91444,
+  lon: -3.33384,
+  nm: "Plouay",
+  value: 2986696
+},  {
+  id: 2986695,
+  label: "Ploubalay",
+  lat: 48.581089,
+  lon: -2.14069,
+  nm: "Ploubalay",
+  value: 2986695
+},  {
+  id: 2986694,
+  label: "Ploubazlanec",
+  lat: 48.799999,
+  lon: -3.03333,
+  nm: "Ploubazlanec",
+  value: 2986694
+},  {
+  id: 2986693,
+  label: "Ploubezre",
+  lat: 48.700001,
+  lon: -3.45,
+  nm: "Ploubezre",
+  value: 2986693
+},  {
+  id: 2986692,
+  label: "Ploudalmezeau",
+  lat: 48.533329,
+  lon: -4.65,
+  nm: "Ploudalmezeau",
+  value: 2986692
+},  {
+  id: 2986691,
+  label: "Ploudaniel",
+  lat: 48.533329,
+  lon: -4.31667,
+  nm: "Ploudaniel",
+  value: 2986691
+},  {
+  id: 2986688,
+  label: "Plouedern",
+  lat: 48.48333,
+  lon: -4.25,
+  nm: "Plouedern",
+  value: 2986688
+},  {
+  id: 2986685,
+  label: "Plouenan",
+  lat: 48.633331,
+  lon: -4,
+  nm: "Plouenan",
+  value: 2986685
+},  {
+  id: 2986683,
+  label: "Plouer-sur-Rance",
+  lat: 48.526691,
+  lon: -2.00298,
+  nm: "Plouer-sur-Rance",
+  value: 2986683
+},  {
+  id: 2986682,
+  label: "Plouescat",
+  lat: 48.666672,
+  lon: -4.16667,
+  nm: "Plouescat",
+  value: 2986682
+},  {
+  id: 2986681,
+  label: "Plouezec",
+  lat: 48.751221,
+  lon: -2.98466,
+  nm: "Plouezec",
+  value: 2986681
+},  {
+  id: 2986678,
+  label: "Ploufragan",
+  lat: 48.491409,
+  lon: -2.79458,
+  nm: "Ploufragan",
+  value: 2986678
+},  {
+  id: 2986676,
+  label: "Plougasnou",
+  lat: 48.700001,
+  lon: -3.8,
+  nm: "Plougasnou",
+  value: 2986676
+},  {
+  id: 2986674,
+  label: "Plougastel-Daoulas",
+  lat: 48.366669,
+  lon: -4.36667,
+  nm: "Plougastel-Daoulas",
+  value: 2986674
+},  {
+  id: 2986673,
+  label: "Plougonvelin",
+  lat: 48.340591,
+  lon: -4.71846,
+  nm: "Plougonvelin",
+  value: 2986673
+},  {
+  id: 2986672,
+  label: "Plougonven",
+  lat: 48.51667,
+  lon: -3.71667,
+  nm: "Plougonven",
+  value: 2986672
+},  {
+  id: 2986664,
+  label: "Plouguerneau",
+  lat: 48.599998,
+  lon: -4.5,
+  nm: "Plouguerneau",
+  value: 2986664
+},  {
+  id: 2986663,
+  label: "Plouguernevel",
+  lat: 48.239399,
+  lon: -3.25071,
+  nm: "Plouguernevel",
+  value: 2986663
+},  {
+  id: 2986662,
+  label: "Plouguiel",
+  lat: 48.797421,
+  lon: -3.23883,
+  nm: "Plouguiel",
+  value: 2986662
+},  {
+  id: 2986661,
+  label: "Plouguin",
+  lat: 48.533329,
+  lon: -4.6,
+  nm: "Plouguin",
+  value: 2986661
+},  {
+  id: 2986660,
+  label: "Plouha",
+  lat: 48.676498,
+  lon: -2.92842,
+  nm: "Plouha",
+  value: 2986660
+},  {
+  id: 2986655,
+  label: "Plouhinec",
+  lat: 48.01667,
+  lon: -4.48333,
+  nm: "Plouhinec",
+  value: 2986655
+},  {
+  id: 2986653,
+  label: "Plouigneau",
+  lat: 48.566669,
+  lon: -3.7,
+  nm: "Plouigneau",
+  value: 2986653
+},  {
+  id: 2986652,
+  label: "Plouisy",
+  lat: 48.578171,
+  lon: -3.18434,
+  nm: "Plouisy",
+  value: 2986652
+},  {
+  id: 2986649,
+  label: "Ploumagoar",
+  lat: 48.54509,
+  lon: -3.13233,
+  nm: "Ploumagoar",
+  value: 2986649
+},  {
+  id: 2986647,
+  label: "Ploumilliau",
+  lat: 48.683331,
+  lon: -3.51667,
+  nm: "Ploumilliau",
+  value: 2986647
+},  {
+  id: 2986640,
+  label: "Plounevez-Lochrist",
+  lat: 48.616669,
+  lon: -4.21667,
+  nm: "Plounevez-Lochrist",
+  value: 2986640
+},  {
+  id: 2986633,
+  label: "Plourin-les-Morlaix",
+  lat: 48.533329,
+  lon: -3.78333,
+  nm: "Plourin-les-Morlaix",
+  value: 2986633
+},  {
+  id: 2986632,
+  label: "Plourivo",
+  lat: 48.745499,
+  lon: -3.07075,
+  nm: "Plourivo",
+  value: 2986632
+},  {
+  id: 2986629,
+  label: "Plouvien",
+  lat: 48.533329,
+  lon: -4.45,
+  nm: "Plouvien",
+  value: 2986629
+},  {
+  id: 2986628,
+  label: "Plouvorn",
+  lat: 48.583328,
+  lon: -4.03333,
+  nm: "Plouvorn",
+  value: 2986628
+},  {
+  id: 2986626,
+  label: "Plouzane",
+  lat: 48.383331,
+  lon: -4.61667,
+  nm: "Plouzane",
+  value: 2986626
+},  {
+  id: 2986620,
+  label: "Plozevet",
+  lat: 47.98333,
+  lon: -4.41667,
+  nm: "Plozevet",
+  value: 2986620
+},  {
+  id: 2986616,
+  label: "Pluguffan",
+  lat: 47.98333,
+  lon: -4.18333,
+  nm: "Pluguffan",
+  value: 2986616
+},  {
+  id: 2986611,
+  label: "Plumelec",
+  lat: 47.83754,
+  lon: -2.63988,
+  nm: "Plumelec",
+  value: 2986611
+},  {
+  id: 2986610,
+  label: "Plumeliau",
+  lat: 47.957691,
+  lon: -2.97494,
+  nm: "Plumeliau",
+  value: 2986610
+},  {
+  id: 2986608,
+  label: "Plumergat",
+  lat: 47.741341,
+  lon: -2.91501,
+  nm: "Plumergat",
+  value: 2986608
+},  {
+  id: 2986601,
+  label: "Pluneret",
+  lat: 47.675251,
+  lon: -2.95782,
+  nm: "Pluneret",
+  value: 2986601
+},  {
+  id: 2986593,
+  label: "Pluvigner",
+  lat: 47.776272,
+  lon: -3.01013,
+  nm: "Pluvigner",
+  value: 2986593
+},  {
+  id: 2986585,
+  label: "Podensac",
+  lat: 44.650379,
+  lon: -0.35508,
+  nm: "Podensac",
+  value: 2986585
+},  {
+  id: 2986546,
+  label: "Poilly-lez-Gien",
+  lat: 47.677238,
+  lon: 2.59743,
+  nm: "Poilly-lez-Gien",
+  value: 2986546
+},  {
+  id: 2986524,
+  label: "Poisat",
+  lat: 45.15863,
+  lon: 5.76188,
+  nm: "Poisat",
+  value: 2986524
+},  {
+  id: 2986501,
+  label: "Poissy",
+  lat: 48.92902,
+  lon: 2.04952,
+  nm: "Poissy",
+  value: 2986501
+},  {
+  id: 2986499,
+  label: "Poisy",
+  lat: 45.923061,
+  lon: 6.06435,
+  nm: "Poisy",
+  value: 2986499
+},  {
+  id: 2986495,
+  label: "Poitiers",
+  lat: 46.583328,
+  lon: 0.33333,
+  nm: "Poitiers",
+  value: 2986495
+},  {
+  id: 2986486,
+  label: "Poix-de-Picardie",
+  lat: 49.783329,
+  lon: 1.98333,
+  nm: "Poix-de-Picardie",
+  value: 2986486
+},  {
+  id: 2986484,
+  label: "Poix-du-Nord",
+  lat: 50.18927,
+  lon: 3.60956,
+  nm: "Poix-du-Nord",
+  value: 2986484
+},  {
+  id: 2986472,
+  label: "Polignac",
+  lat: 45.0709,
+  lon: 3.86031,
+  nm: "Polignac",
+  value: 2986472
+},  {
+  id: 2986467,
+  label: "Poligny",
+  lat: 46.83712,
+  lon: 5.70504,
+  nm: "Poligny",
+  value: 2986467
+},  {
+  id: 2986460,
+  label: "Pollestres",
+  lat: 42.641998,
+  lon: 2.87116,
+  nm: "Pollestres",
+  value: 2986460
+},  {
+  id: 2986457,
+  label: "Polliat",
+  lat: 46.248489,
+  lon: 5.12658,
+  nm: "Polliat",
+  value: 2986457
+},  {
+  id: 2986434,
+  label: "Pomerols",
+  lat: 43.391392,
+  lon: 3.49944,
+  nm: "Pomerols",
+  value: 2986434
+},  {
+  id: 2986408,
+  label: "Pommeuse",
+  lat: 48.816669,
+  lon: 3.01667,
+  nm: "Pommeuse",
+  value: 2986408
+},  {
+  id: 2986395,
+  label: "Pommiers",
+  lat: 45.95594,
+  lon: 4.69353,
+  nm: "Pommiers",
+  value: 2986395
+},  {
+  id: 2986389,
+  label: "Pompaire",
+  lat: 46.607269,
+  lon: -0.23237,
+  nm: "Pompaire",
+  value: 2986389
+},  {
+  id: 2986385,
+  label: "Pompey",
+  lat: 48.766529,
+  lon: 6.12162,
+  nm: "Pompey",
+  value: 2986385
+},  {
+  id: 2986376,
+  label: "Pompignac",
+  lat: 44.851139,
+  lon: -0.43704,
+  nm: "Pompignac",
+  value: 2986376
+},  {
+  id: 2986370,
+  label: "Pomponne",
+  lat: 48.881302,
+  lon: 2.68232,
+  nm: "Pomponne",
+  value: 2986370
+},  {
+  id: 2986335,
+  label: "Pons",
+  lat: 45.57988,
+  lon: -0.54783,
+  nm: "Pons",
+  value: 2986335
+},  {
+  id: 2986307,
+  label: "Pont-a-Marcq",
+  lat: 50.522129,
+  lon: 3.11441,
+  nm: "Pont-a-Marcq",
+  value: 2986307
+},  {
+  id: 2986306,
+  label: "Pont-a-Mousson",
+  lat: 48.90786,
+  lon: 6.0589,
+  nm: "Pont-a-Mousson",
+  value: 2986306
+},  {
+  id: 2986285,
+  label: "Pont-a-Vendin",
+  lat: 50.473579,
+  lon: 2.88884,
+  nm: "Pont-a-Vendin",
+  value: 2986285
+},  {
+  id: 2986294,
+  label: "Pont-Audemer",
+  lat: 49.349998,
+  lon: 0.51667,
+  nm: "Pont-Audemer",
+  value: 2986294
+},  {
+  id: 2986286,
+  label: "Pont-Aven",
+  lat: 47.849998,
+  lon: -3.75,
+  nm: "Pont-Aven",
+  value: 2986286
+},  {
+  id: 2986257,
+  label: "Pont-de-Cheruy",
+  lat: 45.751659,
+  lon: 5.18488,
+  nm: "Pont-de-Cheruy",
+  value: 2986257
+},  {
+  id: 2986248,
+  label: "Pont-de-Larn",
+  lat: 43.50412,
+  lon: 2.40786,
+  nm: "Pont-de-Larn",
+  value: 2986248
+},  {
+  id: 2986237,
+  label: "Pont-de-Roide",
+  lat: 47.387379,
+  lon: 6.7684,
+  nm: "Pont-de-Roide",
+  value: 2986237
+},  {
+  id: 2986227,
+  label: "Pont-de-Vaux",
+  lat: 46.431702,
+  lon: 4.94012,
+  nm: "Pont-de-Vaux",
+  value: 2986227
+},  {
+  id: 2986220,
+  label: "Pont-du-Casse",
+  lat: 44.228668,
+  lon: 0.67924,
+  nm: "Pont-du-Casse",
+  value: 2986220
+},  {
+  id: 2986219,
+  label: "Pont-du-Chateau",
+  lat: 45.800781,
+  lon: 3.25008,
+  nm: "Pont-du-Chateau",
+  value: 2986219
+},  {
+  id: 2986191,
+  label: "Pont-Eveque",
+  lat: 45.526909,
+  lon: 4.91432,
+  nm: "Pont-Eveque",
+  value: 2986191
+},  {
+  id: 2986109,
+  label: "Pont-Saint-Esprit",
+  lat: 44.25494,
+  lon: 4.64736,
+  nm: "Pont-Saint-Esprit",
+  value: 2986109
+},  {
+  id: 2986106,
+  label: "Pont-Saint-Martin",
+  lat: 47.123379,
+  lon: -1.58455,
+  nm: "Pont-Saint-Martin",
+  value: 2986106
+},  {
+  id: 2986104,
+  label: "Pont-Saint-Vincent",
+  lat: 48.602982,
+  lon: 6.09942,
+  nm: "Pont-Saint-Vincent",
+  value: 2986104
+},  {
+  id: 2986111,
+  label: "Pont-Sainte-Marie",
+  lat: 48.318481,
+  lon: 4.09447,
+  nm: "Pont-Sainte-Marie",
+  value: 2986111
+},  {
+  id: 2986110,
+  label: "Pont-Sainte-Maxence",
+  lat: 49.301682,
+  lon: 2.60467,
+  nm: "Pont-Sainte-Maxence",
+  value: 2986110
+},  {
+  id: 2986102,
+  label: "Pont-Scorff",
+  lat: 47.833431,
+  lon: -3.40251,
+  nm: "Pont-Scorff",
+  value: 2986102
+},  {
+  id: 2986095,
+  label: "Pont-sur-Sambre",
+  lat: 50.221951,
+  lon: 3.84693,
+  nm: "Pont-sur-Sambre",
+  value: 2986095
+},  {
+  id: 2986092,
+  label: "Pont-sur-Yonne",
+  lat: 48.28297,
+  lon: 3.20198,
+  nm: "Pont-sur-Yonne",
+  value: 2986092
+},  {
+  id: 2986313,
+  label: "Pontacq",
+  lat: 43.183331,
+  lon: -0.11667,
+  nm: "Pontacq",
+  value: 2986313
+},  {
+  id: 2986302,
+  label: "Pontarlier",
+  lat: 46.903469,
+  lon: 6.35542,
+  nm: "Pontarlier",
+  value: 2986302
+},  {
+  id: 3024195,
+  label: "Pontault-Combault",
+  lat: 48.79813,
+  lon: 2.60676,
+  nm: "Pontault-Combault",
+  value: 3024195
+},  {
+  id: 2986279,
+  label: "Pontcarre",
+  lat: 48.797722,
+  lon: 2.70508,
+  nm: "Pontcarre",
+  value: 2986279
+},  {
+  id: 2986275,
+  label: "Pontcharra",
+  lat: 45.432899,
+  lon: 6.01424,
+  nm: "Pontcharra",
+  value: 2986275
+},  {
+  id: 2986274,
+  label: "Pontcharra-sur-Turdine",
+  lat: 45.877399,
+  lon: 4.48993,
+  nm: "Pontcharra-sur-Turdine",
+  value: 2986274
+},  {
+  id: 2986271,
+  label: "Pontchateau",
+  lat: 47.437969,
+  lon: -2.09011,
+  nm: "Pontchateau",
+  value: 2986271
+},  {
+  id: 2986204,
+  label: "Ponteilla",
+  lat: 42.625938,
+  lon: 2.81335,
+  nm: "Ponteilla",
+  value: 2986204
+},  {
+  id: 2986178,
+  label: "Ponthierry",
+  lat: 48.533661,
+  lon: 2.54419,
+  nm: "Ponthierry",
+  value: 2986178
+},  {
+  id: 2986160,
+  label: "Pontivy",
+  lat: 48.066669,
+  lon: -2.98333,
+  nm: "Pontivy",
+  value: 2986160
+},  {
+  id: 2986140,
+  label: "Pontoise",
+  lat: 49.049999,
+  lon: 2.1,
+  nm: "Pontoise",
+  value: 2986140
+},  {
+  id: 2986136,
+  label: "Pontorson",
+  lat: 48.553162,
+  lon: -1.50754,
+  nm: "Pontorson",
+  value: 2986136
+},  {
+  id: 2986127,
+  label: "Pontpoint",
+  lat: 49.299999,
+  lon: 2.65,
+  nm: "Pontpoint",
+  value: 2986127
+},  {
+  id: 2986077,
+  label: "Porcelette",
+  lat: 49.15538,
+  lon: 6.6581,
+  nm: "Porcelette",
+  value: 2986077
+},  {
+  id: 2986071,
+  label: "Porcheville",
+  lat: 48.972542,
+  lon: 1.77973,
+  nm: "Porcheville",
+  value: 2986071
+},  {
+  id: 2986066,
+  label: "Pordic",
+  lat: 48.570511,
+  lon: -2.81783,
+  nm: "Pordic",
+  value: 2986066
+},  {
+  id: 2986060,
+  label: "Pornic",
+  lat: 47.112049,
+  lon: -2.08888,
+  nm: "Pornic",
+  value: 2986060
+},  {
+  id: 2986059,
+  label: "Pornichet",
+  lat: 47.266819,
+  lon: -2.33794,
+  nm: "Pornichet",
+  value: 2986059
+},  {
+  id: 2986032,
+  label: "Port-Brillet",
+  lat: 48.11314,
+  lon: -0.9708,
+  nm: "Port-Brillet",
+  value: 2986032
+},  {
+  id: 2986025,
+  label: "Port-de-Bouc",
+  lat: 43.40657,
+  lon: 4.9809,
+  nm: "Port-de-Bouc",
+  value: 2986025
+},  {
+  id: 2985999,
+  label: "Port-en-Bessin-Huppain",
+  lat: 49.344601,
+  lon: -0.75557,
+  nm: "Port-en-Bessin-Huppain",
+  value: 2985999
+},  {
+  id: 2985968,
+  label: "Port-la-Nouvelle",
+  lat: 43.019909,
+  lon: 3.04366,
+  nm: "Port-la-Nouvelle",
+  value: 2985968
+},  {
+  id: 2985963,
+  label: "Port-Louis",
+  lat: 47.707039,
+  lon: -3.35484,
+  nm: "Port-Louis",
+  value: 2985963
+},  {
+  id: 2985934,
+  label: "Port-Saint-Louis-du-Rhone",
+  lat: 43.387341,
+  lon: 4.82609,
+  nm: "Port-Saint-Louis-du-Rhone",
+  value: 2985934
+},  {
+  id: 2985932,
+  label: "Port-Saint-Pere",
+  lat: 47.132938,
+  lon: -1.7485,
+  nm: "Port-Saint-Pere",
+  value: 2985932
+},  {
+  id: 2985937,
+  label: "Port-Sainte-Foy-et-Ponchapt",
+  lat: 44.833328,
+  lon: 0.2,
+  nm: "Port-Sainte-Foy-et-Ponchapt",
+  value: 2985937
+},  {
+  id: 2985936,
+  label: "Port-Sainte-Marie",
+  lat: 44.251579,
+  lon: 0.39134,
+  nm: "Port-Sainte-Marie",
+  value: 2985936
+},  {
+  id: 2985929,
+  label: "Port-sur-Saone",
+  lat: 47.68774,
+  lon: 6.05011,
+  nm: "Port-sur-Saone",
+  value: 2985929
+},  {
+  id: 2985987,
+  label: "Portes-les-Valence",
+  lat: 44.873699,
+  lon: 4.881,
+  nm: "Portes-les-Valence",
+  value: 2985987
+},  {
+  id: 2985982,
+  label: "Portet-sur-Garonne",
+  lat: 43.523331,
+  lon: 1.40652,
+  nm: "Portet-sur-Garonne",
+  value: 2985982
+},  {
+  id: 2985983,
+  label: "Portets",
+  lat: 44.696789,
+  lon: -0.42452,
+  nm: "Portets",
+  value: 2985983
+},  {
+  id: 2985972,
+  label: "Portiragnes",
+  lat: 43.3046,
+  lon: 3.33365,
+  nm: "Portiragnes",
+  value: 2985972
+},  {
+  id: 2985947,
+  label: "Porto-Vecchio",
+  lat: 41.591011,
+  lon: 9.27947,
+  nm: "Porto-Vecchio",
+  value: 2985947
+},  {
+  id: 2985925,
+  label: "Portvendres",
+  lat: 42.517921,
+  lon: 3.10553,
+  nm: "Portvendres",
+  value: 2985925
+},  {
+  id: 2985893,
+  label: "Pouance",
+  lat: 47.741669,
+  lon: -1.17366,
+  nm: "Pouance",
+  value: 2985893
+},  {
+  id: 2985865,
+  label: "Pougues-les-Eaux",
+  lat: 47.07518,
+  lon: 3.1015,
+  nm: "Pougues-les-Eaux",
+  value: 2985865
+},  {
+  id: 2985849,
+  label: "Pouillon",
+  lat: 43.604801,
+  lon: -0.99947,
+  nm: "Pouillon",
+  value: 2985849
+},  {
+  id: 2985833,
+  label: "Pouilly-sous-Charlieu",
+  lat: 46.14566,
+  lon: 4.1089,
+  nm: "Pouilly-sous-Charlieu",
+  value: 2985833
+},  {
+  id: 2985807,
+  label: "Pouldreuzic",
+  lat: 47.950001,
+  lon: -4.36667,
+  nm: "Pouldreuzic",
+  value: 2985807
+},  {
+  id: 2985778,
+  label: "Poulx",
+  lat: 43.907982,
+  lon: 4.41629,
+  nm: "Poulx",
+  value: 2985778
+},  {
+  id: 2985751,
+  label: "Pourrieres",
+  lat: 43.506111,
+  lon: 5.73452,
+  nm: "Pourrieres",
+  value: 2985751
+},  {
+  id: 2985738,
+  label: "Poussan",
+  lat: 43.489441,
+  lon: 3.67083,
+  nm: "Poussan",
+  value: 2985738
+},  {
+  id: 2985708,
+  label: "Pouzauges",
+  lat: 46.779411,
+  lon: -0.83619,
+  nm: "Pouzauges",
+  value: 2985708
+},  {
+  id: 2985653,
+  label: "Prades",
+  lat: 42.616669,
+  lon: 2.43333,
+  nm: "Prades",
+  value: 2985653
+},  {
+  id: 2985641,
+  label: "Prades-le-Lez",
+  lat: 43.69754,
+  lon: 3.86463,
+  nm: "Prades-le-Lez",
+  value: 2985641
+},  {
+  id: 2985632,
+  label: "Pradines",
+  lat: 44.48341,
+  lon: 1.40105,
+  nm: "Pradines",
+  value: 2985632
+},  {
+  id: 2985547,
+  label: "Prayssac",
+  lat: 44.504398,
+  lon: 1.18862,
+  nm: "Prayssac",
+  value: 2985547
+},  {
+  id: 2985491,
+  label: "Pre-en-Pail",
+  lat: 48.45993,
+  lon: -0.19814,
+  nm: "Pre-en-Pail",
+  value: 2985491
+},  {
+  id: 2985512,
+  label: "Precigne",
+  lat: 47.766918,
+  lon: -0.32491,
+  nm: "Precigne",
+  value: 2985512
+},  {
+  id: 2985498,
+  label: "Precy-sur-Oise",
+  lat: 49.20779,
+  lon: 2.37266,
+  nm: "Precy-sur-Oise",
+  value: 2985498
+},  {
+  id: 2985475,
+  label: "Preignac",
+  lat: 44.584381,
+  lon: -0.29422,
+  nm: "Preignac",
+  value: 2985475
+},  {
+  id: 2985462,
+  label: "Premery",
+  lat: 47.169521,
+  lon: 3.32743,
+  nm: "Premery",
+  value: 2985462
+},  {
+  id: 2985461,
+  label: "Premesques",
+  lat: 50.65572,
+  lon: 2.95162,
+  nm: "Premesques",
+  value: 2985461
+},  {
+  id: 2985455,
+  label: "Premilhat",
+  lat: 46.316669,
+  lon: 2.53333,
+  nm: "Premilhat",
+  value: 2985455
+},  {
+  id: 2985318,
+  label: "Prigonrieux",
+  lat: 44.854511,
+  lon: 0.40275,
+  nm: "Prigonrieux",
+  value: 2985318
+},  {
+  id: 2985304,
+  label: "Pringy",
+  lat: 48.51815,
+  lon: 2.56333,
+  nm: "Pringy",
+  value: 2985304
+},  {
+  id: 2985305,
+  label: "Pringy",
+  lat: 45.94622,
+  lon: 6.12608,
+  nm: "Pringy",
+  value: 2985305
+},  {
+  id: 2985302,
+  label: "Prinquiau",
+  lat: 47.362148,
+  lon: -2.00952,
+  nm: "Prinquiau",
+  value: 2985302
+},  {
+  id: 2985290,
+  label: "Privas",
+  lat: 44.73333,
+  lon: 4.6,
+  nm: "Privas",
+  value: 2985290
+},  {
+  id: 2985266,
+  label: "Propriano",
+  lat: 41.675251,
+  lon: 8.90302,
+  nm: "Propriano",
+  value: 2985266
+},  {
+  id: 2985251,
+  label: "Prouvy",
+  lat: 50.317928,
+  lon: 3.45096,
+  nm: "Prouvy",
+  value: 2985251
+},  {
+  id: 2985231,
+  label: "Proville",
+  lat: 50.161369,
+  lon: 3.20629,
+  nm: "Proville",
+  value: 2985231
+},  {
+  id: 2985230,
+  label: "Provin",
+  lat: 50.514301,
+  lon: 2.90794,
+  nm: "Provin",
+  value: 2985230
+},  {
+  id: 2985229,
+  label: "Provins",
+  lat: 48.549999,
+  lon: 3.3,
+  nm: "Provins",
+  value: 2985229
+},  {
+  id: 2985196,
+  label: "Prunelli-di-Fiumorbo",
+  lat: 42.010471,
+  lon: 9.32473,
+  nm: "Prunelli-di-Fiumorbo",
+  value: 2985196
+},  {
+  id: 2985177,
+  label: "Pruniers-en-Sologne",
+  lat: 47.316669,
+  lon: 1.66667,
+  nm: "Pruniers-en-Sologne",
+  value: 2985177
+},  {
+  id: 2985163,
+  label: "Publier",
+  lat: 46.38773,
+  lon: 6.54356,
+  nm: "Publier",
+  value: 2985163
+},  {
+  id: 2985143,
+  label: "Puget-sur-Argens",
+  lat: 43.450001,
+  lon: 6.68333,
+  nm: "Puget-sur-Argens",
+  value: 2985143
+},  {
+  id: 2985141,
+  label: "Puget-Ville",
+  lat: 43.28944,
+  lon: 6.13612,
+  nm: "Puget-Ville",
+  value: 2985141
+},  {
+  id: 2985137,
+  label: "Pugnac",
+  lat: 45.081902,
+  lon: -0.49618,
+  nm: "Pugnac",
+  value: 2985137
+},  {
+  id: 2985128,
+  label: "Puilboreau",
+  lat: 46.186199,
+  lon: -1.11798,
+  nm: "Puilboreau",
+  value: 2985128
+},  {
+  id: 2985118,
+  label: "Puiseaux",
+  lat: 48.092339,
+  lon: 2.05968,
+  nm: "Puiseaux",
+  value: 2985118
+},  {
+  id: 2985107,
+  label: "Puiseux-en-France",
+  lat: 49.055519,
+  lon: 2.50035,
+  nm: "Puiseux-en-France",
+  value: 2985107
+},  {
+  id: 2985096,
+  label: "Puisserguier",
+  lat: 43.367668,
+  lon: 3.04047,
+  nm: "Puisserguier",
+  value: 2985096
+},  {
+  id: 2985076,
+  label: "Pujaut",
+  lat: 44.00404,
+  lon: 4.77575,
+  nm: "Pujaut",
+  value: 2985076
+},  {
+  id: 2985073,
+  label: "Pujols",
+  lat: 44.394241,
+  lon: 0.6881,
+  nm: "Pujols",
+  value: 2985073
+},  {
+  id: 2985064,
+  label: "Pulnoy",
+  lat: 48.702919,
+  lon: 6.25792,
+  nm: "Pulnoy",
+  value: 2985064
+},  {
+  id: 2985061,
+  label: "Pulversheim",
+  lat: 47.837528,
+  lon: 7.30119,
+  nm: "Pulversheim",
+  value: 2985061
+},  {
+  id: 2985045,
+  label: "Pusignan",
+  lat: 45.758141,
+  lon: 5.06724,
+  nm: "Pusignan",
+  value: 2985045
+},  {
+  id: 2985034,
+  label: "Puteaux",
+  lat: 48.883411,
+  lon: 2.23894,
+  nm: "Puteaux",
+  value: 2985034
+},  {
+  id: 2984965,
+  label: "Puy-Guillaume",
+  lat: 45.95985,
+  lon: 3.47143,
+  nm: "Puy-Guillaume",
+  value: 2984965
+},  {
+  id: 2984969,
+  label: "Puygouzon",
+  lat: 43.900002,
+  lon: 2.16667,
+  nm: "Puygouzon",
+  value: 2984969
+},  {
+  id: 2984952,
+  label: "Puylaurens",
+  lat: 43.572021,
+  lon: 2.01227,
+  nm: "Puylaurens",
+  value: 2984952
+},  {
+  id: 2984929,
+  label: "Puymoyen",
+  lat: 45.616669,
+  lon: 0.18333,
+  nm: "Puymoyen",
+  value: 2984929
+},  {
+  id: 2984874,
+  label: "Quarouble",
+  lat: 50.386341,
+  lon: 3.62306,
+  nm: "Quarouble",
+  value: 2984874
+},  {
+  id: 2984799,
+  label: "Querqueville",
+  lat: 49.66251,
+  lon: -1.69119,
+  nm: "Querqueville",
+  value: 2984799
+},  {
+  id: 2984787,
+  label: "Quesnoy-sur-Deule",
+  lat: 50.713589,
+  lon: 2.99996,
+  nm: "Quesnoy-sur-Deule",
+  value: 2984787
+},  {
+  id: 2984783,
+  label: "Quessoy",
+  lat: 48.422081,
+  lon: -2.66089,
+  nm: "Quessoy",
+  value: 2984783
+},  {
+  id: 2984781,
+  label: "Questembert",
+  lat: 47.66296,
+  lon: -2.4522,
+  nm: "Questembert",
+  value: 2984781
+},  {
+  id: 2984775,
+  label: "Quetigny",
+  lat: 47.316669,
+  lon: 5.11667,
+  nm: "Quetigny",
+  value: 2984775
+},  {
+  id: 2984760,
+  label: "Queven",
+  lat: 47.783329,
+  lon: -3.41667,
+  nm: "Queven",
+  value: 2984760
+},  {
+  id: 2984759,
+  label: "Quevert",
+  lat: 48.46402,
+  lon: -2.08745,
+  nm: "Quevert",
+  value: 2984759
+},  {
+  id: 2984741,
+  label: "Quiberon",
+  lat: 47.484119,
+  lon: -3.11962,
+  nm: "Quiberon",
+  value: 2984741
+},  {
+  id: 2984728,
+  label: "Quievrechain",
+  lat: 50.39172,
+  lon: 3.66815,
+  nm: "Quievrechain",
+  value: 2984728
+},  {
+  id: 2984719,
+  label: "Quillan",
+  lat: 42.87579,
+  lon: 2.18176,
+  nm: "Quillan",
+  value: 2984719
+},  {
+  id: 2984701,
+  label: "Quimper",
+  lat: 48,
+  lon: -4.1,
+  nm: "Quimper",
+  value: 2984701
+},  {
+  id: 2984699,
+  label: "Quimperle",
+  lat: 47.866669,
+  lon: -3.55,
+  nm: "Quimperle",
+  value: 2984699
+},  {
+  id: 2984697,
+  label: "Quincampoix",
+  lat: 49.5271,
+  lon: 1.18848,
+  nm: "Quincampoix",
+  value: 2984697
+},  {
+  id: 2984686,
+  label: "Quincieux",
+  lat: 45.910358,
+  lon: 4.77824,
+  nm: "Quincieux",
+  value: 2984686
+},  {
+  id: 2984678,
+  label: "Quincy-sous-Senart",
+  lat: 48.672939,
+  lon: 2.53419,
+  nm: "Quincy-sous-Senart",
+  value: 2984678
+},  {
+  id: 2984677,
+  label: "Quincy-Voisins",
+  lat: 48.901138,
+  lon: 2.87559,
+  nm: "Quincy-Voisins",
+  value: 2984677
+},  {
+  id: 2984664,
+  label: "Quinsac",
+  lat: 44.755348,
+  lon: -0.48697,
+  nm: "Quinsac",
+  value: 2984664
+},  {
+  id: 2984649,
+  label: "Quintin",
+  lat: 48.403419,
+  lon: -2.9105,
+  nm: "Quintin",
+  value: 2984649
+},  {
+  id: 2984643,
+  label: "Quissac",
+  lat: 43.91341,
+  lon: 3.9992,
+  nm: "Quissac",
+  value: 2984643
+},  {
+  id: 2984627,
+  label: "Rabastens",
+  lat: 43.825119,
+  lon: 1.72382,
+  nm: "Rabastens",
+  value: 2984627
+},  {
+  id: 2984600,
+  label: "Raches",
+  lat: 50.417061,
+  lon: 3.13635,
+  nm: "Raches",
+  value: 2984600
+},  {
+  id: 2984594,
+  label: "Racquinghem",
+  lat: 50.692451,
+  lon: 2.35736,
+  nm: "Racquinghem",
+  value: 2984594
+},  {
+  id: 2984552,
+  label: "Raillencourt-Sainte-Olle",
+  lat: 50.183331,
+  lon: 3.16667,
+  nm: "Raillencourt-Sainte-Olle",
+  value: 2984552
+},  {
+  id: 2984548,
+  label: "Raimbeaucourt",
+  lat: 50.434662,
+  lon: 3.09333,
+  nm: "Raimbeaucourt",
+  value: 2984548
+},  {
+  id: 2984537,
+  label: "Raismes",
+  lat: 50.383331,
+  lon: 3.48333,
+  nm: "Raismes",
+  value: 2984537
+},  {
+  id: 2984521,
+  label: "Ramatuelle",
+  lat: 43.216961,
+  lon: 6.61137,
+  nm: "Ramatuelle",
+  value: 2984521
+},  {
+  id: 2984516,
+  label: "Rambervillers",
+  lat: 48.3424,
+  lon: 6.6358,
+  nm: "Rambervillers",
+  value: 2984516
+},  {
+  id: 2984513,
+  label: "Rambouillet",
+  lat: 48.650002,
+  lon: 1.83333,
+  nm: "Rambouillet",
+  value: 2984513
+},  {
+  id: 2984495,
+  label: "Ramonchamp",
+  lat: 47.894299,
+  lon: 6.74171,
+  nm: "Ramonchamp",
+  value: 2984495
+},  {
+  id: 2984493,
+  label: "Ramonville-Saint-Agne",
+  lat: 43.546181,
+  lon: 1.47491,
+  nm: "Ramonville-Saint-Agne",
+  value: 2984493
+},  {
+  id: 2984438,
+  label: "Rang-du-Fliers",
+  lat: 50.41708,
+  lon: 1.64431,
+  nm: "Rang-du-Fliers",
+  value: 2984438
+},  {
+  id: 2984420,
+  label: "Rantigny",
+  lat: 49.327579,
+  lon: 2.44244,
+  nm: "Rantigny",
+  value: 2984420
+},  {
+  id: 2984417,
+  label: "Ranville",
+  lat: 49.230709,
+  lon: -0.2556,
+  nm: "Ranville",
+  value: 2984417
+},  {
+  id: 2984299,
+  label: "Realmont",
+  lat: 43.777538,
+  lon: 2.18885,
+  nm: "Realmont",
+  value: 2984299
+},  {
+  id: 2984284,
+  label: "Rebais",
+  lat: 48.84721,
+  lon: 3.23232,
+  nm: "Rebais",
+  value: 2984284
+},  {
+  id: 2984210,
+  label: "Recquignies",
+  lat: 50.283958,
+  lon: 4.03722,
+  nm: "Recquignies",
+  value: 2984210
+},  {
+  id: 2984198,
+  label: "Redene",
+  lat: 47.849998,
+  lon: -3.46667,
+  nm: "Redene",
+  value: 2984198
+},  {
+  id: 2984195,
+  label: "Redessan",
+  lat: 43.831169,
+  lon: 4.49771,
+  nm: "Redessan",
+  value: 2984195
+},  {
+  id: 2984193,
+  label: "Reding",
+  lat: 48.75177,
+  lon: 7.10747,
+  nm: "Reding",
+  value: 2984193
+},  {
+  id: 2984192,
+  label: "Redon",
+  lat: 47.650002,
+  lon: -2.08333,
+  nm: "Redon",
+  value: 2984192
+},  {
+  id: 2984140,
+  label: "Rehon",
+  lat: 49.504768,
+  lon: 5.74755,
+  nm: "Rehon",
+  value: 2984140
+},  {
+  id: 2984136,
+  label: "Reichshoffen",
+  lat: 48.932869,
+  lon: 7.66561,
+  nm: "Reichshoffen",
+  value: 2984136
+},  {
+  id: 2984135,
+  label: "Reichstett",
+  lat: 48.64856,
+  lon: 7.75455,
+  nm: "Reichstett",
+  value: 2984135
+},  {
+  id: 2984127,
+  label: "Reignier-Esery",
+  lat: 46.133331,
+  lon: 6.26667,
+  nm: "Reignier-Esery",
+  value: 2984127
+},  {
+  id: 2984114,
+  label: "Reims",
+  lat: 49.25,
+  lon: 4.03333,
+  nm: "Reims",
+  value: 2984114
+},  {
+  id: 2984060,
+  label: "Remilly",
+  lat: 49.01218,
+  lon: 6.39583,
+  nm: "Remilly",
+  value: 2984060
+},  {
+  id: 2984050,
+  label: "Remiremont",
+  lat: 48.01754,
+  lon: 6.5882,
+  nm: "Remiremont",
+  value: 2984050
+},  {
+  id: 2984037,
+  label: "Remoulins",
+  lat: 43.939491,
+  lon: 4.56798,
+  nm: "Remoulins",
+  value: 2984037
+},  {
+  id: 2984031,
+  label: "Remy",
+  lat: 49.433331,
+  lon: 2.71667,
+  nm: "Remy",
+  value: 2984031
+},  {
+  id: 2984025,
+  label: "Renage",
+  lat: 45.335289,
+  lon: 5.48528,
+  nm: "Renage",
+  value: 2984025
+},  {
+  id: 2984024,
+  label: "Renaison",
+  lat: 46.051781,
+  lon: 3.92568,
+  nm: "Renaison",
+  value: 2984024
+},  {
+  id: 2984012,
+  label: "Renaze",
+  lat: 47.7934,
+  lon: -1.05437,
+  nm: "Renaze",
+  value: 2984012
+},  {
+  id: 2984005,
+  label: "Renescure",
+  lat: 50.727539,
+  lon: 2.36801,
+  nm: "Renescure",
+  value: 2984005
+},  {
+  id: 2983990,
+  label: "Rennes",
+  lat: 48.11198,
+  lon: -1.67429,
+  nm: "Rennes",
+  value: 2983990
+},  {
+  id: 2983942,
+  label: "Replonges",
+  lat: 46.311111,
+  lon: 4.87964,
+  nm: "Replonges",
+  value: 2983942
+},  {
+  id: 2983929,
+  label: "Requista",
+  lat: 44.033249,
+  lon: 2.53554,
+  nm: "Requista",
+  value: 2983929
+},  {
+  id: 2983891,
+  label: "Rethel",
+  lat: 49.51667,
+  lon: 4.36667,
+  nm: "Rethel",
+  value: 2983891
+},  {
+  id: 2983885,
+  label: "Retiers",
+  lat: 47.913921,
+  lon: -1.37967,
+  nm: "Retiers",
+  value: 2983885
+},  {
+  id: 2983879,
+  label: "Retournac",
+  lat: 45.206291,
+  lon: 4.03554,
+  nm: "Retournac",
+  value: 2983879
+},  {
+  id: 2983871,
+  label: "Rety",
+  lat: 50.799999,
+  lon: 1.76667,
+  nm: "Rety",
+  value: 2983871
+},  {
+  id: 2983856,
+  label: "Reuilly",
+  lat: 47.084759,
+  lon: 2.04305,
+  nm: "Reuilly",
+  value: 2983856
+},  {
+  id: 2983833,
+  label: "Revel",
+  lat: 43.458118,
+  lon: 2.00469,
+  nm: "Revel",
+  value: 2983833
+},  {
+  id: 2983812,
+  label: "Revigny-sur-Ornain",
+  lat: 48.830158,
+  lon: 4.98558,
+  nm: "Revigny-sur-Ornain",
+  value: 2983812
+},  {
+  id: 2983806,
+  label: "Revin",
+  lat: 49.940392,
+  lon: 4.63503,
+  nm: "Revin",
+  value: 2983806
+},  {
+  id: 2983779,
+  label: "Reyrieux",
+  lat: 45.93306,
+  lon: 4.82394,
+  nm: "Reyrieux",
+  value: 2983779
+},  {
+  id: 2983770,
+  label: "Reze",
+  lat: 47.181438,
+  lon: -1.54965,
+  nm: "Reze",
+  value: 2983770
+},  {
+  id: 2983761,
+  label: "Rhinau",
+  lat: 48.318089,
+  lon: 7.70613,
+  nm: "Rhinau",
+  value: 2983761
+},  {
+  id: 2983735,
+  label: "Riaille",
+  lat: 47.517979,
+  lon: -1.29404,
+  nm: "Riaille",
+  value: 2983735
+},  {
+  id: 2983732,
+  label: "Rians",
+  lat: 43.60659,
+  lon: 5.75589,
+  nm: "Rians",
+  value: 2983732
+},  {
+  id: 2983730,
+  label: "Riantec",
+  lat: 47.71093,
+  lon: -3.31629,
+  nm: "Riantec",
+  value: 2983730
+},  {
+  id: 2983705,
+  label: "Ribeauville",
+  lat: 48.195099,
+  lon: 7.31938,
+  nm: "Ribeauville",
+  value: 2983705
+},  {
+  id: 2983699,
+  label: "Ribemont",
+  lat: 49.795399,
+  lon: 3.45893,
+  nm: "Ribemont",
+  value: 2983699
+},  {
+  id: 2983696,
+  label: "Riberac",
+  lat: 45.25,
+  lon: 0.33333,
+  nm: "Riberac",
+  value: 2983696
+},  {
+  id: 2983667,
+  label: "Richardmenil",
+  lat: 48.598511,
+  lon: 6.16992,
+  nm: "Richardmenil",
+  value: 2983667
+},  {
+  id: 2983656,
+  label: "Richebourg-lAvoue",
+  lat: 50.569988,
+  lon: 2.74884,
+  nm: "Richebourg-lAvoue",
+  value: 2983656
+},  {
+  id: 2983652,
+  label: "Richelieu",
+  lat: 47.013889,
+  lon: 0.32406,
+  nm: "Richelieu",
+  value: 2983652
+},  {
+  id: 2983648,
+  label: "Richemont",
+  lat: 49.276901,
+  lon: 6.16268,
+  nm: "Richemont",
+  value: 2983648
+},  {
+  id: 2983637,
+  label: "Richwiller",
+  lat: 47.77948,
+  lon: 7.28225,
+  nm: "Richwiller",
+  value: 2983637
+},  {
+  id: 2983631,
+  label: "Riec-sur-Belon",
+  lat: 47.833328,
+  lon: -3.7,
+  nm: "Riec-sur-Belon",
+  value: 2983631
+},  {
+  id: 2983629,
+  label: "Riedisheim",
+  lat: 47.74757,
+  lon: 7.36665,
+  nm: "Riedisheim",
+  value: 2983629
+},  {
+  id: 2983606,
+  label: "Rieumes",
+  lat: 43.41143,
+  lon: 1.11702,
+  nm: "Rieumes",
+  value: 2983606
+},  {
+  id: 2983603,
+  label: "Rieupeyroux",
+  lat: 44.307991,
+  lon: 2.23819,
+  nm: "Rieupeyroux",
+  value: 2983603
+},  {
+  id: 2983590,
+  label: "Rieux",
+  lat: 47.597809,
+  lon: -2.10828,
+  nm: "Rieux",
+  value: 2983590
+},  {
+  id: 2983582,
+  label: "Rieux-Minervois",
+  lat: 43.28194,
+  lon: 2.58687,
+  nm: "Rieux-Minervois",
+  value: 2983582
+},  {
+  id: 2983591,
+  label: "Rieux-Volvestre",
+  lat: 43.25,
+  lon: 1.2,
+  nm: "Rieux-Volvestre",
+  value: 2983591
+},  {
+  id: 2983542,
+  label: "Rilhac-Rancon",
+  lat: 45.900002,
+  lon: 1.31667,
+  nm: "Rilhac-Rancon",
+  value: 2983542
+},  {
+  id: 2983536,
+  label: "Rillieux-la-Pape",
+  lat: 45.816669,
+  lon: 4.9,
+  nm: "Rillieux-la-Pape",
+  value: 2983536
+},  {
+  id: 2983499,
+  label: "Rinxent",
+  lat: 50.80714,
+  lon: 1.72899,
+  nm: "Rinxent",
+  value: 2983499
+},  {
+  id: 2983489,
+  label: "Riom",
+  lat: 45.900002,
+  lon: 3.11667,
+  nm: "Riom",
+  value: 2983489
+},  {
+  id: 2983487,
+  label: "Riom-es-Montagnes",
+  lat: 45.283329,
+  lon: 2.66667,
+  nm: "Riom-es-Montagnes",
+  value: 2983487
+},  {
+  id: 2983485,
+  label: "Rion-des-Landes",
+  lat: 43.93449,
+  lon: -0.92388,
+  nm: "Rion-des-Landes",
+  value: 2983485
+},  {
+  id: 2983482,
+  label: "Riorges",
+  lat: 46.04179,
+  lon: 4.04966,
+  nm: "Riorges",
+  value: 2983482
+},  {
+  id: 2983440,
+  label: "Ris-Orangis",
+  lat: 48.6511,
+  lon: 2.41406,
+  nm: "Ris-Orangis",
+  value: 2983440
+},  {
+  id: 2983408,
+  label: "Rive-de-Gier",
+  lat: 45.53067,
+  lon: 4.62131,
+  nm: "Rive-de-Gier",
+  value: 2983408
+},  {
+  id: 2983397,
+  label: "Rivery",
+  lat: 49.903278,
+  lon: 2.32235,
+  nm: "Rivery",
+  value: 2983397
+},  {
+  id: 2983395,
+  label: "Rives",
+  lat: 45.355049,
+  lon: 5.49926,
+  nm: "Rives",
+  value: 2983395
+},  {
+  id: 2983393,
+  label: "Rivesaltes",
+  lat: 42.769451,
+  lon: 2.87239,
+  nm: "Rivesaltes",
+  value: 2983393
+},  {
+  id: 2983382,
+  label: "Rivieres",
+  lat: 45.752949,
+  lon: 0.36128,
+  nm: "Rivieres",
+  value: 2983382
+},  {
+  id: 2983369,
+  label: "Rixheim",
+  lat: 47.7514,
+  lon: 7.40091,
+  nm: "Rixheim",
+  value: 2983369
+},  {
+  id: 2983362,
+  label: "Roanne",
+  lat: 46.033329,
+  lon: 4.06667,
+  nm: "Roanne",
+  value: 2983362
+},  {
+  id: 2983338,
+  label: "Robion",
+  lat: 43.847069,
+  lon: 5.10975,
+  nm: "Robion",
+  value: 2983338
+},  {
+  id: 2983332,
+  label: "Rocbaron",
+  lat: 43.304489,
+  lon: 6.09059,
+  nm: "Rocbaron",
+  value: 2983332
+},  {
+  id: 2983251,
+  label: "Roche-la-Moliere",
+  lat: 45.434078,
+  lon: 4.32276,
+  nm: "Roche-la-Moliere",
+  value: 2983251
+},  {
+  id: 2983291,
+  label: "Rochechouart",
+  lat: 45.816669,
+  lon: 0.81667,
+  nm: "Rochechouart",
+  value: 2983291
+},  {
+  id: 2983287,
+  label: "Rochecorbon",
+  lat: 47.41658,
+  lon: 0.75521,
+  nm: "Rochecorbon",
+  value: 2983287
+},  {
+  id: 2983276,
+  label: "Rochefort",
+  lat: 45.933331,
+  lon: -0.98333,
+  nm: "Rochefort",
+  value: 2983276
+},  {
+  id: 2983268,
+  label: "Rochefort-du-Gard",
+  lat: 43.976521,
+  lon: 4.69023,
+  nm: "Rochefort-du-Gard",
+  value: 2983268
+},  {
+  id: 2983262,
+  label: "Rochefort-sur-Loire",
+  lat: 47.357052,
+  lon: -0.65696,
+  nm: "Rochefort-sur-Loire",
+  value: 2983262
+},  {
+  id: 2983246,
+  label: "Rochemaure",
+  lat: 44.587471,
+  lon: 4.70507,
+  nm: "Rochemaure",
+  value: 2983246
+},  {
+  id: 2983221,
+  label: "Rocheserviere",
+  lat: 46.937649,
+  lon: -1.51142,
+  nm: "Rocheserviere",
+  value: 2983221
+},  {
+  id: 2983174,
+  label: "Rocquencourt",
+  lat: 48.83783,
+  lon: 2.10228,
+  nm: "Rocquencourt",
+  value: 2983174
+},  {
+  id: 2983165,
+  label: "Rocroi",
+  lat: 49.926102,
+  lon: 4.5222,
+  nm: "Rocroi",
+  value: 2983165
+},  {
+  id: 2983154,
+  label: "Rodez",
+  lat: 44.352581,
+  lon: 2.57338,
+  nm: "Rodez",
+  value: 2983154
+},  {
+  id: 2983152,
+  label: "Rodilhan",
+  lat: 43.827251,
+  lon: 4.43088,
+  nm: "Rodilhan",
+  value: 2983152
+},  {
+  id: 2983144,
+  label: "Roeulx",
+  lat: 50.299999,
+  lon: 3.33333,
+  nm: "Roeulx",
+  value: 2983144
+},  {
+  id: 2983141,
+  label: "Roeze-sur-Sarthe",
+  lat: 47.895458,
+  lon: 0.06723,
+  nm: "Roeze-sur-Sarthe",
+  value: 2983141
+},  {
+  id: 2983130,
+  label: "Rognac",
+  lat: 43.48761,
+  lon: 5.23387,
+  nm: "Rognac",
+  value: 2983130
+},  {
+  id: 2983127,
+  label: "Rognes",
+  lat: 43.664181,
+  lon: 5.34801,
+  nm: "Rognes",
+  value: 2983127
+},  {
+  id: 2983117,
+  label: "Rognonas",
+  lat: 43.899929,
+  lon: 4.80369,
+  nm: "Rognonas",
+  value: 2983117
+},  {
+  id: 2983095,
+  label: "Rohrbach-les-Bitche",
+  lat: 49.045158,
+  lon: 7.26588,
+  nm: "Rohrbach-les-Bitche",
+  value: 2983095
+},  {
+  id: 2983083,
+  label: "Roiffieux",
+  lat: 45.226471,
+  lon: 4.65502,
+  nm: "Roiffieux",
+  value: 2983083
+},  {
+  id: 2983077,
+  label: "Roisel",
+  lat: 49.947681,
+  lon: 3.09973,
+  nm: "Roisel",
+  value: 2983077
+},  {
+  id: 2983074,
+  label: "Roissy-en-Brie",
+  lat: 48.791592,
+  lon: 2.64747,
+  nm: "Roissy-en-Brie",
+  value: 2983074
+},  {
+  id: 2983073,
+  label: "Roissy-en-France",
+  lat: 49.004429,
+  lon: 2.51703,
+  nm: "Roissy-en-France",
+  value: 2983073
+},  {
+  id: 2983050,
+  label: "Romagnat",
+  lat: 45.728779,
+  lon: 3.09893,
+  nm: "Romagnat",
+  value: 2983050
+},  {
+  id: 2983026,
+  label: "Romainville",
+  lat: 48.885399,
+  lon: 2.43482,
+  nm: "Romainville",
+  value: 2983026
+},  {
+  id: 2983011,
+  label: "Romans-sur-Isere",
+  lat: 45.046391,
+  lon: 5.0562,
+  nm: "Romans-sur-Isere",
+  value: 2983011
+},  {
+  id: 2983005,
+  label: "Rombas",
+  lat: 49.249111,
+  lon: 6.09405,
+  nm: "Rombas",
+  value: 2983005
+},  {
+  id: 2982977,
+  label: "Romille",
+  lat: 48.21619,
+  lon: -1.89229,
+  nm: "Romille",
+  value: 2982977
+},  {
+  id: 2982973,
+  label: "Romilly-sur-Andelle",
+  lat: 49.331902,
+  lon: 1.26128,
+  nm: "Romilly-sur-Andelle",
+  value: 2982973
+},  {
+  id: 2982972,
+  label: "Romilly-sur-Seine",
+  lat: 48.510849,
+  lon: 3.72634,
+  nm: "Romilly-sur-Seine",
+  value: 2982972
+},  {
+  id: 2982967,
+  label: "Romorantin-Lanthenay",
+  lat: 47.366669,
+  lon: 1.75,
+  nm: "Romorantin-Lanthenay",
+  value: 2982967
+},  {
+  id: 2982951,
+  label: "Ronchamp",
+  lat: 47.70063,
+  lon: 6.6359,
+  nm: "Ronchamp",
+  value: 2982951
+},  {
+  id: 2982944,
+  label: "Ronchin",
+  lat: 50.598831,
+  lon: 3.09056,
+  nm: "Ronchin",
+  value: 2982944
+},  {
+  id: 2982938,
+  label: "Roncq",
+  lat: 50.7533,
+  lon: 3.12131,
+  nm: "Roncq",
+  value: 2982938
+},  {
+  id: 2982890,
+  label: "Roost-Warendin",
+  lat: 50.419201,
+  lon: 3.10374,
+  nm: "Roost-Warendin",
+  value: 2982890
+},  {
+  id: 2982876,
+  label: "Roquebrune-Cap-Martin",
+  lat: 43.76408,
+  lon: 7.48206,
+  nm: "Roquebrune-Cap-Martin",
+  value: 2982876
+},  {
+  id: 2982875,
+  label: "Roquebrune-sur-Argens",
+  lat: 43.433331,
+  lon: 6.63333,
+  nm: "Roquebrune-sur-Argens",
+  value: 2982875
+},  {
+  id: 2982873,
+  label: "Roquecourbe",
+  lat: 43.664421,
+  lon: 2.29264,
+  nm: "Roquecourbe",
+  value: 2982873
+},  {
+  id: 2982863,
+  label: "Roquefort",
+  lat: 44.035,
+  lon: -0.32323,
+  nm: "Roquefort",
+  value: 2982863
+},  {
+  id: 2982859,
+  label: "Roquefort-la-Bedoule",
+  lat: 43.248829,
+  lon: 5.59015,
+  nm: "Roquefort-la-Bedoule",
+  value: 2982859
+},  {
+  id: 2982851,
+  label: "Roquemaure",
+  lat: 44.049438,
+  lon: 4.7774,
+  nm: "Roquemaure",
+  value: 2982851
+},  {
+  id: 2982836,
+  label: "Roquettes",
+  lat: 43.49733,
+  lon: 1.36848,
+  nm: "Roquettes",
+  value: 2982836
+},  {
+  id: 2982835,
+  label: "Roquevaire",
+  lat: 43.350208,
+  lon: 5.60414,
+  nm: "Roquevaire",
+  value: 2982835
+},  {
+  id: 2982809,
+  label: "Roscoff",
+  lat: 48.723808,
+  lon: -3.98709,
+  nm: "Roscoff",
+  value: 2982809
+},  {
+  id: 2982798,
+  label: "Rosenau",
+  lat: 47.634708,
+  lon: 7.54099,
+  nm: "Rosenau",
+  value: 2982798
+},  {
+  id: 2982790,
+  label: "Rosheim",
+  lat: 48.497101,
+  lon: 7.47105,
+  nm: "Rosheim",
+  value: 2982790
+},  {
+  id: 2982778,
+  label: "Rosieres-aux-Salines",
+  lat: 48.592899,
+  lon: 6.33208,
+  nm: "Rosieres-aux-Salines",
+  value: 2982778
+},  {
+  id: 2982775,
+  label: "Rosieres-en-Santerre",
+  lat: 49.814339,
+  lon: 2.70095,
+  nm: "Rosieres-en-Santerre",
+  value: 2982775
+},  {
+  id: 2982774,
+  label: "Rosieres-pres-Troyes",
+  lat: 48.261822,
+  lon: 4.07396,
+  nm: "Rosieres-pres-Troyes",
+  value: 2982774
+},  {
+  id: 2982757,
+  label: "Rosny-sous-Bois",
+  lat: 48.870171,
+  lon: 2.4991,
+  nm: "Rosny-sous-Bois",
+  value: 2982757
+},  {
+  id: 2982756,
+  label: "Rosny-sur-Seine",
+  lat: 48.998081,
+  lon: 1.6313,
+  nm: "Rosny-sur-Seine",
+  value: 2982756
+},  {
+  id: 2982745,
+  label: "Rosporden",
+  lat: 47.966671,
+  lon: -3.83333,
+  nm: "Rosporden",
+  value: 2982745
+},  {
+  id: 2982733,
+  label: "Rosselange",
+  lat: 49.258209,
+  lon: 6.06975,
+  nm: "Rosselange",
+  value: 2982733
+},  {
+  id: 2982711,
+  label: "Rostrenen",
+  lat: 48.236961,
+  lon: -3.31442,
+  nm: "Rostrenen",
+  value: 2982711
+},  {
+  id: 2982682,
+  label: "Rouans",
+  lat: 47.18322,
+  lon: -1.85929,
+  nm: "Rouans",
+  value: 2982682
+},  {
+  id: 2982681,
+  label: "Roubaix",
+  lat: 50.69421,
+  lon: 3.17456,
+  nm: "Roubaix",
+  value: 2982681
+},  {
+  id: 2982652,
+  label: "Rouen",
+  lat: 49.44313,
+  lon: 1.09932,
+  nm: "Rouen",
+  value: 2982652
+},  {
+  id: 2982636,
+  label: "Rouffach",
+  lat: 47.957859,
+  lon: 7.30016,
+  nm: "Rouffach",
+  value: 2982636
+},  {
+  id: 2982615,
+  label: "Rouge",
+  lat: 47.783669,
+  lon: -1.44763,
+  nm: "Rouge",
+  value: 2982615
+},  {
+  id: 2982564,
+  label: "Rouhling",
+  lat: 49.134499,
+  lon: 6.99429,
+  nm: "Rouhling",
+  value: 2982564
+},  {
+  id: 2982558,
+  label: "Rouille",
+  lat: 46.420238,
+  lon: 0.04073,
+  nm: "Rouille",
+  value: 2982558
+},  {
+  id: 2982556,
+  label: "Rouillon",
+  lat: 48.00629,
+  lon: 0.13527,
+  nm: "Rouillon",
+  value: 2982556
+},  {
+  id: 2982536,
+  label: "Roullet-Saint-Estephe",
+  lat: 45.583328,
+  lon: 0.05,
+  nm: "Roullet-Saint-Estephe",
+  value: 2982536
+},  {
+  id: 2982498,
+  label: "Rousies",
+  lat: 50.27346,
+  lon: 4.00382,
+  nm: "Rousies",
+  value: 2982498
+},  {
+  id: 2982472,
+  label: "Rousset",
+  lat: 43.48307,
+  lon: 5.61959,
+  nm: "Rousset",
+  value: 2982472
+},  {
+  id: 2982454,
+  label: "Roussillon",
+  lat: 45.37302,
+  lon: 4.80725,
+  nm: "Roussillon",
+  value: 2982454
+},  {
+  id: 2982443,
+  label: "Rousson",
+  lat: 44.19136,
+  lon: 4.14786,
+  nm: "Rousson",
+  value: 2982443
+},  {
+  id: 2982383,
+  label: "Rouvroy",
+  lat: 50.392471,
+  lon: 2.90396,
+  nm: "Rouvroy",
+  value: 2982383
+},  {
+  id: 2982343,
+  label: "Royan",
+  lat: 45.62846,
+  lon: -1.0281,
+  nm: "Royan",
+  value: 2982343
+},  {
+  id: 2982338,
+  label: "Royat",
+  lat: 45.76379,
+  lon: 3.04954,
+  nm: "Royat",
+  value: 2982338
+},  {
+  id: 2982330,
+  label: "Roye",
+  lat: 49.700378,
+  lon: 2.78959,
+  nm: "Roye",
+  value: 2982330
+},  {
+  id: 2982317,
+  label: "Rozay-en-Brie",
+  lat: 48.683331,
+  lon: 2.95816,
+  nm: "Rozay-en-Brie",
+  value: 2982317
+},  {
+  id: 2982287,
+  label: "Ruaudin",
+  lat: 47.945091,
+  lon: 0.2676,
+  nm: "Ruaudin",
+  value: 2982287
+},  {
+  id: 2982261,
+  label: "Rue",
+  lat: 50.2715,
+  lon: 1.67163,
+  nm: "Rue",
+  value: 2982261
+},  {
+  id: 2982235,
+  label: "Rueil-Malmaison",
+  lat: 48.876499,
+  lon: 2.18967,
+  nm: "Rueil-Malmaison",
+  value: 2982235
+},  {
+  id: 2982234,
+  label: "Ruelisheim",
+  lat: 47.823059,
+  lon: 7.3594,
+  nm: "Ruelisheim",
+  value: 2982234
+},  {
+  id: 2982231,
+  label: "Ruelle-sur-Touvre",
+  lat: 45.683331,
+  lon: 0.23333,
+  nm: "Ruelle-sur-Touvre",
+  value: 2982231
+},  {
+  id: 2982217,
+  label: "Ruffec",
+  lat: 46.02877,
+  lon: 0.19821,
+  nm: "Ruffec",
+  value: 2982217
+},  {
+  id: 2982200,
+  label: "Rugles",
+  lat: 48.822121,
+  lon: 0.70979,
+  nm: "Rugles",
+  value: 2982200
+},  {
+  id: 2982159,
+  label: "Rumilly",
+  lat: 45.868729,
+  lon: 5.93652,
+  nm: "Rumilly",
+  value: 2982159
+},  {
+  id: 2982146,
+  label: "Rungis",
+  lat: 48.746071,
+  lon: 2.35274,
+  nm: "Rungis",
+  value: 2982146
+},  {
+  id: 2982143,
+  label: "Ruoms",
+  lat: 44.45351,
+  lon: 4.34265,
+  nm: "Ruoms",
+  value: 2982143
+},  {
+  id: 2982130,
+  label: "Rupt-sur-Moselle",
+  lat: 47.92271,
+  lon: 6.66291,
+  nm: "Rupt-sur-Moselle",
+  value: 2982130
+},  {
+  id: 2982102,
+  label: "Ruy",
+  lat: 45.587719,
+  lon: 5.3189,
+  nm: "Ruy",
+  value: 2982102
+},  {
+  id: 2982076,
+  label: "Sable-sur-Sarthe",
+  lat: 47.83765,
+  lon: -0.33294,
+  nm: "Sable-sur-Sarthe",
+  value: 2982076
+},  {
+  id: 2982043,
+  label: "Saclay",
+  lat: 48.732601,
+  lon: 2.16923,
+  nm: "Saclay",
+  value: 2982043
+},  {
+  id: 2982029,
+  label: "Sadirac",
+  lat: 44.781792,
+  lon: -0.41334,
+  nm: "Sadirac",
+  value: 2982029
+},  {
+  id: 2982023,
+  label: "Saffre",
+  lat: 47.501431,
+  lon: -1.57856,
+  nm: "Saffre",
+  value: 2982023
+},  {
+  id: 2981962,
+  label: "Sailly-Labourse",
+  lat: 50.501202,
+  lon: 2.69708,
+  nm: "Sailly-Labourse",
+  value: 2981962
+},  {
+  id: 2981956,
+  label: "Sailly-sur-la-Lys",
+  lat: 50.658199,
+  lon: 2.76872,
+  nm: "Sailly-sur-la-Lys",
+  value: 2981956
+},  {
+  id: 2981953,
+  label: "Sain-Bel",
+  lat: 45.810699,
+  lon: 4.59815,
+  nm: "Sain-Bel",
+  value: 2981953
+},  {
+  id: 2981950,
+  label: "Sainghin-en-Melantois",
+  lat: 50.58836,
+  lon: 3.16619,
+  nm: "Sainghin-en-Melantois",
+  value: 2981950
+},  {
+  id: 2981949,
+  label: "Sainghin-en-Weppes",
+  lat: 50.564072,
+  lon: 2.89804,
+  nm: "Sainghin-en-Weppes",
+  value: 2981949
+},  {
+  id: 2981943,
+  label: "Sains-du-Nord",
+  lat: 50.093769,
+  lon: 4.00898,
+  nm: "Sains-du-Nord",
+  value: 2981943
+},  {
+  id: 2981941,
+  label: "Sains-en-Gohelle",
+  lat: 50.445122,
+  lon: 2.68301,
+  nm: "Sains-en-Gohelle",
+  value: 2981941
+},  {
+  id: 2981925,
+  label: "Saint-Affrique",
+  lat: 43.95575,
+  lon: 2.88915,
+  nm: "Saint-Affrique",
+  value: 2981925
+},  {
+  id: 2981908,
+  label: "Saint-Agnant",
+  lat: 45.873539,
+  lon: -0.96119,
+  nm: "Saint-Agnant",
+  value: 2981908
+},  {
+  id: 2981901,
+  label: "Saint-Agreve",
+  lat: 45.00993,
+  lon: 4.39375,
+  nm: "Saint-Agreve",
+  value: 2981901
+},  {
+  id: 2981898,
+  label: "Saint-Aignan",
+  lat: 47.268921,
+  lon: 1.37614,
+  nm: "Saint-Aignan",
+  value: 2981898
+},  {
+  id: 2981882,
+  label: "Saint-Aigulin",
+  lat: 45.150002,
+  lon: -0.01667,
+  nm: "Saint-Aigulin",
+  value: 2981882
+},  {
+  id: 2981879,
+  label: "Saint-Alban",
+  lat: 43.692699,
+  lon: 1.4102,
+  nm: "Saint-Alban",
+  value: 2981879
+},  {
+  id: 2981878,
+  label: "Saint-Alban-Leysse",
+  lat: 45.583328,
+  lon: 5.95,
+  nm: "Saint-Alban-Leysse",
+  value: 2981878
+},  {
+  id: 2981851,
+  label: "Saint-Amand",
+  lat: 49.043381,
+  lon: -0.96491,
+  nm: "Saint-Amand",
+  value: 2981851
+},  {
+  id: 2981839,
+  label: "Saint-Amand-les-Eaux",
+  lat: 50.447182,
+  lon: 3.43076,
+  nm: "Saint-Amand-les-Eaux",
+  value: 2981839
+},  {
+  id: 2981837,
+  label: "Saint-Amand-Montrond",
+  lat: 46.716671,
+  lon: 2.51667,
+  nm: "Saint-Amand-Montrond",
+  value: 2981837
+},  {
+  id: 2981815,
+  label: "Saint-Amarin",
+  lat: 47.873348,
+  lon: 7.03193,
+  nm: "Saint-Amarin",
+  value: 2981815
+},  {
+  id: 2981810,
+  label: "Saint-Ambroix",
+  lat: 44.25893,
+  lon: 4.19833,
+  nm: "Saint-Ambroix",
+  value: 2981810
+},  {
+  id: 2981808,
+  label: "Saint-Ame",
+  lat: 48.02388,
+  lon: 6.66416,
+  nm: "Saint-Ame",
+  value: 2981808
+},  {
+  id: 2981805,
+  label: "Saint-Amour",
+  lat: 46.436378,
+  lon: 5.34416,
+  nm: "Saint-Amour",
+  value: 2981805
+},  {
+  id: 2981791,
+  label: "Saint-Andiol",
+  lat: 43.834839,
+  lon: 4.94453,
+  nm: "Saint-Andiol",
+  value: 2981791
+},  {
+  id: 2981762,
+  label: "Saint-Andre-de-Corcy",
+  lat: 45.9259,
+  lon: 4.95166,
+  nm: "Saint-Andre-de-Corcy",
+  value: 2981762
+},  {
+  id: 2981758,
+  label: "Saint-Andre-de-la-Marche",
+  lat: 47.099522,
+  lon: -0.99441,
+  nm: "Saint-Andre-de-la-Marche",
+  value: 2981758
+},  {
+  id: 2981783,
+  label: "Saint-Andre-de-la-Roche",
+  lat: 43.73333,
+  lon: 7.28333,
+  nm: "Saint-Andre-de-la-Roche",
+  value: 2981783
+},  {
+  id: 2981746,
+  label: "Saint-Andre-de-Sangonis",
+  lat: 43.64753,
+  lon: 3.50209,
+  nm: "Saint-Andre-de-Sangonis",
+  value: 2981746
+},  {
+  id: 2981745,
+  label: "Saint-Andre-des-Eaux",
+  lat: 47.31461,
+  lon: -2.31105,
+  nm: "Saint-Andre-des-Eaux",
+  value: 2981745
+},  {
+  id: 2981719,
+  label: "Saint-Andre-le-Gaz",
+  lat: 45.549431,
+  lon: 5.53503,
+  nm: "Saint-Andre-le-Gaz",
+  value: 2981719
+},  {
+  id: 2981716,
+  label: "Saint-Andre-les-Vergers",
+  lat: 48.285271,
+  lon: 4.0521,
+  nm: "Saint-Andre-les-Vergers",
+  value: 2981716
+},  {
+  id: 2981779,
+  label: "Saint-Andre-lez-Lille",
+  lat: 50.666672,
+  lon: 3.05,
+  nm: "Saint-Andre-lez-Lille",
+  value: 2981779
+},  {
+  id: 2981673,
+  label: "Saint-Antoine-de-Breuilh",
+  lat: 44.833328,
+  lon: 0.16667,
+  nm: "Saint-Antoine-de-Breuilh",
+  value: 2981673
+},  {
+  id: 2981655,
+  label: "Saint-Apollinaire",
+  lat: 47.333328,
+  lon: 5.08333,
+  nm: "Saint-Apollinaire",
+  value: 2981655
+},  {
+  id: 2981629,
+  label: "Saint-Arnoult-en-Yvelines",
+  lat: 48.57111,
+  lon: 1.9395,
+  nm: "Saint-Arnoult-en-Yvelines",
+  value: 2981629
+},  {
+  id: 2981623,
+  label: "Saint-Astier",
+  lat: 45.145821,
+  lon: 0.52898,
+  nm: "Saint-Astier",
+  value: 2981623
+},  {
+  id: 2981579,
+  label: "Saint-Aubin-de-Medoc",
+  lat: 44.75,
+  lon: -0.71667,
+  nm: "Saint-Aubin-de-Medoc",
+  value: 2981579
+},  {
+  id: 2981565,
+  label: "Saint-Aubin-du-Cormier",
+  lat: 48.25843,
+  lon: -1.40252,
+  nm: "Saint-Aubin-du-Cormier",
+  value: 2981565
+},  {
+  id: 2981551,
+  label: "Saint-Aubin-le-Cloud",
+  lat: 46.65308,
+  lon: -0.35258,
+  nm: "Saint-Aubin-le-Cloud",
+  value: 2981551
+},  {
+  id: 2981547,
+  label: "Saint-Aubin-les-Elbeuf",
+  lat: 49.3036,
+  lon: 1.01056,
+  nm: "Saint-Aubin-les-Elbeuf",
+  value: 2981547
+},  {
+  id: 2981521,
+  label: "Saint-Aunes",
+  lat: 43.640831,
+  lon: 3.96583,
+  nm: "Saint-Aunes",
+  value: 2981521
+},  {
+  id: 2981515,
+  label: "Saint-Ave",
+  lat: 47.690849,
+  lon: -2.74648,
+  nm: "Saint-Ave",
+  value: 2981515
+},  {
+  id: 2981512,
+  label: "Saint-Avertin",
+  lat: 47.363571,
+  lon: 0.73993,
+  nm: "Saint-Avertin",
+  value: 2981512
+},  {
+  id: 2981492,
+  label: "Saint-Avold",
+  lat: 49.102699,
+  lon: 6.70064,
+  nm: "Saint-Avold",
+  value: 2981492
+},  {
+  id: 2981488,
+  label: "Saint-Ay",
+  lat: 47.858898,
+  lon: 1.75137,
+  nm: "Saint-Ay",
+  value: 2981488
+},  {
+  id: 2981481,
+  label: "Saint-Baldoph",
+  lat: 45.5312,
+  lon: 5.95217,
+  nm: "Saint-Baldoph",
+  value: 2981481
+},  {
+  id: 2981408,
+  label: "Saint-Benoit",
+  lat: 46.55315,
+  lon: 0.3419,
+  nm: "Saint-Benoit",
+  value: 2981408
+},  {
+  id: 2981402,
+  label: "Saint-Benoit-de-Carmaux",
+  lat: 44.050369,
+  lon: 2.12911,
+  nm: "Saint-Benoit-de-Carmaux",
+  value: 2981402
+},  {
+  id: 2981393,
+  label: "Saint-Benoit-sur-Loire",
+  lat: 47.805611,
+  lon: 2.31274,
+  nm: "Saint-Benoit-sur-Loire",
+  value: 2981393
+},  {
+  id: 2981309,
+  label: "Saint-Bon-Tarentaise",
+  lat: 45.433731,
+  lon: 6.63686,
+  nm: "Saint-Bon-Tarentaise",
+  value: 2981309
+},  {
+  id: 2981338,
+  label: "Saint-Bonnet-de-Mure",
+  lat: 45.699581,
+  lon: 5.02026,
+  nm: "Saint-Bonnet-de-Mure",
+  value: 2981338
+},  {
+  id: 2981305,
+  label: "Saint-Branchs",
+  lat: 47.226551,
+  lon: 0.77306,
+  nm: "Saint-Branchs",
+  value: 2981305
+},  {
+  id: 2981304,
+  label: "Saint-Brandan",
+  lat: 48.390079,
+  lon: -2.86875,
+  nm: "Saint-Brandan",
+  value: 2981304
+},  {
+  id: 2981303,
+  label: "Saint-Bres",
+  lat: 43.667419,
+  lon: 4.03105,
+  nm: "Saint-Bres",
+  value: 2981303
+},  {
+  id: 2981296,
+  label: "Saint-Brevin-les-Pins",
+  lat: 47.25,
+  lon: -2.16667,
+  nm: "Saint-Brevin-les-Pins",
+  value: 2981296
+},  {
+  id: 2981294,
+  label: "Saint-Briac-sur-Mer",
+  lat: 48.621891,
+  lon: -2.13435,
+  nm: "Saint-Briac-sur-Mer",
+  value: 2981294
+},  {
+  id: 2981284,
+  label: "Saint-Brice-Courcelles",
+  lat: 49.26667,
+  lon: 3.98333,
+  nm: "Saint-Brice-Courcelles",
+  value: 2981284
+},  {
+  id: 2981285,
+  label: "Saint-Brice-en-Cogles",
+  lat: 48.411572,
+  lon: -1.37019,
+  nm: "Saint-Brice-en-Cogles",
+  value: 2981285
+},  {
+  id: 2981283,
+  label: "Saint-Brice-sous-Foret",
+  lat: 49.00132,
+  lon: 2.35361,
+  nm: "Saint-Brice-sous-Foret",
+  value: 2981283
+},  {
+  id: 2981280,
+  label: "Saint-Brieuc",
+  lat: 48.51667,
+  lon: -2.78333,
+  nm: "Saint-Brieuc",
+  value: 2981280
+},  {
+  id: 2981263,
+  label: "Saint-Calais",
+  lat: 47.9221,
+  lon: 0.74587,
+  nm: "Saint-Calais",
+  value: 2981263
+},  {
+  id: 2981259,
+  label: "Saint-Cannat",
+  lat: 43.620892,
+  lon: 5.2969,
+  nm: "Saint-Cannat",
+  value: 2981259
+},  {
+  id: 2981251,
+  label: "Saint-Caprais-de-Bordeaux",
+  lat: 44.74786,
+  lon: -0.43192,
+  nm: "Saint-Caprais-de-Bordeaux",
+  value: 2981251
+},  {
+  id: 2981237,
+  label: "Saint-Cast-le-Guildo",
+  lat: 48.63028,
+  lon: -2.25777,
+  nm: "Saint-Cast-le-Guildo",
+  value: 2981237
+},  {
+  id: 2981228,
+  label: "Saint-Cere",
+  lat: 44.857262,
+  lon: 1.89415,
+  nm: "Saint-Cere",
+  value: 2981228
+},  {
+  id: 2981227,
+  label: "Saint-Cergues",
+  lat: 46.23349,
+  lon: 6.31954,
+  nm: "Saint-Cergues",
+  value: 2981227
+},  {
+  id: 2981217,
+  label: "Saint-Cezaire-sur-Siagne",
+  lat: 43.648842,
+  lon: 6.79384,
+  nm: "Saint-Cezaire-sur-Siagne",
+  value: 2981217
+},  {
+  id: 2981209,
+  label: "Saint-Chamas",
+  lat: 43.549461,
+  lon: 5.03324,
+  nm: "Saint-Chamas",
+  value: 2981209
+},  {
+  id: 2981206,
+  label: "Saint-Chamond",
+  lat: 45.473652,
+  lon: 4.52541,
+  nm: "Saint-Chamond",
+  value: 2981206
+},  {
+  id: 2981195,
+  label: "Saint-Chef",
+  lat: 45.633839,
+  lon: 5.36518,
+  nm: "Saint-Chef",
+  value: 2981195
+},  {
+  id: 2981190,
+  label: "Saint-Cheron",
+  lat: 48.554329,
+  lon: 2.12403,
+  nm: "Saint-Cheron",
+  value: 2981190
+},  {
+  id: 2981183,
+  label: "Saint-Chinian",
+  lat: 43.422379,
+  lon: 2.94643,
+  nm: "Saint-Chinian",
+  value: 2981183
+},  {
+  id: 2981173,
+  label: "Saint-Christol-les-Ales",
+  lat: 44.082561,
+  lon: 4.07506,
+  nm: "Saint-Christol-les-Ales",
+  value: 2981173
+},  {
+  id: 2981172,
+  label: "Saint-Christoly-de-Blaye",
+  lat: 45.131779,
+  lon: -0.5076,
+  nm: "Saint-Christoly-de-Blaye",
+  value: 2981172
+},  {
+  id: 2981149,
+  label: "Saint-Christophe-du-Bois",
+  lat: 47.030121,
+  lon: -0.94441,
+  nm: "Saint-Christophe-du-Bois",
+  value: 2981149
+},  {
+  id: 2981146,
+  label: "Saint-Christophe-du-Ligneron",
+  lat: 46.82478,
+  lon: -1.76586,
+  nm: "Saint-Christophe-du-Ligneron",
+  value: 2981146
+},  {
+  id: 2981117,
+  label: "Saint-Ciers-sur-Gironde",
+  lat: 45.288551,
+  lon: -0.60794,
+  nm: "Saint-Ciers-sur-Gironde",
+  value: 2981117
+},  {
+  id: 2981087,
+  label: "Saint-Clair-de-la-Tour",
+  lat: 45.573429,
+  lon: 5.48332,
+  nm: "Saint-Clair-de-la-Tour",
+  value: 2981087
+},  {
+  id: 2981085,
+  label: "Saint-Clair-du-Rhone",
+  lat: 45.439091,
+  lon: 4.77178,
+  nm: "Saint-Clair-du-Rhone",
+  value: 2981085
+},  {
+  id: 2981077,
+  label: "Saint-Claude",
+  lat: 46.39164,
+  lon: 5.8643,
+  nm: "Saint-Claude",
+  value: 2981077
+},  {
+  id: 2981060,
+  label: "Saint-Clement",
+  lat: 48.217239,
+  lon: 3.29609,
+  nm: "Saint-Clement",
+  value: 2981060
+},  {
+  id: 2981073,
+  label: "Saint-Clement-de-Riviere",
+  lat: 43.683331,
+  lon: 3.83333,
+  nm: "Saint-Clement-de-Riviere",
+  value: 2981073
+},  {
+  id: 2981041,
+  label: "Saint-Cloud",
+  lat: 48.845982,
+  lon: 2.20289,
+  nm: "Saint-Cloud",
+  value: 2981041
+},  {
+  id: 2981018,
+  label: "Saint-Contest",
+  lat: 49.214008,
+  lon: -0.40221,
+  nm: "Saint-Contest",
+  value: 2981018
+},  {
+  id: 2981013,
+  label: "Saint-Cosme-en-Vairais",
+  lat: 48.26667,
+  lon: 0.46667,
+  nm: "Saint-Cosme-en-Vairais",
+  value: 2981013
+},  {
+  id: 2981008,
+  label: "Saint-Coulomb",
+  lat: 48.674648,
+  lon: -1.91092,
+  nm: "Saint-Coulomb",
+  value: 2981008
+},  {
+  id: 2980980,
+  label: "Saint-Cyprien",
+  lat: 45.533749,
+  lon: 4.23311,
+  nm: "Saint-Cyprien",
+  value: 2980980
+},  {
+  id: 2980976,
+  label: "Saint-Cyprien-Plage",
+  lat: 42.63229,
+  lon: 3.03333,
+  nm: "Saint-Cyprien-Plage",
+  value: 2980976
+},  {
+  id: 2980950,
+  label: "Saint-Cyr-en-Val",
+  lat: 47.831821,
+  lon: 1.96672,
+  nm: "Saint-Cyr-en-Val",
+  value: 2980950
+},  {
+  id: 2980942,
+  label: "Saint-Cyr-lEcole",
+  lat: 48.798649,
+  lon: 2.06814,
+  nm: "Saint-Cyr-lEcole",
+  value: 2980942
+},  {
+  id: 2980935,
+  label: "Saint-Cyr-sur-Loire",
+  lat: 47.400002,
+  lon: 0.66667,
+  nm: "Saint-Cyr-sur-Loire",
+  value: 2980935
+},  {
+  id: 2980933,
+  label: "Saint-Cyr-sur-Mer",
+  lat: 43.183521,
+  lon: 5.70914,
+  nm: "Saint-Cyr-sur-Mer",
+  value: 2980933
+},  {
+  id: 2980916,
+  label: "Saint-Denis",
+  lat: 48.933331,
+  lon: 2.36667,
+  nm: "Saint-Denis",
+  value: 2980916
+},  {
+  id: 2980898,
+  label: "Saint-Denis-de-Pile",
+  lat: 45,
+  lon: -0.2,
+  nm: "Saint-Denis-de-Pile",
+  value: 2980898
+},  {
+  id: 2980886,
+  label: "Saint-Denis-en-Bugey",
+  lat: 45.948898,
+  lon: 5.32808,
+  nm: "Saint-Denis-en-Bugey",
+  value: 2980886
+},  {
+  id: 2980885,
+  label: "Saint-Denis-en-Val",
+  lat: 47.873211,
+  lon: 1.96601,
+  nm: "Saint-Denis-en-Val",
+  value: 2980885
+},  {
+  id: 2980880,
+  label: "Saint-Denis-les-Bourg",
+  lat: 46.202171,
+  lon: 5.18924,
+  nm: "Saint-Denis-les-Bourg",
+  value: 2980880
+},  {
+  id: 2980856,
+  label: "Saint-Didier",
+  lat: 44.004238,
+  lon: 5.11053,
+  nm: "Saint-Didier",
+  value: 2980856
+},  {
+  id: 2980836,
+  label: "Saint-Didier-en-Velay",
+  lat: 45.302341,
+  lon: 4.27561,
+  nm: "Saint-Didier-en-Velay",
+  value: 2980836
+},  {
+  id: 2980830,
+  label: "Saint-Didier-sur-Chalaronne",
+  lat: 46.177509,
+  lon: 4.81719,
+  nm: "Saint-Didier-sur-Chalaronne",
+  value: 2980830
+},  {
+  id: 2980827,
+  label: "Saint-Die-des-Vosges",
+  lat: 48.283329,
+  lon: 6.95,
+  nm: "Saint-Die-des-Vosges",
+  value: 2980827
+},  {
+  id: 2980816,
+  label: "Saint-Dizier",
+  lat: 48.633331,
+  lon: 4.95,
+  nm: "Saint-Dizier",
+  value: 2980816
+},  {
+  id: 2980808,
+  label: "Saint-Dolay",
+  lat: 47.544762,
+  lon: -2.15466,
+  nm: "Saint-Dolay",
+  value: 2980808
+},  {
+  id: 2980801,
+  label: "Saint-Doulchard",
+  lat: 47.10371,
+  lon: 2.352,
+  nm: "Saint-Doulchard",
+  value: 2980801
+},  {
+  id: 2980799,
+  label: "Saint-Drezery",
+  lat: 43.729912,
+  lon: 3.9762,
+  nm: "Saint-Drezery",
+  value: 2980799
+},  {
+  id: 2980636,
+  label: "Saint-Egreve",
+  lat: 45.23333,
+  lon: 5.68333,
+  nm: "Saint-Egreve",
+  value: 2980636
+},  {
+  id: 2980507,
+  label: "Saint-Eloi",
+  lat: 46.973419,
+  lon: 3.22228,
+  nm: "Saint-Eloi",
+  value: 2980507
+},  {
+  id: 2980492,
+  label: "Saint-Eloy-les-Mines",
+  lat: 46.157928,
+  lon: 2.83623,
+  nm: "Saint-Eloy-les-Mines",
+  value: 2980492
+},  {
+  id: 2980392,
+  label: "Saint-Emilion",
+  lat: 44.883331,
+  lon: -0.15,
+  nm: "Saint-Emilion",
+  value: 2980392
+},  {
+  id: 2980350,
+  label: "Saint-Erblon",
+  lat: 48.018951,
+  lon: -1.65162,
+  nm: "Saint-Erblon",
+  value: 2980350
+},  {
+  id: 2980317,
+  label: "Saint-Estephe",
+  lat: 45.26252,
+  lon: -0.77237,
+  nm: "Saint-Estephe",
+  value: 2980317
+},  {
+  id: 2980313,
+  label: "Saint-Esteve",
+  lat: 42.711761,
+  lon: 2.8449,
+  nm: "Saint-Esteve",
+  value: 2980313
+},  {
+  id: 2980291,
+  label: "Saint-Etienne",
+  lat: 45.433331,
+  lon: 4.4,
+  nm: "Saint-Etienne",
+  value: 2980291
+},  {
+  id: 2980283,
+  label: "Saint-Etienne-au-Mont",
+  lat: 50.67794,
+  lon: 1.63084,
+  nm: "Saint-Etienne-au-Mont",
+  value: 2980283
+},  {
+  id: 2980270,
+  label: "Saint-Etienne-de-Crossey",
+  lat: 45.379139,
+  lon: 5.64527,
+  nm: "Saint-Etienne-de-Crossey",
+  value: 2980270
+},  {
+  id: 2980268,
+  label: "Saint-Etienne-de-Fontbellon",
+  lat: 44.601749,
+  lon: 4.3858,
+  nm: "Saint-Etienne-de-Fontbellon",
+  value: 2980268
+},  {
+  id: 2980259,
+  label: "Saint-Etienne-de-Montluc",
+  lat: 47.276901,
+  lon: -1.78072,
+  nm: "Saint-Etienne-de-Montluc",
+  value: 2980259
+},  {
+  id: 2980256,
+  label: "Saint-Etienne-de-Saint-Geoirs",
+  lat: 45.33931,
+  lon: 5.3449,
+  nm: "Saint-Etienne-de-Saint-Geoirs",
+  value: 2980256
+},  {
+  id: 2980246,
+  label: "Saint-Etienne-de-Tulmont",
+  lat: 44.049999,
+  lon: 1.46667,
+  nm: "Saint-Etienne-de-Tulmont",
+  value: 2980246
+},  {
+  id: 2980240,
+  label: "Saint-Etienne-du-Bois",
+  lat: 46.287659,
+  lon: 5.29481,
+  nm: "Saint-Etienne-du-Bois",
+  value: 2980240
+},  {
+  id: 2980238,
+  label: "Saint-Etienne-du-Gres",
+  lat: 43.78112,
+  lon: 4.72163,
+  nm: "Saint-Etienne-du-Gres",
+  value: 2980238
+},  {
+  id: 2980236,
+  label: "Saint-Etienne-du-Rouvray",
+  lat: 49.377941,
+  lon: 1.10467,
+  nm: "Saint-Etienne-du-Rouvray",
+  value: 2980236
+},  {
+  id: 2980219,
+  label: "Saint-Etienne-les-Remiremont",
+  lat: 48.022869,
+  lon: 6.60868,
+  nm: "Saint-Etienne-les-Remiremont",
+  value: 2980219
+},  {
+  id: 2980184,
+  label: "Saint-Evarzec",
+  lat: 47.933331,
+  lon: -4.01667,
+  nm: "Saint-Evarzec",
+  value: 2980184
+},  {
+  id: 2980169,
+  label: "Saint-Fargeau-Ponthierry",
+  lat: 48.557129,
+  lon: 2.5284,
+  nm: "Saint-Fargeau-Ponthierry",
+  value: 2980169
+},  {
+  id: 2980113,
+  label: "Saint-Florent-des-Bois",
+  lat: 46.593769,
+  lon: -1.3158,
+  nm: "Saint-Florent-des-Bois",
+  value: 2980113
+},  {
+  id: 2980109,
+  label: "Saint-Florent-le-Vieil",
+  lat: 47.360691,
+  lon: -1.01515,
+  nm: "Saint-Florent-le-Vieil",
+  value: 2980109
+},  {
+  id: 2980107,
+  label: "Saint-Florent-sur-Cher",
+  lat: 46.995522,
+  lon: 2.25076,
+  nm: "Saint-Florent-sur-Cher",
+  value: 2980107
+},  {
+  id: 2980111,
+  label: "Saint-Florentin",
+  lat: 48.000568,
+  lon: 3.72489,
+  nm: "Saint-Florentin",
+  value: 2980111
+},  {
+  id: 2980104,
+  label: "Saint-Flour",
+  lat: 45.033329,
+  lon: 3.08333,
+  nm: "Saint-Flour",
+  value: 2980104
+},  {
+  id: 2980098,
+  label: "Saint-Folquin",
+  lat: 50.944729,
+  lon: 2.12433,
+  nm: "Saint-Folquin",
+  value: 2980098
+},  {
+  id: 2980097,
+  label: "Saint-Fons",
+  lat: 45.708801,
+  lon: 4.86057,
+  nm: "Saint-Fons",
+  value: 2980097
+},  {
+  id: 2980080,
+  label: "Saint-Francois",
+  lat: 46.415379,
+  lon: 3.90542,
+  nm: "Saint-Francois",
+  value: 2980080
+},  {
+  id: 2980059,
+  label: "Saint-Fulgent",
+  lat: 46.852261,
+  lon: -1.17798,
+  nm: "Saint-Fulgent",
+  value: 2980059
+},  {
+  id: 2980052,
+  label: "Saint-Galmier",
+  lat: 45.591991,
+  lon: 4.31743,
+  nm: "Saint-Galmier",
+  value: 2980052
+},  {
+  id: 2980045,
+  label: "Saint-Gaudens",
+  lat: 43.116669,
+  lon: 0.73333,
+  nm: "Saint-Gaudens",
+  value: 2980045
+},  {
+  id: 2980040,
+  label: "Saint-Gaultier",
+  lat: 46.635181,
+  lon: 1.41289,
+  nm: "Saint-Gaultier",
+  value: 2980040
+},  {
+  id: 2980033,
+  label: "Saint-Gely-du-Fesc",
+  lat: 43.692719,
+  lon: 3.80492,
+  nm: "Saint-Gely-du-Fesc",
+  value: 2980033
+},  {
+  id: 2980029,
+  label: "Saint-Genes-Champanelle",
+  lat: 45.719151,
+  lon: 3.01887,
+  nm: "Saint-Genes-Champanelle",
+  value: 2980029
+},  {
+  id: 2980012,
+  label: "Saint-Genest-Lerpt",
+  lat: 45.44529,
+  lon: 4.33622,
+  nm: "Saint-Genest-Lerpt",
+  value: 2980012
+},  {
+  id: 2980011,
+  label: "Saint-Genest-Malifaux",
+  lat: 45.342339,
+  lon: 4.41954,
+  nm: "Saint-Genest-Malifaux",
+  value: 2980011
+},  {
+  id: 2980004,
+  label: "Saint-Genies-Bellevue",
+  lat: 43.68409,
+  lon: 1.48693,
+  nm: "Saint-Genies-Bellevue",
+  value: 2980004
+},  {
+  id: 2980002,
+  label: "Saint-Genies-de-Malgoires",
+  lat: 43.950001,
+  lon: 4.21667,
+  nm: "Saint-Genies-de-Malgoires",
+  value: 2980002
+},  {
+  id: 2979985,
+  label: "Saint-Genis-Laval",
+  lat: 45.69558,
+  lon: 4.7934,
+  nm: "Saint-Genis-Laval",
+  value: 2979985
+},  {
+  id: 2979984,
+  label: "Saint-Genis-les-Ollieres",
+  lat: 45.757191,
+  lon: 4.72892,
+  nm: "Saint-Genis-les-Ollieres",
+  value: 2979984
+},  {
+  id: 2979983,
+  label: "Saint-Genis-Pouilly",
+  lat: 46.243561,
+  lon: 6.02119,
+  nm: "Saint-Genis-Pouilly",
+  value: 2979983
+},  {
+  id: 2979979,
+  label: "Saint-Genix-sur-Guiers",
+  lat: 45.599659,
+  lon: 5.63436,
+  nm: "Saint-Genix-sur-Guiers",
+  value: 2979979
+},  {
+  id: 2979976,
+  label: "Saint-Geoire-en-Valdaine",
+  lat: 45.456989,
+  lon: 5.63416,
+  nm: "Saint-Geoire-en-Valdaine",
+  value: 2979976
+},  {
+  id: 2979943,
+  label: "Saint-Georges-de-Commiers",
+  lat: 45.03854,
+  lon: 5.70226,
+  nm: "Saint-Georges-de-Commiers",
+  value: 2979943
+},  {
+  id: 2979941,
+  label: "Saint-Georges-de-Didonne",
+  lat: 45.60342,
+  lon: -1.00487,
+  nm: "Saint-Georges-de-Didonne",
+  value: 2979941
+},  {
+  id: 2979931,
+  label: "Saint-Georges-de-Mons",
+  lat: 45.939941,
+  lon: 2.8406,
+  nm: "Saint-Georges-de-Mons",
+  value: 2979931
+},  {
+  id: 2979930,
+  label: "Saint-Georges-de-Montaigu",
+  lat: 46.946548,
+  lon: -1.29262,
+  nm: "Saint-Georges-de-Montaigu",
+  value: 2979930
+},  {
+  id: 2979925,
+  label: "Saint-Georges-de-Reneins",
+  lat: 46.060341,
+  lon: 4.7256,
+  nm: "Saint-Georges-de-Reneins",
+  value: 2979925
+},  {
+  id: 2979921,
+  label: "Saint-Georges-des-Coteaux",
+  lat: 45.76667,
+  lon: -0.71667,
+  nm: "Saint-Georges-des-Coteaux",
+  value: 2979921
+},  {
+  id: 2979920,
+  label: "Saint-Georges-des-Groseillers",
+  lat: 48.769939,
+  lon: -0.56768,
+  nm: "Saint-Georges-des-Groseillers",
+  value: 2979920
+},  {
+  id: 2979901,
+  label: "Saint-Georges-les-Baillargeaux",
+  lat: 46.67017,
+  lon: 0.40208,
+  nm: "Saint-Georges-les-Baillargeaux",
+  value: 2979901
+},  {
+  id: 2979893,
+  label: "Saint-Georges-sur-Baulche",
+  lat: 47.800388,
+  lon: 3.53144,
+  nm: "Saint-Georges-sur-Baulche",
+  value: 2979893
+},  {
+  id: 2979892,
+  label: "Saint-Georges-sur-Cher",
+  lat: 47.32996,
+  lon: 1.13261,
+  nm: "Saint-Georges-sur-Cher",
+  value: 2979892
+},  {
+  id: 2979890,
+  label: "Saint-Georges-sur-Eure",
+  lat: 48.41869,
+  lon: 1.3546,
+  nm: "Saint-Georges-sur-Eure",
+  value: 2979890
+},  {
+  id: 2979885,
+  label: "Saint-Georges-sur-Loire",
+  lat: 47.407921,
+  lon: -0.76194,
+  nm: "Saint-Georges-sur-Loire",
+  value: 2979885
+},  {
+  id: 2979880,
+  label: "Saint-Geours-de-Maremne",
+  lat: 43.689362,
+  lon: -1.22937,
+  nm: "Saint-Geours-de-Maremne",
+  value: 2979880
+},  {
+  id: 2979873,
+  label: "Saint-Gereon",
+  lat: 47.367741,
+  lon: -1.20262,
+  nm: "Saint-Gereon",
+  value: 2979873
+},  {
+  id: 2979861,
+  label: "Saint-Germain",
+  lat: 48.257359,
+  lon: 4.03264,
+  nm: "Saint-Germain",
+  value: 2979861
+},  {
+  id: 2979812,
+  label: "Saint-Germain-des-Fosses",
+  lat: 46.20211,
+  lon: 3.43245,
+  nm: "Saint-Germain-des-Fosses",
+  value: 2979812
+},  {
+  id: 2979796,
+  label: "Saint-Germain-du-Corbeis",
+  lat: 48.42215,
+  lon: 0.06192,
+  nm: "Saint-Germain-du-Corbeis",
+  value: 2979796
+},  {
+  id: 2979791,
+  label: "Saint-Germain-du-Puch",
+  lat: 44.849998,
+  lon: -0.31667,
+  nm: "Saint-Germain-du-Puch",
+  value: 2979791
+},  {
+  id: 2979790,
+  label: "Saint-Germain-du-Puy",
+  lat: 47.099998,
+  lon: 2.48333,
+  nm: "Saint-Germain-du-Puy",
+  value: 2979790
+},  {
+  id: 2979784,
+  label: "Saint-Germain-en-Cogles",
+  lat: 48.405312,
+  lon: -1.26369,
+  nm: "Saint-Germain-en-Cogles",
+  value: 2979784
+},  {
+  id: 2979783,
+  label: "Saint-Germain-en-Laye",
+  lat: 48.900002,
+  lon: 2.08333,
+  nm: "Saint-Germain-en-Laye",
+  value: 2979783
+},  {
+  id: 2979780,
+  label: "Saint-Germain-la-Blanche-Herbe",
+  lat: 49.18327,
+  lon: -0.40426,
+  nm: "Saint-Germain-la-Blanche-Herbe",
+  value: 2979780
+},  {
+  id: 2979772,
+  label: "Saint-Germain-Laprade",
+  lat: 45.03862,
+  lon: 3.97004,
+  nm: "Saint-Germain-Laprade",
+  value: 2979772
+},  {
+  id: 2979770,
+  label: "Saint-Germain-Laval",
+  lat: 48.399681,
+  lon: 2.99781,
+  nm: "Saint-Germain-Laval",
+  value: 2979770
+},  {
+  id: 2979755,
+  label: "Saint-Germain-les-Arpajon",
+  lat: 48.597328,
+  lon: 2.26481,
+  nm: "Saint-Germain-les-Arpajon",
+  value: 2979755
+},  {
+  id: 2979752,
+  label: "Saint-Germain-les-Corbeil",
+  lat: 48.622108,
+  lon: 2.48775,
+  nm: "Saint-Germain-les-Corbeil",
+  value: 2979752
+},  {
+  id: 2979731,
+  label: "Saint-Germain-sur-Moine",
+  lat: 47.117458,
+  lon: -1.12223,
+  nm: "Saint-Germain-sur-Moine",
+  value: 2979731
+},  {
+  id: 2979730,
+  label: "Saint-Germain-sur-Morin",
+  lat: 48.882568,
+  lon: 2.85127,
+  nm: "Saint-Germain-sur-Morin",
+  value: 2979730
+},  {
+  id: 2979699,
+  label: "Saint-Gervais-la-Foret",
+  lat: 47.567051,
+  lon: 1.35493,
+  nm: "Saint-Gervais-la-Foret",
+  value: 2979699
+},  {
+  id: 2979698,
+  label: "Saint-Gervais-les-Bains",
+  lat: 45.892899,
+  lon: 6.71381,
+  nm: "Saint-Gervais-les-Bains",
+  value: 2979698
+},  {
+  id: 2979680,
+  label: "Saint-Gildas-des-Bois",
+  lat: 47.51622,
+  lon: -2.03659,
+  nm: "Saint-Gildas-des-Bois",
+  value: 2979680
+},  {
+  id: 2979679,
+  label: "Saint-Gilles",
+  lat: 43.676559,
+  lon: 4.43024,
+  nm: "Saint-Gilles",
+  value: 2979679
+},  {
+  id: 2979673,
+  label: "Saint-Gilles",
+  lat: 48.153809,
+  lon: -1.82477,
+  nm: "Saint-Gilles",
+  value: 2979673
+},  {
+  id: 2979662,
+  label: "Saint-Gilles-Croix-de-Vie",
+  lat: 46.683331,
+  lon: -1.93333,
+  nm: "Saint-Gilles-Croix-de-Vie",
+  value: 2979662
+},  {
+  id: 2979657,
+  label: "Saint-Girons",
+  lat: 42.98333,
+  lon: 1.15,
+  nm: "Saint-Girons",
+  value: 2979657
+},  {
+  id: 2979648,
+  label: "Saint-Gobain",
+  lat: 49.595718,
+  lon: 3.3775,
+  nm: "Saint-Gobain",
+  value: 2979648
+},  {
+  id: 2979627,
+  label: "Saint-Gratien",
+  lat: 48.973499,
+  lon: 2.28729,
+  nm: "Saint-Gratien",
+  value: 2979627
+},  {
+  id: 2979619,
+  label: "Saint-Gregoire",
+  lat: 48.150848,
+  lon: -1.68706,
+  nm: "Saint-Gregoire",
+  value: 2979619
+},  {
+  id: 2979596,
+  label: "Saint-Heand",
+  lat: 45.528172,
+  lon: 4.37377,
+  nm: "Saint-Heand",
+  value: 2979596
+},  {
+  id: 2979590,
+  label: "Saint-Herblain",
+  lat: 47.217651,
+  lon: -1.64841,
+  nm: "Saint-Herblain",
+  value: 2979590
+},  {
+  id: 2979589,
+  label: "Saint-Herblon",
+  lat: 47.40786,
+  lon: -1.09738,
+  nm: "Saint-Herblon",
+  value: 2979589
+},  {
+  id: 2979554,
+  label: "Saint-Hilaire-de-Brethmas",
+  lat: 44.080029,
+  lon: 4.12478,
+  nm: "Saint-Hilaire-de-Brethmas",
+  value: 2979554
+},  {
+  id: 2979545,
+  label: "Saint-Hilaire-de-Loulay",
+  lat: 47.0019,
+  lon: -1.3308,
+  nm: "Saint-Hilaire-de-Loulay",
+  value: 2979545
+},  {
+  id: 2979543,
+  label: "Saint-Hilaire-de-Riez",
+  lat: 46.713081,
+  lon: -1.92583,
+  nm: "Saint-Hilaire-de-Riez",
+  value: 2979543
+},  {
+  id: 2979539,
+  label: "Saint-Hilaire-de-Talmont",
+  lat: 46.47002,
+  lon: -1.60358,
+  nm: "Saint-Hilaire-de-Talmont",
+  value: 2979539
+},  {
+  id: 2979531,
+  label: "Saint-Hilaire-du-Harcouet",
+  lat: 48.577,
+  lon: -1.09004,
+  nm: "Saint-Hilaire-du-Harcouet",
+  value: 2979531
+},  {
+  id: 2979529,
+  label: "Saint-Hilaire-du-Rosier",
+  lat: 45.10038,
+  lon: 5.25012,
+  nm: "Saint-Hilaire-du-Rosier",
+  value: 2979529
+},  {
+  id: 2979502,
+  label: "Saint-Hilaire-Saint-Mesmin",
+  lat: 47.866138,
+  lon: 1.83351,
+  nm: "Saint-Hilaire-Saint-Mesmin",
+  value: 2979502
+},  {
+  id: 2979488,
+  label: "Saint-Hippolyte",
+  lat: 42.7855,
+  lon: 2.9662,
+  nm: "Saint-Hippolyte",
+  value: 2979488
+},  {
+  id: 2979475,
+  label: "Saint-Hippolyte-du-Fort",
+  lat: 43.963619,
+  lon: 3.85572,
+  nm: "Saint-Hippolyte-du-Fort",
+  value: 2979475
+},  {
+  id: 2979431,
+  label: "Saint-Ismier",
+  lat: 45.247082,
+  lon: 5.82863,
+  nm: "Saint-Ismier",
+  value: 2979431
+},  {
+  id: 2979415,
+  label: "Saint-Jacques-de-la-Lande",
+  lat: 48.06514,
+  lon: -1.72086,
+  nm: "Saint-Jacques-de-la-Lande",
+  value: 2979415
+},  {
+  id: 2979408,
+  label: "Saint-Jacques-sur-Darnetal",
+  lat: 49.4398,
+  lon: 1.2036,
+  nm: "Saint-Jacques-sur-Darnetal",
+  value: 2979408
+},  {
+  id: 2979401,
+  label: "Saint-James",
+  lat: 48.521801,
+  lon: -1.32629,
+  nm: "Saint-James",
+  value: 2979401
+},  {
+  id: 2979394,
+  label: "Saint-Jean",
+  lat: 43.6642,
+  lon: 1.49941,
+  nm: "Saint-Jean",
+  value: 2979394
+},  {
+  id: 2979371,
+  label: "Saint-Jean-Bonnefonds",
+  lat: 45.452942,
+  lon: 4.45057,
+  nm: "Saint-Jean-Bonnefonds",
+  value: 2979371
+},  {
+  id: 2979370,
+  label: "Saint-Jean-Brevelay",
+  lat: 47.844971,
+  lon: -2.72231,
+  nm: "Saint-Jean-Brevelay",
+  value: 2979370
+},  {
+  id: 2979369,
+  label: "Saint-Jean-Cap-Ferrat",
+  lat: 43.68922,
+  lon: 7.33238,
+  nm: "Saint-Jean-Cap-Ferrat",
+  value: 2979369
+},  {
+  id: 2979344,
+  label: "Saint-Jean-de-Boiseau",
+  lat: 47.19315,
+  lon: -1.7234,
+  nm: "Saint-Jean-de-Boiseau",
+  value: 2979344
+},  {
+  id: 2979342,
+  label: "Saint-Jean-de-Bournay",
+  lat: 45.501339,
+  lon: 5.13963,
+  nm: "Saint-Jean-de-Bournay",
+  value: 2979342
+},  {
+  id: 2979341,
+  label: "Saint-Jean-de-Braye",
+  lat: 47.913029,
+  lon: 1.97705,
+  nm: "Saint-Jean-de-Braye",
+  value: 2979341
+},  {
+  id: 2979316,
+  label: "Saint-Jean-de-la-Ruelle",
+  lat: 47.91127,
+  lon: 1.86483,
+  nm: "Saint-Jean-de-la-Ruelle",
+  value: 2979316
+},  {
+  id: 2979309,
+  label: "Saint-Jean-de-Luz",
+  lat: 43.38908,
+  lon: -1.6581,
+  nm: "Saint-Jean-de-Luz",
+  value: 2979309
+},  {
+  id: 2979303,
+  label: "Saint-Jean-de-Maurienne",
+  lat: 45.283329,
+  lon: 6.35,
+  nm: "Saint-Jean-de-Maurienne",
+  value: 2979303
+},  {
+  id: 2979300,
+  label: "Saint-Jean-de-Moirans",
+  lat: 45.342621,
+  lon: 5.58615,
+  nm: "Saint-Jean-de-Moirans",
+  value: 2979300
+},  {
+  id: 2979299,
+  label: "Saint-Jean-de-Monts",
+  lat: 46.790878,
+  lon: -2.08219,
+  nm: "Saint-Jean-de-Monts",
+  value: 2979299
+},  {
+  id: 2979298,
+  label: "Saint-Jean-de-Muzols",
+  lat: 45.080399,
+  lon: 4.81421,
+  nm: "Saint-Jean-de-Muzols",
+  value: 2979298
+},  {
+  id: 2979261,
+  label: "Saint-Jean-de-Vedas",
+  lat: 43.577591,
+  lon: 3.82603,
+  nm: "Saint-Jean-de-Vedas",
+  value: 2979261
+},  {
+  id: 2979245,
+  label: "Saint-Jean-du-Falga",
+  lat: 43.086472,
+  lon: 1.6278,
+  nm: "Saint-Jean-du-Falga",
+  value: 2979245
+},  {
+  id: 2979244,
+  label: "Saint-Jean-du-Gard",
+  lat: 44.105228,
+  lon: 3.88566,
+  nm: "Saint-Jean-du-Gard",
+  value: 2979244
+},  {
+  id: 2979239,
+  label: "Saint-Jean-en-Royans",
+  lat: 45.01693,
+  lon: 5.29454,
+  nm: "Saint-Jean-en-Royans",
+  value: 2979239
+},  {
+  id: 2979226,
+  label: "Saint-Jean-le-Blanc",
+  lat: 47.893269,
+  lon: 1.9154,
+  nm: "Saint-Jean-le-Blanc",
+  value: 2979226
+},  {
+  id: 2979209,
+  label: "Saint-Jeannet",
+  lat: 43.747231,
+  lon: 7.14284,
+  nm: "Saint-Jeannet",
+  value: 2979209
+},  {
+  id: 2979185,
+  label: "Saint-Jeoire",
+  lat: 46.137772,
+  lon: 6.45886,
+  nm: "Saint-Jeoire",
+  value: 2979185
+},  {
+  id: 2979179,
+  label: "Saint-Joachim",
+  lat: 47.383492,
+  lon: -2.19239,
+  nm: "Saint-Joachim",
+  value: 2979179
+},  {
+  id: 2979175,
+  label: "Saint-Jorioz",
+  lat: 45.832958,
+  lon: 6.16503,
+  nm: "Saint-Jorioz",
+  value: 2979175
+},  {
+  id: 2979174,
+  label: "Saint-Jory",
+  lat: 43.741459,
+  lon: 1.37089,
+  nm: "Saint-Jory",
+  value: 2979174
+},  {
+  id: 2979160,
+  label: "Saint-Jouan-des-Guerets",
+  lat: 48.599319,
+  lon: -1.97372,
+  nm: "Saint-Jouan-des-Guerets",
+  value: 2979160
+},  {
+  id: 2979148,
+  label: "Saint-Juery",
+  lat: 43.950001,
+  lon: 2.21667,
+  nm: "Saint-Juery",
+  value: 2979148
+},  {
+  id: 2979119,
+  label: "Saint-Julien-Chapteuil",
+  lat: 45.033981,
+  lon: 4.06229,
+  nm: "Saint-Julien-Chapteuil",
+  value: 2979119
+},  {
+  id: 2979109,
+  label: "Saint-Julien-de-Concelles",
+  lat: 47.252861,
+  lon: -1.38428,
+  nm: "Saint-Julien-de-Concelles",
+  value: 2979109
+},  {
+  id: 2979080,
+  label: "Saint-Julien-du-Sault",
+  lat: 48.031879,
+  lon: 3.29556,
+  nm: "Saint-Julien-du-Sault",
+  value: 2979080
+},  {
+  id: 2979072,
+  label: "Saint-Julien-en-Genevois",
+  lat: 46.144341,
+  lon: 6.08256,
+  nm: "Saint-Julien-en-Genevois",
+  value: 2979072
+},  {
+  id: 2979054,
+  label: "Saint-Julien-les-Metz",
+  lat: 49.132881,
+  lon: 6.2024,
+  nm: "Saint-Julien-les-Metz",
+  value: 2979054
+},  {
+  id: 2979087,
+  label: "Saint-Julien-les-Rosiers",
+  lat: 44.17445,
+  lon: 4.10803,
+  nm: "Saint-Julien-les-Rosiers",
+  value: 2979087
+},  {
+  id: 2979052,
+  label: "Saint-Julien-les-Villas",
+  lat: 48.271271,
+  lon: 4.09901,
+  nm: "Saint-Julien-les-Villas",
+  value: 2979052
+},  {
+  id: 2979036,
+  label: "Saint-Junien",
+  lat: 45.888672,
+  lon: 0.90143,
+  nm: "Saint-Junien",
+  value: 2979036
+},  {
+  id: 2979030,
+  label: "Saint-Just",
+  lat: 43.658058,
+  lon: 4.11472,
+  nm: "Saint-Just",
+  value: 2979030
+},  {
+  id: 2979017,
+  label: "Saint-Just-Chaleyssin",
+  lat: 45.585339,
+  lon: 4.99888,
+  nm: "Saint-Just-Chaleyssin",
+  value: 2979017
+},  {
+  id: 2979010,
+  label: "Saint-Just-en-Chaussee",
+  lat: 49.505032,
+  lon: 2.43285,
+  nm: "Saint-Just-en-Chaussee",
+  value: 2979010
+},  {
+  id: 2979002,
+  label: "Saint-Just-le-Martel",
+  lat: 45.86351,
+  lon: 1.38829,
+  nm: "Saint-Just-le-Martel",
+  value: 2979002
+},  {
+  id: 2979001,
+  label: "Saint-Just-Malmont",
+  lat: 45.339729,
+  lon: 4.31335,
+  nm: "Saint-Just-Malmont",
+  value: 2979001
+},  {
+  id: 2978997,
+  label: "Saint-Just-Saint-Rambert",
+  lat: 45.499729,
+  lon: 4.24141,
+  nm: "Saint-Just-Saint-Rambert",
+  value: 2978997
+},  {
+  id: 2978983,
+  label: "Saint-Lambert-la-Potherie",
+  lat: 47.482891,
+  lon: -0.67789,
+  nm: "Saint-Lambert-la-Potherie",
+  value: 2978983
+},  {
+  id: 2978949,
+  label: "Saint-Laurent-Blangy",
+  lat: 50.29446,
+  lon: 2.80698,
+  nm: "Saint-Laurent-Blangy",
+  value: 2978949
+},  {
+  id: 2978936,
+  label: "Saint-Laurent-de-Chamousset",
+  lat: 45.739319,
+  lon: 4.4634,
+  nm: "Saint-Laurent-de-Chamousset",
+  value: 2978936
+},  {
+  id: 2978925,
+  label: "Saint-Laurent-de-la-Salanque",
+  lat: 42.772701,
+  lon: 2.98998,
+  nm: "Saint-Laurent-de-la-Salanque",
+  value: 2978925
+},  {
+  id: 2978921,
+  label: "Saint-Laurent-de-Mure",
+  lat: 45.688702,
+  lon: 5.04656,
+  nm: "Saint-Laurent-de-Mure",
+  value: 2978921
+},  {
+  id: 2978918,
+  label: "Saint-Laurent-des-Arbres",
+  lat: 44.054932,
+  lon: 4.70026,
+  nm: "Saint-Laurent-des-Arbres",
+  value: 2978918
+},  {
+  id: 2978893,
+  label: "Saint-Laurent-du-Pont",
+  lat: 45.390091,
+  lon: 5.73521,
+  nm: "Saint-Laurent-du-Pont",
+  value: 2978893
+},  {
+  id: 2978911,
+  label: "Saint-Laurent-Nouan",
+  lat: 47.716671,
+  lon: 1.6,
+  nm: "Saint-Laurent-Nouan",
+  value: 2978911
+},  {
+  id: 2978865,
+  label: "Saint-Laurent-sur-Sevre",
+  lat: 46.958092,
+  lon: -0.89392,
+  nm: "Saint-Laurent-sur-Sevre",
+  value: 2978865
+},  {
+  id: 2978832,
+  label: "Saint-Leger-des-Vignes",
+  lat: 46.84063,
+  lon: 3.45488,
+  nm: "Saint-Leger-des-Vignes",
+  value: 2978832
+},  {
+  id: 2978828,
+  label: "Saint-Leger-du-Bourg-Denis",
+  lat: 49.433449,
+  lon: 1.15803,
+  nm: "Saint-Leger-du-Bourg-Denis",
+  value: 2978828
+},  {
+  id: 2978809,
+  label: "Saint-Leger-sous-Cholet",
+  lat: 47.094051,
+  lon: -0.91024,
+  nm: "Saint-Leger-sous-Cholet",
+  value: 2978809
+},  {
+  id: 2978783,
+  label: "Saint-Leonard",
+  lat: 50.690578,
+  lon: 1.62536,
+  nm: "Saint-Leonard",
+  value: 2978783
+},  {
+  id: 2978782,
+  label: "Saint-Leonard-de-Noblat",
+  lat: 45.835659,
+  lon: 1.49174,
+  nm: "Saint-Leonard-de-Noblat",
+  value: 2978782
+},  {
+  id: 2978771,
+  label: "Saint-Leu",
+  lat: 46.730598,
+  lon: 4.50083,
+  nm: "Saint-Leu",
+  value: 2978771
+},  {
+  id: 2978768,
+  label: "Saint-Leu-la-Foret",
+  lat: 49.01667,
+  lon: 2.25,
+  nm: "Saint-Leu-la-Foret",
+  value: 2978768
+},  {
+  id: 2978758,
+  label: "Saint-Lo",
+  lat: 49.116241,
+  lon: -1.09031,
+  nm: "Saint-Lo",
+  value: 2978758
+},  {
+  id: 2978749,
+  label: "Saint-Loubes",
+  lat: 44.915359,
+  lon: -0.42703,
+  nm: "Saint-Loubes",
+  value: 2978749
+},  {
+  id: 2978742,
+  label: "Saint-Louis",
+  lat: 47.58836,
+  lon: 7.56247,
+  nm: "Saint-Louis",
+  value: 2978742
+},  {
+  id: 2978726,
+  label: "Saint-Louis-de-Montferrand",
+  lat: 44.950001,
+  lon: -0.53543,
+  nm: "Saint-Louis-de-Montferrand",
+  value: 2978726
+},  {
+  id: 2978706,
+  label: "Saint-Loup-Cammas",
+  lat: 43.69767,
+  lon: 1.48127,
+  nm: "Saint-Loup-Cammas",
+  value: 2978706
+},  {
+  id: 2978688,
+  label: "Saint-Loup-sur-Semouse",
+  lat: 47.88345,
+  lon: 6.2753,
+  nm: "Saint-Loup-sur-Semouse",
+  value: 2978688
+},  {
+  id: 2978678,
+  label: "Saint-Lubin-des-Joncherets",
+  lat: 48.76667,
+  lon: 1.21667,
+  nm: "Saint-Lubin-des-Joncherets",
+  value: 2978678
+},  {
+  id: 2978668,
+  label: "Saint-Lunaire",
+  lat: 48.638111,
+  lon: -2.11392,
+  nm: "Saint-Lunaire",
+  value: 2978668
+},  {
+  id: 2978666,
+  label: "Saint-Lupicin",
+  lat: 46.400341,
+  lon: 5.7922,
+  nm: "Saint-Lupicin",
+  value: 2978666
+},  {
+  id: 2978664,
+  label: "Saint-Lye",
+  lat: 48.365021,
+  lon: 3.999,
+  nm: "Saint-Lye",
+  value: 2978664
+},  {
+  id: 2978662,
+  label: "Saint-Lyphard",
+  lat: 47.39822,
+  lon: -2.30642,
+  nm: "Saint-Lyphard",
+  value: 2978662
+},  {
+  id: 2978661,
+  label: "Saint-Lys",
+  lat: 43.511269,
+  lon: 1.17557,
+  nm: "Saint-Lys",
+  value: 2978661
+},  {
+  id: 2978658,
+  label: "Saint-Macaire-en-Mauges",
+  lat: 47.123569,
+  lon: -0.9912,
+  nm: "Saint-Macaire-en-Mauges",
+  value: 2978658
+},  {
+  id: 2978640,
+  label: "Saint-Malo",
+  lat: 48.650002,
+  lon: -2.01667,
+  nm: "Saint-Malo",
+  value: 2978640
+},  {
+  id: 2978636,
+  label: "Saint-Malo-de-Guersac",
+  lat: 47.353451,
+  lon: -2.17773,
+  nm: "Saint-Malo-de-Guersac",
+  value: 2978636
+},  {
+  id: 2978622,
+  label: "Saint-Mammes",
+  lat: 48.384579,
+  lon: 2.81578,
+  nm: "Saint-Mammes",
+  value: 2978622
+},  {
+  id: 2978621,
+  label: "Saint-Mande",
+  lat: 48.838638,
+  lon: 2.41579,
+  nm: "Saint-Mande",
+  value: 2978621
+},  {
+  id: 2978618,
+  label: "Saint-Mandrier-sur-Mer",
+  lat: 43.077999,
+  lon: 5.929,
+  nm: "Saint-Mandrier-sur-Mer",
+  value: 2978618
+},  {
+  id: 2978589,
+  label: "Saint-Marcel",
+  lat: 46.773708,
+  lon: 4.89205,
+  nm: "Saint-Marcel",
+  value: 2978589
+},  {
+  id: 2978586,
+  label: "Saint-Marcel",
+  lat: 49.099998,
+  lon: 1.45,
+  nm: "Saint-Marcel",
+  value: 2978586
+},  {
+  id: 2978568,
+  label: "Saint-Marcel-les-Valence",
+  lat: 44.972462,
+  lon: 4.96011,
+  nm: "Saint-Marcel-les-Valence",
+  value: 2978568
+},  {
+  id: 2978566,
+  label: "Saint-Marcellin",
+  lat: 45.15192,
+  lon: 5.32388,
+  nm: "Saint-Marcellin",
+  value: 2978566
+},  {
+  id: 2978565,
+  label: "Saint-Marcellin-en-Forez",
+  lat: 45.495491,
+  lon: 4.16923,
+  nm: "Saint-Marcellin-en-Forez",
+  value: 2978565
+},  {
+  id: 2978550,
+  label: "Saint-Mard",
+  lat: 49.03701,
+  lon: 2.69645,
+  nm: "Saint-Mard",
+  value: 2978550
+},  {
+  id: 2978529,
+  label: "Saint-Mars-de-Coutais",
+  lat: 47.11153,
+  lon: -1.73437,
+  nm: "Saint-Mars-de-Coutais",
+  value: 2978529
+},  {
+  id: 2978524,
+  label: "Saint-Mars-du-Desert",
+  lat: 47.365601,
+  lon: -1.40678,
+  nm: "Saint-Mars-du-Desert",
+  value: 2978524
+},  {
+  id: 2978521,
+  label: "Saint-Mars-la-Briere",
+  lat: 48.03046,
+  lon: 0.37319,
+  nm: "Saint-Mars-la-Briere",
+  value: 2978521
+},  {
+  id: 2978520,
+  label: "Saint-Mars-la-Jaille",
+  lat: 47.525661,
+  lon: -1.18483,
+  nm: "Saint-Mars-la-Jaille",
+  value: 2978520
+},  {
+  id: 2978447,
+  label: "Saint-Martin-au-Laert",
+  lat: 50.751789,
+  lon: 2.24051,
+  nm: "Saint-Martin-au-Laert",
+  value: 2978447
+},  {
+  id: 2978440,
+  label: "Saint-Martin-Bellevue",
+  lat: 45.96262,
+  lon: 6.15763,
+  nm: "Saint-Martin-Bellevue",
+  value: 2978440
+},  {
+  id: 2978439,
+  label: "Saint-Martin-Boulogne",
+  lat: 50.72691,
+  lon: 1.61864,
+  nm: "Saint-Martin-Boulogne",
+  value: 2978439
+},  {
+  id: 2978417,
+  label: "Saint-Martin-de-Belleville",
+  lat: 45.381748,
+  lon: 6.50519,
+  nm: "Saint-Martin-de-Belleville",
+  value: 2978417
+},  {
+  id: 2978396,
+  label: "Saint-Martin-de-Crau",
+  lat: 43.639549,
+  lon: 4.8127,
+  nm: "Saint-Martin-de-Crau",
+  value: 2978396
+},  {
+  id: 2978394,
+  label: "Saint-Martin-de-Fontenay",
+  lat: 49.115231,
+  lon: -0.37391,
+  nm: "Saint-Martin-de-Fontenay",
+  value: 2978394
+},  {
+  id: 2978369,
+  label: "Saint-Martin-de-Londres",
+  lat: 43.790401,
+  lon: 3.73066,
+  nm: "Saint-Martin-de-Londres",
+  value: 2978369
+},  {
+  id: 2978361,
+  label: "Saint-Martin-de-Re",
+  lat: 46.20311,
+  lon: -1.36726,
+  nm: "Saint-Martin-de-Re",
+  value: 2978361
+},  {
+  id: 2978344,
+  label: "Saint-Martin-de-Seignanx",
+  lat: 43.542831,
+  lon: -1.38946,
+  nm: "Saint-Martin-de-Seignanx",
+  value: 2978344
+},  {
+  id: 2978325,
+  label: "Saint-Martin-de-Valgalgues",
+  lat: 44.163151,
+  lon: 4.08364,
+  nm: "Saint-Martin-de-Valgalgues",
+  value: 2978325
+},  {
+  id: 2978349,
+  label: "Saint-Martin-des-Champs",
+  lat: 48.668411,
+  lon: -1.33393,
+  nm: "Saint-Martin-des-Champs",
+  value: 2978349
+},  {
+  id: 2978351,
+  label: "Saint-Martin-des-Champs",
+  lat: 48.583328,
+  lon: -3.83333,
+  nm: "Saint-Martin-des-Champs",
+  value: 2978351
+},  {
+  id: 2978337,
+  label: "Saint-Martin-des-Noyers",
+  lat: 46.72226,
+  lon: -1.17726,
+  nm: "Saint-Martin-des-Noyers",
+  value: 2978337
+},  {
+  id: 2978317,
+  label: "Saint-Martin-dHeres",
+  lat: 45.165279,
+  lon: 5.76337,
+  nm: "Saint-Martin-dHeres",
+  value: 2978317
+},  {
+  id: 2978287,
+  label: "Saint-Martin-du-Tertre",
+  lat: 49.10743,
+  lon: 2.34533,
+  nm: "Saint-Martin-du-Tertre",
+  value: 2978287
+},  {
+  id: 2978284,
+  label: "Saint-Martin-du-Var",
+  lat: 43.818119,
+  lon: 7.1903,
+  nm: "Saint-Martin-du-Var",
+  value: 2978284
+},  {
+  id: 2978276,
+  label: "Saint-Martin-en-Haut",
+  lat: 45.659691,
+  lon: 4.56153,
+  nm: "Saint-Martin-en-Haut",
+  value: 2978276
+},  {
+  id: 2978263,
+  label: "Saint-Martin-la-Plaine",
+  lat: 45.54739,
+  lon: 4.59115,
+  nm: "Saint-Martin-la-Plaine",
+  value: 2978263
+},  {
+  id: 2978257,
+  label: "Saint-Martin-le-Beau",
+  lat: 47.355659,
+  lon: 0.90953,
+  nm: "Saint-Martin-le-Beau",
+  value: 2978257
+},  {
+  id: 2978238,
+  label: "Saint-Martin-le-Vinoux",
+  lat: 45.202999,
+  lon: 5.71667,
+  nm: "Saint-Martin-le-Vinoux",
+  value: 2978238
+},  {
+  id: 2978199,
+  label: "Saint-Mathieu-de-Treviers",
+  lat: 43.767948,
+  lon: 3.85814,
+  nm: "Saint-Mathieu-de-Treviers",
+  value: 2978199
+},  {
+  id: 2978197,
+  label: "Saint-Mathurin-sur-Loire",
+  lat: 47.416672,
+  lon: -0.31667,
+  nm: "Saint-Mathurin-sur-Loire",
+  value: 2978197
+},  {
+  id: 2978184,
+  label: "Saint-Maur",
+  lat: 46.806568,
+  lon: 1.63904,
+  nm: "Saint-Maur",
+  value: 2978184
+},  {
+  id: 2978179,
+  label: "Saint-Maur-des-Fosses",
+  lat: 48.793941,
+  lon: 2.49323,
+  nm: "Saint-Maur-des-Fosses",
+  value: 2978179
+},  {
+  id: 2978170,
+  label: "Saint-Maurice",
+  lat: 48.821819,
+  lon: 2.42716,
+  nm: "Saint-Maurice",
+  value: 2978170
+},  {
+  id: 2978163,
+  label: "Saint-Maurice-de-Beynost",
+  lat: 45.8344,
+  lon: 4.9775,
+  nm: "Saint-Maurice-de-Beynost",
+  value: 2978163
+},  {
+  id: 2978161,
+  label: "Saint-Maurice-de-Gourdans",
+  lat: 45.8214,
+  lon: 5.19464,
+  nm: "Saint-Maurice-de-Gourdans",
+  value: 2978161
+},  {
+  id: 2978118,
+  label: "Saint-Maurice-sur-Dargoire",
+  lat: 45.581169,
+  lon: 4.63113,
+  nm: "Saint-Maurice-sur-Dargoire",
+  value: 2978118
+},  {
+  id: 2978105,
+  label: "Saint-Max",
+  lat: 48.704288,
+  lon: 6.20999,
+  nm: "Saint-Max",
+  value: 2978105
+},  {
+  id: 2978101,
+  label: "Saint-Maximin",
+  lat: 49.221821,
+  lon: 2.4536,
+  nm: "Saint-Maximin",
+  value: 2978101
+},  {
+  id: 2978100,
+  label: "Saint-Maximin-la-Sainte-Baume",
+  lat: 43.452141,
+  lon: 5.86219,
+  nm: "Saint-Maximin-la-Sainte-Baume",
+  value: 2978100
+},  {
+  id: 2978079,
+  label: "Saint-Medard-de-Guizieres",
+  lat: 45.01667,
+  lon: -0.05,
+  nm: "Saint-Medard-de-Guizieres",
+  value: 2978079
+},  {
+  id: 2978072,
+  label: "Saint-Medard-en-Jalles",
+  lat: 44.896919,
+  lon: -0.72136,
+  nm: "Saint-Medard-en-Jalles",
+  value: 2978072
+},  {
+  id: 2978067,
+  label: "Saint-Meen-le-Grand",
+  lat: 48.189709,
+  lon: -2.19486,
+  nm: "Saint-Meen-le-Grand",
+  value: 2978067
+},  {
+  id: 2978065,
+  label: "Saint-Melaine-sur-Aubance",
+  lat: 47.366669,
+  lon: -0.5,
+  nm: "Saint-Melaine-sur-Aubance",
+  value: 2978065
+},  {
+  id: 2978062,
+  label: "Saint-Meloir-des-Ondes",
+  lat: 48.637901,
+  lon: -1.90448,
+  nm: "Saint-Meloir-des-Ondes",
+  value: 2978062
+},  {
+  id: 2978056,
+  label: "Saint-Memmie",
+  lat: 48.952469,
+  lon: 4.38409,
+  nm: "Saint-Memmie",
+  value: 2978056
+},  {
+  id: 2978017,
+  label: "Saint-Michel",
+  lat: 49.919521,
+  lon: 4.13278,
+  nm: "Saint-Michel",
+  value: 2978017
+},  {
+  id: 2978023,
+  label: "Saint-Michel",
+  lat: 45.650002,
+  lon: 0.1,
+  nm: "Saint-Michel",
+  value: 2978023
+},  {
+  id: 2978004,
+  label: "Saint-Michel-Chef-Chef",
+  lat: 47.180721,
+  lon: -2.14869,
+  nm: "Saint-Michel-Chef-Chef",
+  value: 2978004
+},  {
+  id: 2977986,
+  label: "Saint-Michel-de-Maurienne",
+  lat: 45.218418,
+  lon: 6.47258,
+  nm: "Saint-Michel-de-Maurienne",
+  value: 2977986
+},  {
+  id: 2977957,
+  label: "Saint-Michel-Mont-Mercure",
+  lat: 46.829411,
+  lon: -0.88298,
+  nm: "Saint-Michel-Mont-Mercure",
+  value: 2977957
+},  {
+  id: 2977953,
+  label: "Saint-Michel-sur-Meurthe",
+  lat: 48.322189,
+  lon: 6.89024,
+  nm: "Saint-Michel-sur-Meurthe",
+  value: 2977953
+},  {
+  id: 2977952,
+  label: "Saint-Michel-sur-Orge",
+  lat: 48.634789,
+  lon: 2.30831,
+  nm: "Saint-Michel-sur-Orge",
+  value: 2977952
+},  {
+  id: 2977948,
+  label: "Saint-Mihiel",
+  lat: 48.887459,
+  lon: 5.55099,
+  nm: "Saint-Mihiel",
+  value: 2977948
+},  {
+  id: 2977947,
+  label: "Saint-Mitre-les-Remparts",
+  lat: 43.45488,
+  lon: 5.01702,
+  nm: "Saint-Mitre-les-Remparts",
+  value: 2977947
+},  {
+  id: 2977929,
+  label: "Saint-Nabord",
+  lat: 48.051708,
+  lon: 6.58248,
+  nm: "Saint-Nabord",
+  value: 2977929
+},  {
+  id: 2977921,
+  label: "Saint-Nazaire",
+  lat: 47.283329,
+  lon: -2.2,
+  nm: "Saint-Nazaire",
+  value: 2977921
+},  {
+  id: 2977926,
+  label: "Saint-Nazaire",
+  lat: 42.6679,
+  lon: 2.99168,
+  nm: "Saint-Nazaire",
+  value: 2977926
+},  {
+  id: 2977922,
+  label: "Saint-Nazaire-les-Eymes",
+  lat: 45.24921,
+  lon: 5.85254,
+  nm: "Saint-Nazaire-les-Eymes",
+  value: 2977922
+},  {
+  id: 2977901,
+  label: "Saint-Nicolas",
+  lat: 50.304131,
+  lon: 2.77939,
+  nm: "Saint-Nicolas",
+  value: 2977901
+},  {
+  id: 2977892,
+  label: "Saint-Nicolas-dAliermont",
+  lat: 49.878559,
+  lon: 1.22486,
+  nm: "Saint-Nicolas-dAliermont",
+  value: 2977892
+},  {
+  id: 2977885,
+  label: "Saint-Nicolas-de-la-Grave",
+  lat: 44.064171,
+  lon: 1.0228,
+  nm: "Saint-Nicolas-de-la-Grave",
+  value: 2977885
+},  {
+  id: 2977880,
+  label: "Saint-Nicolas-de-Port",
+  lat: 48.63089,
+  lon: 6.30038,
+  nm: "Saint-Nicolas-de-Port",
+  value: 2977880
+},  {
+  id: 2977879,
+  label: "Saint-Nicolas-de-Redon",
+  lat: 47.643429,
+  lon: -2.06305,
+  nm: "Saint-Nicolas-de-Redon",
+  value: 2977879
+},  {
+  id: 2977869,
+  label: "Saint-Nicolas-du-Pelem",
+  lat: 48.312222,
+  lon: -3.16465,
+  nm: "Saint-Nicolas-du-Pelem",
+  value: 2977869
+},  {
+  id: 2977855,
+  label: "Saint-Nolff",
+  lat: 47.703651,
+  lon: -2.65209,
+  nm: "Saint-Nolff",
+  value: 2977855
+},  {
+  id: 2977854,
+  label: "Saint-Nom-la-Breteche",
+  lat: 48.859421,
+  lon: 2.02233,
+  nm: "Saint-Nom-la-Breteche",
+  value: 2977854
+},  {
+  id: 2977845,
+  label: "Saint-Omer",
+  lat: 50.75,
+  lon: 2.25,
+  nm: "Saint-Omer",
+  value: 2977845
+},  {
+  id: 2977832,
+  label: "Saint-Orens-de-Gameville",
+  lat: 43.55402,
+  lon: 1.53411,
+  nm: "Saint-Orens-de-Gameville",
+  value: 2977832
+},  {
+  id: 2977824,
+  label: "Saint-Ouen",
+  lat: 48.900002,
+  lon: 2.33333,
+  nm: "Saint-Ouen",
+  value: 2977824
+},  {
+  id: 2977821,
+  label: "Saint-Ouen",
+  lat: 50.038189,
+  lon: 2.12088,
+  nm: "Saint-Ouen",
+  value: 2977821
+},  {
+  id: 2977825,
+  label: "Saint-Ouen",
+  lat: 47.814041,
+  lon: 1.08067,
+  nm: "Saint-Ouen",
+  value: 2977825
+},  {
+  id: 2977800,
+  label: "Saint-Ouen-lAumone",
+  lat: 49.04353,
+  lon: 2.12134,
+  nm: "Saint-Ouen-lAumone",
+  value: 2977800
+},  {
+  id: 2977774,
+  label: "Saint-Pair-sur-Mer",
+  lat: 48.814548,
+  lon: -1.56761,
+  nm: "Saint-Pair-sur-Mer",
+  value: 2977774
+},  {
+  id: 2977772,
+  label: "Saint-Palais",
+  lat: 43.328671,
+  lon: -1.03333,
+  nm: "Saint-Palais",
+  value: 2977772
+},  {
+  id: 2977764,
+  label: "Saint-Palais-sur-Mer",
+  lat: 45.642551,
+  lon: -1.0881,
+  nm: "Saint-Palais-sur-Mer",
+  value: 2977764
+},  {
+  id: 2977750,
+  label: "Saint-Pantaleon-de-Larche",
+  lat: 45.14138,
+  lon: 1.44608,
+  nm: "Saint-Pantaleon-de-Larche",
+  value: 2977750
+},  {
+  id: 2977718,
+  label: "Saint-Parres-aux-Tertres",
+  lat: 48.297798,
+  lon: 4.11752,
+  nm: "Saint-Parres-aux-Tertres",
+  value: 2977718
+},  {
+  id: 2977709,
+  label: "Saint-Pathus",
+  lat: 49.071362,
+  lon: 2.79886,
+  nm: "Saint-Pathus",
+  value: 2977709
+},  {
+  id: 2977683,
+  label: "Saint-Paul-de-Fenouillet",
+  lat: 42.80938,
+  lon: 2.50374,
+  nm: "Saint-Paul-de-Fenouillet",
+  value: 2977683
+},  {
+  id: 2977673,
+  label: "Saint-Paul-de-Varces",
+  lat: 45.071751,
+  lon: 5.64247,
+  nm: "Saint-Paul-de-Varces",
+  value: 2977673
+},  {
+  id: 2977701,
+  label: "Saint-Paul-de-Vence",
+  lat: 43.700001,
+  lon: 7.11667,
+  nm: "Saint-Paul-de-Vence",
+  value: 2977701
+},  {
+  id: 2977660,
+  label: "Saint-Paul-en-Jarez",
+  lat: 45.482391,
+  lon: 4.57132,
+  nm: "Saint-Paul-en-Jarez",
+  value: 2977660
+},  {
+  id: 2977648,
+  label: "Saint-Paul-les-Dax",
+  lat: 43.72715,
+  lon: -1.05162,
+  nm: "Saint-Paul-les-Dax",
+  value: 2977648
+},  {
+  id: 2977638,
+  label: "Saint-Paul-Trois-Chateaux",
+  lat: 44.349091,
+  lon: 4.76574,
+  nm: "Saint-Paul-Trois-Chateaux",
+  value: 2977638
+},  {
+  id: 2977655,
+  label: "Saint-Paulien",
+  lat: 45.136501,
+  lon: 3.81384,
+  nm: "Saint-Paulien",
+  value: 2977655
+},  {
+  id: 2977631,
+  label: "Saint-Pee-sur-Nivelle",
+  lat: 43.35564,
+  lon: -1.55013,
+  nm: "Saint-Pee-sur-Nivelle",
+  value: 2977631
+},  {
+  id: 2977623,
+  label: "Saint-Peray",
+  lat: 44.94799,
+  lon: 4.8463,
+  nm: "Saint-Peray",
+  value: 2977623
+},  {
+  id: 2977616,
+  label: "Saint-Pere",
+  lat: 48.587261,
+  lon: -1.92413,
+  nm: "Saint-Pere",
+  value: 2977616
+},  {
+  id: 2977614,
+  label: "Saint-Pere-en-Retz",
+  lat: 47.205589,
+  lon: -2.04095,
+  nm: "Saint-Pere-en-Retz",
+  value: 2977614
+},  {
+  id: 2977603,
+  label: "Saint-Philbert-de-Bouaine",
+  lat: 46.98568,
+  lon: -1.52022,
+  nm: "Saint-Philbert-de-Bouaine",
+  value: 2977603
+},  {
+  id: 2977602,
+  label: "Saint-Philbert-de-Grand-Lieu",
+  lat: 47.035801,
+  lon: -1.6412,
+  nm: "Saint-Philbert-de-Grand-Lieu",
+  value: 2977602
+},  {
+  id: 2977530,
+  label: "Saint-Pierre-de-Chandieu",
+  lat: 45.64558,
+  lon: 5.01128,
+  nm: "Saint-Pierre-de-Chandieu",
+  value: 2977530
+},  {
+  id: 2977497,
+  label: "Saint-Pierre-de-Plesguen",
+  lat: 48.446381,
+  lon: -1.91278,
+  nm: "Saint-Pierre-de-Plesguen",
+  value: 2977497
+},  {
+  id: 2977477,
+  label: "Saint-Pierre-de-Varengeville",
+  lat: 49.502399,
+  lon: 0.93118,
+  nm: "Saint-Pierre-de-Varengeville",
+  value: 2977477
+},  {
+  id: 2977491,
+  label: "Saint-Pierre-des-Corps",
+  lat: 47.38623,
+  lon: 0.74849,
+  nm: "Saint-Pierre-des-Corps",
+  value: 2977491
+},  {
+  id: 2977462,
+  label: "Saint-Pierre-du-Mont",
+  lat: 43.884529,
+  lon: -0.52185,
+  nm: "Saint-Pierre-du-Mont",
+  value: 2977462
+},  {
+  id: 2977458,
+  label: "Saint-Pierre-du-Perray",
+  lat: 48.610641,
+  lon: 2.49429,
+  nm: "Saint-Pierre-du-Perray",
+  value: 2977458
+},  {
+  id: 2977441,
+  label: "Saint-Pierre-la-Palud",
+  lat: 45.789558,
+  lon: 4.61291,
+  nm: "Saint-Pierre-la-Palud",
+  value: 2977441
+},  {
+  id: 2977432,
+  label: "Saint-Pierre-le-Moutier",
+  lat: 46.79277,
+  lon: 3.11657,
+  nm: "Saint-Pierre-le-Moutier",
+  value: 2977432
+},  {
+  id: 2977428,
+  label: "Saint-Pierre-les-Elbeuf",
+  lat: 49.279011,
+  lon: 1.04305,
+  nm: "Saint-Pierre-les-Elbeuf",
+  value: 2977428
+},  {
+  id: 2977425,
+  label: "Saint-Pierre-les-Nemours",
+  lat: 48.26733,
+  lon: 2.67966,
+  nm: "Saint-Pierre-les-Nemours",
+  value: 2977425
+},  {
+  id: 2977415,
+  label: "Saint-Pierre-Montlimart",
+  lat: 47.26976,
+  lon: -1.02738,
+  nm: "Saint-Pierre-Montlimart",
+  value: 2977415
+},  {
+  id: 2977414,
+  label: "Saint-Pierre-Quiberon",
+  lat: 47.520611,
+  lon: -3.13084,
+  nm: "Saint-Pierre-Quiberon",
+  value: 2977414
+},  {
+  id: 2977411,
+  label: "Saint-Pierre-sur-Dives",
+  lat: 49.01667,
+  lon: -0.03333,
+  nm: "Saint-Pierre-sur-Dives",
+  value: 2977411
+},  {
+  id: 2977390,
+  label: "Saint-Pol-de-Leon",
+  lat: 48.683331,
+  lon: -3.98333,
+  nm: "Saint-Pol-de-Leon",
+  value: 2977390
+},  {
+  id: 2977388,
+  label: "Saint-Pol-sur-Mer",
+  lat: 51.031158,
+  lon: 2.33984,
+  nm: "Saint-Pol-sur-Mer",
+  value: 2977388
+},  {
+  id: 2977387,
+  label: "Saint-Pol-sur-Ternoise",
+  lat: 50.38113,
+  lon: 2.33407,
+  nm: "Saint-Pol-sur-Ternoise",
+  value: 2977387
+},  {
+  id: 2977382,
+  label: "Saint-Pons-de-Thomieres",
+  lat: 43.48333,
+  lon: 2.76667,
+  nm: "Saint-Pons-de-Thomieres",
+  value: 2977382
+},  {
+  id: 2977365,
+  label: "Saint-Pourcain-sur-Sioule",
+  lat: 46.309269,
+  lon: 3.28787,
+  nm: "Saint-Pourcain-sur-Sioule",
+  value: 2977365
+},  {
+  id: 2977360,
+  label: "Saint-Prest",
+  lat: 48.49107,
+  lon: 1.53034,
+  nm: "Saint-Prest",
+  value: 2977360
+},  {
+  id: 2977356,
+  label: "Saint-Priest",
+  lat: 45.696121,
+  lon: 4.93892,
+  nm: "Saint-Priest",
+  value: 2977356
+},  {
+  id: 2977350,
+  label: "Saint-Priest-en-Jarez",
+  lat: 45.47501,
+  lon: 4.37614,
+  nm: "Saint-Priest-en-Jarez",
+  value: 2977350
+},  {
+  id: 2977336,
+  label: "Saint-Priest-Taurion",
+  lat: 45.88686,
+  lon: 1.40016,
+  nm: "Saint-Priest-Taurion",
+  value: 2977336
+},  {
+  id: 2977327,
+  label: "Saint-Privat-des-Vieux",
+  lat: 44.14415,
+  lon: 4.12988,
+  nm: "Saint-Privat-des-Vieux",
+  value: 2977327
+},  {
+  id: 2977317,
+  label: "Saint-Prix",
+  lat: 49.01667,
+  lon: 2.26667,
+  nm: "Saint-Prix",
+  value: 2977317
+},  {
+  id: 2977308,
+  label: "Saint-Pryve-Saint-Mesmin",
+  lat: 47.881771,
+  lon: 1.8695,
+  nm: "Saint-Pryve-Saint-Mesmin",
+  value: 2977308
+},  {
+  id: 2977299,
+  label: "Saint-Quay-Portrieux",
+  lat: 48.649921,
+  lon: -2.83058,
+  nm: "Saint-Quay-Portrieux",
+  value: 2977299
+},  {
+  id: 2977295,
+  label: "Saint-Quentin",
+  lat: 49.848888,
+  lon: 3.28757,
+  nm: "Saint-Quentin",
+  value: 2977295
+},  {
+  id: 2977277,
+  label: "Saint-Quentin-Fallavier",
+  lat: 45.630501,
+  lon: 5.10924,
+  nm: "Saint-Quentin-Fallavier",
+  value: 2977277
+},  {
+  id: 2977274,
+  label: "Saint-Quentin-la-Poterie",
+  lat: 44.043919,
+  lon: 4.44432,
+  nm: "Saint-Quentin-la-Poterie",
+  value: 2977274
+},  {
+  id: 2977250,
+  label: "Saint-Rambert-en-Bugey",
+  lat: 45.94426,
+  lon: 5.43904,
+  nm: "Saint-Rambert-en-Bugey",
+  value: 2977250
+},  {
+  id: 2977246,
+  label: "Saint-Raphael",
+  lat: 43.423321,
+  lon: 6.7735,
+  nm: "Saint-Raphael",
+  value: 2977246
+},  {
+  id: 2977229,
+  label: "Saint-Remy",
+  lat: 46.76334,
+  lon: 4.83928,
+  nm: "Saint-Remy",
+  value: 2977229
+},  {
+  id: 2977214,
+  label: "Saint-Remy-de-Provence",
+  lat: 43.788479,
+  lon: 4.83167,
+  nm: "Saint-Remy-de-Provence",
+  value: 2977214
+},  {
+  id: 2977197,
+  label: "Saint-Remy-les-Chevreuse",
+  lat: 48.707081,
+  lon: 2.07692,
+  nm: "Saint-Remy-les-Chevreuse",
+  value: 2977197
+},  {
+  id: 2977193,
+  label: "Saint-Remy-sur-Avre",
+  lat: 48.761421,
+  lon: 1.24532,
+  nm: "Saint-Remy-sur-Avre",
+  value: 2977193
+},  {
+  id: 2977189,
+  label: "Saint-Renan",
+  lat: 48.433331,
+  lon: -4.61667,
+  nm: "Saint-Renan",
+  value: 2977189
+},  {
+  id: 2977159,
+  label: "Saint-Rogatien",
+  lat: 46.150002,
+  lon: -1.06963,
+  nm: "Saint-Rogatien",
+  value: 2977159
+},  {
+  id: 2977146,
+  label: "Saint-Romain-de-Colbosc",
+  lat: 49.53093,
+  lon: 0.35719,
+  nm: "Saint-Romain-de-Colbosc",
+  value: 2977146
+},  {
+  id: 2977145,
+  label: "Saint-Romain-de-Jalionas",
+  lat: 45.756969,
+  lon: 5.21527,
+  nm: "Saint-Romain-de-Jalionas",
+  value: 2977145
+},  {
+  id: 2977126,
+  label: "Saint-Romain-le-Puy",
+  lat: 45.559502,
+  lon: 4.12839,
+  nm: "Saint-Romain-le-Puy",
+  value: 2977126
+},  {
+  id: 2977100,
+  label: "Saint-Saens",
+  lat: 49.673019,
+  lon: 1.28525,
+  nm: "Saint-Saens",
+  value: 2977100
+},  {
+  id: 2977070,
+  label: "Saint-Saturnin",
+  lat: 48.057961,
+  lon: 0.15218,
+  nm: "Saint-Saturnin",
+  value: 2977070
+},  {
+  id: 2977068,
+  label: "Saint-Saturnin-les-Apt",
+  lat: 43.933331,
+  lon: 5.38333,
+  nm: "Saint-Saturnin-les-Apt",
+  value: 2977068
+},  {
+  id: 2977063,
+  label: "Saint-Saturnin-les-Avignon",
+  lat: 43.955009,
+  lon: 4.92548,
+  nm: "Saint-Saturnin-les-Avignon",
+  value: 2977063
+},  {
+  id: 2977058,
+  label: "Saint-Saulve",
+  lat: 50.37141,
+  lon: 3.55612,
+  nm: "Saint-Saulve",
+  value: 2977058
+},  {
+  id: 2977038,
+  label: "Saint-Sauveur",
+  lat: 47.805302,
+  lon: 6.38583,
+  nm: "Saint-Sauveur",
+  value: 2977038
+},  {
+  id: 2977007,
+  label: "Saint-Sauveur-le-Vicomte",
+  lat: 49.385471,
+  lon: -1.5331,
+  nm: "Saint-Sauveur-le-Vicomte",
+  value: 2977007
+},  {
+  id: 2976997,
+  label: "Saint-Savin",
+  lat: 45.150002,
+  lon: -0.45,
+  nm: "Saint-Savin",
+  value: 2976997
+},  {
+  id: 2977001,
+  label: "Saint-Savin",
+  lat: 45.627701,
+  lon: 5.30722,
+  nm: "Saint-Savin",
+  value: 2977001
+},  {
+  id: 2976996,
+  label: "Saint-Savinien",
+  lat: 45.87711,
+  lon: -0.67919,
+  nm: "Saint-Savinien",
+  value: 2976996
+},  {
+  id: 2976994,
+  label: "Saint-Savournin",
+  lat: 43.408482,
+  lon: 5.5269,
+  nm: "Saint-Savournin",
+  value: 2976994
+},  {
+  id: 2976986,
+  label: "Saint-Sebastien-de-Morsent",
+  lat: 49.01096,
+  lon: 1.0873,
+  nm: "Saint-Sebastien-de-Morsent",
+  value: 2976986
+},  {
+  id: 2976984,
+  label: "Saint-Sebastien-sur-Loire",
+  lat: 47.20768,
+  lon: -1.50332,
+  nm: "Saint-Sebastien-sur-Loire",
+  value: 2976984
+},  {
+  id: 2976944,
+  label: "Saint-Seurin-sur-lIsle",
+  lat: 45.01667,
+  lon: 0,
+  nm: "Saint-Seurin-sur-lIsle",
+  value: 2976944
+},  {
+  id: 2976942,
+  label: "Saint-Sever",
+  lat: 43.757271,
+  lon: -0.57357,
+  nm: "Saint-Sever",
+  value: 2976942
+},  {
+  id: 2976919,
+  label: "Saint-Simeon-de-Bressieux",
+  lat: 45.338501,
+  lon: 5.26591,
+  nm: "Saint-Simeon-de-Bressieux",
+  value: 2976919
+},  {
+  id: 2976883,
+  label: "Saint-Soupplets",
+  lat: 49.038658,
+  lon: 2.80723,
+  nm: "Saint-Soupplets",
+  value: 2976883
+},  {
+  id: 2976879,
+  label: "Saint-Sulpice",
+  lat: 43.775002,
+  lon: 1.68511,
+  nm: "Saint-Sulpice",
+  value: 2976879
+},  {
+  id: 2976868,
+  label: "Saint-Sulpice-de-Pommeray",
+  lat: 47.599998,
+  lon: 1.26667,
+  nm: "Saint-Sulpice-de-Pommeray",
+  value: 2976868
+},  {
+  id: 2976855,
+  label: "Saint-Sulpice-de-Royan",
+  lat: 45.670349,
+  lon: -1.01252,
+  nm: "Saint-Sulpice-de-Royan",
+  value: 2976855
+},  {
+  id: 2976847,
+  label: "Saint-Sulpice-et-Cameyrac",
+  lat: 44.911308,
+  lon: -0.39048,
+  nm: "Saint-Sulpice-et-Cameyrac",
+  value: 2976847
+},  {
+  id: 2976843,
+  label: "Saint-Sulpice-le-Gueretois",
+  lat: 46.20097,
+  lon: 1.82826,
+  nm: "Saint-Sulpice-le-Gueretois",
+  value: 2976843
+},  {
+  id: 2976820,
+  label: "Saint-Sylvestre-sur-Lot",
+  lat: 44.396671,
+  lon: 0.80441,
+  nm: "Saint-Sylvestre-sur-Lot",
+  value: 2976820
+},  {
+  id: 2976794,
+  label: "Saint-Symphorien-sur-Coise",
+  lat: 45.632,
+  lon: 4.45811,
+  nm: "Saint-Symphorien-sur-Coise",
+  value: 2976794
+},  {
+  id: 2976791,
+  label: "Saint-Thegonnec",
+  lat: 48.51667,
+  lon: -3.95,
+  nm: "Saint-Thegonnec",
+  value: 2976791
+},  {
+  id: 2976780,
+  label: "Saint-Thibault-des-Vignes",
+  lat: 48.871109,
+  lon: 2.68041,
+  nm: "Saint-Thibault-des-Vignes",
+  value: 2976780
+},  {
+  id: 2976777,
+  label: "Saint-Thibery",
+  lat: 43.39658,
+  lon: 3.41774,
+  nm: "Saint-Thibery",
+  value: 2976777
+},  {
+  id: 2976756,
+  label: "Saint-Thuriau",
+  lat: 48.01667,
+  lon: -2.95,
+  nm: "Saint-Thuriau",
+  value: 2976756
+},  {
+  id: 2976742,
+  label: "Saint-Tropez",
+  lat: 43.269321,
+  lon: 6.63981,
+  nm: "Saint-Tropez",
+  value: 2976742
+},  {
+  id: 2976712,
+  label: "Saint-Vaast-la-Hougue",
+  lat: 49.588428,
+  lon: -1.26931,
+  nm: "Saint-Vaast-la-Hougue",
+  value: 2976712
+},  {
+  id: 2976703,
+  label: "Saint-Valery-en-Caux",
+  lat: 49.866669,
+  lon: 0.73333,
+  nm: "Saint-Valery-en-Caux",
+  value: 2976703
+},  {
+  id: 2976701,
+  label: "Saint-Valery-sur-Somme",
+  lat: 50.183331,
+  lon: 1.63333,
+  nm: "Saint-Valery-sur-Somme",
+  value: 2976701
+},  {
+  id: 2976697,
+  label: "Saint-Vallier",
+  lat: 46.641071,
+  lon: 4.37107,
+  nm: "Saint-Vallier",
+  value: 2976697
+},  {
+  id: 2976699,
+  label: "Saint-Vallier",
+  lat: 45.175919,
+  lon: 4.81514,
+  nm: "Saint-Vallier",
+  value: 2976699
+},  {
+  id: 2976695,
+  label: "Saint-Vallier-de-Thiey",
+  lat: 43.695389,
+  lon: 6.8443,
+  nm: "Saint-Vallier-de-Thiey",
+  value: 2976695
+},  {
+  id: 2976693,
+  label: "Saint-Varent",
+  lat: 46.889339,
+  lon: -0.2321,
+  nm: "Saint-Varent",
+  value: 2976693
+},  {
+  id: 2976691,
+  label: "Saint-Vaury",
+  lat: 46.20417,
+  lon: 1.75654,
+  nm: "Saint-Vaury",
+  value: 2976691
+},  {
+  id: 2976690,
+  label: "Saint-Venant",
+  lat: 50.61956,
+  lon: 2.53946,
+  nm: "Saint-Venant",
+  value: 2976690
+},  {
+  id: 2976678,
+  label: "Saint-Viaud",
+  lat: 47.256191,
+  lon: -2.01833,
+  nm: "Saint-Viaud",
+  value: 2976678
+},  {
+  id: 2976667,
+  label: "Saint-Victor",
+  lat: 46.394669,
+  lon: 2.60858,
+  nm: "Saint-Victor",
+  value: 2976667
+},  {
+  id: 2976656,
+  label: "Saint-Victoret",
+  lat: 43.419571,
+  lon: 5.23396,
+  nm: "Saint-Victoret",
+  value: 2976656
+},  {
+  id: 2976637,
+  label: "Saint-Vigor-le-Grand",
+  lat: 49.282421,
+  lon: -0.68579,
+  nm: "Saint-Vigor-le-Grand",
+  value: 2976637
+},  {
+  id: 2976608,
+  label: "Saint-Vincent-de-Paul",
+  lat: 43.744308,
+  lon: -1.00662,
+  nm: "Saint-Vincent-de-Paul",
+  value: 2976608
+},  {
+  id: 2976600,
+  label: "Saint-Vincent-de-Tyrosse",
+  lat: 43.660309,
+  lon: -1.30799,
+  nm: "Saint-Vincent-de-Tyrosse",
+  value: 2976600
+},  {
+  id: 2976579,
+  label: "Saint-Vit",
+  lat: 47.183331,
+  lon: 5.81667,
+  nm: "Saint-Vit",
+  value: 2976579
+},  {
+  id: 2976565,
+  label: "Saint-Vrain",
+  lat: 48.543018,
+  lon: 2.33331,
+  nm: "Saint-Vrain",
+  value: 2976565
+},  {
+  id: 2976557,
+  label: "Saint-Witz",
+  lat: 49.091,
+  lon: 2.57122,
+  nm: "Saint-Witz",
+  value: 2976557
+},  {
+  id: 2976556,
+  label: "Saint-Xandre",
+  lat: 46.204441,
+  lon: -1.10267,
+  nm: "Saint-Xandre",
+  value: 2976556
+},  {
+  id: 2976548,
+  label: "Saint-Yorre",
+  lat: 46.06057,
+  lon: 3.46812,
+  nm: "Saint-Yorre",
+  value: 2976548
+},  {
+  id: 2976546,
+  label: "Saint-Yrieix-la-Perche",
+  lat: 45.516041,
+  lon: 1.20569,
+  nm: "Saint-Yrieix-la-Perche",
+  value: 2976546
+},  {
+  id: 2976542,
+  label: "Saint-Yrieix-sur-Charente",
+  lat: 45.683331,
+  lon: 0.11667,
+  nm: "Saint-Yrieix-sur-Charente",
+  value: 2976542
+},  {
+  id: 2976537,
+  label: "Saint-Yvi",
+  lat: 47.966671,
+  lon: -3.93333,
+  nm: "Saint-Yvi",
+  value: 2976537
+},  {
+  id: 2976534,
+  label: "Saint-Zacharie",
+  lat: 43.385208,
+  lon: 5.70808,
+  nm: "Saint-Zacharie",
+  value: 2976534
+},  {
+  id: 2980795,
+  label: "Sainte-Adresse",
+  lat: 49.5089,
+  lon: 0.08446,
+  nm: "Sainte-Adresse",
+  value: 2980795
+},  {
+  id: 2980761,
+  label: "Sainte-Anne-sur-Brivet",
+  lat: 47.460709,
+  lon: -2.00415,
+  nm: "Sainte-Anne-sur-Brivet",
+  value: 2980761
+},  {
+  id: 2980742,
+  label: "Sainte-Bazeille",
+  lat: 44.530731,
+  lon: 0.0974,
+  nm: "Sainte-Bazeille",
+  value: 2980742
+},  {
+  id: 2980723,
+  label: "Sainte-Catherine",
+  lat: 50.307571,
+  lon: 2.76404,
+  nm: "Sainte-Catherine",
+  value: 2980723
+},  {
+  id: 2980711,
+  label: "Sainte-Cecile-les-Vignes",
+  lat: 44.24506,
+  lon: 4.8839,
+  nm: "Sainte-Cecile-les-Vignes",
+  value: 2980711
+},  {
+  id: 2980691,
+  label: "Sainte-Colombe",
+  lat: 45.524738,
+  lon: 4.86136,
+  nm: "Sainte-Colombe",
+  value: 2980691
+},  {
+  id: 2980658,
+  label: "Sainte-Croix-aux-Mines",
+  lat: 48.261238,
+  lon: 7.22445,
+  nm: "Sainte-Croix-aux-Mines",
+  value: 2980658
+},  {
+  id: 2980648,
+  label: "Sainte-Croix-en-Plaine",
+  lat: 48.008759,
+  lon: 7.38556,
+  nm: "Sainte-Croix-en-Plaine",
+  value: 2980648
+},  {
+  id: 2980625,
+  label: "Sainte-Eulalie",
+  lat: 44.90667,
+  lon: -0.47417,
+  nm: "Sainte-Eulalie",
+  value: 2980625
+},  {
+  id: 2980610,
+  label: "Sainte-Feyre",
+  lat: 46.139,
+  lon: 1.91517,
+  nm: "Sainte-Feyre",
+  value: 2980610
+},  {
+  id: 2980603,
+  label: "Sainte-Florine",
+  lat: 45.40546,
+  lon: 3.31995,
+  nm: "Sainte-Florine",
+  value: 2980603
+},  {
+  id: 2980586,
+  label: "Sainte-Foy-les-Lyon",
+  lat: 45.736919,
+  lon: 4.79688,
+  nm: "Sainte-Foy-les-Lyon",
+  value: 2980586
+},  {
+  id: 2980570,
+  label: "Sainte-Gemme-la-Plaine",
+  lat: 46.482861,
+  lon: -1.11321,
+  nm: "Sainte-Gemme-la-Plaine",
+  value: 2980570
+},  {
+  id: 2980565,
+  label: "Sainte-Gemmes-sur-Loire",
+  lat: 47.422901,
+  lon: -0.55684,
+  nm: "Sainte-Gemmes-sur-Loire",
+  value: 2980565
+},  {
+  id: 2980562,
+  label: "Sainte-Genevieve",
+  lat: 49.2892,
+  lon: 2.19904,
+  nm: "Sainte-Genevieve",
+  value: 2980562
+},  {
+  id: 2980558,
+  label: "Sainte-Genevieve-des-Bois",
+  lat: 48.64682,
+  lon: 2.31965,
+  nm: "Sainte-Genevieve-des-Bois",
+  value: 2980558
+},  {
+  id: 2980550,
+  label: "Sainte-Helene",
+  lat: 44.966671,
+  lon: -0.88333,
+  nm: "Sainte-Helene",
+  value: 2980550
+},  {
+  id: 2980541,
+  label: "Sainte-Hermine",
+  lat: 46.55619,
+  lon: -1.05476,
+  nm: "Sainte-Hermine",
+  value: 2980541
+},  {
+  id: 2980519,
+  label: "Sainte-Livrade-sur-Lot",
+  lat: 44.399288,
+  lon: 0.5912,
+  nm: "Sainte-Livrade-sur-Lot",
+  value: 2980519
+},  {
+  id: 2980488,
+  label: "Sainte-Luce-sur-Loire",
+  lat: 47.253811,
+  lon: -1.4843,
+  nm: "Sainte-Luce-sur-Loire",
+  value: 2980488
+},  {
+  id: 2980476,
+  label: "Sainte-Marguerite",
+  lat: 48.267349,
+  lon: 6.98439,
+  nm: "Sainte-Marguerite",
+  value: 2980476
+},  {
+  id: 2980446,
+  label: "Sainte-Marie",
+  lat: 47.69429,
+  lon: -2.0019,
+  nm: "Sainte-Marie",
+  value: 2980446
+},  {
+  id: 2980439,
+  label: "Sainte-Marie-aux-Chenes",
+  lat: 49.191681,
+  lon: 6.00065,
+  nm: "Sainte-Marie-aux-Chenes",
+  value: 2980439
+},  {
+  id: 2980438,
+  label: "Sainte-Marie-aux-Mines",
+  lat: 48.246799,
+  lon: 7.18528,
+  nm: "Sainte-Marie-aux-Mines",
+  value: 2980438
+},  {
+  id: 2980429,
+  label: "Sainte-Marie-de-Re",
+  lat: 46.15237,
+  lon: -1.31281,
+  nm: "Sainte-Marie-de-Re",
+  value: 2980429
+},  {
+  id: 2980411,
+  label: "Sainte-Marie-Plage",
+  lat: 42.724979,
+  lon: 3.03751,
+  nm: "Sainte-Marie-Plage",
+  value: 2980411
+},  {
+  id: 2980403,
+  label: "Sainte-Maure-de-Touraine",
+  lat: 47.111301,
+  lon: 0.62236,
+  nm: "Sainte-Maure-de-Touraine",
+  value: 2980403
+},  {
+  id: 2980402,
+  label: "Sainte-Maxime",
+  lat: 43.309071,
+  lon: 6.63849,
+  nm: "Sainte-Maxime",
+  value: 2980402
+},  {
+  id: 2980400,
+  label: "Sainte-Menehould",
+  lat: 49.083328,
+  lon: 4.9,
+  nm: "Sainte-Menehould",
+  value: 2980400
+},  {
+  id: 2980372,
+  label: "Sainte-Pazanne",
+  lat: 47.103001,
+  lon: -1.8095,
+  nm: "Sainte-Pazanne",
+  value: 2980372
+},  {
+  id: 2980356,
+  label: "Sainte-Radegonde",
+  lat: 46.98333,
+  lon: -0.25,
+  nm: "Sainte-Radegonde",
+  value: 2980356
+},  {
+  id: 2980335,
+  label: "Sainte-Savine",
+  lat: 48.296371,
+  lon: 4.04642,
+  nm: "Sainte-Savine",
+  value: 2980335
+},  {
+  id: 2980328,
+  label: "Sainte-Sigolene",
+  lat: 45.24329,
+  lon: 4.23343,
+  nm: "Sainte-Sigolene",
+  value: 2980328
+},  {
+  id: 2980320,
+  label: "Sainte-Soulle",
+  lat: 46.188469,
+  lon: -1.01607,
+  nm: "Sainte-Soulle",
+  value: 2980320
+},  {
+  id: 2980205,
+  label: "Sainte-Tulle",
+  lat: 43.78846,
+  lon: 5.76736,
+  nm: "Sainte-Tulle",
+  value: 2980205
+},  {
+  id: 2980340,
+  label: "Saintes",
+  lat: 45.75,
+  lon: -0.63333,
+  nm: "Saintes",
+  value: 2980340
+},  {
+  id: 2980325,
+  label: "Saintes-Maries-de-la-Mer",
+  lat: 43.452141,
+  lon: 4.42913,
+  nm: "Saintes-Maries-de-la-Mer",
+  value: 2980325
+},  {
+  id: 2977103,
+  label: "Saintry-sur-Seine",
+  lat: 48.596401,
+  lon: 2.49515,
+  nm: "Saintry-sur-Seine",
+  value: 2977103
+},  {
+  id: 2976520,
+  label: "Saix",
+  lat: 43.583328,
+  lon: 2.18333,
+  nm: "Saix",
+  value: 2976520
+},  {
+  id: 2976507,
+  label: "Salaise-sur-Sanne",
+  lat: 45.342339,
+  lon: 4.81829,
+  nm: "Salaise-sur-Sanne",
+  value: 2976507
+},  {
+  id: 2976491,
+  label: "Salbert",
+  lat: 47.672359,
+  lon: 6.82209,
+  nm: "Salbert",
+  value: 2976491
+},  {
+  id: 2976490,
+  label: "Salbris",
+  lat: 47.424198,
+  lon: 2.05124,
+  nm: "Salbris",
+  value: 2976490
+},  {
+  id: 2976481,
+  label: "Saleilles",
+  lat: 42.654179,
+  lon: 2.95309,
+  nm: "Saleilles",
+  value: 2976481
+},  {
+  id: 2976472,
+  label: "Salernes",
+  lat: 43.563492,
+  lon: 6.23398,
+  nm: "Salernes",
+  value: 2976472
+},  {
+  id: 2976459,
+  label: "Saleux",
+  lat: 49.8563,
+  lon: 2.23698,
+  nm: "Saleux",
+  value: 2976459
+},  {
+  id: 2976444,
+  label: "Salies-de-Bearn",
+  lat: 43.47422,
+  lon: -0.92448,
+  nm: "Salies-de-Bearn",
+  value: 2976444
+},  {
+  id: 2976443,
+  label: "Salies-du-Salat",
+  lat: 43.100739,
+  lon: 0.95866,
+  nm: "Salies-du-Salat",
+  value: 2976443
+},  {
+  id: 2976421,
+  label: "Salindres",
+  lat: 44.171741,
+  lon: 4.1602,
+  nm: "Salindres",
+  value: 2976421
+},  {
+  id: 2976413,
+  label: "Salins-les-Bains",
+  lat: 46.946629,
+  lon: 5.87763,
+  nm: "Salins-les-Bains",
+  value: 2976413
+},  {
+  id: 2976406,
+  label: "Sallanches",
+  lat: 45.944229,
+  lon: 6.63162,
+  nm: "Sallanches",
+  value: 2976406
+},  {
+  id: 2976404,
+  label: "Sallaumines",
+  lat: 50.417488,
+  lon: 2.86174,
+  nm: "Sallaumines",
+  value: 2976404
+},  {
+  id: 2976399,
+  label: "Salleboeuf",
+  lat: 44.833328,
+  lon: -0.4,
+  nm: "Salleboeuf",
+  value: 2976399
+},  {
+  id: 2976387,
+  label: "Sallertaine",
+  lat: 46.860168,
+  lon: -1.95522,
+  nm: "Sallertaine",
+  value: 2976387
+},  {
+  id: 2976384,
+  label: "Salles",
+  lat: 44.549999,
+  lon: -0.86073,
+  nm: "Salles",
+  value: 2976384
+},  {
+  id: 2976366,
+  label: "Salles-la-Source",
+  lat: 44.435051,
+  lon: 2.51283,
+  nm: "Salles-la-Source",
+  value: 2976366
+},  {
+  id: 2976358,
+  label: "Salles-sur-Mer",
+  lat: 46.105431,
+  lon: -1.05741,
+  nm: "Salles-sur-Mer",
+  value: 2976358
+},  {
+  id: 2976348,
+  label: "Salome",
+  lat: 50.53352,
+  lon: 2.84709,
+  nm: "Salome",
+  value: 2976348
+},  {
+  id: 2976341,
+  label: "Salon-de-Provence",
+  lat: 43.640739,
+  lon: 5.09545,
+  nm: "Salon-de-Provence",
+  value: 2976341
+},  {
+  id: 2976337,
+  label: "Salouel",
+  lat: 49.869881,
+  lon: 2.2434,
+  nm: "Salouel",
+  value: 2976337
+},  {
+  id: 2976489,
+  label: "Salses-le-Chateau",
+  lat: 42.833328,
+  lon: 2.91667,
+  nm: "Salses-le-Chateau",
+  value: 2976489
+},  {
+  id: 2976301,
+  label: "Samatan",
+  lat: 43.492859,
+  lon: 0.92976,
+  nm: "Samatan",
+  value: 2976301
+},  {
+  id: 2976291,
+  label: "Samer",
+  lat: 50.638401,
+  lon: 1.74628,
+  nm: "Samer",
+  value: 2976291
+},  {
+  id: 2976284,
+  label: "Samoens",
+  lat: 46.082821,
+  lon: 6.72647,
+  nm: "Samoens",
+  value: 2976284
+},  {
+  id: 2976281,
+  label: "Samois-sur-Seine",
+  lat: 48.452511,
+  lon: 2.7504,
+  nm: "Samois-sur-Seine",
+  value: 2976281
+},  {
+  id: 2976279,
+  label: "Samoreau",
+  lat: 48.429459,
+  lon: 2.75587,
+  nm: "Samoreau",
+  value: 2976279
+},  {
+  id: 2976186,
+  label: "San-Martino-di-Lota",
+  lat: 42.731628,
+  lon: 9.43966,
+  nm: "San-Martino-di-Lota",
+  value: 2976186
+},  {
+  id: 2976258,
+  label: "Sanary-sur-Mer",
+  lat: 43.11784,
+  lon: 5.80006,
+  nm: "Sanary-sur-Mer",
+  value: 2976258
+},  {
+  id: 2976245,
+  label: "Sancoins",
+  lat: 46.833141,
+  lon: 2.92238,
+  nm: "Sancoins",
+  value: 2976245
+},  {
+  id: 2976224,
+  label: "Sandillon",
+  lat: 47.8451,
+  lon: 2.03155,
+  nm: "Sandillon",
+  value: 2976224
+},  {
+  id: 2976217,
+  label: "Sangatte",
+  lat: 50.945641,
+  lon: 1.75321,
+  nm: "Sangatte",
+  value: 2976217
+},  {
+  id: 2976195,
+  label: "Sanguinet",
+  lat: 44.4832,
+  lon: -1.07457,
+  nm: "Sanguinet",
+  value: 2976195
+},  {
+  id: 2976179,
+  label: "Sannois",
+  lat: 48.966671,
+  lon: 2.25,
+  nm: "Sannois",
+  value: 2976179
+},  {
+  id: 2981788,
+  label: "Sant Andreu de Sureda",
+  lat: 42.55201,
+  lon: 2.97129,
+  nm: "Sant Andreu de Sureda",
+  value: 2981788
+},  {
+  id: 2979993,
+  label: "Sant Genis de Fontanes",
+  lat: 42.543251,
+  lon: 2.9206,
+  nm: "Sant Genis de Fontanes",
+  value: 2979993
+},  {
+  id: 2979205,
+  label: "Sant Joan de Pladecorts",
+  lat: 42.510689,
+  lon: 2.79091,
+  nm: "Sant Joan de Pladecorts",
+  value: 2979205
+},  {
+  id: 2976140,
+  label: "Santa-Maria-di-Lota",
+  lat: 42.747829,
+  lon: 9.43202,
+  nm: "Santa-Maria-di-Lota",
+  value: 2976140
+},  {
+  id: 2976117,
+  label: "Santec",
+  lat: 48.700001,
+  lon: -4.03333,
+  nm: "Santec",
+  value: 2976117
+},  {
+  id: 2976109,
+  label: "Santeny",
+  lat: 48.727299,
+  lon: 2.57346,
+  nm: "Santeny",
+  value: 2976109
+},  {
+  id: 2976108,
+  label: "Santes",
+  lat: 50.593159,
+  lon: 2.96289,
+  nm: "Santes",
+  value: 2976108
+},  {
+  id: 2976090,
+  label: "Sanvignes-les-Mines",
+  lat: 46.66444,
+  lon: 4.29188,
+  nm: "Sanvignes-les-Mines",
+  value: 2976090
+},  {
+  id: 2976084,
+  label: "Saone",
+  lat: 47.22311,
+  lon: 6.11682,
+  nm: "Saone",
+  value: 2976084
+},  {
+  id: 2976050,
+  label: "Saran",
+  lat: 47.95013,
+  lon: 1.87601,
+  nm: "Saran",
+  value: 2976050
+},  {
+  id: 2976043,
+  label: "Sarcelles",
+  lat: 49,
+  lon: 2.38333,
+  nm: "Sarcelles",
+  value: 2976043
+},  {
+  id: 2976021,
+  label: "Sare",
+  lat: 43.312599,
+  lon: -1.58012,
+  nm: "Sare",
+  value: 2976021
+},  {
+  id: 2976019,
+  label: "Sarge-les-le-Mans",
+  lat: 48.033329,
+  lon: 0.23333,
+  nm: "Sarge-les-le-Mans",
+  value: 2976019
+},  {
+  id: 2976007,
+  label: "Sarlat-la-Caneda",
+  lat: 44.889019,
+  lon: 1.21656,
+  nm: "Sarlat-la-Caneda",
+  value: 2976007
+},  {
+  id: 2975992,
+  label: "Sarralbe",
+  lat: 48.998581,
+  lon: 7.03074,
+  nm: "Sarralbe",
+  value: 2975992
+},  {
+  id: 2975980,
+  label: "Sarras",
+  lat: 45.18679,
+  lon: 4.80004,
+  nm: "Sarras",
+  value: 2975980
+},  {
+  id: 2975957,
+  label: "Sarre-Union",
+  lat: 48.938179,
+  lon: 7.09373,
+  nm: "Sarre-Union",
+  value: 2975957
+},  {
+  id: 2975967,
+  label: "Sarrebourg",
+  lat: 48.73333,
+  lon: 7.05,
+  nm: "Sarrebourg",
+  value: 2975967
+},  {
+  id: 2975964,
+  label: "Sarreguemines",
+  lat: 49.109951,
+  lon: 7.06747,
+  nm: "Sarreguemines",
+  value: 2975964
+},  {
+  id: 2975953,
+  label: "Sarrians",
+  lat: 44.084011,
+  lon: 4.96965,
+  nm: "Sarrians",
+  value: 2975953
+},  {
+  id: 2975949,
+  label: "Sarrola-Carcopino",
+  lat: 42.012409,
+  lon: 8.85055,
+  nm: "Sarrola-Carcopino",
+  value: 2975949
+},  {
+  id: 2975939,
+  label: "Sarry",
+  lat: 48.918522,
+  lon: 4.40621,
+  nm: "Sarry",
+  value: 2975939
+},  {
+  id: 2975931,
+  label: "Sartene",
+  lat: 41.616669,
+  lon: 8.98333,
+  nm: "Sartene",
+  value: 2975931
+},  {
+  id: 2975921,
+  label: "Sartrouville",
+  lat: 48.9482,
+  lon: 2.19169,
+  nm: "Sartrouville",
+  value: 2975921
+},  {
+  id: 2975916,
+  label: "Sarzeau",
+  lat: 47.527721,
+  lon: -2.76933,
+  nm: "Sarzeau",
+  value: 2975916
+},  {
+  id: 2975908,
+  label: "Sassenage",
+  lat: 45.205311,
+  lon: 5.66515,
+  nm: "Sassenage",
+  value: 2975908
+},  {
+  id: 2975895,
+  label: "Sathonay-Camp",
+  lat: 45.823101,
+  lon: 4.86754,
+  nm: "Sathonay-Camp",
+  value: 2975895
+},  {
+  id: 2975850,
+  label: "Saugues",
+  lat: 44.960388,
+  lon: 3.54784,
+  nm: "Saugues",
+  value: 2975850
+},  {
+  id: 2975844,
+  label: "Saujon",
+  lat: 45.673092,
+  lon: -0.9262,
+  nm: "Saujon",
+  value: 2975844
+},  {
+  id: 2975833,
+  label: "Saulcy-sur-Meurthe",
+  lat: 48.237579,
+  lon: 6.96443,
+  nm: "Saulcy-sur-Meurthe",
+  value: 2975833
+},  {
+  id: 2975819,
+  label: "Saulieu",
+  lat: 47.280231,
+  lon: 4.22857,
+  nm: "Saulieu",
+  value: 2975819
+},  {
+  id: 2975814,
+  label: "Saulnes",
+  lat: 49.535549,
+  lon: 5.82629,
+  nm: "Saulnes",
+  value: 2975814
+},  {
+  id: 2975802,
+  label: "Saultain",
+  lat: 50.336761,
+  lon: 3.57723,
+  nm: "Saultain",
+  value: 2975802
+},  {
+  id: 2975785,
+  label: "Saulx-les-Chartreux",
+  lat: 48.69062,
+  lon: 2.26727,
+  nm: "Saulx-les-Chartreux",
+  value: 2975785
+},  {
+  id: 2975778,
+  label: "Saulxures-les-Nancy",
+  lat: 48.689072,
+  lon: 6.24587,
+  nm: "Saulxures-les-Nancy",
+  value: 2975778
+},  {
+  id: 2975776,
+  label: "Saulxures-sur-Moselotte",
+  lat: 47.94894,
+  lon: 6.7704,
+  nm: "Saulxures-sur-Moselotte",
+  value: 2975776
+},  {
+  id: 2975758,
+  label: "Saumur",
+  lat: 47.26667,
+  lon: -0.08333,
+  nm: "Saumur",
+  value: 2975758
+},  {
+  id: 2975743,
+  label: "Sausheim",
+  lat: 47.789761,
+  lon: 7.37134,
+  nm: "Sausheim",
+  value: 2975743
+},  {
+  id: 2975726,
+  label: "Sausset-les-Pins",
+  lat: 43.33136,
+  lon: 5.10431,
+  nm: "Sausset-les-Pins",
+  value: 2975726
+},  {
+  id: 2975702,
+  label: "Sautron",
+  lat: 47.262741,
+  lon: -1.67107,
+  nm: "Sautron",
+  value: 2975702
+},  {
+  id: 2975683,
+  label: "Sauvagnon",
+  lat: 43.400002,
+  lon: -0.38333,
+  nm: "Sauvagnon",
+  value: 2975683
+},  {
+  id: 2975649,
+  label: "Sauvian",
+  lat: 43.292931,
+  lon: 3.26024,
+  nm: "Sauvian",
+  value: 2975649
+},  {
+  id: 2975597,
+  label: "Savenay",
+  lat: 47.360722,
+  lon: -1.94215,
+  nm: "Savenay",
+  value: 2975597
+},  {
+  id: 2975592,
+  label: "Saverdun",
+  lat: 43.23526,
+  lon: 1.57398,
+  nm: "Saverdun",
+  value: 2975592
+},  {
+  id: 2975588,
+  label: "Saverne",
+  lat: 48.741638,
+  lon: 7.36221,
+  nm: "Saverne",
+  value: 2975588
+},  {
+  id: 2975556,
+  label: "Savigneux",
+  lat: 45.616699,
+  lon: 4.0833,
+  nm: "Savigneux",
+  value: 2975556
+},  {
+  id: 2975553,
+  label: "Savigny",
+  lat: 45.817322,
+  lon: 4.57543,
+  nm: "Savigny",
+  value: 2975553
+},  {
+  id: 2975536,
+  label: "Savigny-le-Temple",
+  lat: 48.574089,
+  lon: 2.58287,
+  nm: "Savigny-le-Temple",
+  value: 2975536
+},  {
+  id: 2975528,
+  label: "Savigny-sur-Braye",
+  lat: 47.87923,
+  lon: 0.80981,
+  nm: "Savigny-sur-Braye",
+  value: 2975528
+},  {
+  id: 2975525,
+  label: "Savigny-sur-Orge",
+  lat: 48.676781,
+  lon: 2.34835,
+  nm: "Savigny-sur-Orge",
+  value: 2975525
+},  {
+  id: 2975513,
+  label: "Savonnieres",
+  lat: 47.347691,
+  lon: 0.54962,
+  nm: "Savonnieres",
+  value: 2975513
+},  {
+  id: 2975495,
+  label: "Sayat",
+  lat: 45.827541,
+  lon: 3.05206,
+  nm: "Sayat",
+  value: 2975495
+},  {
+  id: 2975485,
+  label: "Scaer",
+  lat: 48.033329,
+  lon: -3.7,
+  nm: "Scaer",
+  value: 2975485
+},  {
+  id: 2975469,
+  label: "Sceaux",
+  lat: 48.77644,
+  lon: 2.29026,
+  nm: "Sceaux",
+  value: 2975469
+},  {
+  id: 2975449,
+  label: "Scherwiller",
+  lat: 48.287128,
+  lon: 7.42135,
+  nm: "Scherwiller",
+  value: 2975449
+},  {
+  id: 2975446,
+  label: "Schiltigheim",
+  lat: 48.607491,
+  lon: 7.74931,
+  nm: "Schiltigheim",
+  value: 2975446
+},  {
+  id: 2975445,
+  label: "Schirmeck",
+  lat: 48.47942,
+  lon: 7.2151,
+  nm: "Schirmeck",
+  value: 2975445
+},  {
+  id: 2975432,
+  label: "Schoeneck",
+  lat: 49.216671,
+  lon: 6.91667,
+  nm: "Schoeneck",
+  value: 2975432
+},  {
+  id: 2975424,
+  label: "Schweighouse-sur-Moder",
+  lat: 48.816669,
+  lon: 7.73333,
+  nm: "Schweighouse-sur-Moder",
+  value: 2975424
+},  {
+  id: 2975410,
+  label: "Sciez",
+  lat: 46.32909,
+  lon: 6.37947,
+  nm: "Sciez",
+  value: 2975410
+},  {
+  id: 2975408,
+  label: "Scionzier",
+  lat: 46.05447,
+  lon: 6.55757,
+  nm: "Scionzier",
+  value: 2975408
+},  {
+  id: 2975400,
+  label: "Scorbe-Clairvaux",
+  lat: 46.810612,
+  lon: 0.41369,
+  nm: "Scorbe-Clairvaux",
+  value: 2975400
+},  {
+  id: 2975392,
+  label: "Scy-Chazelles",
+  lat: 49.113602,
+  lon: 6.1161,
+  nm: "Scy-Chazelles",
+  value: 2975392
+},  {
+  id: 2975387,
+  label: "Sebazac-Concoures",
+  lat: 44.404839,
+  lon: 2.60324,
+  nm: "Sebazac-Concoures",
+  value: 2975387
+},  {
+  id: 2975361,
+  label: "Seclin",
+  lat: 50.548729,
+  lon: 3.02731,
+  nm: "Seclin",
+  value: 2975361
+},  {
+  id: 2975349,
+  label: "Sedan",
+  lat: 49.700001,
+  lon: 4.95,
+  nm: "Sedan",
+  value: 2975349
+},  {
+  id: 2975340,
+  label: "Sees",
+  lat: 48.604031,
+  lon: 0.17244,
+  nm: "Sees",
+  value: 2975340
+},  {
+  id: 2975339,
+  label: "Seez",
+  lat: 45.622089,
+  lon: 6.79957,
+  nm: "Seez",
+  value: 2975339
+},  {
+  id: 2975321,
+  label: "Segonzac",
+  lat: 45.616669,
+  lon: -0.21667,
+  nm: "Segonzac",
+  value: 2975321
+},  {
+  id: 2975314,
+  label: "Segre",
+  lat: 47.683331,
+  lon: -0.86667,
+  nm: "Segre",
+  value: 2975314
+},  {
+  id: 2975292,
+  label: "Seichamps",
+  lat: 48.71114,
+  lon: 6.26186,
+  nm: "Seichamps",
+  value: 2975292
+},  {
+  id: 2975288,
+  label: "Seiches-sur-le-Loir",
+  lat: 47.573509,
+  lon: -0.35628,
+  nm: "Seiches-sur-le-Loir",
+  value: 2975288
+},  {
+  id: 2975273,
+  label: "Seignosse",
+  lat: 43.68774,
+  lon: -1.37,
+  nm: "Seignosse",
+  value: 2975273
+},  {
+  id: 2975269,
+  label: "Seilh",
+  lat: 43.694691,
+  lon: 1.35509,
+  nm: "Seilh",
+  value: 2975269
+},  {
+  id: 2975265,
+  label: "Seillans",
+  lat: 43.634998,
+  lon: 6.64666,
+  nm: "Seillans",
+  value: 2975265
+},  {
+  id: 2975247,
+  label: "Seine-Port",
+  lat: 48.55743,
+  lon: 2.55316,
+  nm: "Seine-Port",
+  value: 2975247
+},  {
+  id: 2975233,
+  label: "Selestat",
+  lat: 48.26667,
+  lon: 7.45,
+  nm: "Selestat",
+  value: 2975233
+},  {
+  id: 2975215,
+  label: "Selles-sur-Cher",
+  lat: 47.279041,
+  lon: 1.55388,
+  nm: "Selles-sur-Cher",
+  value: 2975215
+},  {
+  id: 2975204,
+  label: "Seloncourt",
+  lat: 47.459888,
+  lon: 6.85535,
+  nm: "Seloncourt",
+  value: 2975204
+},  {
+  id: 2975203,
+  label: "Selongey",
+  lat: 47.588459,
+  lon: 5.18483,
+  nm: "Selongey",
+  value: 2975203
+},  {
+  id: 2975199,
+  label: "Seltz",
+  lat: 48.895199,
+  lon: 8.10757,
+  nm: "Seltz",
+  value: 2975199
+},  {
+  id: 2975194,
+  label: "Selvigny",
+  lat: 50.079708,
+  lon: 3.34899,
+  nm: "Selvigny",
+  value: 2975194
+},  {
+  id: 2975191,
+  label: "Semalens",
+  lat: 43.592251,
+  lon: 2.11208,
+  nm: "Semalens",
+  value: 2975191
+},  {
+  id: 2975181,
+  label: "Semeac",
+  lat: 43.229149,
+  lon: 0.10602,
+  nm: "Semeac",
+  value: 2975181
+},  {
+  id: 2975147,
+  label: "Semoy",
+  lat: 47.933331,
+  lon: 1.95,
+  nm: "Semoy",
+  value: 2975147
+},  {
+  id: 2975143,
+  label: "Semur-en-Auxois",
+  lat: 47.48333,
+  lon: 4.33333,
+  nm: "Semur-en-Auxois",
+  value: 2975143
+},  {
+  id: 2975120,
+  label: "Senas",
+  lat: 43.743752,
+  lon: 5.078,
+  nm: "Senas",
+  value: 2975120
+},  {
+  id: 2975113,
+  label: "Sene",
+  lat: 47.618999,
+  lon: -2.737,
+  nm: "Sene",
+  value: 2975113
+},  {
+  id: 2975088,
+  label: "Senlis",
+  lat: 49.200001,
+  lon: 2.58333,
+  nm: "Senlis",
+  value: 2975088
+},  {
+  id: 2975080,
+  label: "Sennecey-le-Grand",
+  lat: 46.641369,
+  lon: 4.86707,
+  nm: "Sennecey-le-Grand",
+  value: 2975080
+},  {
+  id: 2975079,
+  label: "Sennecey-les-Dijon",
+  lat: 47.289841,
+  lon: 5.10485,
+  nm: "Sennecey-les-Dijon",
+  value: 2975079
+},  {
+  id: 2975067,
+  label: "Senonches",
+  lat: 48.55999,
+  lon: 1.03069,
+  nm: "Senonches",
+  value: 2975067
+},  {
+  id: 2975063,
+  label: "Senones",
+  lat: 48.394749,
+  lon: 6.97818,
+  nm: "Senones",
+  value: 2975063
+},  {
+  id: 2975050,
+  label: "Sens",
+  lat: 48.200001,
+  lon: 3.28333,
+  nm: "Sens",
+  value: 2975050
+},  {
+  id: 2975020,
+  label: "Septemes-les-Vallons",
+  lat: 43.398338,
+  lon: 5.36596,
+  nm: "Septemes-les-Vallons",
+  value: 2975020
+},  {
+  id: 2975019,
+  label: "Septeuil",
+  lat: 48.892448,
+  lon: 1.68357,
+  nm: "Septeuil",
+  value: 2975019
+},  {
+  id: 2975018,
+  label: "Septfonds",
+  lat: 44.178131,
+  lon: 1.61806,
+  nm: "Septfonds",
+  value: 2975018
+},  {
+  id: 2974996,
+  label: "Sequedin",
+  lat: 50.625751,
+  lon: 2.98276,
+  nm: "Sequedin",
+  value: 2974996
+},  {
+  id: 2974955,
+  label: "Seremange-Erzange",
+  lat: 49.318871,
+  lon: 6.09025,
+  nm: "Seremange-Erzange",
+  value: 2974955
+},  {
+  id: 2974949,
+  label: "Serent",
+  lat: 47.82333,
+  lon: -2.50571,
+  nm: "Serent",
+  value: 2974949
+},  {
+  id: 2974942,
+  label: "Serezin-du-Rhone",
+  lat: 45.629021,
+  lon: 4.82467,
+  nm: "Serezin-du-Rhone",
+  value: 2974942
+},  {
+  id: 2974931,
+  label: "Serifontaine",
+  lat: 49.354401,
+  lon: 1.76873,
+  nm: "Serifontaine",
+  value: 2974931
+},  {
+  id: 2974925,
+  label: "Serignan",
+  lat: 43.278728,
+  lon: 3.27712,
+  nm: "Serignan",
+  value: 2974925
+},  {
+  id: 2974923,
+  label: "Serignan-du-Comtat",
+  lat: 44.188499,
+  lon: 4.84403,
+  nm: "Serignan-du-Comtat",
+  value: 2974923
+},  {
+  id: 2974901,
+  label: "Sermaize-les-Bains",
+  lat: 48.785069,
+  lon: 4.91169,
+  nm: "Sermaize-les-Bains",
+  value: 2974901
+},  {
+  id: 2974867,
+  label: "Serquigny",
+  lat: 49.109428,
+  lon: 0.71016,
+  nm: "Serquigny",
+  value: 2974867
+},  {
+  id: 2974821,
+  label: "Serres-Castet",
+  lat: 43.383331,
+  lon: -0.35,
+  nm: "Serres-Castet",
+  value: 2974821
+},  {
+  id: 2974799,
+  label: "Serris",
+  lat: 48.84391,
+  lon: 2.78701,
+  nm: "Serris",
+  value: 2974799
+},  {
+  id: 2974775,
+  label: "Servian",
+  lat: 43.427158,
+  lon: 3.30032,
+  nm: "Servian",
+  value: 2974775
+},  {
+  id: 2974747,
+  label: "Servon",
+  lat: 48.716621,
+  lon: 2.58737,
+  nm: "Servon",
+  value: 2974747
+},  {
+  id: 2974745,
+  label: "Servon-sur-Vilaine",
+  lat: 48.12114,
+  lon: -1.45971,
+  nm: "Servon-sur-Vilaine",
+  value: 2974745
+},  {
+  id: 2974733,
+  label: "Sete",
+  lat: 43.40176,
+  lon: 3.6966,
+  nm: "Sete",
+  value: 2974733
+},  {
+  id: 2974710,
+  label: "Seurre",
+  lat: 46.999229,
+  lon: 5.15138,
+  nm: "Seurre",
+  value: 2974710
+},  {
+  id: 2974699,
+  label: "Severac-le-Chateau",
+  lat: 44.324291,
+  lon: 3.05929,
+  nm: "Severac-le-Chateau",
+  value: 2974699
+},  {
+  id: 2974681,
+  label: "Sevran",
+  lat: 48.944721,
+  lon: 2.52746,
+  nm: "Sevran",
+  value: 2974681
+},  {
+  id: 2974678,
+  label: "Sevres",
+  lat: 48.822922,
+  lon: 2.21757,
+  nm: "Sevres",
+  value: 2974678
+},  {
+  id: 2974677,
+  label: "Sevres-Anxaumont",
+  lat: 46.570358,
+  lon: 0.46602,
+  nm: "Sevres-Anxaumont",
+  value: 2974677
+},  {
+  id: 2974675,
+  label: "Sevrier",
+  lat: 45.864151,
+  lon: 6.14026,
+  nm: "Sevrier",
+  value: 2974675
+},  {
+  id: 2974655,
+  label: "Seynod",
+  lat: 45.88549,
+  lon: 6.08831,
+  nm: "Seynod",
+  value: 2974655
+},  {
+  id: 2974648,
+  label: "Seysses",
+  lat: 43.498009,
+  lon: 1.31081,
+  nm: "Seysses",
+  value: 2974648
+},  {
+  id: 2974645,
+  label: "Seyssinet-Pariset",
+  lat: 45.176762,
+  lon: 5.69387,
+  nm: "Seyssinet-Pariset",
+  value: 2974645
+},  {
+  id: 2974644,
+  label: "Seyssins",
+  lat: 45.155128,
+  lon: 5.67921,
+  nm: "Seyssins",
+  value: 2974644
+},  {
+  id: 2974643,
+  label: "Seyssuel",
+  lat: 45.560059,
+  lon: 4.8532,
+  nm: "Seyssuel",
+  value: 2974643
+},  {
+  id: 2974640,
+  label: "Sezanne",
+  lat: 48.72047,
+  lon: 3.72339,
+  nm: "Sezanne",
+  value: 2974640
+},  {
+  id: 2974609,
+  label: "Sierck-les-Bains",
+  lat: 49.439919,
+  lon: 6.36057,
+  nm: "Sierck-les-Bains",
+  value: 2974609
+},  {
+  id: 2974608,
+  label: "Sierentz",
+  lat: 47.65852,
+  lon: 7.45426,
+  nm: "Sierentz",
+  value: 2974608
+},  {
+  id: 2974591,
+  label: "Sigean",
+  lat: 43.02776,
+  lon: 2.97916,
+  nm: "Sigean",
+  value: 2974591
+},  {
+  id: 2974586,
+  label: "Signes",
+  lat: 43.2901,
+  lon: 5.86232,
+  nm: "Signes",
+  value: 2974586
+},  {
+  id: 2974550,
+  label: "Sille-le-Guillaume",
+  lat: 48.182659,
+  lon: -0.12642,
+  nm: "Sille-le-Guillaume",
+  value: 2974550
+},  {
+  id: 2974540,
+  label: "Sillingy",
+  lat: 45.945419,
+  lon: 6.03392,
+  nm: "Sillingy",
+  value: 2974540
+},  {
+  id: 2974519,
+  label: "Simiane-Collongue",
+  lat: 43.430672,
+  lon: 5.43454,
+  nm: "Simiane-Collongue",
+  value: 2974519
+},  {
+  id: 2974494,
+  label: "Sin-le-Noble",
+  lat: 50.361591,
+  lon: 3.13113,
+  nm: "Sin-le-Noble",
+  value: 2974494
+},  {
+  id: 2974506,
+  label: "Sinceny",
+  lat: 49.596191,
+  lon: 3.24679,
+  nm: "Sinceny",
+  value: 2974506
+},  {
+  id: 2974450,
+  label: "Sissonne",
+  lat: 49.571072,
+  lon: 3.89369,
+  nm: "Sissonne",
+  value: 2974450
+},  {
+  id: 2974446,
+  label: "Sisteron",
+  lat: 44.18758,
+  lon: 5.94623,
+  nm: "Sisteron",
+  value: 2974446
+},  {
+  id: 2974427,
+  label: "Six-Fours-les-Plages",
+  lat: 43.099998,
+  lon: 5.85,
+  nm: "Six-Fours-les-Plages",
+  value: 2974427
+},  {
+  id: 2974424,
+  label: "Sixt-sur-Aff",
+  lat: 47.776482,
+  lon: -2.07867,
+  nm: "Sixt-sur-Aff",
+  value: 2974424
+},  {
+  id: 2974423,
+  label: "Sizun",
+  lat: 48.400002,
+  lon: -4.08333,
+  nm: "Sizun",
+  value: 2974423
+},  {
+  id: 2974418,
+  label: "Smarves",
+  lat: 46.51078,
+  lon: 0.3498,
+  nm: "Smarves",
+  value: 2974418
+},  {
+  id: 2974413,
+  label: "Sochaux",
+  lat: 47.50808,
+  lon: 6.82748,
+  nm: "Sochaux",
+  value: 2974413
+},  {
+  id: 2974396,
+  label: "Soignolles-en-Brie",
+  lat: 48.6535,
+  lon: 2.69968,
+  nm: "Soignolles-en-Brie",
+  value: 2974396
+},  {
+  id: 2974389,
+  label: "Soissons",
+  lat: 49.381672,
+  lon: 3.32361,
+  nm: "Soissons",
+  value: 2974389
+},  {
+  id: 2974385,
+  label: "Soisy-sous-Montmorency",
+  lat: 48.988129,
+  lon: 2.30156,
+  nm: "Soisy-sous-Montmorency",
+  value: 2974385
+},  {
+  id: 2974383,
+  label: "Soisy-sur-Seine",
+  lat: 48.64875,
+  lon: 2.45223,
+  nm: "Soisy-sur-Seine",
+  value: 2974383
+},  {
+  id: 2974378,
+  label: "Solaize",
+  lat: 45.633331,
+  lon: 4.85,
+  nm: "Solaize",
+  value: 2974378
+},  {
+  id: 2974360,
+  label: "Solesmes",
+  lat: 50.184681,
+  lon: 3.49799,
+  nm: "Solesmes",
+  value: 2974360
+},  {
+  id: 2974338,
+  label: "Sollies-Pont",
+  lat: 43.189781,
+  lon: 6.0432,
+  nm: "Sollies-Pont",
+  value: 2974338
+},  {
+  id: 2974337,
+  label: "Sollies-Toucas",
+  lat: 43.20821,
+  lon: 6.02496,
+  nm: "Sollies-Toucas",
+  value: 2974337
+},  {
+  id: 2974336,
+  label: "Sollies-Ville",
+  lat: 43.182281,
+  lon: 6.03858,
+  nm: "Sollies-Ville",
+  value: 2974336
+},  {
+  id: 2974324,
+  label: "Somain",
+  lat: 50.359612,
+  lon: 3.28108,
+  nm: "Somain",
+  value: 2974324
+},  {
+  id: 2974273,
+  label: "Sommieres",
+  lat: 43.785339,
+  lon: 4.08973,
+  nm: "Sommieres",
+  value: 2974273
+},  {
+  id: 2974235,
+  label: "Soorts-Hossegor",
+  lat: 43.664902,
+  lon: -1.39717,
+  nm: "Soorts-Hossegor",
+  value: 2974235
+},  {
+  id: 2974215,
+  label: "Sorbiers",
+  lat: 45.48814,
+  lon: 4.44933,
+  nm: "Sorbiers",
+  value: 2974215
+},  {
+  id: 2974195,
+  label: "Soreze",
+  lat: 43.452412,
+  lon: 2.06799,
+  nm: "Soreze",
+  value: 2974195
+},  {
+  id: 2974188,
+  label: "Sorgues",
+  lat: 44.010231,
+  lon: 4.87381,
+  nm: "Sorgues",
+  value: 2974188
+},  {
+  id: 2974185,
+  label: "Sorigny",
+  lat: 47.24329,
+  lon: 0.6952,
+  nm: "Sorigny",
+  value: 2974185
+},  {
+  id: 2974162,
+  label: "Sospel",
+  lat: 43.878471,
+  lon: 7.4484,
+  nm: "Sospel",
+  value: 2974162
+},  {
+  id: 2974153,
+  label: "Sotteville-les-Rouen",
+  lat: 49.409721,
+  lon: 1.09006,
+  nm: "Sotteville-les-Rouen",
+  value: 2974153
+},  {
+  id: 2974146,
+  label: "Soual",
+  lat: 43.555302,
+  lon: 2.11679,
+  nm: "Soual",
+  value: 2974146
+},  {
+  id: 2974135,
+  label: "Soubise",
+  lat: 45.92395,
+  lon: -1.00938,
+  nm: "Soubise",
+  value: 2974135
+},  {
+  id: 2974130,
+  label: "Soucelles",
+  lat: 47.568481,
+  lon: -0.41819,
+  nm: "Soucelles",
+  value: 2974130
+},  {
+  id: 2974123,
+  label: "Souchez",
+  lat: 50.39291,
+  lon: 2.73984,
+  nm: "Souchez",
+  value: 2974123
+},  {
+  id: 2974118,
+  label: "Soucieu-en-Jarrest",
+  lat: 45.680168,
+  lon: 4.70334,
+  nm: "Soucieu-en-Jarrest",
+  value: 2974118
+},  {
+  id: 2974108,
+  label: "Soudan",
+  lat: 47.737782,
+  lon: -1.30566,
+  nm: "Soudan",
+  value: 2974108
+},  {
+  id: 2974091,
+  label: "Soues",
+  lat: 43.207359,
+  lon: 0.09874,
+  nm: "Soues",
+  value: 2974091
+},  {
+  id: 2974087,
+  label: "Souffelweyersheim",
+  lat: 48.635399,
+  lon: 7.74141,
+  nm: "Souffelweyersheim",
+  value: 2974087
+},  {
+  id: 2974086,
+  label: "Soufflenheim",
+  lat: 48.830261,
+  lon: 7.96268,
+  nm: "Soufflenheim",
+  value: 2974086
+},  {
+  id: 2974066,
+  label: "Souillac",
+  lat: 44.897202,
+  lon: 1.47224,
+  nm: "Souillac",
+  value: 2974066
+},  {
+  id: 2974056,
+  label: "Soulac-sur-Mer",
+  lat: 45.510681,
+  lon: -1.12524,
+  nm: "Soulac-sur-Mer",
+  value: 2974056
+},  {
+  id: 2974007,
+  label: "Soullans",
+  lat: 46.796242,
+  lon: -1.90106,
+  nm: "Soullans",
+  value: 2974007
+},  {
+  id: 2973993,
+  label: "Soultz-Haut-Rhin",
+  lat: 47.887402,
+  lon: 7.23042,
+  nm: "Soultz-Haut-Rhin",
+  value: 2973993
+},  {
+  id: 2973990,
+  label: "Soultz-sous-Forets",
+  lat: 48.93586,
+  lon: 7.88307,
+  nm: "Soultz-sous-Forets",
+  value: 2973990
+},  {
+  id: 2973991,
+  label: "Soultzmatt",
+  lat: 47.96188,
+  lon: 7.23759,
+  nm: "Soultzmatt",
+  value: 2973991
+},  {
+  id: 2973963,
+  label: "Souppes-sur-Loing",
+  lat: 48.182968,
+  lon: 2.73521,
+  nm: "Souppes-sur-Loing",
+  value: 2973963
+},  {
+  id: 2973949,
+  label: "Sourdeval",
+  lat: 48.723122,
+  lon: -0.92223,
+  nm: "Sourdeval",
+  value: 2973949
+},  {
+  id: 2973938,
+  label: "Sours",
+  lat: 48.410431,
+  lon: 1.59889,
+  nm: "Sours",
+  value: 2973938
+},  {
+  id: 2973918,
+  label: "Soustons",
+  lat: 43.753281,
+  lon: -1.3278,
+  nm: "Soustons",
+  value: 2973918
+},  {
+  id: 2973897,
+  label: "Souvigny",
+  lat: 46.53352,
+  lon: 3.19247,
+  nm: "Souvigny",
+  value: 2973897
+},  {
+  id: 2973882,
+  label: "Soyaux",
+  lat: 45.650002,
+  lon: 0.2,
+  nm: "Soyaux",
+  value: 2973882
+},  {
+  id: 2973869,
+  label: "Spay",
+  lat: 47.92384,
+  lon: 0.15258,
+  nm: "Spay",
+  value: 2973869
+},  {
+  id: 2973857,
+  label: "Spicheren",
+  lat: 49.192661,
+  lon: 6.96727,
+  nm: "Spicheren",
+  value: 2973857
+},  {
+  id: 2973843,
+  label: "Staffelfelden",
+  lat: 47.826469,
+  lon: 7.25235,
+  nm: "Staffelfelden",
+  value: 2973843
+},  {
+  id: 2973841,
+  label: "Stains",
+  lat: 48.950001,
+  lon: 2.38333,
+  nm: "Stains",
+  value: 2973841
+},  {
+  id: 2973823,
+  label: "Steenvoorde",
+  lat: 50.810459,
+  lon: 2.58244,
+  nm: "Steenvoorde",
+  value: 2973823
+},  {
+  id: 2973821,
+  label: "Steenwerck",
+  lat: 50.701988,
+  lon: 2.77829,
+  nm: "Steenwerck",
+  value: 2973821
+},  {
+  id: 2973818,
+  label: "Steinbourg",
+  lat: 48.770279,
+  lon: 7.41354,
+  nm: "Steinbourg",
+  value: 2973818
+},  {
+  id: 2973809,
+  label: "Stenay",
+  lat: 49.494888,
+  lon: 5.18606,
+  nm: "Stenay",
+  value: 2973809
+},  {
+  id: 2973795,
+  label: "Stiring-Wendel",
+  lat: 49.200001,
+  lon: 6.93333,
+  nm: "Stiring-Wendel",
+  value: 2973795
+},  {
+  id: 2973783,
+  label: "Strasbourg",
+  lat: 48.58342,
+  lon: 7.74296,
+  nm: "Strasbourg",
+  value: 2973783
+},  {
+  id: 2973748,
+  label: "Suce-sur-Erdre",
+  lat: 47.333328,
+  lon: -1.53333,
+  nm: "Suce-sur-Erdre",
+  value: 2973748
+},  {
+  id: 2973745,
+  label: "Sucy-en-Brie",
+  lat: 48.768719,
+  lon: 2.53474,
+  nm: "Sucy-en-Brie",
+  value: 2973745
+},  {
+  id: 2973720,
+  label: "Suippes",
+  lat: 49.12886,
+  lon: 4.53446,
+  nm: "Suippes",
+  value: 2973720
+},  {
+  id: 2973703,
+  label: "Sully-sur-Loire",
+  lat: 47.763721,
+  lon: 2.37238,
+  nm: "Sully-sur-Loire",
+  value: 2973703
+},  {
+  id: 2973702,
+  label: "Sulniac",
+  lat: 47.673752,
+  lon: -2.57136,
+  nm: "Sulniac",
+  value: 2973702
+},  {
+  id: 2973698,
+  label: "Sundhoffen",
+  lat: 48.042629,
+  lon: 7.4132,
+  nm: "Sundhoffen",
+  value: 2973698
+},  {
+  id: 2974203,
+  label: "Sureda",
+  lat: 42.530689,
+  lon: 2.95708,
+  nm: "Sureda",
+  value: 2974203
+},  {
+  id: 2973675,
+  label: "Suresnes",
+  lat: 48.871429,
+  lon: 2.22929,
+  nm: "Suresnes",
+  value: 2973675
+},  {
+  id: 2973672,
+  label: "Surgeres",
+  lat: 46.1082,
+  lon: -0.75148,
+  nm: "Surgeres",
+  value: 2973672
+},  {
+  id: 2973645,
+  label: "Survilliers",
+  lat: 49.097118,
+  lon: 2.54449,
+  nm: "Survilliers",
+  value: 2973645
+},  {
+  id: 2973639,
+  label: "Sury-le-Comtal",
+  lat: 45.534199,
+  lon: 4.18642,
+  nm: "Sury-le-Comtal",
+  value: 2973639
+},  {
+  id: 2973637,
+  label: "Surzur",
+  lat: 47.578499,
+  lon: -2.62892,
+  nm: "Surzur",
+  value: 2973637
+},  {
+  id: 2973626,
+  label: "Sussargues",
+  lat: 43.712502,
+  lon: 4.0031,
+  nm: "Sussargues",
+  value: 2973626
+},  {
+  id: 2973579,
+  label: "Taden",
+  lat: 48.4753,
+  lon: -2.01946,
+  nm: "Taden",
+  value: 2973579
+},  {
+  id: 2973564,
+  label: "Taillades",
+  lat: 43.835918,
+  lon: 5.09216,
+  nm: "Taillades",
+  value: 2973564
+},  {
+  id: 2973524,
+  label: "Taissy",
+  lat: 49.215092,
+  lon: 4.09406,
+  nm: "Taissy",
+  value: 2973524
+},  {
+  id: 2973511,
+  label: "Talange",
+  lat: 49.236698,
+  lon: 6.17282,
+  nm: "Talange",
+  value: 2973511
+},  {
+  id: 2973510,
+  label: "Talant",
+  lat: 47.336941,
+  lon: 5.00888,
+  nm: "Talant",
+  value: 2973510
+},  {
+  id: 2973495,
+  label: "Talence",
+  lat: 44.804771,
+  lon: -0.59543,
+  nm: "Talence",
+  value: 2973495
+},  {
+  id: 2973492,
+  label: "Talensac",
+  lat: 48.108471,
+  lon: -1.92829,
+  nm: "Talensac",
+  value: 2973492
+},  {
+  id: 2973457,
+  label: "Taluyers",
+  lat: 45.639912,
+  lon: 4.72194,
+  nm: "Taluyers",
+  value: 2973457
+},  {
+  id: 2973424,
+  label: "Taninges",
+  lat: 46.108829,
+  lon: 6.59231,
+  nm: "Taninges",
+  value: 2973424
+},  {
+  id: 2973394,
+  label: "Tarare",
+  lat: 45.89761,
+  lon: 4.43272,
+  nm: "Tarare",
+  value: 2973394
+},  {
+  id: 2973393,
+  label: "Tarascon",
+  lat: 43.805828,
+  lon: 4.66028,
+  nm: "Tarascon",
+  value: 2973393
+},  {
+  id: 2973392,
+  label: "Tarascon-sur-Ariege",
+  lat: 42.845451,
+  lon: 1.60332,
+  nm: "Tarascon-sur-Ariege",
+  value: 2973392
+},  {
+  id: 2973385,
+  label: "Tarbes",
+  lat: 43.23333,
+  lon: 0.08333,
+  nm: "Tarbes",
+  value: 2973385
+},  {
+  id: 2973355,
+  label: "Tarnos",
+  lat: 43.541698,
+  lon: -1.46281,
+  nm: "Tarnos",
+  value: 2973355
+},  {
+  id: 2973338,
+  label: "Tartas",
+  lat: 43.832481,
+  lon: -0.80895,
+  nm: "Tartas",
+  value: 2973338
+},  {
+  id: 2973317,
+  label: "Tassin-la-Demi-Lune",
+  lat: 45.75499,
+  lon: 4.78812,
+  nm: "Tassin-la-Demi-Lune",
+  value: 2973317
+},  {
+  id: 2973303,
+  label: "Taule",
+  lat: 48.599998,
+  lon: -3.9,
+  nm: "Taule",
+  value: 2973303
+},  {
+  id: 2973297,
+  label: "Taupont",
+  lat: 47.95961,
+  lon: -2.43933,
+  nm: "Taupont",
+  value: 2973297
+},  {
+  id: 2973267,
+  label: "Tavaux",
+  lat: 47.03376,
+  lon: 5.405,
+  nm: "Tavaux",
+  value: 2973267
+},  {
+  id: 2973258,
+  label: "Taverny",
+  lat: 49.025421,
+  lon: 2.21691,
+  nm: "Taverny",
+  value: 2973258
+},  {
+  id: 2973197,
+  label: "Telgruc-sur-Mer",
+  lat: 48.23333,
+  lon: -4.35,
+  nm: "Telgruc-sur-Mer",
+  value: 2973197
+},  {
+  id: 2973192,
+  label: "Teloche",
+  lat: 47.888191,
+  lon: 0.27086,
+  nm: "Teloche",
+  value: 2973192
+},  {
+  id: 2973188,
+  label: "Templemars",
+  lat: 50.573872,
+  lon: 3.05436,
+  nm: "Templemars",
+  value: 2973188
+},  {
+  id: 2973187,
+  label: "Templeuve",
+  lat: 50.523361,
+  lon: 3.17809,
+  nm: "Templeuve",
+  value: 2973187
+},  {
+  id: 2973182,
+  label: "Tence",
+  lat: 45.115028,
+  lon: 4.29166,
+  nm: "Tence",
+  value: 2973182
+},  {
+  id: 2973180,
+  label: "Tende",
+  lat: 44.085709,
+  lon: 7.5934,
+  nm: "Tende",
+  value: 2973180
+},  {
+  id: 2973146,
+  label: "Tergnier",
+  lat: 49.656071,
+  lon: 3.30107,
+  nm: "Tergnier",
+  value: 2973146
+},  {
+  id: 2973128,
+  label: "Ternay",
+  lat: 45.608349,
+  lon: 4.81024,
+  nm: "Ternay",
+  value: 2973128
+},  {
+  id: 2973108,
+  label: "Terrasson-Lavilledieu",
+  lat: 45.130112,
+  lon: 1.30136,
+  nm: "Terrasson-Lavilledieu",
+  value: 2973108
+},  {
+  id: 2973073,
+  label: "Terville",
+  lat: 49.347141,
+  lon: 6.13802,
+  nm: "Terville",
+  value: 2973073
+},  {
+  id: 2973049,
+  label: "Teteghem",
+  lat: 51.0186,
+  lon: 2.44454,
+  nm: "Teteghem",
+  value: 2973049
+},  {
+  id: 2973033,
+  label: "Teyran",
+  lat: 43.68528,
+  lon: 3.92889,
+  nm: "Teyran",
+  value: 2973033
+},  {
+  id: 2973013,
+  label: "Thann",
+  lat: 47.816669,
+  lon: 7.08333,
+  nm: "Thann",
+  value: 2973013
+},  {
+  id: 2973008,
+  label: "Thaon-les-Vosges",
+  lat: 48.25,
+  lon: 6.41667,
+  nm: "Thaon-les-Vosges",
+  value: 2973008
+},  {
+  id: 2972992,
+  label: "Theding",
+  lat: 49.12941,
+  lon: 6.89315,
+  nm: "Theding",
+  value: 2972992
+},  {
+  id: 2972979,
+  label: "Theix",
+  lat: 47.629162,
+  lon: -2.65186,
+  nm: "Theix",
+  value: 2972979
+},  {
+  id: 2972904,
+  label: "Thezan-les-Beziers",
+  lat: 43.416672,
+  lon: 3.16667,
+  nm: "Thezan-les-Beziers",
+  value: 2972904
+},  {
+  id: 2972893,
+  label: "Thiais",
+  lat: 48.764961,
+  lon: 2.3961,
+  nm: "Thiais",
+  value: 2972893
+},  {
+  id: 2972889,
+  label: "Thiant",
+  lat: 50.304798,
+  lon: 3.44796,
+  nm: "Thiant",
+  value: 2972889
+},  {
+  id: 2972857,
+  label: "Thiers",
+  lat: 45.849998,
+  lon: 3.56667,
+  nm: "Thiers",
+  value: 2972857
+},  {
+  id: 2972851,
+  label: "Thierville-sur-Meuse",
+  lat: 49.170502,
+  lon: 5.35266,
+  nm: "Thierville-sur-Meuse",
+  value: 2972851
+},  {
+  id: 2972811,
+  label: "Thionville",
+  lat: 49.366669,
+  lon: 6.16667,
+  nm: "Thionville",
+  value: 2972811
+},  {
+  id: 2972798,
+  label: "Thise",
+  lat: 47.284859,
+  lon: 6.08127,
+  nm: "Thise",
+  value: 2972798
+},  {
+  id: 2972792,
+  label: "Thiviers",
+  lat: 45.415421,
+  lon: 0.91963,
+  nm: "Thiviers",
+  value: 2972792
+},  {
+  id: 2972786,
+  label: "Thizy",
+  lat: 46.029949,
+  lon: 4.31299,
+  nm: "Thizy",
+  value: 2972786
+},  {
+  id: 2972774,
+  label: "Thoiry",
+  lat: 46.237621,
+  lon: 5.98111,
+  nm: "Thoiry",
+  value: 2972774
+},  {
+  id: 2972754,
+  label: "Thomery",
+  lat: 48.40723,
+  lon: 2.78852,
+  nm: "Thomery",
+  value: 2972754
+},  {
+  id: 2972749,
+  label: "Thones",
+  lat: 45.881229,
+  lon: 6.32572,
+  nm: "Thones",
+  value: 2972749
+},  {
+  id: 2972742,
+  label: "Thonon-les-Bains",
+  lat: 46.366669,
+  lon: 6.48333,
+  nm: "Thonon-les-Bains",
+  value: 2972742
+},  {
+  id: 2972727,
+  label: "Thorens-Glieres",
+  lat: 45.994751,
+  lon: 6.24581,
+  nm: "Thorens-Glieres",
+  value: 2972727
+},  {
+  id: 2972711,
+  label: "Thorigny-sur-Marne",
+  lat: 48.88689,
+  lon: 2.71806,
+  nm: "Thorigny-sur-Marne",
+  value: 2972711
+},  {
+  id: 2972696,
+  label: "Thouare-sur-Loire",
+  lat: 47.268929,
+  lon: -1.43834,
+  nm: "Thouare-sur-Loire",
+  value: 2972696
+},  {
+  id: 2972695,
+  label: "Thouars",
+  lat: 46.976021,
+  lon: -0.21507,
+  nm: "Thouars",
+  value: 2972695
+},  {
+  id: 2972684,
+  label: "Thourotte",
+  lat: 49.47591,
+  lon: 2.8821,
+  nm: "Thourotte",
+  value: 2972684
+},  {
+  id: 2972665,
+  label: "Thuir",
+  lat: 42.6329,
+  lon: 2.75471,
+  nm: "Thuir",
+  value: 2972665
+},  {
+  id: 2972658,
+  label: "Thumeries",
+  lat: 50.47662,
+  lon: 3.055,
+  nm: "Thumeries",
+  value: 2972658
+},  {
+  id: 2972651,
+  label: "Thure",
+  lat: 46.832218,
+  lon: 0.45797,
+  nm: "Thure",
+  value: 2972651
+},  {
+  id: 2972644,
+  label: "Thurins",
+  lat: 45.680931,
+  lon: 4.63968,
+  nm: "Thurins",
+  value: 2972644
+},  {
+  id: 2972640,
+  label: "Thury-Harcourt",
+  lat: 48.984341,
+  lon: -0.4752,
+  nm: "Thury-Harcourt",
+  value: 2972640
+},  {
+  id: 2972633,
+  label: "Thyez",
+  lat: 46.082489,
+  lon: 6.53777,
+  nm: "Thyez",
+  value: 2972633
+},  {
+  id: 2972620,
+  label: "Tierce",
+  lat: 47.615871,
+  lon: -0.46609,
+  nm: "Tierce",
+  value: 2972620
+},  {
+  id: 2972607,
+  label: "Tignes",
+  lat: 45.49604,
+  lon: 6.92463,
+  nm: "Tignes",
+  value: 2972607
+},  {
+  id: 2972605,
+  label: "Tignieu-Jameyzieu",
+  lat: 45.735641,
+  lon: 5.18046,
+  nm: "Tignieu-Jameyzieu",
+  value: 2972605
+},  {
+  id: 2972600,
+  label: "Tigy",
+  lat: 47.793652,
+  lon: 2.19766,
+  nm: "Tigy",
+  value: 2972600
+},  {
+  id: 2972555,
+  label: "Tinchebray",
+  lat: 48.76437,
+  lon: -0.73333,
+  nm: "Tinchebray",
+  value: 2972555
+},  {
+  id: 2972546,
+  label: "Tinqueux",
+  lat: 49.25,
+  lon: 3.98333,
+  nm: "Tinqueux",
+  value: 2972546
+},  {
+  id: 2972544,
+  label: "Tinteniac",
+  lat: 48.328602,
+  lon: -1.8363,
+  nm: "Tinteniac",
+  value: 2972544
+},  {
+  id: 2972486,
+  label: "Tomblaine",
+  lat: 48.683331,
+  lon: 6.21312,
+  nm: "Tomblaine",
+  value: 2972486
+},  {
+  id: 2972470,
+  label: "Tonnay-Charente",
+  lat: 45.949001,
+  lon: -0.8935,
+  nm: "Tonnay-Charente",
+  value: 2972470
+},  {
+  id: 2972468,
+  label: "Tonneins",
+  lat: 44.392059,
+  lon: 0.31241,
+  nm: "Tonneins",
+  value: 2972468
+},  {
+  id: 2972467,
+  label: "Tonnerre",
+  lat: 47.856281,
+  lon: 3.97369,
+  nm: "Tonnerre",
+  value: 2972467
+},  {
+  id: 2972444,
+  label: "Torcy",
+  lat: 48.849998,
+  lon: 2.65,
+  nm: "Torcy",
+  value: 2972444
+},  {
+  id: 2972445,
+  label: "Torcy",
+  lat: 46.76857,
+  lon: 4.45333,
+  nm: "Torcy",
+  value: 2972445
+},  {
+  id: 2972430,
+  label: "Torfou",
+  lat: 47.036819,
+  lon: -1.11635,
+  nm: "Torfou",
+  value: 2972430
+},  {
+  id: 2972427,
+  label: "Torigni-sur-Vire",
+  lat: 49.037022,
+  lon: -0.98214,
+  nm: "Torigni-sur-Vire",
+  value: 2972427
+},  {
+  id: 2972412,
+  label: "Torreilles",
+  lat: 42.75433,
+  lon: 2.99292,
+  nm: "Torreilles",
+  value: 2972412
+},  {
+  id: 2972372,
+  label: "Toucy",
+  lat: 47.736019,
+  lon: 3.29502,
+  nm: "Toucy",
+  value: 2972372
+},  {
+  id: 2972365,
+  label: "Toufflers",
+  lat: 50.660389,
+  lon: 3.23358,
+  nm: "Toufflers",
+  value: 2972365
+},  {
+  id: 2972350,
+  label: "Toul",
+  lat: 48.683331,
+  lon: 5.9,
+  nm: "Toul",
+  value: 2972350
+},  {
+  id: 2972339,
+  label: "Toulenne",
+  lat: 44.556648,
+  lon: -0.26328,
+  nm: "Toulenne",
+  value: 2972339
+},  {
+  id: 2972328,
+  label: "Toulon",
+  lat: 43.116669,
+  lon: 5.93333,
+  nm: "Toulon",
+  value: 2972328
+},  {
+  id: 2972317,
+  label: "Toulouges",
+  lat: 42.669609,
+  lon: 2.83008,
+  nm: "Toulouges",
+  value: 2972317
+},  {
+  id: 2972315,
+  label: "Toulouse",
+  lat: 43.604259,
+  lon: 1.44367,
+  nm: "Toulouse",
+  value: 2972315
+},  {
+  id: 2972307,
+  label: "Touques",
+  lat: 49.344429,
+  lon: 0.10218,
+  nm: "Touques",
+  value: 2972307
+},  {
+  id: 2972284,
+  label: "Tourcoing",
+  lat: 50.723911,
+  lon: 3.16117,
+  nm: "Tourcoing",
+  value: 2972284
+},  {
+  id: 2972270,
+  label: "Tourlaville",
+  lat: 49.638279,
+  lon: -1.56639,
+  nm: "Tourlaville",
+  value: 2972270
+},  {
+  id: 2972253,
+  label: "Tournan-en-Brie",
+  lat: 48.741459,
+  lon: 2.772,
+  nm: "Tournan-en-Brie",
+  value: 2972253
+},  {
+  id: 2972237,
+  label: "Tournefeuille",
+  lat: 43.588718,
+  lon: 1.31922,
+  nm: "Tournefeuille",
+  value: 2972237
+},  {
+  id: 2972203,
+  label: "Tournus",
+  lat: 46.567581,
+  lon: 4.90574,
+  nm: "Tournus",
+  value: 2972203
+},  {
+  id: 2972195,
+  label: "Tourrette-Levens",
+  lat: 43.78746,
+  lon: 7.27364,
+  nm: "Tourrette-Levens",
+  value: 2972195
+},  {
+  id: 2972273,
+  label: "Tourrettes-sur-Loup",
+  lat: 43.716671,
+  lon: 7.05,
+  nm: "Tourrettes-sur-Loup",
+  value: 2972273
+},  {
+  id: 2972191,
+  label: "Tours",
+  lat: 47.383331,
+  lon: 0.68333,
+  nm: "Tours",
+  value: 2972191
+},  {
+  id: 2972168,
+  label: "Tourves",
+  lat: 43.407761,
+  lon: 5.92415,
+  nm: "Tourves",
+  value: 2972168
+},  {
+  id: 2972163,
+  label: "Tourville-la-Riviere",
+  lat: 49.32782,
+  lon: 1.10551,
+  nm: "Tourville-la-Riviere",
+  value: 2972163
+},  {
+  id: 2972156,
+  label: "Toury",
+  lat: 48.19397,
+  lon: 1.93484,
+  nm: "Toury",
+  value: 2972156
+},  {
+  id: 2972146,
+  label: "Toussieu",
+  lat: 45.653709,
+  lon: 4.98618,
+  nm: "Toussieu",
+  value: 2972146
+},  {
+  id: 2972095,
+  label: "Trainou",
+  lat: 47.97353,
+  lon: 2.10399,
+  nm: "Trainou",
+  value: 2972095
+},  {
+  id: 2972058,
+  label: "Trans-en-Provence",
+  lat: 43.505001,
+  lon: 6.48571,
+  nm: "Trans-en-Provence",
+  value: 2972058
+},  {
+  id: 2972049,
+  label: "Trappes",
+  lat: 48.774132,
+  lon: 2.01781,
+  nm: "Trappes",
+  value: 2972049
+},  {
+  id: 2972010,
+  label: "Trebes",
+  lat: 43.21064,
+  lon: 2.44165,
+  nm: "Trebes",
+  value: 2972010
+},  {
+  id: 2972009,
+  label: "Trebeurden",
+  lat: 48.76667,
+  lon: -3.56667,
+  nm: "Trebeurden",
+  value: 2972009
+},  {
+  id: 2971978,
+  label: "Treffiagat",
+  lat: 47.816669,
+  lon: -4.26667,
+  nm: "Treffiagat",
+  value: 2971978
+},  {
+  id: 2971953,
+  label: "Tregastel",
+  lat: 48.816669,
+  lon: -3.5,
+  nm: "Tregastel",
+  value: 2971953
+},  {
+  id: 2971929,
+  label: "Treguier",
+  lat: 48.783329,
+  lon: -3.23333,
+  nm: "Treguier",
+  value: 2971929
+},  {
+  id: 2971926,
+  label: "Tregunc",
+  lat: 47.849998,
+  lon: -3.85,
+  nm: "Tregunc",
+  value: 2971926
+},  {
+  id: 2971908,
+  label: "Treillieres",
+  lat: 47.330601,
+  lon: -1.61918,
+  nm: "Treillieres",
+  value: 2971908
+},  {
+  id: 2971903,
+  label: "Treize-Septiers",
+  lat: 46.985241,
+  lon: -1.22921,
+  nm: "Treize-Septiers",
+  value: 2971903
+},  {
+  id: 2971896,
+  label: "Trelaze",
+  lat: 47.445648,
+  lon: -0.4654,
+  nm: "Trelaze",
+  value: 2971896
+},  {
+  id: 2971890,
+  label: "Trelissac",
+  lat: 45.197659,
+  lon: 0.78615,
+  nm: "Trelissac",
+  value: 2971890
+},  {
+  id: 2971889,
+  label: "Trelivan",
+  lat: 48.43198,
+  lon: -2.11748,
+  nm: "Trelivan",
+  value: 2971889
+},  {
+  id: 2971887,
+  label: "Trelon",
+  lat: 50.058048,
+  lon: 4.102,
+  nm: "Trelon",
+  value: 2971887
+},  {
+  id: 2971874,
+  label: "Tremblay-en-France",
+  lat: 48.949558,
+  lon: 2.5684,
+  nm: "Tremblay-en-France",
+  value: 2971874
+},  {
+  id: 2971861,
+  label: "Trementines",
+  lat: 47.123569,
+  lon: -0.785,
+  nm: "Trementines",
+  value: 2971861
+},  {
+  id: 2971856,
+  label: "Tremeven",
+  lat: 47.900002,
+  lon: -3.53333,
+  nm: "Tremeven",
+  value: 2971856
+},  {
+  id: 2971782,
+  label: "Tresques",
+  lat: 44.106892,
+  lon: 4.5874,
+  nm: "Tresques",
+  value: 2971782
+},  {
+  id: 2971777,
+  label: "Tressange",
+  lat: 49.40538,
+  lon: 5.98138,
+  nm: "Tressange",
+  value: 2971777
+},  {
+  id: 2971774,
+  label: "Tresserve",
+  lat: 45.677849,
+  lon: 5.90153,
+  nm: "Tresserve",
+  value: 2971774
+},  {
+  id: 2971773,
+  label: "Tresses",
+  lat: 44.847809,
+  lon: -0.46296,
+  nm: "Tresses",
+  value: 2971773
+},  {
+  id: 2971765,
+  label: "Trets",
+  lat: 43.448181,
+  lon: 5.68328,
+  nm: "Trets",
+  value: 2971765
+},  {
+  id: 2971722,
+  label: "Trevoux",
+  lat: 45.941109,
+  lon: 4.76727,
+  nm: "Trevoux",
+  value: 2971722
+},  {
+  id: 2971689,
+  label: "Triel-sur-Seine",
+  lat: 48.97818,
+  lon: 2.00743,
+  nm: "Triel-sur-Seine",
+  value: 2971689
+},  {
+  id: 2971686,
+  label: "Trieux",
+  lat: 49.324459,
+  lon: 5.93644,
+  nm: "Trieux",
+  value: 2971686
+},  {
+  id: 2971680,
+  label: "Trignac",
+  lat: 47.318089,
+  lon: -2.18895,
+  nm: "Trignac",
+  value: 2971680
+},  {
+  id: 2971673,
+  label: "Trilport",
+  lat: 48.956848,
+  lon: 2.95076,
+  nm: "Trilport",
+  value: 2971673
+},  {
+  id: 2971651,
+  label: "Trith-Saint-Leger",
+  lat: 50.316669,
+  lon: 3.48333,
+  nm: "Trith-Saint-Leger",
+  value: 2971651
+},  {
+  id: 2971641,
+  label: "Troarn",
+  lat: 49.178349,
+  lon: -0.18169,
+  nm: "Troarn",
+  value: 2971641
+},  {
+  id: 2971580,
+  label: "Trosly-Breuil",
+  lat: 49.400002,
+  lon: 2.96667,
+  nm: "Trosly-Breuil",
+  value: 2971580
+},  {
+  id: 2971555,
+  label: "Trouville-sur-Mer",
+  lat: 49.3657,
+  lon: 0.08041,
+  nm: "Trouville-sur-Mer",
+  value: 2971555
+},  {
+  id: 2971553,
+  label: "Trouy",
+  lat: 47.011532,
+  lon: 2.36018,
+  nm: "Trouy",
+  value: 2971553
+},  {
+  id: 2971549,
+  label: "Troyes",
+  lat: 48.299999,
+  lon: 4.08333,
+  nm: "Troyes",
+  value: 2971549
+},  {
+  id: 2971536,
+  label: "Truchtersheim",
+  lat: 48.663132,
+  lon: 7.60752,
+  nm: "Truchtersheim",
+  value: 2971536
+},  {
+  id: 2971504,
+  label: "Tucquegnieux",
+  lat: 49.301399,
+  lon: 5.88247,
+  nm: "Tucquegnieux",
+  value: 2971504
+},  {
+  id: 2971482,
+  label: "Tulle",
+  lat: 45.26667,
+  lon: 1.76667,
+  nm: "Tulle",
+  value: 2971482
+},  {
+  id: 2971480,
+  label: "Tullins",
+  lat: 45.298611,
+  lon: 5.48608,
+  nm: "Tullins",
+  value: 2971480
+},  {
+  id: 2971469,
+  label: "Turckheim",
+  lat: 48.087479,
+  lon: 7.27707,
+  nm: "Turckheim",
+  value: 2971469
+},  {
+  id: 2971412,
+  label: "Uchaud",
+  lat: 43.758572,
+  lon: 4.26843,
+  nm: "Uchaud",
+  value: 2971412
+},  {
+  id: 2971407,
+  label: "Uckange",
+  lat: 49.30304,
+  lon: 6.1492,
+  nm: "Uckange",
+  value: 2971407
+},  {
+  id: 2971399,
+  label: "Ugine",
+  lat: 45.750839,
+  lon: 6.41611,
+  nm: "Ugine",
+  value: 2971399
+},  {
+  id: 2971377,
+  label: "Unieux",
+  lat: 45.400398,
+  lon: 4.27812,
+  nm: "Unieux",
+  value: 2971377
+},  {
+  id: 7626220,
+  label: "University of Technology of Compiegne",
+  lat: 49.414799,
+  lon: 2.81683,
+  nm: "University of Technology of Compiegne",
+  value: 7626220
+},  {
+  id: 2971357,
+  label: "Urcuit",
+  lat: 43.485939,
+  lon: -1.33668,
+  nm: "Urcuit",
+  value: 2971357
+},  {
+  id: 2971336,
+  label: "Urrugne",
+  lat: 43.363609,
+  lon: -1.69921,
+  nm: "Urrugne",
+  value: 2971336
+},  {
+  id: 2971321,
+  label: "Urville-Nacqueville",
+  lat: 49.674438,
+  lon: -1.73664,
+  nm: "Urville-Nacqueville",
+  value: 2971321
+},  {
+  id: 2971305,
+  label: "Ussac",
+  lat: 45.19389,
+  lon: 1.51337,
+  nm: "Ussac",
+  value: 2971305
+},  {
+  id: 2971298,
+  label: "Ussel",
+  lat: 45.549999,
+  lon: 2.31667,
+  nm: "Ussel",
+  value: 2971298
+},  {
+  id: 2971286,
+  label: "Ustaritz",
+  lat: 43.3965,
+  lon: -1.45604,
+  nm: "Ustaritz",
+  value: 2971286
+},  {
+  id: 2971274,
+  label: "Uxegney",
+  lat: 48.196522,
+  lon: 6.36971,
+  nm: "Uxegney",
+  value: 2971274
+},  {
+  id: 2971259,
+  label: "Uzerche",
+  lat: 45.4212,
+  lon: 1.56395,
+  nm: "Uzerche",
+  value: 2971259
+},  {
+  id: 2971258,
+  label: "Uzes",
+  lat: 44.013618,
+  lon: 4.41529,
+  nm: "Uzes",
+  value: 2971258
+},  {
+  id: 2971186,
+  label: "Vagney",
+  lat: 48.00629,
+  lon: 6.7174,
+  nm: "Vagney",
+  value: 2971186
+},  {
+  id: 2971176,
+  label: "Vailhauques",
+  lat: 43.671589,
+  lon: 3.72042,
+  nm: "Vailhauques",
+  value: 2971176
+},  {
+  id: 2971169,
+  label: "Vailly-sur-Aisne",
+  lat: 49.40834,
+  lon: 3.51631,
+  nm: "Vailly-sur-Aisne",
+  value: 2971169
+},  {
+  id: 2971157,
+  label: "Vaires-sur-Marne",
+  lat: 48.876492,
+  lon: 2.63982,
+  nm: "Vaires-sur-Marne",
+  value: 2971157
+},  {
+  id: 2971154,
+  label: "Vaison-la-Romaine",
+  lat: 44.23896,
+  lon: 5.07461,
+  nm: "Vaison-la-Romaine",
+  value: 2971154
+},  {
+  id: 2971147,
+  label: "Vaivre-et-Montoille",
+  lat: 47.630211,
+  lon: 6.10362,
+  nm: "Vaivre-et-Montoille",
+  value: 2971147
+},  {
+  id: 6544556,
+  label: "Val Thorens",
+  lat: 45.297771,
+  lon: 6.58377,
+  nm: "Val Thorens",
+  value: 6544556
+},  {
+  id: 6619659,
+  label: "Val-de-Reuil",
+  lat: 49.273849,
+  lon: 1.21021,
+  nm: "Val-de-Reuil",
+  value: 6619659
+},  {
+  id: 2971117,
+  label: "Valbonne",
+  lat: 43.632919,
+  lon: 6.99911,
+  nm: "Valbonne",
+  value: 2971117
+},  {
+  id: 2998998,
+  label: "Valdahon",
+  lat: 47.150002,
+  lon: 6.35,
+  nm: "Valdahon",
+  value: 2998998
+},  {
+  id: 2971072,
+  label: "Valdoie",
+  lat: 47.667992,
+  lon: 6.84446,
+  nm: "Valdoie",
+  value: 2971072
+},  {
+  id: 2971056,
+  label: "Valencay",
+  lat: 47.162071,
+  lon: 1.56852,
+  nm: "Valencay",
+  value: 2971056
+},  {
+  id: 2971053,
+  label: "Valence",
+  lat: 44.933331,
+  lon: 4.9,
+  nm: "Valence",
+  value: 2971053
+},  {
+  id: 2971054,
+  label: "Valence",
+  lat: 44.108231,
+  lon: 0.89101,
+  nm: "Valence",
+  value: 2971054
+},  {
+  id: 2971041,
+  label: "Valenciennes",
+  lat: 50.349998,
+  lon: 3.53333,
+  nm: "Valenciennes",
+  value: 2971041
+},  {
+  id: 2971039,
+  label: "Valencin",
+  lat: 45.61285,
+  lon: 5.01565,
+  nm: "Valencin",
+  value: 2971039
+},  {
+  id: 2971033,
+  label: "Valensole",
+  lat: 43.83799,
+  lon: 5.98323,
+  nm: "Valensole",
+  value: 2971033
+},  {
+  id: 2971030,
+  label: "Valentigney",
+  lat: 47.463879,
+  lon: 6.83168,
+  nm: "Valentigney",
+  value: 2971030
+},  {
+  id: 2971027,
+  label: "Valenton",
+  lat: 48.74527,
+  lon: 2.46467,
+  nm: "Valenton",
+  value: 2971027
+},  {
+  id: 2971025,
+  label: "Valergues",
+  lat: 43.66824,
+  lon: 4.06124,
+  nm: "Valergues",
+  value: 2971025
+},  {
+  id: 2971006,
+  label: "Valfin-les-Saint-Claude",
+  lat: 46.43758,
+  lon: 5.85513,
+  nm: "Valfin-les-Saint-Claude",
+  value: 2971006
+},  {
+  id: 2970962,
+  label: "Vallauris",
+  lat: 43.57803,
+  lon: 7.05451,
+  nm: "Vallauris",
+  value: 2970962
+},  {
+  id: 2970948,
+  label: "Valleiry",
+  lat: 46.111172,
+  lon: 5.97267,
+  nm: "Valleiry",
+  value: 2970948
+},  {
+  id: 2970932,
+  label: "Valleroy",
+  lat: 49.209049,
+  lon: 5.9383,
+  nm: "Valleroy",
+  value: 2970932
+},  {
+  id: 2970923,
+  label: "Vallet",
+  lat: 47.16227,
+  lon: -1.26607,
+  nm: "Vallet",
+  value: 2970923
+},  {
+  id: 2970865,
+  label: "Valmont",
+  lat: 49.083832,
+  lon: 6.69942,
+  nm: "Valmont",
+  value: 2970865
+},  {
+  id: 2970860,
+  label: "Valognes",
+  lat: 49.508808,
+  lon: -1.47047,
+  nm: "Valognes",
+  value: 2970860
+},  {
+  id: 2970839,
+  label: "Valras-Plage",
+  lat: 43.248081,
+  lon: 3.29032,
+  nm: "Valras-Plage",
+  value: 2970839
+},  {
+  id: 2970838,
+  label: "Valreas",
+  lat: 44.383659,
+  lon: 4.99084,
+  nm: "Valreas",
+  value: 2970838
+},  {
+  id: 2970828,
+  label: "Vals-les-Bains",
+  lat: 44.663872,
+  lon: 4.36861,
+  nm: "Vals-les-Bains",
+  value: 2970828
+},  {
+  id: 2970826,
+  label: "Vals-pres-le-Puy",
+  lat: 45.031551,
+  lon: 3.87787,
+  nm: "Vals-pres-le-Puy",
+  value: 2970826
+},  {
+  id: 2970797,
+  label: "Vandoeuvre-les-Nancy",
+  lat: 48.650002,
+  lon: 6.18333,
+  nm: "Vandoeuvre-les-Nancy",
+  value: 2970797
+},  {
+  id: 2970777,
+  label: "Vannes",
+  lat: 47.666672,
+  lon: -2.75,
+  nm: "Vannes",
+  value: 2970777
+},  {
+  id: 2970761,
+  label: "Vanves",
+  lat: 48.823448,
+  lon: 2.29025,
+  nm: "Vanves",
+  value: 2970761
+},  {
+  id: 2970747,
+  label: "Varades",
+  lat: 47.384579,
+  lon: -1.02842,
+  nm: "Varades",
+  value: 2970747
+},  {
+  id: 2970739,
+  label: "Varangeville",
+  lat: 48.636051,
+  lon: 6.32112,
+  nm: "Varangeville",
+  value: 2970739
+},  {
+  id: 2970693,
+  label: "Varennes-Jarcy",
+  lat: 48.679138,
+  lon: 2.56152,
+  nm: "Varennes-Jarcy",
+  value: 2970693
+},  {
+  id: 2970692,
+  label: "Varennes-le-Grand",
+  lat: 46.718681,
+  lon: 4.86872,
+  nm: "Varennes-le-Grand",
+  value: 2970692
+},  {
+  id: 2970685,
+  label: "Varennes-sur-Allier",
+  lat: 46.31472,
+  lon: 3.39846,
+  nm: "Varennes-sur-Allier",
+  value: 2970685
+},  {
+  id: 2970681,
+  label: "Varennes-sur-Loire",
+  lat: 47.237671,
+  lon: 0.0535,
+  nm: "Varennes-sur-Loire",
+  value: 2970681
+},  {
+  id: 2970679,
+  label: "Varennes-sur-Seine",
+  lat: 48.373039,
+  lon: 2.92571,
+  nm: "Varennes-sur-Seine",
+  value: 2970679
+},  {
+  id: 3024865,
+  label: "Varennes-Vauzelles",
+  lat: 47.016781,
+  lon: 3.14037,
+  nm: "Varennes-Vauzelles",
+  value: 3024865
+},  {
+  id: 2970673,
+  label: "Varetz",
+  lat: 45.193901,
+  lon: 1.45121,
+  nm: "Varetz",
+  value: 2970673
+},  {
+  id: 2970669,
+  label: "Varilhes",
+  lat: 43.045139,
+  lon: 1.62805,
+  nm: "Varilhes",
+  value: 2970669
+},  {
+  id: 2970653,
+  label: "Varois-et-Chaignot",
+  lat: 47.350578,
+  lon: 5.12838,
+  nm: "Varois-et-Chaignot",
+  value: 2970653
+},  {
+  id: 2970650,
+  label: "Varreddes",
+  lat: 49.003052,
+  lon: 2.92788,
+  nm: "Varreddes",
+  value: 2970650
+},  {
+  id: 2970606,
+  label: "Vatan",
+  lat: 47.074471,
+  lon: 1.8101,
+  nm: "Vatan",
+  value: 2970606
+},  {
+  id: 2970546,
+  label: "Vaucouleurs",
+  lat: 48.60313,
+  lon: 5.66659,
+  nm: "Vaucouleurs",
+  value: 2970546
+},  {
+  id: 2970540,
+  label: "Vaucresson",
+  lat: 48.840778,
+  lon: 2.15652,
+  nm: "Vaucresson",
+  value: 2970540
+},  {
+  id: 2970477,
+  label: "Vaugneray",
+  lat: 45.737171,
+  lon: 4.65873,
+  nm: "Vaugneray",
+  value: 2970477
+},  {
+  id: 2970472,
+  label: "Vauhallan",
+  lat: 48.73354,
+  lon: 2.20277,
+  nm: "Vauhallan",
+  value: 2970472
+},  {
+  id: 2970469,
+  label: "Vaujours",
+  lat: 48.930222,
+  lon: 2.5711,
+  nm: "Vaujours",
+  value: 2970469
+},  {
+  id: 2970462,
+  label: "Vaulnaveys-le-Haut",
+  lat: 45.116959,
+  lon: 5.81257,
+  nm: "Vaulnaveys-le-Haut",
+  value: 2970462
+},  {
+  id: 2970456,
+  label: "Vaulx-en-Velin",
+  lat: 45.781799,
+  lon: 4.92085,
+  nm: "Vaulx-en-Velin",
+  value: 2970456
+},  {
+  id: 2970455,
+  label: "Vaulx-Milieu",
+  lat: 45.612259,
+  lon: 5.181,
+  nm: "Vaulx-Milieu",
+  value: 2970455
+},  {
+  id: 2970432,
+  label: "Vaureal",
+  lat: 49.033329,
+  lon: 2.03333,
+  nm: "Vaureal",
+  value: 2970432
+},  {
+  id: 2970407,
+  label: "Vauvert",
+  lat: 43.69529,
+  lon: 4.27705,
+  nm: "Vauvert",
+  value: 2970407
+},  {
+  id: 2970338,
+  label: "Vaux-le-Penil",
+  lat: 48.52803,
+  lon: 2.69165,
+  nm: "Vaux-le-Penil",
+  value: 2970338
+},  {
+  id: 2970317,
+  label: "Vaux-sur-Mer",
+  lat: 45.646061,
+  lon: -1.05841,
+  nm: "Vaux-sur-Mer",
+  value: 2970317
+},  {
+  id: 2970313,
+  label: "Vaux-sur-Seine",
+  lat: 49.012711,
+  lon: 1.96942,
+  nm: "Vaux-sur-Seine",
+  value: 2970313
+},  {
+  id: 2970287,
+  label: "Vayres",
+  lat: 44.900002,
+  lon: -0.31667,
+  nm: "Vayres",
+  value: 2970287
+},  {
+  id: 2970275,
+  label: "Veauche",
+  lat: 45.562939,
+  lon: 4.29031,
+  nm: "Veauche",
+  value: 2970275
+},  {
+  id: 2970253,
+  label: "Vedene",
+  lat: 43.97744,
+  lon: 4.90428,
+  nm: "Vedene",
+  value: 2970253
+},  {
+  id: 2970237,
+  label: "Veigne",
+  lat: 47.285561,
+  lon: 0.74079,
+  nm: "Veigne",
+  value: 2970237
+},  {
+  id: 2970236,
+  label: "Veigy-Foncenex",
+  lat: 46.270439,
+  lon: 6.25419,
+  nm: "Veigy-Foncenex",
+  value: 2970236
+},  {
+  id: 2970216,
+  label: "Velaux",
+  lat: 43.528389,
+  lon: 5.25661,
+  nm: "Velaux",
+  value: 2970216
+},  {
+  id: 2970203,
+  label: "Velizy-Villacoublay",
+  lat: 48.781979,
+  lon: 2.19395,
+  nm: "Velizy-Villacoublay",
+  value: 2970203
+},  {
+  id: 2970187,
+  label: "Velleron",
+  lat: 43.957588,
+  lon: 5.02879,
+  nm: "Velleron",
+  value: 2970187
+},  {
+  id: 2970163,
+  label: "Vemars",
+  lat: 49.06942,
+  lon: 2.56643,
+  nm: "Vemars",
+  value: 2970163
+},  {
+  id: 2970157,
+  label: "Venansault",
+  lat: 46.685162,
+  lon: -1.51415,
+  nm: "Venansault",
+  value: 2970157
+},  {
+  id: 2970154,
+  label: "Venarey-les-Laumes",
+  lat: 47.542019,
+  lon: 4.46022,
+  nm: "Venarey-les-Laumes",
+  value: 2970154
+},  {
+  id: 2970148,
+  label: "Vence",
+  lat: 43.721619,
+  lon: 7.11232,
+  nm: "Vence",
+  value: 2970148
+},  {
+  id: 2970144,
+  label: "Vendargues",
+  lat: 43.658329,
+  lon: 3.97,
+  nm: "Vendargues",
+  value: 2970144
+},  {
+  id: 2970143,
+  label: "Vendat",
+  lat: 46.160149,
+  lon: 3.35451,
+  nm: "Vendat",
+  value: 2970143
+},  {
+  id: 2970128,
+  label: "Vendenheim",
+  lat: 48.669479,
+  lon: 7.70983,
+  nm: "Vendenheim",
+  value: 2970128
+},  {
+  id: 2970120,
+  label: "Vendeuvre-du-Poitou",
+  lat: 46.73579,
+  lon: 0.30996,
+  nm: "Vendeuvre-du-Poitou",
+  value: 2970120
+},  {
+  id: 2970119,
+  label: "Vendeuvre-sur-Barse",
+  lat: 48.237862,
+  lon: 4.46905,
+  nm: "Vendeuvre-sur-Barse",
+  value: 2970119
+},  {
+  id: 2970113,
+  label: "Vendin-le-Vieil",
+  lat: 50.47385,
+  lon: 2.86674,
+  nm: "Vendin-le-Vieil",
+  value: 2970113
+},  {
+  id: 2970114,
+  label: "Vendin-les-Bethune",
+  lat: 50.540119,
+  lon: 2.60043,
+  nm: "Vendin-les-Bethune",
+  value: 2970114
+},  {
+  id: 2970110,
+  label: "Vendome",
+  lat: 47.799999,
+  lon: 1.06667,
+  nm: "Vendome",
+  value: 2970110
+},  {
+  id: 2970092,
+  label: "Venelles",
+  lat: 43.598389,
+  lon: 5.4853,
+  nm: "Venelles",
+  value: 2970092
+},  {
+  id: 2970086,
+  label: "Venerque",
+  lat: 43.43457,
+  lon: 1.44588,
+  nm: "Venerque",
+  value: 2970086
+},  {
+  id: 2970081,
+  label: "Venette",
+  lat: 49.417049,
+  lon: 2.80317,
+  nm: "Venette",
+  value: 2970081
+},  {
+  id: 2970080,
+  label: "Veneux-les-Sablons",
+  lat: 48.378719,
+  lon: 2.79499,
+  nm: "Veneux-les-Sablons",
+  value: 2970080
+},  {
+  id: 2970072,
+  label: "Venissieux",
+  lat: 45.702541,
+  lon: 4.87147,
+  nm: "Venissieux",
+  value: 2970072
+},  {
+  id: 2970061,
+  label: "Venoy",
+  lat: 47.80518,
+  lon: 3.63695,
+  nm: "Venoy",
+  value: 2970061
+},  {
+  id: 2970054,
+  label: "Ventabren",
+  lat: 43.538471,
+  lon: 5.29541,
+  nm: "Ventabren",
+  value: 2970054
+},  {
+  id: 2970033,
+  label: "Ventiseri",
+  lat: 41.941689,
+  lon: 9.33172,
+  nm: "Ventiseri",
+  value: 2970033
+},  {
+  id: 2970018,
+  label: "Verberie",
+  lat: 49.31115,
+  lon: 2.7321,
+  nm: "Verberie",
+  value: 2970018
+},  {
+  id: 2969958,
+  label: "Verdun",
+  lat: 49.166672,
+  lon: 5.38333,
+  nm: "Verdun",
+  value: 2969958
+},  {
+  id: 2969960,
+  label: "Verdun-sur-Garonne",
+  lat: 43.854462,
+  lon: 1.23425,
+  nm: "Verdun-sur-Garonne",
+  value: 2969960
+},  {
+  id: 2969947,
+  label: "Veretz",
+  lat: 47.357059,
+  lon: 0.80575,
+  nm: "Veretz",
+  value: 2969947
+},  {
+  id: 2969944,
+  label: "Verfeil",
+  lat: 43.65781,
+  lon: 1.6634,
+  nm: "Verfeil",
+  value: 2969944
+},  {
+  id: 2969930,
+  label: "Vergeze",
+  lat: 43.744041,
+  lon: 4.22109,
+  nm: "Vergeze",
+  value: 2969930
+},  {
+  id: 2969871,
+  label: "Verlinghem",
+  lat: 50.682911,
+  lon: 2.99907,
+  nm: "Verlinghem",
+  value: 2969871
+},  {
+  id: 2969864,
+  label: "Vermelles",
+  lat: 50.489491,
+  lon: 2.74739,
+  nm: "Vermelles",
+  value: 2969864
+},  {
+  id: 2969741,
+  label: "Vern-sur-Seiche",
+  lat: 48.045139,
+  lon: -1.60057,
+  nm: "Vern-sur-Seiche",
+  value: 2969741
+},  {
+  id: 2969854,
+  label: "Vernaison",
+  lat: 45.646931,
+  lon: 4.81249,
+  nm: "Vernaison",
+  value: 2969854
+},  {
+  id: 2969850,
+  label: "Vernantes",
+  lat: 47.3932,
+  lon: 0.05304,
+  nm: "Vernantes",
+  value: 2969850
+},  {
+  id: 2998879,
+  label: "Vernet",
+  lat: 43.433331,
+  lon: 1.41667,
+  nm: "Vernet",
+  value: 2998879
+},  {
+  id: 2969806,
+  label: "Verneuil-en-Halatte",
+  lat: 49.27914,
+  lon: 2.5241,
+  nm: "Verneuil-en-Halatte",
+  value: 2969806
+},  {
+  id: 2969799,
+  label: "Verneuil-sur-Avre",
+  lat: 48.739491,
+  lon: 0.92731,
+  nm: "Verneuil-sur-Avre",
+  value: 2969799
+},  {
+  id: 2969796,
+  label: "Verneuil-sur-Seine",
+  lat: 48.973881,
+  lon: 1.9648,
+  nm: "Verneuil-sur-Seine",
+  value: 2969796
+},  {
+  id: 2969794,
+  label: "Verneuil-sur-Vienne",
+  lat: 45.85524,
+  lon: 1.10133,
+  nm: "Verneuil-sur-Vienne",
+  value: 2969794
+},  {
+  id: 2969781,
+  label: "Verniolle",
+  lat: 43.081619,
+  lon: 1.64904,
+  nm: "Verniolle",
+  value: 2969781
+},  {
+  id: 2969766,
+  label: "Vernon",
+  lat: 49.092918,
+  lon: 1.46332,
+  nm: "Vernon",
+  value: 2969766
+},  {
+  id: 2969749,
+  label: "Vernou-la-Celle-sur-Seine",
+  lat: 48.38789,
+  lon: 2.84718,
+  nm: "Vernou-la-Celle-sur-Seine",
+  value: 2969749
+},  {
+  id: 2969750,
+  label: "Vernou-sur-Brenne",
+  lat: 47.419361,
+  lon: 0.84758,
+  nm: "Vernou-sur-Brenne",
+  value: 2969750
+},  {
+  id: 2969751,
+  label: "Vernouillet",
+  lat: 48.971458,
+  lon: 1.98082,
+  nm: "Vernouillet",
+  value: 2969751
+},  {
+  id: 2969752,
+  label: "Vernouillet",
+  lat: 48.720901,
+  lon: 1.36951,
+  nm: "Vernouillet",
+  value: 2969752
+},  {
+  id: 2969722,
+  label: "Verquin",
+  lat: 50.502399,
+  lon: 2.63888,
+  nm: "Verquin",
+  value: 2969722
+},  {
+  id: 2969692,
+  label: "Verrieres-le-Buisson",
+  lat: 48.745651,
+  lon: 2.26796,
+  nm: "Verrieres-le-Buisson",
+  value: 2969692
+},  {
+  id: 2969679,
+  label: "Versailles",
+  lat: 48.799999,
+  lon: 2.13333,
+  nm: "Versailles",
+  value: 2969679
+},  {
+  id: 2969665,
+  label: "Verson",
+  lat: 49.15432,
+  lon: -0.45628,
+  nm: "Verson",
+  value: 2969665
+},  {
+  id: 2969664,
+  label: "Versonnex",
+  lat: 45.927528,
+  lon: 5.92585,
+  nm: "Versonnex",
+  value: 2969664
+},  {
+  id: 2969617,
+  label: "Vert-le-Grand",
+  lat: 48.57172,
+  lon: 2.35776,
+  nm: "Vert-le-Grand",
+  value: 2969617
+},  {
+  id: 2969616,
+  label: "Vert-le-Petit",
+  lat: 48.551628,
+  lon: 2.36526,
+  nm: "Vert-le-Petit",
+  value: 2969616
+},  {
+  id: 2969608,
+  label: "Vert-Saint-Denis",
+  lat: 48.56818,
+  lon: 2.62008,
+  nm: "Vert-Saint-Denis",
+  value: 2969608
+},  {
+  id: 2969646,
+  label: "Vertaizon",
+  lat: 45.771358,
+  lon: 3.28884,
+  nm: "Vertaizon",
+  value: 2969646
+},  {
+  id: 2969613,
+  label: "Verton",
+  lat: 50.40234,
+  lon: 1.64766,
+  nm: "Verton",
+  value: 2969613
+},  {
+  id: 2969612,
+  label: "Vertou",
+  lat: 47.16869,
+  lon: -1.46929,
+  nm: "Vertou",
+  value: 2969612
+},  {
+  id: 2969607,
+  label: "Vertus",
+  lat: 48.90609,
+  lon: 4.00216,
+  nm: "Vertus",
+  value: 2969607
+},  {
+  id: 2969599,
+  label: "Vervins",
+  lat: 49.833328,
+  lon: 3.9,
+  nm: "Vervins",
+  value: 2969599
+},  {
+  id: 2969578,
+  label: "Vescovato",
+  lat: 42.492779,
+  lon: 9.43916,
+  nm: "Vescovato",
+  value: 2969578
+},  {
+  id: 2969562,
+  label: "Vesoul",
+  lat: 47.633331,
+  lon: 6.16667,
+  nm: "Vesoul",
+  value: 2969562
+},  {
+  id: 2969543,
+  label: "Vetraz-Monthoux",
+  lat: 46.174301,
+  lon: 6.25852,
+  nm: "Vetraz-Monthoux",
+  value: 2969543
+},  {
+  id: 2969516,
+  label: "Veynes",
+  lat: 44.533329,
+  lon: 5.81667,
+  nm: "Veynes",
+  value: 2969516
+},  {
+  id: 2969506,
+  label: "Veyre-Monton",
+  lat: 45.668659,
+  lon: 3.17144,
+  nm: "Veyre-Monton",
+  value: 2969506
+},  {
+  id: 2969502,
+  label: "Veyrier-du-Lac",
+  lat: 45.879902,
+  lon: 6.17751,
+  nm: "Veyrier-du-Lac",
+  value: 2969502
+},  {
+  id: 2969465,
+  label: "Vezin-le-Coquet",
+  lat: 48.118568,
+  lon: -1.75466,
+  nm: "Vezin-le-Coquet",
+  value: 2969465
+},  {
+  id: 2969423,
+  label: "Viarmes",
+  lat: 49.130821,
+  lon: 2.37074,
+  nm: "Viarmes",
+  value: 2969423
+},  {
+  id: 2969421,
+  label: "Vias",
+  lat: 43.311562,
+  lon: 3.41774,
+  nm: "Vias",
+  value: 2969421
+},  {
+  id: 2969411,
+  label: "Vibraye",
+  lat: 48.056068,
+  lon: 0.74171,
+  nm: "Vibraye",
+  value: 2969411
+},  {
+  id: 2969401,
+  label: "Vic-en-Bigorre",
+  lat: 43.383331,
+  lon: 0.05,
+  nm: "Vic-en-Bigorre",
+  value: 2969401
+},  {
+  id: 2969400,
+  label: "Vic-Fezensac",
+  lat: 43.771832,
+  lon: 0.31368,
+  nm: "Vic-Fezensac",
+  value: 2969400
+},  {
+  id: 2969389,
+  label: "Vic-la-Gardiole",
+  lat: 43.490799,
+  lon: 3.7975,
+  nm: "Vic-la-Gardiole",
+  value: 2969389
+},  {
+  id: 2969388,
+  label: "Vic-le-Comte",
+  lat: 45.643169,
+  lon: 3.24638,
+  nm: "Vic-le-Comte",
+  value: 2969388
+},  {
+  id: 2969365,
+  label: "Vic-sur-Cere",
+  lat: 44.97929,
+  lon: 2.62485,
+  nm: "Vic-sur-Cere",
+  value: 2969365
+},  {
+  id: 2969392,
+  label: "Vichy",
+  lat: 46.116669,
+  lon: 3.41667,
+  nm: "Vichy",
+  value: 2969392
+},  {
+  id: 2969353,
+  label: "Vidauban",
+  lat: 43.427799,
+  lon: 6.4329,
+  nm: "Vidauban",
+  value: 2969353
+},  {
+  id: 2969316,
+  label: "Vieillevigne",
+  lat: 46.972141,
+  lon: -1.43405,
+  nm: "Vieillevigne",
+  value: 2969316
+},  {
+  id: 2969284,
+  label: "Vienne",
+  lat: 45.51667,
+  lon: 4.86667,
+  nm: "Vienne",
+  value: 2969284
+},  {
+  id: 2969257,
+  label: "Vierzon",
+  lat: 47.216671,
+  lon: 2.08333,
+  nm: "Vierzon",
+  value: 2969257
+},  {
+  id: 2969234,
+  label: "Vieux-Berquin",
+  lat: 50.694889,
+  lon: 2.64444,
+  nm: "Vieux-Berquin",
+  value: 2969234
+},  {
+  id: 2969219,
+  label: "Vieux-Charmont",
+  lat: 47.5219,
+  lon: 6.83738,
+  nm: "Vieux-Charmont",
+  value: 2969219
+},  {
+  id: 2969213,
+  label: "Vieux-Conde",
+  lat: 50.459438,
+  lon: 3.56738,
+  nm: "Vieux-Conde",
+  value: 2969213
+},  {
+  id: 2969176,
+  label: "Vieux-Thann",
+  lat: 47.803471,
+  lon: 7.12068,
+  nm: "Vieux-Thann",
+  value: 2969176
+},  {
+  id: 2969160,
+  label: "Vif",
+  lat: 45.054359,
+  lon: 5.67757,
+  nm: "Vif",
+  value: 2969160
+},  {
+  id: 2969146,
+  label: "Vignacourt",
+  lat: 50.01236,
+  lon: 2.19743,
+  nm: "Vignacourt",
+  value: 2969146
+},  {
+  id: 2969111,
+  label: "Vigneux-de-Bretagne",
+  lat: 47.32547,
+  lon: -1.73678,
+  nm: "Vigneux-de-Bretagne",
+  value: 2969111
+},  {
+  id: 2969109,
+  label: "Vigneux-sur-Seine",
+  lat: 48.702911,
+  lon: 2.41357,
+  nm: "Vigneux-sur-Seine",
+  value: 2969109
+},  {
+  id: 2969087,
+  label: "Vignoux-sur-Barangeon",
+  lat: 47.20068,
+  lon: 2.17258,
+  nm: "Vignoux-sur-Barangeon",
+  value: 2969087
+},  {
+  id: 2969073,
+  label: "Vihiers",
+  lat: 47.146309,
+  lon: -0.53238,
+  nm: "Vihiers",
+  value: 2969073
+},  {
+  id: 2969058,
+  label: "Villabe",
+  lat: 48.589489,
+  lon: 2.45096,
+  nm: "Villabe",
+  value: 2969058
+},  {
+  id: 2969046,
+  label: "Village-Neuf",
+  lat: 47.59016,
+  lon: 7.57019,
+  nm: "Village-Neuf",
+  value: 2969046
+},  {
+  id: 2969032,
+  label: "Villaines-la-Juhel",
+  lat: 48.344158,
+  lon: -0.27734,
+  nm: "Villaines-la-Juhel",
+  value: 2969032
+},  {
+  id: 2968985,
+  label: "Villard-Bonnot",
+  lat: 45.240002,
+  lon: 5.89015,
+  nm: "Villard-Bonnot",
+  value: 2968985
+},  {
+  id: 2968984,
+  label: "Villard-de-Lans",
+  lat: 45.070702,
+  lon: 5.55281,
+  nm: "Villard-de-Lans",
+  value: 2968984
+},  {
+  id: 2968935,
+  label: "Villars",
+  lat: 45.47118,
+  lon: 4.35447,
+  nm: "Villars",
+  value: 2968935
+},  {
+  id: 2968917,
+  label: "Villars-les-Dombes",
+  lat: 46.00227,
+  lon: 5.02905,
+  nm: "Villars-les-Dombes",
+  value: 2968917
+},  {
+  id: 2968897,
+  label: "Villaz",
+  lat: 45.950691,
+  lon: 6.18717,
+  nm: "Villaz",
+  value: 2968897
+},  {
+  id: 2968819,
+  label: "Ville-dAvray",
+  lat: 48.823582,
+  lon: 2.19311,
+  nm: "Ville-dAvray",
+  value: 2968819
+},  {
+  id: 2968703,
+  label: "Ville-la-Grand",
+  lat: 46.202999,
+  lon: 6.2501,
+  nm: "Ville-la-Grand",
+  value: 2968703
+},  {
+  id: 2968879,
+  label: "Villebarou",
+  lat: 47.62344,
+  lon: 1.32252,
+  nm: "Villebarou",
+  value: 2968879
+},  {
+  id: 2968861,
+  label: "Villebon-sur-Yvette",
+  lat: 48.70594,
+  lon: 2.24019,
+  nm: "Villebon-sur-Yvette",
+  value: 2968861
+},  {
+  id: 2968823,
+  label: "Villecresnes",
+  lat: 48.72002,
+  lon: 2.5394,
+  nm: "Villecresnes",
+  value: 2968823
+},  {
+  id: 2968805,
+  label: "Villedieu-la-Blouere",
+  lat: 47.147381,
+  lon: -1.06286,
+  nm: "Villedieu-la-Blouere",
+  value: 2968805
+},  {
+  id: 2968801,
+  label: "Villedieu-les-Poeles",
+  lat: 48.833328,
+  lon: -1.21667,
+  nm: "Villedieu-les-Poeles",
+  value: 2968801
+},  {
+  id: 2968800,
+  label: "Villedieu-sur-Indre",
+  lat: 46.845982,
+  lon: 1.53975,
+  nm: "Villedieu-sur-Indre",
+  value: 2968800
+},  {
+  id: 2968771,
+  label: "Villefontaine",
+  lat: 45.612499,
+  lon: 5.14558,
+  nm: "Villefontaine",
+  value: 2968771
+},  {
+  id: 2968758,
+  label: "Villefranche-de-Lauragais",
+  lat: 43.400002,
+  lon: 1.71694,
+  nm: "Villefranche-de-Lauragais",
+  value: 2968758
+},  {
+  id: 2968755,
+  label: "Villefranche-de-Rouergue",
+  lat: 44.349998,
+  lon: 2.05,
+  nm: "Villefranche-de-Rouergue",
+  value: 2968755
+},  {
+  id: 2968765,
+  label: "Villefranche-sur-Cher",
+  lat: 47.299999,
+  lon: 1.76667,
+  nm: "Villefranche-sur-Cher",
+  value: 2968765
+},  {
+  id: 2968749,
+  label: "Villefranche-sur-Mer",
+  lat: 43.7047,
+  lon: 7.30776,
+  nm: "Villefranche-sur-Mer",
+  value: 2968749
+},  {
+  id: 2968748,
+  label: "Villefranche-sur-Saone",
+  lat: 45.98333,
+  lon: 4.71667,
+  nm: "Villefranche-sur-Saone",
+  value: 2968748
+},  {
+  id: 2968744,
+  label: "Villefranque",
+  lat: 43.43631,
+  lon: -1.45324,
+  nm: "Villefranque",
+  value: 2968744
+},  {
+  id: 2968705,
+  label: "Villejuif",
+  lat: 48.7939,
+  lon: 2.35992,
+  nm: "Villejuif",
+  value: 2968705
+},  {
+  id: 2968701,
+  label: "Villelaure",
+  lat: 43.713188,
+  lon: 5.43072,
+  nm: "Villelaure",
+  value: 2968701
+},  {
+  id: 2968691,
+  label: "Villelongue-de-la-Salanque",
+  lat: 42.726372,
+  lon: 2.9824,
+  nm: "Villelongue-de-la-Salanque",
+  value: 2968691
+},  {
+  id: 2968682,
+  label: "Villemandeur",
+  lat: 47.987011,
+  lon: 2.71802,
+  nm: "Villemandeur",
+  value: 2968682
+},  {
+  id: 2968655,
+  label: "Villemoisson-sur-Orge",
+  lat: 48.666321,
+  lon: 2.33657,
+  nm: "Villemoisson-sur-Orge",
+  value: 2968655
+},  {
+  id: 2968653,
+  label: "Villemomble",
+  lat: 48.883331,
+  lon: 2.5,
+  nm: "Villemomble",
+  value: 2968653
+},  {
+  id: 2968631,
+  label: "Villemoustaussou",
+  lat: 43.251862,
+  lon: 2.36552,
+  nm: "Villemoustaussou",
+  value: 2968631
+},  {
+  id: 2968626,
+  label: "Villemur-sur-Tarn",
+  lat: 43.867081,
+  lon: 1.50281,
+  nm: "Villemur-sur-Tarn",
+  value: 2968626
+},  {
+  id: 2968624,
+  label: "Villenauxe-la-Grande",
+  lat: 48.583328,
+  lon: 3.55,
+  nm: "Villenauxe-la-Grande",
+  value: 2968624
+},  {
+  id: 2968620,
+  label: "Villenave-dOrnon",
+  lat: 44.77327,
+  lon: -0.5442,
+  nm: "Villenave-dOrnon",
+  value: 2968620
+},  {
+  id: 2968575,
+  label: "Villeneuve",
+  lat: 44.433331,
+  lon: 2.03333,
+  nm: "Villeneuve",
+  value: 2968575
+},  {
+  id: 2968614,
+  label: "Villeneuve",
+  lat: 43.89431,
+  lon: 5.86184,
+  nm: "Villeneuve",
+  value: 2968614
+},  {
+  id: 6543862,
+  label: "Villeneuve-dAscq",
+  lat: 50.616692,
+  lon: 3.16664,
+  nm: "Villeneuve-dAscq",
+  value: 6543862
+},  {
+  id: 2968574,
+  label: "Villeneuve-de-Berg",
+  lat: 44.55732,
+  lon: 4.50265,
+  nm: "Villeneuve-de-Berg",
+  value: 2968574
+},  {
+  id: 2968571,
+  label: "Villeneuve-de-la-Raho",
+  lat: 42.63596,
+  lon: 2.91651,
+  nm: "Villeneuve-de-la-Raho",
+  value: 2968571
+},  {
+  id: 2968569,
+  label: "Villeneuve-de-Marsan",
+  lat: 43.889061,
+  lon: -0.30926,
+  nm: "Villeneuve-de-Marsan",
+  value: 2968569
+},  {
+  id: 2968555,
+  label: "Villeneuve-la-Garenne",
+  lat: 48.93935,
+  lon: 2.31478,
+  nm: "Villeneuve-la-Garenne",
+  value: 2968555
+},  {
+  id: 2968554,
+  label: "Villeneuve-la-Guyard",
+  lat: 48.340931,
+  lon: 3.06176,
+  nm: "Villeneuve-la-Guyard",
+  value: 2968554
+},  {
+  id: 2968546,
+  label: "Villeneuve-le-Roi",
+  lat: 48.736839,
+  lon: 2.40081,
+  nm: "Villeneuve-le-Roi",
+  value: 2968546
+},  {
+  id: 2968545,
+  label: "Villeneuve-les-Avignon",
+  lat: 43.968399,
+  lon: 4.7963,
+  nm: "Villeneuve-les-Avignon",
+  value: 2968545
+},  {
+  id: 2968544,
+  label: "Villeneuve-les-Beziers",
+  lat: 43.31517,
+  lon: 3.28059,
+  nm: "Villeneuve-les-Beziers",
+  value: 2968544
+},  {
+  id: 2968536,
+  label: "Villeneuve-les-Maguelone",
+  lat: 43.533329,
+  lon: 3.86667,
+  nm: "Villeneuve-les-Maguelone",
+  value: 2968536
+},  {
+  id: 2968533,
+  label: "Villeneuve-Loubet",
+  lat: 43.66663,
+  lon: 7.1204,
+  nm: "Villeneuve-Loubet",
+  value: 2968533
+},  {
+  id: 2968529,
+  label: "Villeneuve-Saint-Georges",
+  lat: 48.732189,
+  lon: 2.44925,
+  nm: "Villeneuve-Saint-Georges",
+  value: 2968529
+},  {
+  id: 2968528,
+  label: "Villeneuve-Saint-Germain",
+  lat: 49.379761,
+  lon: 3.35952,
+  nm: "Villeneuve-Saint-Germain",
+  value: 2968528
+},  {
+  id: 2968515,
+  label: "Villeneuve-sur-Lot",
+  lat: 44.408539,
+  lon: 0.70415,
+  nm: "Villeneuve-sur-Lot",
+  value: 2968515
+},  {
+  id: 2968511,
+  label: "Villeneuve-sur-Yonne",
+  lat: 48.08247,
+  lon: 3.29688,
+  nm: "Villeneuve-sur-Yonne",
+  value: 2968511
+},  {
+  id: 2968510,
+  label: "Villeneuve-Tolosane",
+  lat: 43.523159,
+  lon: 1.34102,
+  nm: "Villeneuve-Tolosane",
+  value: 2968510
+},  {
+  id: 2968507,
+  label: "Villennes-sur-Seine",
+  lat: 48.941368,
+  lon: 1.99137,
+  nm: "Villennes-sur-Seine",
+  value: 2968507
+},  {
+  id: 2968502,
+  label: "Villenoy",
+  lat: 48.94112,
+  lon: 2.8602,
+  nm: "Villenoy",
+  value: 2968502
+},  {
+  id: 2968496,
+  label: "Villeparisis",
+  lat: 48.942081,
+  lon: 2.61463,
+  nm: "Villeparisis",
+  value: 2968496
+},  {
+  id: 2968482,
+  label: "Villepinte",
+  lat: 48.962029,
+  lon: 2.53253,
+  nm: "Villepinte",
+  value: 2968482
+},  {
+  id: 2968475,
+  label: "Villepreux",
+  lat: 48.828152,
+  lon: 1.9976,
+  nm: "Villepreux",
+  value: 2968475
+},  {
+  id: 2968456,
+  label: "Villerest",
+  lat: 46,
+  lon: 4.03333,
+  nm: "Villerest",
+  value: 2968456
+},  {
+  id: 2968419,
+  label: "Villers-Bocage",
+  lat: 49.079601,
+  lon: -0.65412,
+  nm: "Villers-Bocage",
+  value: 2968419
+},  {
+  id: 2968415,
+  label: "Villers-Bretonneux",
+  lat: 49.868439,
+  lon: 2.51688,
+  nm: "Villers-Bretonneux",
+  value: 2968415
+},  {
+  id: 2968405,
+  label: "Villers-Cotterets",
+  lat: 49.253109,
+  lon: 3.09003,
+  nm: "Villers-Cotterets",
+  value: 2968405
+},  {
+  id: 2968379,
+  label: "Villers-le-Lac",
+  lat: 47.06319,
+  lon: 6.66699,
+  nm: "Villers-le-Lac",
+  value: 2968379
+},  {
+  id: 2968368,
+  label: "Villers-les-Nancy",
+  lat: 48.671028,
+  lon: 6.15083,
+  nm: "Villers-les-Nancy",
+  value: 2968368
+},  {
+  id: 2968360,
+  label: "Villers-Outreaux",
+  lat: 50.0359,
+  lon: 3.29947,
+  nm: "Villers-Outreaux",
+  value: 2968360
+},  {
+  id: 2968348,
+  label: "Villers-Saint-Paul",
+  lat: 49.288841,
+  lon: 2.48968,
+  nm: "Villers-Saint-Paul",
+  value: 2968348
+},  {
+  id: 2968346,
+  label: "Villers-Semeuse",
+  lat: 49.742008,
+  lon: 4.74697,
+  nm: "Villers-Semeuse",
+  value: 2968346
+},  {
+  id: 2968335,
+  label: "Villers-sous-Saint-Leu",
+  lat: 49.212349,
+  lon: 2.39485,
+  nm: "Villers-sous-Saint-Leu",
+  value: 2968335
+},  {
+  id: 2968325,
+  label: "Villers-sur-Mer",
+  lat: 49.322639,
+  lon: 0.00027,
+  nm: "Villers-sur-Mer",
+  value: 2968325
+},  {
+  id: 2968316,
+  label: "Villerupt",
+  lat: 49.467369,
+  lon: 5.93285,
+  nm: "Villerupt",
+  value: 2968316
+},  {
+  id: 2968275,
+  label: "Villetaneuse",
+  lat: 48.958328,
+  lon: 2.34167,
+  nm: "Villetaneuse",
+  value: 2968275
+},  {
+  id: 2968254,
+  label: "Villeurbanne",
+  lat: 45.76667,
+  lon: 4.88333,
+  nm: "Villeurbanne",
+  value: 2968254
+},  {
+  id: 2968242,
+  label: "Villeveque",
+  lat: 47.560951,
+  lon: -0.42383,
+  nm: "Villeveque",
+  value: 2968242
+},  {
+  id: 2968238,
+  label: "Villeveyrac",
+  lat: 43.50095,
+  lon: 3.60723,
+  nm: "Villeveyrac",
+  value: 2968238
+},  {
+  id: 2968176,
+  label: "Villiers-le-Bel",
+  lat: 49.008751,
+  lon: 2.39819,
+  nm: "Villiers-le-Bel",
+  value: 2968176
+},  {
+  id: 2968152,
+  label: "Villiers-Saint-Frederic",
+  lat: 48.816669,
+  lon: 1.88333,
+  nm: "Villiers-Saint-Frederic",
+  value: 2968152
+},  {
+  id: 2968142,
+  label: "Villiers-sur-Marne",
+  lat: 48.831001,
+  lon: 2.54844,
+  nm: "Villiers-sur-Marne",
+  value: 2968142
+},  {
+  id: 2968139,
+  label: "Villiers-sur-Orge",
+  lat: 48.659531,
+  lon: 2.30002,
+  nm: "Villiers-sur-Orge",
+  value: 2968139
+},  {
+  id: 2968072,
+  label: "Vimoutiers",
+  lat: 48.927719,
+  lon: 0.19835,
+  nm: "Vimoutiers",
+  value: 2968072
+},  {
+  id: 2968070,
+  label: "Vimy",
+  lat: 50.372429,
+  lon: 2.81034,
+  nm: "Vimy",
+  value: 2968070
+},  {
+  id: 2968066,
+  label: "Vinassan",
+  lat: 43.20443,
+  lon: 3.07463,
+  nm: "Vinassan",
+  value: 2968066
+},  {
+  id: 2968064,
+  label: "Vinay",
+  lat: 45.210751,
+  lon: 5.40806,
+  nm: "Vinay",
+  value: 2968064
+},  {
+  id: 2968054,
+  label: "Vincennes",
+  lat: 48.848598,
+  lon: 2.43769,
+  nm: "Vincennes",
+  value: 2968054
+},  {
+  id: 2968051,
+  label: "Vincey",
+  lat: 48.33749,
+  lon: 6.33134,
+  nm: "Vincey",
+  value: 2968051
+},  {
+  id: 2968035,
+  label: "Vineuil",
+  lat: 47.583801,
+  lon: 1.37602,
+  nm: "Vineuil",
+  value: 2968035
+},  {
+  id: 2968023,
+  label: "Vinon-sur-Verdon",
+  lat: 43.72451,
+  lon: 5.81081,
+  nm: "Vinon-sur-Verdon",
+  value: 2968023
+},  {
+  id: 2968008,
+  label: "Violaines",
+  lat: 50.541599,
+  lon: 2.7886,
+  nm: "Violaines",
+  value: 2968008
+},  {
+  id: 2967972,
+  label: "Vire",
+  lat: 48.833328,
+  lon: -0.88333,
+  nm: "Vire",
+  value: 2967972
+},  {
+  id: 2967955,
+  label: "Vireux-Wallerand",
+  lat: 50.081959,
+  lon: 4.73017,
+  nm: "Vireux-Wallerand",
+  value: 2967955
+},  {
+  id: 2967949,
+  label: "Viriat",
+  lat: 46.254841,
+  lon: 5.21567,
+  nm: "Viriat",
+  value: 2967949
+},  {
+  id: 2967934,
+  label: "Viroflay",
+  lat: 48.800781,
+  lon: 2.16181,
+  nm: "Viroflay",
+  value: 2967934
+},  {
+  id: 2967920,
+  label: "Viry",
+  lat: 46.117168,
+  lon: 6.03717,
+  nm: "Viry",
+  value: 2967920
+},  {
+  id: 2967917,
+  label: "Viry-Chatillon",
+  lat: 48.672119,
+  lon: 2.39318,
+  nm: "Viry-Chatillon",
+  value: 2967917
+},  {
+  id: 2967916,
+  label: "Viry-Noureuil",
+  lat: 49.632141,
+  lon: 3.24322,
+  nm: "Viry-Noureuil",
+  value: 2967916
+},  {
+  id: 2967879,
+  label: "Vitre",
+  lat: 48.11776,
+  lon: -1.20577,
+  nm: "Vitre",
+  value: 2967879
+},  {
+  id: 2967870,
+  label: "Vitrolles",
+  lat: 43.459999,
+  lon: 5.24861,
+  nm: "Vitrolles",
+  value: 2967870
+},  {
+  id: 2967863,
+  label: "Vitry-en-Artois",
+  lat: 50.326599,
+  lon: 2.97999,
+  nm: "Vitry-en-Artois",
+  value: 2967863
+},  {
+  id: 2967856,
+  label: "Vitry-le-Francois",
+  lat: 48.73333,
+  lon: 4.58333,
+  nm: "Vitry-le-Francois",
+  value: 2967856
+},  {
+  id: 2967850,
+  label: "Vitry-sur-Orne",
+  lat: 49.265541,
+  lon: 6.11113,
+  nm: "Vitry-sur-Orne",
+  value: 2967850
+},  {
+  id: 2967849,
+  label: "Vitry-sur-Seine",
+  lat: 48.787159,
+  lon: 2.40332,
+  nm: "Vitry-sur-Seine",
+  value: 2967849
+},  {
+  id: 2967845,
+  label: "Vittel",
+  lat: 48.200851,
+  lon: 5.94843,
+  nm: "Vittel",
+  value: 2967845
+},  {
+  id: 2967837,
+  label: "Viuz-en-Sallaz",
+  lat: 46.145561,
+  lon: 6.40986,
+  nm: "Viuz-en-Sallaz",
+  value: 2967837
+},  {
+  id: 2967823,
+  label: "Vivier-au-Court",
+  lat: 49.733261,
+  lon: 4.82939,
+  nm: "Vivier-au-Court",
+  value: 2967823
+},  {
+  id: 2967820,
+  label: "Viviers",
+  lat: 44.485149,
+  lon: 4.68721,
+  nm: "Viviers",
+  value: 2967820
+},  {
+  id: 2967803,
+  label: "Vivonne",
+  lat: 46.429531,
+  lon: 0.26443,
+  nm: "Vivonne",
+  value: 2967803
+},  {
+  id: 2967802,
+  label: "Vivy",
+  lat: 47.326481,
+  lon: -0.05531,
+  nm: "Vivy",
+  value: 2967802
+},  {
+  id: 2967796,
+  label: "Vizille",
+  lat: 45.07819,
+  lon: 5.77074,
+  nm: "Vizille",
+  value: 2967796
+},  {
+  id: 2967758,
+  label: "Voiron",
+  lat: 45.363949,
+  lon: 5.59209,
+  nm: "Voiron",
+  value: 2967758
+},  {
+  id: 2967745,
+  label: "Voisins-le-Bretonneux",
+  lat: 48.757931,
+  lon: 2.05137,
+  nm: "Voisins-le-Bretonneux",
+  value: 2967745
+},  {
+  id: 2967710,
+  label: "Volvic",
+  lat: 45.87196,
+  lon: 3.03832,
+  nm: "Volvic",
+  value: 2967710
+},  {
+  id: 2967708,
+  label: "Volx",
+  lat: 43.873829,
+  lon: 5.8413,
+  nm: "Volx",
+  value: 2967708
+},  {
+  id: 2967700,
+  label: "Vonnas",
+  lat: 46.21867,
+  lon: 4.99161,
+  nm: "Vonnas",
+  value: 2967700
+},  {
+  id: 2967695,
+  label: "Voreppe",
+  lat: 45.294762,
+  lon: 5.63324,
+  nm: "Voreppe",
+  value: 2967695
+},  {
+  id: 2967648,
+  label: "Vouille",
+  lat: 46.315498,
+  lon: -0.36844,
+  nm: "Vouille",
+  value: 2967648
+},  {
+  id: 2967647,
+  label: "Vouille",
+  lat: 46.64011,
+  lon: 0.16778,
+  nm: "Vouille",
+  value: 2967647
+},  {
+  id: 2967641,
+  label: "Voujeaucourt",
+  lat: 47.475128,
+  lon: 6.77431,
+  nm: "Voujeaucourt",
+  value: 2967641
+},  {
+  id: 2967628,
+  label: "Vouneuil-sous-Biard",
+  lat: 46.573872,
+  lon: 0.26988,
+  nm: "Vouneuil-sous-Biard",
+  value: 2967628
+},  {
+  id: 2967627,
+  label: "Vouneuil-sur-Vienne",
+  lat: 46.71793,
+  lon: 0.53936,
+  nm: "Vouneuil-sur-Vienne",
+  value: 2967627
+},  {
+  id: 2967625,
+  label: "Vourles",
+  lat: 45.656738,
+  lon: 4.77157,
+  nm: "Vourles",
+  value: 2967625
+},  {
+  id: 2967612,
+  label: "Vouvray",
+  lat: 47.410881,
+  lon: 0.79892,
+  nm: "Vouvray",
+  value: 2967612
+},  {
+  id: 2967603,
+  label: "Vouziers",
+  lat: 49.400002,
+  lon: 4.7,
+  nm: "Vouziers",
+  value: 2967603
+},  {
+  id: 2967595,
+  label: "Voves",
+  lat: 48.271381,
+  lon: 1.62583,
+  nm: "Voves",
+  value: 2967595
+},  {
+  id: 2967570,
+  label: "Vrigne-aux-Bois",
+  lat: 49.73716,
+  lon: 4.85567,
+  nm: "Vrigne-aux-Bois",
+  value: 2967570
+},  {
+  id: 2967542,
+  label: "Vulaines-sur-Seine",
+  lat: 48.431862,
+  lon: 2.76476,
+  nm: "Vulaines-sur-Seine",
+  value: 2967542
+},  {
+  id: 2967516,
+  label: "Wahagnies",
+  lat: 50.486649,
+  lon: 3.03448,
+  nm: "Wahagnies",
+  value: 2967516
+},  {
+  id: 2967494,
+  label: "Wallers",
+  lat: 50.374321,
+  lon: 3.39188,
+  nm: "Wallers",
+  value: 2967494
+},  {
+  id: 2967482,
+  label: "Wambrechies",
+  lat: 50.682758,
+  lon: 3.04784,
+  nm: "Wambrechies",
+  value: 2967482
+},  {
+  id: 2967460,
+  label: "Warhem",
+  lat: 50.975922,
+  lon: 2.49303,
+  nm: "Warhem",
+  value: 2967460
+},  {
+  id: 2967449,
+  label: "Warmeriville",
+  lat: 49.352261,
+  lon: 4.21882,
+  nm: "Warmeriville",
+  value: 2967449
+},  {
+  id: 2967438,
+  label: "Wasquehal",
+  lat: 50.670429,
+  lon: 3.13382,
+  nm: "Wasquehal",
+  value: 2967438
+},  {
+  id: 2967437,
+  label: "Wasselonne",
+  lat: 48.63723,
+  lon: 7.44731,
+  nm: "Wasselonne",
+  value: 2967437
+},  {
+  id: 2967434,
+  label: "Wassy",
+  lat: 48.498112,
+  lon: 4.94775,
+  nm: "Wassy",
+  value: 2967434
+},  {
+  id: 2967426,
+  label: "Watten",
+  lat: 50.836849,
+  lon: 2.21346,
+  nm: "Watten",
+  value: 2967426
+},  {
+  id: 2967423,
+  label: "Wattignies",
+  lat: 50.586391,
+  lon: 3.04394,
+  nm: "Wattignies",
+  value: 2967423
+},  {
+  id: 2967421,
+  label: "Wattrelos",
+  lat: 50.70118,
+  lon: 3.21812,
+  nm: "Wattrelos",
+  value: 2967421
+},  {
+  id: 2967411,
+  label: "Wavrin",
+  lat: 50.57386,
+  lon: 2.9363,
+  nm: "Wavrin",
+  value: 2967411
+},  {
+  id: 2967410,
+  label: "Waziers",
+  lat: 50.387169,
+  lon: 3.1149,
+  nm: "Waziers",
+  value: 2967410
+},  {
+  id: 2967404,
+  label: "Weitbruch",
+  lat: 48.754551,
+  lon: 7.77935,
+  nm: "Weitbruch",
+  value: 2967404
+},  {
+  id: 2967397,
+  label: "Wervicq-Sud",
+  lat: 50.774502,
+  lon: 3.04207,
+  nm: "Wervicq-Sud",
+  value: 2967397
+},  {
+  id: 2967386,
+  label: "Weyersheim",
+  lat: 48.71537,
+  lon: 7.80097,
+  nm: "Weyersheim",
+  value: 2967386
+},  {
+  id: 2967372,
+  label: "Wignehies",
+  lat: 50.015499,
+  lon: 4.00914,
+  nm: "Wignehies",
+  value: 2967372
+},  {
+  id: 2967363,
+  label: "Willems",
+  lat: 50.632061,
+  lon: 3.2384,
+  nm: "Willems",
+  value: 2967363
+},  {
+  id: 2967351,
+  label: "Wimereux",
+  lat: 50.76963,
+  lon: 1.61139,
+  nm: "Wimereux",
+  value: 2967351
+},  {
+  id: 2967350,
+  label: "Wimille",
+  lat: 50.764179,
+  lon: 1.63137,
+  nm: "Wimille",
+  value: 2967350
+},  {
+  id: 2967343,
+  label: "Wingles",
+  lat: 50.49382,
+  lon: 2.855,
+  nm: "Wingles",
+  value: 2967343
+},  {
+  id: 2967337,
+  label: "Wintzenheim",
+  lat: 48.072689,
+  lon: 7.29072,
+  nm: "Wintzenheim",
+  value: 2967337
+},  {
+  id: 2967331,
+  label: "Wisches",
+  lat: 48.508808,
+  lon: 7.26814,
+  nm: "Wisches",
+  value: 2967331
+},  {
+  id: 2967325,
+  label: "Wissembourg",
+  lat: 49.037079,
+  lon: 7.94548,
+  nm: "Wissembourg",
+  value: 2967325
+},  {
+  id: 2967322,
+  label: "Wissous",
+  lat: 48.733521,
+  lon: 2.32338,
+  nm: "Wissous",
+  value: 2967322
+},  {
+  id: 2967320,
+  label: "Witry-les-Reims",
+  lat: 49.291618,
+  lon: 4.1192,
+  nm: "Witry-les-Reims",
+  value: 2967320
+},  {
+  id: 2967319,
+  label: "Wittelsheim",
+  lat: 47.809471,
+  lon: 7.24154,
+  nm: "Wittelsheim",
+  value: 2967319
+},  {
+  id: 2967318,
+  label: "Wittenheim",
+  lat: 47.8078,
+  lon: 7.33702,
+  nm: "Wittenheim",
+  value: 2967318
+},  {
+  id: 2967312,
+  label: "Wittisheim",
+  lat: 48.263409,
+  lon: 7.58703,
+  nm: "Wittisheim",
+  value: 2967312
+},  {
+  id: 2967309,
+  label: "Wizernes",
+  lat: 50.7117,
+  lon: 2.24316,
+  nm: "Wizernes",
+  value: 2967309
+},  {
+  id: 2967297,
+  label: "Woippy",
+  lat: 49.14946,
+  lon: 6.14909,
+  nm: "Woippy",
+  value: 2967297
+},  {
+  id: 2967293,
+  label: "Wolfisheim",
+  lat: 48.587231,
+  lon: 7.66708,
+  nm: "Wolfisheim",
+  value: 2967293
+},  {
+  id: 2967288,
+  label: "Wormhout",
+  lat: 50.88129,
+  lon: 2.46901,
+  nm: "Wormhout",
+  value: 2967288
+},  {
+  id: 2967287,
+  label: "Woustviller",
+  lat: 49.076359,
+  lon: 7.00487,
+  nm: "Woustviller",
+  value: 2967287
+},  {
+  id: 2967269,
+  label: "Xertigny",
+  lat: 48.043941,
+  lon: 6.40836,
+  nm: "Xertigny",
+  value: 2967269
+},  {
+  id: 2967252,
+  label: "Ydes",
+  lat: 45.333328,
+  lon: 2.46667,
+  nm: "Ydes",
+  value: 2967252
+},  {
+  id: 2967249,
+  label: "Yenne",
+  lat: 45.704201,
+  lon: 5.75795,
+  nm: "Yenne",
+  value: 2967249
+},  {
+  id: 2967245,
+  label: "Yerres",
+  lat: 48.71785,
+  lon: 2.49338,
+  nm: "Yerres",
+  value: 2967245
+},  {
+  id: 2967242,
+  label: "Yerville",
+  lat: 49.667198,
+  lon: 0.89594,
+  nm: "Yerville",
+  value: 2967242
+},  {
+  id: 2967234,
+  label: "Yffiniac",
+  lat: 48.48428,
+  lon: -2.67647,
+  nm: "Yffiniac",
+  value: 2967234
+},  {
+  id: 2967203,
+  label: "Yssingeaux",
+  lat: 45.133331,
+  lon: 4.11667,
+  nm: "Yssingeaux",
+  value: 2967203
+},  {
+  id: 2967201,
+  label: "Ytrac",
+  lat: 44.913429,
+  lon: 2.36295,
+  nm: "Ytrac",
+  value: 2967201
+},  {
+  id: 3013701,
+  label: "Yutz",
+  lat: 49.355709,
+  lon: 6.1926,
+  nm: "Yutz",
+  value: 3013701
+},  {
+  id: 2967189,
+  label: "Yvetot",
+  lat: 49.617439,
+  lon: 0.75814,
+  nm: "Yvetot",
+  value: 2967189
+},  {
+  id: 2967179,
+  label: "Yvrac",
+  lat: 44.877861,
+  lon: -0.4587,
+  nm: "Yvrac",
+  value: 2967179
+},  {
+  id: 2967166,
+  label: "Yzeure",
+  lat: 46.564381,
+  lon: 3.35495,
+  nm: "Yzeure",
+  value: 2967166
+},  {
+  id: 2967139,
+  label: "Zillisheim",
+  lat: 47.695621,
+  lon: 7.29516,
+  nm: "Zillisheim",
+  value: 2967139
+}]
